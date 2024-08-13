@@ -1,0 +1,57 @@
+About the job
+Please Note: This is a contract opportunity.
+
+We don’t sponsor work visas as part of this role. 
+
+We are seeking experienced software engineers and coders to be part of the artificial intelligence (AI) revolution.
+
+If you are an experienced software engineer, computer scientist, programmer, or just great at solving coding challenges (Codeforces, Sphere Online Judge, Leetcode, etc.), this may be the perfect opportunity for you.
+
+Join our team in training AI models to excel at coding generation! We're seeking talented software engineers to work remotely on exciting projects. As part of this opportunity, you'll contribute to training generative artificial intelligence models, helping them become proficient coders and building the next generation of coding tools.
+
+Responsibilities
+
+We have partnered with organizations to train AI large language models, helping cutting-edge generative AI models write better code. Projects typically include discrete, highly variable problems that involve engaging with these models as they learn to code.
+
+Example projects might include:
+
+Evaluating the quality of AI-generated code, including human-readable summaries of your rationale
+Solve coding problems, writing functional and efficient code
+Writing robust test cases to confirm code works efficiently and effectively
+
+No previous experience with AI necessary! You will receive detailed instructions on what is expected of you after you complete the application and verification process.
+
+Qualifications:
+
+Required qualifications: 
+
+Complete fluency in the English language
+Ability to articulate complex scientific concepts in a clear and engaging manner
+Excellent attention to detail and ability to maintain consistency in writing
+Solid understanding of grammar, punctuation, and style guidelines
+Proficiency working with one or more of the the following languages:
+Java, Python, JavaScript / TypeScript, C++
+Preferred qualifications:
+
+Bachelor's and/or Master’s degree in Computer Science
+3+ years of experience in a software engineering / software development role
+Proficiency working with one or more of the the following (in addition to the languages above):
+SQL, Swift, Ruby, Rust, Go, NET, Matlab, PHP, HTML, DART, R, Apex, and Shell, C, C#
+Recognized accomplishments or contributions to the coding community or in projects.
+Proven analytical skills with an ability to approach problems creatively.
+Adept communication skills, especially when it comes to understanding and discussing project requirements.
+A commitment to continuous learning, staying updated with the latest in coding advancements and best practices.
+Enthusiasm for teaching AI models and experience with technical writing!
+
+Why work on Outlier?
+
+Cutting-Edge Projects: Work on challenging projects that push the boundaries of AI coding abilities
+Flexibility: Set your own hours and work remotely from anywhere
+Weekly payouts: Get paid conveniently on a weekly basis
+Collaborative environment: Join a team of talented professionals who share your passion for AI and programming
+
+Pay: Up to $30 per hour
+
+Base pay is determined by multiple factors, including the area of expertise, years of experience, and skillset needed for the project. Pay rates vary during the project lifecycle. For example, rates for onboarding are lower.
+
+PLEASE NOTE: We collect, retain and use personal data for our professional business purposes, including notifying you of job opportunities that may be of interest and sharing with our affiliates. We limit the personal data we collect to that which we believe is appropriate and necessary to manage applicants’ needs, provide our services, and comply with applicable laws. Any information we collect in connection with your application will be treated in accordance with our internal policies and programs designed to protect personal data.

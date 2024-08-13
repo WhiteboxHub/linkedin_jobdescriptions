@@ -1,0 +1,27 @@
+About the job
+Primary Location: Sunnyvale, California
+Hybrid position
+V-Soft Consulting is currently hiring for a React Developer for our premier client in Sunnyvale, California.
+Education And Experience »
+Experience with Node.
+Experience of building GraphQL is a huge plus.
+Experience with TypeScript.
+Experience in developing highly scalable micro-services and optimized RESTful APIs using Node or TypeScript.
+Experience in Jest for unit testing application.
+Experience working with container-based technologies such as Docker or Kubernetes.
+Experience is BDD testing using Mockito.
+Experience in version control tools - Git.
+Experience in working in a collaborative environment using Agile SCRUM practices.
+Experience in automated CI/CD workflow using tools such as Jenkins and GitHub.
+Experience working directly with Product, Business, Automation and other stake holders in delivering end to end product features.
+Expertise and hands-on experience in object-oriented programming.
+Knowledge, Skills And Abilities »
+Solid grasp of various software design patterns and distributed computing.
+Understanding of relational and non-relational database technologies (SQL and Cosmos DB), data modeling and RESTful web APIs.
+Interested?
+Qualified candidates should send their resumes to msabhee@vsoftconsulting.com
+
+V-Soft Consulting Group is recognized among the top 100 fastest growing staffing companies in North America, V-Soft Consulting Group is headquartered in Louisville, KY with strategic locations in India, Canada and the U.S. V-Soft is known as an agile, innovative technology services company holding several awards and distinctions and has a wide variety of partnerships across diverse technology stacks.
+As a valued V-Soft Consultant, you’re eligible for full benefits (Medical, Dental, Vision), a 401(k) plan, competitive compensation and more. V-Soft is partnered with numerous Fortune 500 companies, exceptionally positioned to advance your career growth.
+V-Soft Consulting provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+For more information or to view all our open jobs, please visit www.vsoftconsulting.com or call (844) 425-8425.

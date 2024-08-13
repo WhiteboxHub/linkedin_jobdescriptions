@@ -1,0 +1,27 @@
+About the job
+Job Description
+
+We are seeking a highly skilled AI/ML Engineer to join our dynamic team. As an AI/ML Engineer, you will be responsible for analyzing underlying data sources and sets, identifying relationships and correlations, building machine learning models, and conducting thorough feasibility checks for patient scheduling solutions. You will play a pivotal role in the design, development, testing, and deployment of AI-powered solutions aimed at optimizing patient scheduling processes.
+
+Responsibilities
+
+Analyze Data: Collaborate with cross-functional teams to understand data requirements and identify relevant data sources. Analyze and preprocess data to extract valuable insights and ensure data quality.
+Model Development: Develop and implement machine learning models to address patient scheduling challenges. Utilize advanced algorithms and techniques to optimize scheduling processes and improve efficiency.
+Hypothesis Testing: Test hypotheses and validate assumptions through rigorous experimentation and analysis. Conduct feasibility checks to assess the viability and effectiveness of proposed solutions before deployment.
+Solution Design: Work closely with stakeholders to define requirements and translate business objectives into technical specifications. Design scalable and robust AI solutions tailored to meet specific client needs.
+Evaluation and Optimization: Evaluate model performance using appropriate metrics and iterate on solutions to enhance performance and accuracy. Continuously optimize algorithms and models to adapt to evolving business requirements.
+Collaboration: Collaborate with data engineers, software developers, and domain experts to integrate AI/ML solutions into existing systems and workflows. Ensure seamless deployment and integration of solutions within client environments.
+Documentation and Reporting: Document methodologies, findings, and outcomes in clear and concise reports. Communicate results effectively to technical and non-technical stakeholders, and provide actionable insights for decision-making.
+
+Requirements
+
+Bachelor's or Master's degree in Computer Science, Engineering, Statistics, or a related field. Ph.D. preferred.
+Proven experience in data analysis, machine learning, and AI model development, preferably in the healthcare domain.
+Proficiency in programming languages such as Python, R, and familiarity with python-notebooks for model development and libraries such as TensorFlow, PyTorch, scikit-learn, etc.
+Strong understanding of statistical methods, data mining techniques, and predictive modeling.
+Experience with data preprocessing, feature engineering, and model evaluation.
+Excellent problem-solving skills and the ability to think critically and analytically.
+Strong communication and interpersonal skills, with the ability to collaborate effectively in a team environment.
+Proven track record of delivering high-quality solutions on time and within budget.
+Knowledge of healthcare standards and regulations (e.g., HIPAA) is a plus.
+Ability to adapt to a fast-paced, dynamic work environment and learn new technologies quickly.

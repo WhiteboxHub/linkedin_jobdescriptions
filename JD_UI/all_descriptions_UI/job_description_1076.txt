@@ -1,0 +1,74 @@
+About the job
+Remote Job - Senior Web Developer
+
+Are you a Web Developer looking for a remote opportunity to work with a growing digital marketing agency that helps some of the top global life science companies?
+Supreme Optimization is looking for a Senior Web Developer with WordPress and Magento experience to help support our growing client base.
+
+About Supreme: We are the world’s first digital marketing agency exclusively for Life Science companies. We combine expert digital marketers, developers, designers and “Ph.D-level” scientific marketers in one team.
+Our mission is to be the #1 provider in the world for Life Science and Pharma digital marketing services and resources. This means delivering high quality digital marketing services to our customers so they can better serve their audience.
+
+Role Title: Senior Web Developer
+
+Role Mission: Working with our existing development houses and project managers to maintain, optimize, and improve client websites and to provide clear technical support including minor bugs, monthly maintenance, and content changes via ticketing system and support desk. Keep us in the forefront of technological changes. Someone with a keen interest in automation using ChatGPT.
+
+Key Outcomes for the role
+Monthly maintenance is completed on time and within budget
+Fixes and changes are deployed on time
+Clients love working with you
+Our team loves working with you and can’t say enough good things about you
+
+Key Responsibilities for the role
+Provide custom solutions to client development requests and problems for both WordPress and Magento
+Support our existing development teams by processing minor WordPress and Magento client support requests (including bug reports and ‘how to’ requests)
+Support our Project Managers by client facing to help answer technical questions
+Oversee our central ticketing system for our clients on monthly maintenance
+Work with our Project Managers and DevOps to review existing client websites for development improvements and general optimization
+Encourage technical innovation throughout the agency
+
+Mandatory Skills
+3+ years of WordPress experience ranging from maintenance, Page Builders (Beaver Builder, Elementor, etc.), manual theme builds, and custom Wordpress development.
+3+ years of developing and implementing efficient code in PHP/MySQL/CSS/JS
+Have expertise as a frontend/backend developer and be aware of UI/UX design principles
+A good understanding and focus on performance-orientated programming to ensure our websites excel at Page Speed and other usability and conversion metrics
+Proficiency using Git Version Control
+Basic knowledge using command-line tools such as basic SSH Linux server management
+Good interpersonal skills to allow working with Clients and Project Managers to correctly identify and convert requirements and requests into actionable requests
+
+Core Competencies
+Ambitious
+Organized
+Self motivated
+Proactive
+Positive attitude
+Comfortable client facing
+Great communication skills
+
+Nice to have(s)
+Experience with Sanity, BigCommerce, and other API-first SAAS offerings.
+Rudimentary Python experience.
+Magento experience. We work exclusively with Magento as our ecommerce solution
+Technical background / education preferred
+Experience at a marketing or web development agency (not required but a bonus)
+Experience working with Jira and/or Trello
+Visual eye for design vs development
+Experience of automated testing (preferably PHPUnit and Behat/Selenium)
+Experience of using Version Control systems such as Git as part of a team
+Experience working with AWS, WPEngine and their features
+
+Compensation
+Salary: $70,000 -,$90,000 USD/year (based on experience and performance)
+
+If you are interested in applying for this job please do the following:
+1) Submit an email to careers at supremeopti.com with the subject line "It’s Alive!"
+2) In blue color font, write 2-3 sentences telling us your name, who you are and where you are from
+3) In red color font, write a few sentences on why you think you would be a good fit for this job.
+4) In black font, let us know about your PHP/MySQL Website, including any WordPress and Magento development background.
+Please include the following in a bulleted list:
+Most complex website (include URL) you developed, including coding problems you overcame
+Git repository of any shareable work
+Number of years of PHP/MySQL experience
+Number of years of WordPress development experience
+Platforms and Frameworks you are confident in developing with (e.g. WordPress, BigCommerce, Shopify, Magento etc.)
+Number of years of eCommerce experience
+Number of years of agency working experience
+5) Include a link to your Linkedin profile. We do not accept resumes.

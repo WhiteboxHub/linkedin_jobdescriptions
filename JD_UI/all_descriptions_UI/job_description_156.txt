@@ -1,0 +1,8 @@
+About the job
+Experience with React using pure function composition, immutable state, and hooks for side-effect management.
+
+Experience with Redux state management and Redux-Toolkit.
+
+Experience building custom, reusable interfaces using CSS-in-JS frameworks such as Emotion, Styled-Components, Theme-UI, Xstyled.
+
+Familiarity with the Mantine component library is a plus.

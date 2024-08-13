@@ -1,0 +1,19 @@
+About the job
+Title: Trading Operations Analyst (Crypto)
+I'm leading the buildout of a trading analytics department at a NYC based digital assets company. More specifically, the company is a crypto conglomerate, operating in prop trading, asset management and venture capital. Based on the firms continued success in 2024, they are looking to add an experienced Trading Operations analyst as they scale the hedge fund globally.
+On a daily basis you will interface with the CEO and Trading department to monitor trades, enhance strategy performance, and assist with risk management.
+
+Responsibilities:
+Manage and execute quantitative systematic trading strategies, ensuring continuous operation and accuracy
+Monitor order execution to mitigate risk and optimize performance on existing algorithms
+Analyze trade data utilizing Python or similar language
+Work alongside developers and traders to modify and maintain an algorithmic code base to implement fixes
+Manage treasury functions facilitating vendor and 3rd party payments in both fiat and crypto
+Conduct proper due diligence for vendor and 3rd party payments
+
+Requirements
+2-5 years experience in a trading operations role or similar within a hedgefund or prop trading business
+2-5 years experience with crypto trade execution
+Experience managing quantitative strategies, treasury, quantitative risk, or similar
+Degree in a Quantitative field or Accounting (with quant background)
+Technical experience with Python

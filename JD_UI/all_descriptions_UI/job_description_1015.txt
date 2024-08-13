@@ -1,0 +1,41 @@
+About the job
+Responsibilities
+
+Kforce has a client that is seeking a Front-End Developer in Tempe, AZ. General Summary: We are looking for a Senior Front End Developer whose primary focus will be developing user-facing web applications and components. You will implement them using the Vue.js framework, adhering to generally accepted practices and workflows. As a Front-End Developer, you will ensure that you produce robust, secure, modular, and maintainable code. This role supports the team in the Agile/Scrum software development lifecycle, working with business partners to identify requirements, design, and implement scalable, open solutions. The ideal candidate not only knows how to write code but also understands how to identify and solve problems related to scale, security, and analytics. This position requires a deep technical understanding of software development best practices, coding standards, and governance. Responsibilities:
+
+ Front-End Developer will work with the UX application team to estimate complexity and advise on the feasibility of tasks and features
+ Create technical specifications based on functional requirements
+ Build out features in a cross-functional, agile environment involving all functions at various levels throughout the feature creation and ideation process
+ Perform basic support and debugging in test and production environments
+ Maintain and repair existing applications
+ Act as a key contributor in an agile sprint team, performing sprints on new and existing applications
+ As a Front-End Developer, you will identify and escalate problems
+ Develop highly secure, public-facing applications with performance and security as a priority
+ Develop scalable and efficient Vue.js applications, utilizing reusable and readable components
+
+Requirements
+
+ Extensive expertise in JavaScript, Vue.js, HTML5, and CSS3
+ Proven experience in writing unit tests using Jest or similar testing frameworks
+ Strong understanding of front-end development principles, including responsive design, accessibility, and cross-browser compatibility
+ Knowledge of version control systems (e.g., Git) and agile development methodologies
+ Excellent problem-solving and analytical skills
+ Sound knowledge of RESTful API principles
+ Strong communication and collaboration abilities, with the capacity to work effectively in a team environment
+
+Preferred Qualifications (not required):
+
+ Experience with TypeScript
+ Experience in building mobile-responsive web applications
+ Experience working in digital media-based environments
+ Familiarity with Sass, Vuex, Vue Router, and Nuxt.js
+
+The pay range is the lowest to highest compensation we reasonably in good faith believe we would pay at posting for this role. We may ultimately pay more or less than this range. Employee pay is based on factors like relevant education, qualifications, certifications, experience, skills, seniority, location, performance, union contract and business needs. This range may be modified in the future.
+
+We offer comprehensive benefits including medical/dental/vision insurance, HSA, FSA, 401(k), and life, disability & ADD insurance to eligible employees. Salaried personnel receive paid time off. Hourly employees are not eligible for paid time off unless required by law. Hourly employees on a Service Contract Act project are eligible for paid sick leave.
+
+Note: Pay is not considered compensation until it is earned, vested and determinable. The amount and availability of any compensation remains in Kforce's sole discretion unless and until paid and may be modified in its discretion consistent with the law.
+
+This job is not eligible for bonuses, incentives or commissions.
+
+Kforce is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.

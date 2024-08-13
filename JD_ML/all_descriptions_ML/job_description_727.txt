@@ -1,0 +1,28 @@
+About the job
+Welcome to Hytrol Careers
+
+Overview
+
+*This onsite opportunity does not offer the option for remote work.*
+
+Are you a college student looking to get hands-on experience in data engineering while still in school? Join our team as a Data Engineer Intern and play a key role in analyzing data to uncover important insights and ensure our models run smoothly. You will manage data flows, try out new technologies, and develop creative projects to show what’s possible. By working on real projects and delivering quality solutions on time, you'll gain invaluable experience that will set you up for a successful career in the industry. Apply now and start making an impact with your skills.
+
+As an intern for data engineering, you will join a small team and participate as a group in projects executed by the AIDA (AI, Data & Analytics) group as a whole. Expected Work Hours: 20 hours per week, minimum 4 hours per shift, Monday thru Friday between the hours of 7am – 5pm.
+
+Responsibilities
+
+Manage and monitor production data flows including data pipelines and APIs in C#
+Help write and provide troubleshooting help for SQL queries
+Help write and design database tables for both transactional and analytical/data warehouse data loads
+Work against fixed timelines; success will be measured by the ability to deliver solutions matching the performance of top-notch research prototypes
+
+Qualifications
+
+Intern or work experience with databases and software development preferred
+Self-motivated, work well both independently and as part of an agile team
+
+Education
+
+Actively pursuing a Bachelor’s degree in an Engineering or Computer Science discipline such as Engineering, Operations Research, or Computer Science
+
+Thank you for visiting our careers page.

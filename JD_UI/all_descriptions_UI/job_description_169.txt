@@ -1,0 +1,37 @@
+About the job
+Infosys is seeking a React Native Lead Developer. In the role of Technology Lead, you will be a technology professional adding value to a gamut of Software Development lifecycle stages. You will create detailed design artifacts like program specifications, test plans; and independently develop and review code and contribute to the go-live plan. You will have the opportunity to collaborate with some of the best talent in the industry to create innovative high quality and defect-free solutions to meet our clients’ business needs. You will be part of a learning culture, where teamwork and collaboration are encouraged, excellence is rewarded, and diversity is respected and valued.
+
+Location for this position is Brentwood, TN. 
+
+U.S. citizens and those authorized to work in the U.S. are encouraged to apply. We are unable to sponsor at this time.
+
+Basic Qualifications:
+Bachelor’s degree or foreign equivalent required from an accredited institution. Will also consider three years of progressive experience in the specialty in lieu of every year of education.
+ At least 4+ years of experience with Information Technology
+At least 4 years of experience in React Native
+
+Preferred Qualifications:
+6+ year’s overall experience in mobile app based front-end development in native and cross-platform mobile technologies
+Min 4+ years of experience in React Native based cross-platform mobile application development for both iOS and Android
+Expertise in React Native components, libraries, framework upgrades, routing, SDK, Dev Tools, debugging and native modules
+Ability to define cross-platform mobile app solution options, provide estimates on effort and risk, and evaluate technical feasibility
+Experience in mobile application technical design, packaging, and deployment
+Experience in mobile app performance testing, tools and mobile security 
+Experience in integrating complex mobile front-end pages with back-end APIs/microservices
+Experience directly working on teams with DevOps responsibilities
+Proficient in performing peer technical code reviews and pair programming activities
+Knowledgeable with version control systems (GitHub) and issue tracking (Jira)
+Ability to lead the team and take bottom-line responsibility of work delivered by the team
+Ability to communicate seamlessly with cross-functional teams and with Clients
+Experience in leading onsite/offshore teams
+Proven track record of being self-directed, results orientated with demonstrated ability to achieve aggressive goals despite ambiguity and multiple priorities
+Excellent verbal and written communication skills, both technical and business-facing
+Experience with Agile/Scrum ways of working
+
+The job entails sitting as well as working at a computer for extended periods of time. Should be able to communicate by telephone, email or face to face. Travel may be required as per the job requirements.
+
+About Us
+Infosys is a global leader in technology services and consulting. We enable clients in more than 50 countries to create and execute strategies for their digital transformation. From engineering to application development, knowledge management and business process management, we help our clients find the right problems to solve, and to solve these effectively. Our team of 190,000+ innovators, across the globe, is differentiated by the imagination, knowledge and experience, across industries and technologies that we bring to every project we undertake.
+
+Infosys is an equal opportunity employer and all qualified applicants will receive consideration without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, spouse of protected veteran, or disability.
+To learn more about Infosys and see our ideas in action please visit us at www.Infosys.com

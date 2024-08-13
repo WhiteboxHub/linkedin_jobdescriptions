@@ -1,0 +1,54 @@
+About the job
+Job Description
+
+Data Architect/Engineer in Annapolis, MD (Hybrid).
+
+Key Skills: Data Architecture/ Engineering, ETL, XML, SQL Server, Python, SSIS/ ADF, Power BI, Tableau
+
+Preferred Qualifications 
+
+Knowledge and experience with ETL tools, Visual Studio, and transmitting and
+Reconstructing Extensible Markup Language (XML) and Structured Query Language (SQL) and Ability to query source data.
+Knowledge of scripting languages, such as Python, and the ability to automate repetitive tasks in Azure.
+Provide excellent communication and mentoring needs.
+Write optimized SQL queries and manage databases, as Azure data analysts frequently interact with Azure SQL databases and other SQL-based services.
+BI best practices, relational structures, dimensional data modeling, structured query language (SQL) skills, data warehouse, and reporting techniques. Dimensional modeling, STAR schema design, Snow fake schema design, slowly changing dimensions, confirmed dimensions.
+Designing and building BI solutions by monitoring and tuning queries and data loads, addressing user questions concerning data integrity, data mapping, monitoring performance and communicating functional and technical issues.
+Designing and implementing database models, schemes, and databases to support efficient data storage, retrieval, and analysis.
+Monitoring and optimizing data systems, data lifecycle, and infrastructure to ensure performance, scalability, and integrity. Designing and implementing ETL procedures for intake of data from multiple source systems; as well as ensure data quality and cleansing is verified.
+Performing the design and extension of data marts, meta data, and data models. Ensuring all data warehouse architecture codes are maintained in a version control system.
+Advanced experience with technologies such as SQL Server 2016 or above, as well as with Azure data factory, SSIS and stored procedures
+Advanced experience developing codes, testing for quality assurance, administering
+RDBMS. High proficiency in dimensional modeling techniques and their applications
+Azure’s architecture in order to structure optimized data workflows.
+Need exposure to the following tools:
+Power BI/Tableau/Azure Synapse/Azure Data Factory/Azure Blob Storage/Azure Databricks/ Microsoft Fabric/One Lake
+Roles And Responsibilities
+
+Participation in all aspects of DW and ETL process design, creation, and specification for components and providing the following services in coordination with technical, functional and management representatives.
+Understanding the general structure of the client data and star schema models Currently in use, and any related data sources identified as a result of initial Planning and assessments and Creating a logical warehouse data design.
+
+Collaboration with platform administration team, design an ETL process to move Data from the source system to the data warehouse, including, but not limited to, the
+
+Following
+
+i Outlining the ETL process, setting the borders of data processing.
+
+ii Providing system architecture for each element and the whole data pipeline.
+
+iii Documenting the system's requirements, managing its development, and Facilitating necessary knowledge transfer.
+
+iv Assisting in the actual development/implementation of ETL tools.
+
+v Conducting testing of the tools and data pipelines.
+
+Developing effective DW model(s) representing the data entities of the logical Design based on functional analytic, reporting and bulk data requirements.
+DW Physical Design - Collaborating with platform administration to assist their efforts in creating a DW Physical design including technical considerations for data quality and operational efficiency.
+Collaborating with business and technology stakeholders to ensure data warehouse architecture development and utilization.
+All work completed by the proposed resource(s) shall be completed within regulatory compliance standards to protect sensitive data.
+
+About Us – WinningEdge
+
+Job Search can be a painful & frustrating process. We take time to understand candidate skillsets, and job search preferences and match them with our ideal clients. Our team has a combined experience of over 100 years and we have successfully placed hundreds of candidates.
+
+Data Architect/EngineerMaryland

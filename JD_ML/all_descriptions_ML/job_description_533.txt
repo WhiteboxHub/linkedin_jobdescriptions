@@ -1,0 +1,52 @@
+About the job
+Please Note:
+
+
+ If you are a first time user, please create your candidate login account before you apply for a job. (Click Sign In > Create Account)
+ If you already have a Candidate Account, please Sign-In before you apply.
+
+
+Job Description:
+
+Seeking a highly focused engineer in a software team responsible for testing AI/ML Interconnect Solutions. The candidate should have an in-depth understanding of Ethernet functionality, TCP/IP networking, virtualization technologies, RDMA, PCIe protocol - Gen3 & above, a system-level understanding of PCI-E-based designs, and hands-on experience in Python programming. Good understanding of AI/ML clusters, Deep learning models, and GPU Micro benchmarks.
+
+Primary Responsibilities
+
+
+Creation and review of Test scenarios, Test cases, and Test Automation
+Reviews of design and functional specifications created by the development team to understand product functionality.
+Execute test activities and work closely with multi-site team of developers and testers
+Review User Documentation to ensure it clearly documents product functionality
+Prioritize and manage multiple, parallel tasks, projects & releases
+
+
+Qualifications:
+
+
+Bachelors of Engineering with a minimum of 5 years of hands-on test experience or Masters of Engineering with a minimum of 3 years of hands-on test experience
+Requirements:
+Strong networking experience with protocol testing & validations. Experience with L2/L3 protocols especially RoCE( RDMA over Converged Ethernet ) protocol & use cases in AI/ML, HPC clusters.
+Experience testing PCIe switches, good knowledge of PCI-E/ CXL
+Experience in the development of automation scripts in Python – primarily network and system-level programming using Python.
+Knowledge of deep learning models - NLP, LLMs, Recommendations, Image Classification
+Experience with deploying BERT/LlamaV2 or relevant models and Micro benchmarking - MLPerf.
+Experience on AMD/NVIDIA GPUs, Communication Collectives - RCCL/NCCL & libraries - RoCM/CUDA.
+Experience with Docker Containers & deployment using Kubernetes/ Ansible. 
+Experience with network test equipment – Protocol/PCIe Analyzers, Protocol Jammers, Load Generators (Ixia, Ixchariot, Medusa tools, etc)
+Strong analytical, problem-solving skills & debugging skills.
+Possess excellent communication skills and need to be a critical thinker and a self-starter.
+
+
+Additional Job Description:
+
+Compensation And Benefits
+
+The annual base salary range for this position is $101,000 - $162,000.
+
+This position is also eligible for a discretionary annual bonus in accordance with relevant plan documents, and equity in accordance with equity plan documents and equity award agreements.
+
+Broadcom offers a competitive and comprehensive benefits package: Medical, dental and vision plans, 401(K) participation including company matching, Employee Stock Purchase Program (ESPP), Employee Assistance Program (EAP), company paid holidays, paid sick leave and vacation time. The company follows all applicable laws for Paid Family Leave and other leaves of absence.
+
+Broadcom is proud to be an equal opportunity employer. We will consider qualified applicants without regard to race, color, creed, religion, sex, sexual orientation, gender identity, national origin, citizenship, disability status, medical condition, pregnancy, protected veteran status or any other characteristic protected by federal, state, or local law. We will also consider qualified applicants with arrest and conviction records consistent with local law.
+
+If you are located outside USA, please be sure to fill out a home address as this will be used for future correspondence.

@@ -1,0 +1,22 @@
+About the job
+About Us:
+At Abode, we're not just a company; we're a movement transforming the way homeowners manage their finances. Homeowners spend $2 trillion per year on their home, yet there's no solution out there to help homeowners manage the financial elements of homeownership. Abode saves homeowners time and money by reducing property taxes, optimizing insurance, and lowering energy costs — achieving an average annual savings of over $2,512 per year for our clients.
+What sets us apart? Abode is building from the ground-up with artificial intelligence and robust data sets, which means an unparalleled customer experience - especially compared to the prototypical high-friction experience that has plagued consumer finance. What does that mean for homeowners? They barely have to lift a finger. In fact, Abode only needs homeowners to 1 minute of work and we can save them $1,000's.
+
+Abode is backed by top-tier investors including Drive Capital, Goodwater, Uncommon, Andreessen Horowitz (Scout) and Sequoia (Scout). We launched earlier this year and already have thousands of customers, millions of social media impressions and partnerships with blue chip real estate companies - proof that our product and vision are resonating deeply in a market of 80+ million homeowners even in our early stages. We want to build faster and make a real difference in people’s lives by making homeownership more affordable for everyone. If you’re ready to contribute to this mission, Abode is your next step. Join us and be part of something big.
+
+Role:
+As an Early Frontend Engineer at Abode you will implement ideas in the homeownership domain and implement consumer facing products with an immediate impact on tens of thousands of customers. You're also proficient in building things in React.
+
+Are you great at:
+React
+Architecting solutions across multiple complex systems
+Working independently and producing reliable, high-quality results.
+Communicating your thoughts clearly and being a team player
+
+... and eager to learn how to:
+Help build an AI-driven technological company
+Scale a tech product from 0 to 1 and from 1 to a 100
+Practice a “product manager” mentality and exercise your product intuition
+
+If that is you, then we would love to build something together. Apply now!

@@ -1,0 +1,48 @@
+About the job
+Job Description
+
+Senior UI Developer - PWM Marketing Site
+
+What We Do
+
+At Goldman Sachs, our Engineers don’t just make things – we make things possible. Change the world by connecting people and capital with ideas. Solve the most challenging and pressing engineering problems for our clients. Join our engineering teams that build massively scalable software and systems, architect low latency infrastructure solutions, proactively guard against cyber threats, and leverage machine learning alongside financial engineering to continuously turn data into action. Create new businesses, transform finance, and explore a world of opportunity at the speed of markets.
+
+Engineering, which is comprised of our Technology Division and global strategists groups, is at the critical center of our business, and our dynamic environment requires innovative strategic thinking and immediate, real solutions. Want to push the limit of digital possibilities? Start here.
+
+Who We Look For
+
+Goldman Sachs Engineers are innovators and problem-solvers, building solutions in risk management, big data, mobile and more. We look for creative collaborators who evolve, adapt to change and thrive in a fast-paced global environment.
+
+Asset & Wealth Management Engineering 
+
+Across Wealth Management, Goldman Sachs helps empower clients and customers around the world to reach their financial goals. Our advisor-led wealth management businesses provide financial planning, investment management, banking and comprehensive advice to a wide range of clients, including ultra-high net worth and high net worth individuals, as well as family offices, foundations and endowments, and corporations and their employees. Our consumer business provides digital solutions for customers to better spend, borrow, invest, and save. Across Wealth Management, our growth is driven by a relentless focus on our people, our clients and customers, and leading-edge technology, data and design.
+
+PWM 
+
+The private Wealth Management (PWM) business provides end to end Investment Management services and advise across a full range of asset classes for High net worth individuals. PWM leverages a global technology platform offering, an integrated suite of tools, and applications to service clients. This platform helps realize a client's goals and objectives, develops and implements an integrated wealth management plan and delivers first-class client service.
+
+PWM Digital Marketing Engineering team, part of the PWM's broader Marketing is involved in developing and maintaining the PWM's public presence via dedicated marketing site which also acts as a funnel for lead generation. Join PWM Digital Marketing engineering team that is building the next generation marketing websites and platform. We are building marketing digital websites using latest technical tools and architectures to help business achieve various objectives. You will be part of a smart, passionate and fun team of developers who are excellent collaborators. You will get to design, develop and deploy features across the stack.
+
+What We Are Looking For
+
+We are looking for an experienced Software Developer, who is strong in UI development using React with focus on great user experience as well as good knowledge standard middleware services. Experience in working within marketing sites using/having CMS, analytics, campaigns, lead generations, privacy managements and integration with other marketing tools is a plus. We expect that you maintain knowledge of industry best practices and new technologies and recommends innovations that enhance operations and/or provide a competitive advantage to the organization.
+
+6+ years of experience as UI Developer with JavaScript, CSS and modern JavaScript frameworks
+4+ years of experience in developing enterprise web applications using React.JS / TypeScript, any experience with SSR is plus 
+2+ years of experience with Jest, Snapshot, React testing library or other test frameworks
+Experience with common front-end development tools such as NodeJS, Babel, Webpack, npm
+Must have an in-depth knowledge of web technologies and web architectures
+Strong background in delivering enterprise level applications in an Agile setting
+Good understanding of Microservice architecture
+A strong desire to produce high quality software through cross functional collaboration, testing, code reviews, and other best practices.
+Strong verbal, written, and interpersonal communication skills
+
+About Goldman Sachs
+
+At Goldman Sachs, we commit our people, capital and ideas to help our clients, shareholders and the communities we serve to grow. Founded in 1869, we are a leading global investment banking, securities and investment management firm. Headquartered in New York, we maintain offices around the world. We believe who you are makes you better at what you do. We're committed to fostering and advancing diversity and inclusion in our own workplace and beyond by ensuring every individual within our firm has a number of opportunities to grow professionally and personally, from our training and development opportunities and firmwide networks to benefits, wellness and personal finance offerings and mindfulness programs. Learn more about our culture, benefits, and people at GS.com/careers .
+
+We’re committed to finding reasonable accommodations for candidates with special needs or disabilities during our recruiting process. Learn more: https://www.goldmansachs.com/careers/footer/disability-statement.html©
+
+The Goldman Sachs Group, Inc., 2023. All rights reserved.
+
+Goldman Sachs is an equal employment/affirmative action employer Female/Minority/Disability/Veteran/Sexual Orientation/Gender Identity

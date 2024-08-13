@@ -1,0 +1,33 @@
+About the job
+Join Treehouse!
+
+Treehouse is a venture-backed startup company that simplifies the electrification of the places where we live and work. Through Treehouse, customers experience a seamless electrical installation process from start to finish, powered by a software-enabled electrician workforce. Our ideal candidate will be at the forefront of delighting customers to advance the electrification movement. Their technical skill, grounded in a deep understanding of JavaScript, will be enhanced by a passion for performance, user empathy, an appreciation for intuitive semantic UX, and creative approaches to building solutions that solve customers' needs.
+
+Our ideal candidate will:
+
+Design and build performant, beautiful, and usable interfaces
+Foster a culture of upholding industry-leading UX
+Collaborate with cross-functional teams to solve customer needs
+Continuously improve our engineering processes, tools, and systems to allow us to scale the code base, productivity, and team
+Recruit, interview, and develop interview questions while fostering a culture of excellence, velocity, and humility
+Inspire and mentor less experienced engineers and interns
+
+Successful candidates will demonstrate:
+
+3+ years of frontend engineering experience
+Performance motivated by delivering customer value
+Experience leading large multi-quarter efforts demonstrating tangible customer or business impact
+Passion for user experience and design and an understanding of front-end architecture
+Experience with modern JavaScript frameworks (e.g., React, Angular, or VueJs/Ember)
+Knowledge of (and a passion for) current trends and best practices in front-end architecture, including performance, accessibility, security, and usability
+Prior experience in an early-stage startup environment is a plus
+
+This position may be remote, hybrid, or in-person. Treehouse maintains office locations in San Francisco and Chicago.
+
+Featured benefits include:
+
+Medical insurance
+Vision insurance
+Dental insurance
+401(k)
+Unlimited paid time off

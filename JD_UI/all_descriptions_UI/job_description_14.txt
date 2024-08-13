@@ -1,0 +1,37 @@
+About the job
+Responsibilities
+
+Kforce has a client that is seeking UI Developers in Houston, TX. Summary: We are seeking a Web Developer to join our team, someone who is proficient in transforming design concepts into working code. As a member of our team, you will be working closely with UX Designers to accurately implement their designs and develop intuitive and visually appealing interfaces for our responsive web applications. Responsibilities:
+
+ UI Developers will transform design concepts into high-quality, responsive, and cross-browser-compatible web pages using HTML, CSS, and Angular while adhering to best practices to ensure code is efficient, scalable, and maintainable
+ Collaborate with UX designers and business stakeholders to understand project requirements and ensure that the final product meets those requirements
+ Develop and maintain code libraries and reusable components to improve team efficiency and consistency
+ Test and debug code to ensure that it meets quality standards and is error-free
+ As a UI Developer, you will stay up to date with emerging web development technologies and trends and apply that knowledge to projects
+ Maintain a positive and proactive attitude towards challenges and opportunities and be willing to learn new technologies as needed
+
+Requirements
+
+ Bachelor's degree in Computer Science or a related field
+ 5-7+ years of experience in Web Development
+ Experience working with cross-functional teams in an Agile environment
+ Proficiency in front-end development technologies such as HTML, CSS, JavaScript, and Angular 13+
+ Strong understanding of version control principles and proficiency in using tools such as Git to track development iterations
+ Knowledge of best practices in responsive web development
+ Skilled in version control using Git or similar tools
+ Exhibit a strong commitment to quality and accuracy with an eye for detail and precision
+ Strong problem-solving skills
+ Communication: Ability to communicate effectively and clearly with both technical and non-technical stakeholders, including team members, and end-users
+ Collaboration: Ability to work collaboratively with cross-functional teams, including designers, developers, project managers, and product owners to deliver high-quality products
+ Creativity: Ability to think outside the box and come up with innovative and creative solutions to design and development challenges
+ Time management: Ability to manage time effectively and prioritize tasks to meet project deadlines
+
+The pay range is the lowest to highest compensation we reasonably in good faith believe we would pay at posting for this role. We may ultimately pay more or less than this range. Employee pay is based on factors like relevant education, qualifications, certifications, experience, skills, seniority, location, performance, union contract and business needs. This range may be modified in the future.
+
+We offer comprehensive benefits including medical/dental/vision insurance, HSA, FSA, 401(k), and life, disability & ADD insurance to eligible employees. Salaried personnel receive paid time off. Hourly employees are not eligible for paid time off unless required by law. Hourly employees on a Service Contract Act project are eligible for paid sick leave.
+
+Note: Pay is not considered compensation until it is earned, vested and determinable. The amount and availability of any compensation remains in Kforce's sole discretion unless and until paid and may be modified in its discretion consistent with the law.
+
+This job is not eligible for bonuses, incentives or commissions.
+
+Kforce is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.

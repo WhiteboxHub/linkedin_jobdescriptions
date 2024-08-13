@@ -1,0 +1,56 @@
+About the job
+Summary Of Position
+
+Contribute as a core member on the Starz client development team in new feature releases and maintenance of the software architecture.
+
+This is a fully remote role.
+
+Responsibilities
+
+Design, develop, integrate, test and deploy advanced client applications on streaming platforms
+Develop new features from provided requirements and UX designs.
+Perform root cause analysis, technology evaluation, and design spikes.
+Solve complex application bugs and improve optimization and efficiency.
+Interact with the services team to evolve client APIs.
+Participate in peer code reviews and regular scrums.
+Provide technical leadership, mentor and contribute to the overall growth of the team.
+
+Qualifications And Skills
+
+BS/MS Degree in Computer Science, Computer Engineering, other technical discipline or equivalent experience.
+Minimum 7 years of software development experience with 4+ years experience in React Native
+Experience in writing native modules for React Native
+Expertise in computer science principles including design patterns, Data Structures Concepts, Software Algorithms, and application memory management. 
+The ability to detect underlying design methodology in existing code implementation; with emphasis on performance and traceability.
+Have a deep knowledge of REST, SOA, XML, and JSON
+Media Streaming and DRM Technology experience is a plus
+Experience with 3rd party libraries and APIs
+Experience with SCRUM, Agile, and other development methodologies.
+Experience working with Jira and related Atlassian tools.
+Other client development experience is a plus.
+
+About STARZ
+
+STARZ, a Lionsgate company, is a leading media streaming platform committed to delivering premium content that amplifies narratives by, about and for women and underrepresented audiences. STARZ is home to the highly rated and first-of-its-kind STARZ app that offers the ability to stream or download STARZ premium content, as well as the flagship domestic STARZ® service, including STARZ ENCORE, 17 premium pay TV channels, and the associated on-demand and online services. STARZ is available across digital OTT platforms and multichannel video distributors, including cable operators, satellite television providers, and telecommunications companies. In February 2021, STARZ launched #TakeTheLead, a multi-faceted and innovative inclusion initiative expanding its existing efforts to improve representation on screen, behind the camera and throughout the company.
+
+Our Benefits
+
+Full Coverage – Medical, Vision, and Dental
+Annual discretionary bonus and merit increase
+Work/Life Balance – generous sick days, vacation days, holidays, and Impact Day
+401(k) company matching
+Tuition Reimbursement (up to graduate degree)
+
+Compensation
+
+$109,000 – $172,400
+
+EEO Statement
+
+Lionsgate is an equal employment opportunity employer. All employees and applicants are evaluated on the basis of their qualifications, consistent with applicable state and federal laws. In addition, Lionsgate will provide reasonable accommodations for qualified individuals with disabilities. Lionsgate will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of applicable state and federal law. 
+
+Employment Type: Full Time
+
+Salary: $109,000 - $172,400 Annual
+
+Bonus/Commission: No

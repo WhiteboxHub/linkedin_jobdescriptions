@@ -1,0 +1,74 @@
+About the job
+Requirements
+
+ Description and Requirements 
+
+ AVP Data Engineer & Architect 
+
+Location(s): Cary, North Carolina
+
+Setting: Hybrid
+
+Reports to: SVP Data Migration
+
+MetLife, through its subsidiaries and affiliates, is one of the world’s leading financial services companies, providing insurance, annuities, employee benefits and asset management to individual and institutional customers. We’re united by our purpose to help our customers and each other create a confident future; we’re guided by empathy; and we’re inspired by each other to make a difference in the lives of our coworkers, customers, communities, and the world at large. At MetLife, it’s #AllTogetherPossible . Join us!
+
+The Opportunity 
+
+This role is for Assistant Vice President – Data Engineer & Architect in our Global Data and Analytics organization.
+
+We are in search of a seasoned and strategic-minded data engineer to support data modernization efforts globally at MetLife. In this role, you will leverage your strong technical expertise in data engineering, data platforms, analytics, technology design and architecture to simplify, modernize our data ecosystem while enabling data for AI and self-service across MetLife. Your expertise will be instrumental in driving efficiencies, reducing complexity, and enhancing interoperability across our data systems and platforms. This role demands a strategic thinker with a knack for collaborating with diverse stakeholders, influencing decision-making, and delivering pragmatic solutions.
+
+Join Our Team: If you are a forward-thinking leader with a passion for driving data modernization and interoperability initiatives, we invite you to join our team as Assistant Vice President. Together, we will shape the future of data architecture at MetLife and empower our organization to thrive in the digital age.
+
+How You’ll Help Us Build a Confident Future (Key Responsibilities)
+
+Act as a subject matter expert with strong technical knowledge and understanding of the core concepts behind Cloud data platforms, open-source data frameworks, BI/Analytics, Data Warehousing, Data Lake, ETL etc. 
+Lead the architecture, design, development, and deployment of cutting-edge solutions to support a modern scalable data ecosystem, as well as emerging Generative AI technologies.
+Provide oversight and collaborating on data pipeline implementations to ensure governance, quality, and observability.
+Technical guidance and mentorship of team members including conducting code reviews and supporting the building prototypes and proof of concepts. 
+Work closely with the wider product and engineering leadership team to develop simplification and modernization product and platform roadmaps, championing scalability and performance.
+Develop pragmatic solutions addressing immediate needs while laying foundation for long term goals.
+Stay updated with the latest industry trends and emerging technologies.
+
+
+What You Need To Succeed (Required Qualifications)
+
+Bachelor’s degree in computer science, or related field
+15+ years of experience designing, building and supporting large scale modern data platforms in Big data on Prem & Cloud. Strong SQL, Scala and Python experience
+7+ years’ experience with Distributed data / computing tools (Hadoop, Hive, Databricks/Synapse spark, Kafka) and real-time data and streaming applications (Event hubs, Azure Functions etc)
+5+ years’ experience developing NoSQL-based data solutions, preferably Cosmos DB
+Experience designing, implementing and deploying ETL/ELT pipelines, data lake house (medallion) architectures and metadata driven frameworks.
+Expert level knowledge in cloud computing platforms such as Azure
+Strong data migration experience, including automation and tooling
+Experience developing and deploying Machine Learning (ML) models
+Excellent communication skills, both written and oral with the ability to articulate technical concepts to non-technical stakeholders internally and externally.
+Influencing key stakeholders (CIO, Business, DnA) to achieve business goals and align to the overall data strategy.
+Demonstrated ability to think strategically, prioritize initiatives based on business impact, and drive execution in alignment with organizational objectives.
+
+
+What Can Give You An Edge (Additional Skills)
+
+Knowledge and experience in generative AI and RAG architectures
+Experience in data governance tools such as Unity Catalog or Purview
+
+
+The salary range for applicants for this position is $157,000-$200,000.
+
+Benefits We Offer
+
+Our U.S. benefits address holistic well-being with programs for physical and mental health, financial wellness, and support for families. We offer a comprehensive health plan that includes medical/prescription drug and vision, dental insurance, and no-cost short- and long-term disability. We also provide company-paid life insurance and legal services, a retirement pension funded entirely by MetLife and 401(k) with employer matching, group discounts on voluntary insurance products including auto and home, pet, critical illness, hospital indemnity, and accident insurance, as well as Employee Assistance Program (EAP) and digital mental health programs, parental leave, volunteer time off, tuition assistance and much more!
+
+About MetLife
+
+Recognized on Fortune magazine's list of the 2023 "World's Most Admired Companies" as well as the 2023 Fortune 100 Best Companies to Work For ®, MetLife , through its subsidiaries and affiliates, is one of the world’s leading financial services companies; providing insurance, annuities, employee benefits and asset management to individual and institutional customers. With operations in more than 40 markets, we hold leading positions in the United States, Latin America, Asia, Europe, and the Middle East.
+
+Our purpose is simple - to help our colleagues, customers, communities, and the world at large create a more confident future. United by purpose and guided by empathy, we’re inspired to transform the next century in financial services. At MetLife, it’s #AllTogetherPossible . Join us!
+
+Equal Employment Opportunity/Disability/Veterans
+
+If you need an accommodation due to a disability, please email us at accommodations@metlife.com. This information will be held in confidence and used only to determine an appropriate accommodation for the application process.
+
+MetLife maintains a drug-free workplace.
+
+$157,000-$200,000

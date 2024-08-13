@@ -1,0 +1,68 @@
+About the job
+Position Summary:
+Are you an AI/Machine Learning Engineer who loves to build and implement innovative solutions that create value at scale? If so, you might be the perfect fit for our AI/Machine Learning engineer role at Carlyle.
+
+In this role, you will work with data scientists, engineers, and stakeholders to design, deploy, and operationalize state-of-the-art AI/Machine Learning (ML) systems that solve complex business problems. You will also drive the innovation of MLOps platforms and processes for the full machine learning lifecycle - from model experimentation, to CI/CD pipelines, to model monitoring and retraining in production environments. You will leverage cloud AI/ML platforms, containerization, automation tools and processes to streamline AI/ML workflows.
+
+Additionally, you will optimize AI/ML solutions for performance, scalability and cost. You will serve models via microservices, APIs and batch scoring pipelines integrated with data products and business applications.
+
+You should have strong expertise in AI/ML platform engineering, modern data platforms, model deployment pipelines, relevant cloud platforms and programming languages like Python. You should also have excellent problem-solving abilities, attention to detail and communication skills.
+
+If you are passionate about pushing the boundaries of artificial intelligence and making an impact by delivering innovative ML solutions, this is the role for you. Join us and help shape the future of AI-driven products and services at Carlyle.
+
+Primary Responsibilities:
+Collaborate with stakeholders and data scientists to translate business problems and requirements into ML solutions
+Engineer end-to-end AI/ML systems from prototyping to production deployment
+Design and implement AI/ML pipelines for data ingestion, transformation, model training, evaluation, and inference
+Choose and apply suitable ML algorithms and frameworks such as TensorFlow, PyTorch, Keras for model development
+Optimize model performance, accuracy and fairness using techniques like hyperparameter tuning, error analysis, and model governance
+Deploy and serve models using REST APIs, serverless functions, or microservices
+Monitor and maintain AI/ML solutions using AI/MLOps best practices and tools
+Enhance model scalability, performance and cost efficiency using cloud AI/ML platforms, containerization, and automation
+Build AI/MLOps discipline and practice
+
+Requirements:
+Education & Certificates
+Bachelor's degree, required
+Concentration in Computer Science, Information Technology, or related field, preferred
+Industry Cloud and AI/ML Engineering level certifications desired
+
+Professional Experience
+5+ years of overall relevant experience, required
+3+ year direct experience in AI/ML engineering projects, direct
+Experience with LLM refinement and vector database embeddings
+Experience with training, evaluating and deploying deep learning models
+
+Competencies & Attributes
+Proficiency with common ML and data platforms such as AzureML, Amazon SageMaker, Databricks, and Snowflake
+Knowledge of AI/ML pipelines, AI/MLOps concepts and tools
+Ability to build production-grade AI/ML solutions with scalability in mind
+Experience with MLOps tools and techniques to optimize ML lifecycle management
+Experience with ML metadata and artifact tracking platforms such as MLflow
+Experience containerizing and deploying models and solutions to cloud platforms like Azure or AWS
+Understanding of model governance concepts such model risk analysis, QA, compliance
+Experience with building ML technical architecture diagrams encompassing data, model building, operations
+Experience with operating end-to-end ML platforms supporting analytics and ML teams
+Experience with assessing model technical debt, maintaining pipelines, keeping systems up-to-date
+Experience with Python for analytics and ML applications
+Proficiency with common Python data analysis libraries like NumPy, Pandas, SciPy
+Experience with common Python ML libraries like Scikit-Learn, TensorFlow, PyTorch
+Experience with Jupyter Notebooks for ML experimentation and prototyping
+Ability to transition ML prototypes to production solutions
+Experience with Terraform for IaC of ML infrastructure on Azure, AWS cloud platforms.
+Strong problem solving, analytical and communication skills
+
+Benefits/Compensation
+The compensation range for this role is specific to Washington, D.C. and takes into account a wide range of factors including but not limited to the skill sets required/preferred; prior experience and training; licenses and/or certifications.
+
+The anticipated base salary range for this role is $170,000 to $190,000.
+
+In addition to the base salary, the hired professional will enjoy a comprehensive benefits package spanning retirement benefits, health insurance, life insurance and disability, paid time off, paid holidays, family planning benefits and various wellness programs. Additionally, the hired professional may also be eligible to participate in an annual discretionary incentive program, the award of which will be dependent on various factors, including, without limitation, individual and organizational performance.
+
+Company Profile:
+The Carlyle Group (NASDAQ: CG) is a global investment firm with $425 billion of assets under management and more than half of the AUM managed by women, across 595 investment vehicles as of March 31, 2024. Founded in 1987 in Washington, DC, Carlyle has grown into one of the world's largest and most successful investment firms, with more than 2,200 professionals operating in 28 offices in North America, Europe, the Middle East, Asia and Australia. Carlyle places an emphasis on development, retention and inclusion as supported by our internal processes and seven Employee Resource Groups (ERGs). Carlyle's purpose is to invest wisely and create value on behalf of its investors, which range from public and private pension funds to wealthy individuals and families to sovereign wealth funds, unions and corporations. Carlyle invests across three segments - Global Private Equity, Global Credit and Investment Solutions - and has expertise in various industries, including: aerospace, defense & government services, consumer & retail, energy, financial services, healthcare, industrial, real estate, technology & business services, telecommunications & media and transportation.
+
+At Carlyle, we know that diverse teams perform better, so we seek to create a community where we continually exchange insights, embrace different perspectives and leverage diversity as a competitive advantage. That is why we are committed to growing and cultivating teams that include people with a variety of perspectives, people who provide unique lenses through which to view potential deals, support and run our business.
+
+
+Due to the high volume of candidates, please be advised that only candidates selected to interview will be contacted by Carlyle.

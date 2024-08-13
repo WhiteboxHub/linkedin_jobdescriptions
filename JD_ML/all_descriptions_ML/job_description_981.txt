@@ -1,0 +1,33 @@
+About the job
+About The Role
+
+Delivery Marketplace is a central pillar to Uber's delivery products. As the central brain of the company, we are the decision makers that make moving from point A to point B possible for every order that Uber serves, from UberEats to new verticals such as Grocery. We handle all the logic from making the dispatch decisions, predicting how long a delivery might take, and estimating optimal pickup times for orders. We build products that directly impact Uber's top and bottom lines.
+
+MLEs Lead Efforts Within The Team And Broader Delivery Marketplace Organization To Drive Ideation, Development And Productionization Of Optimization Solutions With Real-time And ML-based Signals That Solve Strategically Important Problems. Some Existing Problem Spaces That The Team Works On
+
+Using statistical/machine learning/forecasting models for demand and supply models
+State of the art prediction models for estimating food preparation times, batching quality as well as time spent by couriers at restaurants picking up items. 
+Develop objective function which balances magical user experience and economics of the business
+
+It is a challenging yet rewarding job. You will have a lot of opportunities to work with product managers, data scientists and engineers from other teams. You will be in-charge of solving Uber scale problems with the right techniques like reinforcement learning/deep learning/optimization methods.
+
+What The Candidate Will Do
+
+Drive the design, development, optimization, and productization of machine learning (ML) solutions and systems that are used to solve strategically important or vaguely defined problems. 
+Build ML solutions to improve Delivery marketplace efficiency while delivering magical user experience
+
+Basic Qualifications 
+
+PhD or equivalent experience in Computer Science, Engineering, Mathematics or a related field and 2 years of Software Engineering work experience. 
+Experience in programming with a language such as Python, C, C++, Java, or Go. 
+Experience with ML packages such as Tensorflow, PyTorch, JAX, and Scikit-Learn. 
+Experience with SQL and database systems such as Hive, Kafka, and Cassandra. 
+Experience in the development, training, productionisation and monitoring of ML solutions at scale. 
+
+Preferred Qualifications
+
+Experience in modern deep learning architectures and probabilistic models. 
+Experience in optimization (RL / Bayes / Bandits) and online learning. 
+Experience in causal inference/personalization/ranking
+
+For San Francisco, CA-based roles: The base salary range for this role is USD$185,000 per year - USD$205,500 per year. For Sunnyvale, CA-based roles: The base salary range for this role is USD$185,000 per year - USD$205,500 per year. For all US locations, you will be eligible to participate in Uber's bonus program, and may be offered an equity award & other types of comp. You will also be eligible for various benefits. More details can be found at the following link https://www.uber.com/careers/benefits.

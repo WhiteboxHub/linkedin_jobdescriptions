@@ -1,0 +1,56 @@
+About the job
+Description
+
+Amazon Robotics is seeking a talented and motivated Engineer to architect, design, and develop technologies that deliver state of the art vision capabilities across multiple robotic platforms.
+
+As an Engineer on the Sensing and Compute team, you will be part of a passionate and diverse team of engineers who design scalable, robust, and highly performant vision systems across a world-wide fleet of robots. You will have opportunities to collaborate and work with research scientists, applied scientists, data scientists, hardware engineers, and cross-functional teams to deliver the next generation of vision sensing to the Amazon portfolio.
+
+Key job responsibilities
+
+Architect, design, and implement Machine Learning models for vision systems on robotic platforms
+
+Optimize, deploy, and support at scale ML models on the edge. Influence the team's strategy and contribute to long-term vision and roadmap.
+
+Work with stakeholders across , science, and operations teams to iterate on design and implementation.
+
+Maintain high standards by participating in reviews, designing for fault tolerance and operational excellence, and creating mechanisms for continuous improvement.
+
+Prototype and test concepts or features, both through simulation and emulators and with live robotic equipment
+
+Work directly with customers and partners to test prototypes and incorporate feedback
+
+Mentor other engineer team members.
+
+A day in the life
+
+Amazon offers a full range of benefits that support you and eligible family members, including domestic partners and their children. Benefits can vary by location, the number of regularly scheduled hours you work, length of employment, and job status such as seasonal or temporary employment. The benefits that generally apply to regular, full-time employees include:
+
+ Medical, Dental, and Vision Coverage
+ Maternity and Parental Leave Options
+ Paid Time Off (PTO)
+ 401(k) Plan
+
+If you are not sure that every qualification on the list above describes you exactly, we'd still love to hear from you! At Amazon, we value people with unique backgrounds, experiences, and skillsets. If you’re passionate about this role and want to make an impact on a global scale, please apply!
+
+Basic Qualifications
+
+ 3+ years of non-internship professional software development experience
+ 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+ Experience programming with at least one software programming language
+ Experience with implementing 3D Depth estimation algorithms
+
+Preferred Qualifications
+
+ 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+ Bachelor's degree in computer science or equivalent
+ Experience in CUDA programming
+ Experience in building or deploying ML depth perception
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.
+
+
+Company - Amazon US Services LLC
+
+Job ID: A2726063

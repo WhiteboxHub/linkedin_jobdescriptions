@@ -1,0 +1,82 @@
+About the job
+Job Location
+
+Westchester
+
+Job Description
+
+If data is in your blood, then we have the job to get your heart pumping!
+
+From day 1, you'll be a key member of the engineering team driving end-to-end data and analytical solutions supporting the development, learning, and operational insights for our critical new engineering led initiatives in equipment, process, packaging, customization and supply chain.
+
+As a Data Analysis Engineer, you will:
+
+Work across important Data & Analytics Community of Excellence capability areas of: Data Science, Dana Engineering, Data Wrangling, Edge Programming, SME Analyst/Business Intelligence, Visualization/Citizen Scientist Ux.
+Engage project teams to understand project needs/requirements and provide technical expertise with data and analytical tools.
+Collaborate with data leaders and multi-discipline teams to design, develop and ensure critical data systems infrastructures and integration offer critical data model availability and scalability.
+Ensure relevant data and analytics are available to meet initiatives and technical readiness needs by continuously addressing the data models, wrangling and cleansing data, and improving data solutions and platforms.
+Explore emerging capabilities and Artificial Intelligence/Machine Learning for flawless integration and application between data scientist, functional specialists and their key user cases.
+
+We believe the following skills will help you be successful:
+
+Technical Mastery: Strategic, systems problem solver who will automate existing manual decision support and data workflows to drive key innovation and business performance improvement.
+
+Builds Diverse and Collaborative Relationships: We seek an independent, collaborator who sees the interaction in our enterprise and systems while understanding the role that data and intelligence play in dramatically improving the user cases for the subject matter systems.
+
+Leadership: Have the ability to set technical direction by applying and building mastery in our Product Supply Engineering innovation and delivery efforts, while demonstrating diverse data, analytics and visualization skills. Seeking immediate impact to accelerate our engineering processes, improve technical readiness of initiatives and enhance product and service execution in our manufacturing sites and supply network.
+
+We offer you:
+
+Dynamic and respectful work environment. At P&G our employees are at the core, we value every individual and encourage initiatives, promoting agility and work/life balance.
+
+Continuous coaching. You will work with passionate people and receive ongoing coaching and mentoring from your line manager and other colleagues. Corporate and functional training will enable you to succeed and develop from day one.
+
+Benefits. You will receive a competitive salary as well as other great benefits including a competitive pension, share ownership scheme and private healthcare.
+
+Are you ready to join our Engineering team?
+
+Job Qualifications
+
+REQUIRED: 
+
+BS/MS in a quantitative field (Engineering, Data Science, Operations Research, Applied Math, Statistics, Analytics)
+These positions are entry-level with up to 4 years work experience
+
+PREFERRED EXPERIENCE:
+
+Data management, ingesting new data, transforming/harmonizing data
+Data analytics insights and work processes for learning and decision
+support
+Strong leadership, business problem definition, and priority setting skills
+Prior Innovation Development, or Supply Chain, or IoT or related experience
+An aptitude for communicating insights and collaborating across teams/organizations
+Skills in data visualization (Tableau, Power BI, or similar) and script program languages (SQL, Python/Scala, R, JAVA, C+)
+Data analytics and insight environments (Apache Hadoop, Spark, Hive, SQL Server, SAP Bus, WH)
+Passion to learn/develop and bring in emerging trends/technology that drive further insight value
+Proven success of applied analytics through related full-time or internship experience
+
+Just So You Know:
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, protected veteran status, disability status, age, sexual orientation, gender identity and expression, marital status, citizenship, HIV/AIDS status or any other legally protected factor.
+
+Immigration sponsorship is not available for this role. As a general matter, Procter & Gamble does not sponsor candidates for nonimmigrant visas or permanent residency. However, Procter & Gamble may make exceptions on a discretionary basis. Any exceptions would be based on the Company's specific business needs at the time and place of recruitment as well as the particular qualifications of the individual.
+
+Procter & Gamble participates in e-verify as required by law.
+
+Qualified individuals will not be disadvantaged based on being unemployed.
+
+Job Schedule
+
+Full time
+
+Job Number
+
+R000109662
+
+Job Segmentation
+
+Recent Grads/Entry Level - Campus (Job Segmentation)
+
+Starting Pay / Salary Range
+
+$85,000.00 - $115,000.00 / year

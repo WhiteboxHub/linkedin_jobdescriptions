@@ -1,0 +1,24 @@
+About the job
+Title: UI/React Developer
+
+Mode of interview: Video Interview
+
+Location: Jersey City, NJ
+
+Client: JPMC
+
+Duration-12+ months
+
+Primary Skill
+
+UI, React, Redux, Linux/Unix.
+
+4+ years experience using HTML semantic markup, CSS3, and animation on responsive consumer-facing websites.
+4+ years experience using Reactjs.
+Basic front-end JavaScript/TypeScript experience.
+Experience of working with XML/JSON data models and integration with REST APIs.
+Experience working with at least one SQL or NoSQL Database (MongoDB, SQL Server, Snowflake, Postgres preferred)
+General understanding of infrastructure as code and CI/CD pipelines and the willingness to learn more
+Basic experience with any cloud platform
+
+Can share resume at Email: subham.kumar@stiorg.com, Contact: -6094473345

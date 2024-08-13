@@ -1,0 +1,55 @@
+About the job
+Team Description
+
+Team Keymaster at Pendo is dedicated to empowering customers to effectively govern, organize, and personalize their Pendo experience at scale. Our mission is to equip admins with robust tools, enhance user-friendliness for new users, and ensure robust data governance to support complex deployments. We focus on creating an optimal environment for enterprise-grade product teams to collaborate and succeed. Additionally, we oversee critical functionalities such as user authentication, permissions, subscription management, and user registration, ensuring a seamless and secure user experience.
+
+As a Front-End Engineer, you will collaborate within the team and also cross-functionally with designers, product managers, and back-end developers, to design and implement responsive and intuitive user interfaces. Your responsibilities will include implementing and maintaining efficient, reusable, and scalable code, as well as staying abreast of emerging front-end technologies and best practices. The ideal candidate will possess a deep understanding of web development, proficiency in modern front-end frameworks such as VueJS, and a passion for creating visually appealing and user-friendly interfaces. If you are a proactive and collaborative individual with a strong commitment to delivering high-quality software solutions within an Agile framework, we invite you to apply and contribute to our innovative projects.
+
+Deliverables (what You’ll Do)
+
+Write maintainable, high-quality code that solves customer pain points
+Design solutions to large, complex, and/or ambiguous problems
+Learn Pendo’s coding standards and practices through code reviews
+Add input on code reviews, designs, and technical questions from within the team and the organization
+Implement unit & automated testing with Jest & Cypress to accompany code changes
+Quickly troubleshoot customer issues & implement solutions to address them
+Foster positive team discussions and decisions in epic and story groomings
+
+Qualifications (what You Have)
+
+2+ years of experience writing Javascript code
+Experience working in modern frontend frameworks (VueJS, ReactJS, etc.) 
+Modern collaboration tools (such as git, npm, GitHub)
+Teamwork, collaboration, adaptability, passion for the frontend
+Strong attention to detail & understanding of trade-offs
+Strong Front End fundamentals in JavaScript, CSS, & HTML, working with APIs
+State management experience (e.g. Vuex, Redux, Flux, etc.)
+Obtained a 4-year technical degree or equivalent industry experience
+
+Additional Preferred Qualifications
+
+Highcharts, D3, or other visualization libraries
+Vue experience
+TypeScript experience
+
+Pendo Description
+
+Pendo was founded in 2013 by former product managers, who combined their heads and hearts to build something they wanted but never had as product managers -- a simple way to understand and attack what truly drives product success. Our mission is to improve society's experience with software.
+
+Come join one of the fastest-growing startups, supported by best-in-class institutions like Battery Ventures, Salesforce Ventures, Spark Capital and Meritech. You will gain experience in a diverse and exciting set of technologies and clients and have a real impact on Pendo's future. Our culture is passionate, dynamic, and fun.
+
+EEOC
+
+We are an equal opportunity employer and believe having diverse teams where everyone brings their whole self to Pendo is key to our success. We welcome all people of different backgrounds, experiences, abilities and perspectives.
+
+Accessibility
+
+Pendo is committed to working with, and providing access and reasonable accommodation to, applicants with mental and/or physical disabilities. If you think you may require an accommodation for any part of the recruitment process, please send a request to: accommodation@pendo.io. All requests for accommodations are treated discreetly and confidentially, as practical and permitted by law.
+
+Compensation
+
+Our salary ranges are based on paying competitively for our size and industry, and are one part of many compensation, benefits and other reward opportunities we provide.
+
+The expected salary range for this role to be performed in Raleigh, NC is $105,000 - $120,000.
+
+Individual pay rate decisions, including offers made within and over the expected salary range, are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.

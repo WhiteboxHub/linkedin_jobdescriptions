@@ -1,0 +1,43 @@
+About the job
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo. 
+
+Why Join Us
+Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible. 
+Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day. 
+To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always. 
+At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve. 
+Join us.
+
+About T&S
+Building a world where people can safely discover, create and connect. The Trust & Safety (T&S) team at TikTok helps ensure that our global online community is safe and empowered to create and enjoy content across all of our applications. We have invested heavily in human and machine-based moderation to remove harmful content quickly and often before it reaches our general community.
+It is possible that this role will be exposed to harmful content as part of the core role/as part of project/ in response to escalation requests/by chance.
+This may occur in the form of images, video, and text related to every-day life, but it can also include (but is not limited to) bullying; hate speech; child safety; depictions of harm to self and others, and harm to animals.
+
+What will I be doing?
+- Design and define operation management-related metrics, and build metric management schemes for global products. These metrics may include, for instance, data related to efficiency & quality performance of global moderation teams.
+- Provide data support for business reports, run analysis and collect RCA feedback. Follow up with further management actions.
+- Build and maintain data infrastructure, conduct data cleaning, troubleshooting and other data consulting work, manage data access, establish a single source of truth for global operation management.
+- Push platform tools' iteration, usage and the configurations' completeness and accuracy, to further achieve data visualization and data accuracy in cooperation with multi-functional departments.
+- Identify issue areas through data analysis and independently provide solutions & improvement insights to global management teams.
+- Actively invocate resources, and the related projects may involve intensive cross-functional cooperation.
+
+The base salary range for this position in the selected city is $98400 - $232222 annually.
+Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.
+Our company benefits are designed to convey company culture and values, to create an efficient and inspiring work environment, and to support our employees to give their best in both work and life. We offer the following benefits to eligible employees: 
+We cover 100% premium coverage for employee medical insurance, approximately 75% premium coverage for dependents and offer a Health Savings Account(HSA) with a company match. As well as Dental, Vision, Short/Long term Disability, Basic Life, Voluntary Life and AD&D insurance plans. In addition to Flexible Spending Account(FSA) Options like Health Care, Limited Purpose and Dependent Care. 
+Our time off and leave plans are: 10 paid holidays per year plus 17 days of Paid Personal Time Off (PPTO) (prorated upon hire and increased by tenure) and 10 paid sick days per year as well as 12 weeks of paid Parental leave and 8 weeks of paid Supplemental Disability. 
+We also provide generous benefits like mental and emotional health benefits through our EAP and Lyra. A 401K company match, gym and cellphone service reimbursements. The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+Desired Skills and Experience
+- A Bachelor's degree or higher in Management Information Systems, Business Analytics, Statistics or related subjects is preferred.
+- 2+ years of experience in management, business process improvement, or analytical roles in content moderation or similar fields. Such as call centers and adverts moderation in tech companies.
+- Proficiency in Excel & sheets and hands-on experience in SQL/R/Python are preferred.
+- Proficiency in data visualisation tools, e.g., Tableau, Power BI, DataPower, etc.
+- Strong statistics and math skills, including but not limited to correlation/linear/logit regression, hypothesis testing(t-test, ANOVA), cluster analysis, LMDI, etc.
+- Strong communication, presentation & documentation skills.
+- Wide experience in independently analyzing data, identifying issues, coordinating resources and solving issues is preferred.
+
+Trust & Safety recognises that keeping our platform safe for TikTok communities is no ordinary job which can be both rewarding and psychologically demanding and emotionally taxing for some. This is why we are sharing the potential hazards, risks and implications in this unique line of work from the start, so our candidates are well informed before joining.We are committed to the wellbeing of all our employees and promise to provide comprehensive and evidence-based programs, to promote and support physical and mental wellbeing throughout each employee's journey with us. We believe that wellbeing is a relationship and that everyone has a part to play, so we work in collaboration and consultation with our employees and across our functions in order to ensure a truly person-centred, innovative and integrated approach.
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+---
+TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://shorturl.at/cdpT2

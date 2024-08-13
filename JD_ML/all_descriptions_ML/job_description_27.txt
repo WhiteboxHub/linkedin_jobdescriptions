@@ -1,0 +1,36 @@
+About the job
+Job Description:
+ 
+ Responsibilities: 
+ Excellent network troubleshooting skills. 
+ Must be able to quickly identify and resolve network related issues in the shortest possible time. 
+ Excellent communication skills. 
+ Must be able to clearly interact with the customer, understand the requirements and communicate with the off-shore team. 
+ Must be able to participate and represent the team in Change and Incident management meetings. 
+ Excellent leadership skills. 
+ CCNA & CCNP Certification Required. 
+ Minimum 6 Years of Relevant Domain Experience. 
+ Skill Set: 
+ Excellent hands on experience on: 
+ Cisco Catalyst 6500, 3750 and 2900 series switches. 
+ Cisco 3800 series routers. 
+ Cisco Nexus 7K,5K,2K series switches. 
+ Fortinet Router/Firewalls. 
+ Cisco Wireless LAN Controllers and Access Points. 
+ Cisco IOS Software. 
+ Any Network Management System (HPOV, NNM, SolarWinds ORION etc.). 
+ Excellent hands on experience on the following Technologies: 
+ Routing Protocols. 
+ OSPF, EIGRP, BGP. 
+ Switching - L2 and L3 LAN switching technologies, VLANs, IEEE802.1Q Trunking, Etherchannel 
+ MPLS, MPLS/VPN, MP-BGP. 
+ Wireless LANs. 
+ Excellent knowledge on the following: 
+ TCP/IP protocol suite. 
+ Application protocols - HTTP, HTTPS, FTP, SMTP, SNMP, SSL etc. 
+ Wireless Networking Technologies, Wireless LAN security. 
+ DHCP and DNS Architecture. 
+ Network Firewalls - NAT, PAT.
+
+Desired Skills and Experience
+SDWAN

@@ -1,0 +1,26 @@
+About the job
+Company Overview: Motivosity is a rapidly growing software company based in Utah's Silicon Slopes. Our innovative employee recognition platform is reshaping workplace culture across the world. We believe work should be as fulfilling as personal life, and everything we do is geared towards that goal.
+
+Position Overview: We are seeking a talented Web Developer to join the marketing team and manage the creation and maintenance of our marketing websites, landing pages, and digital properties. This role is pivotal in enhancing our brand image, supporting our Go-to-Market efforts and increasing our impact as a company.
+
+About You: You are an enthusiastic individual with a strong passion for technology and startup environments. You thrive on ensuring quality, advancing your skills, and collaborating with cross-functional teams. Your background includes extensive experience in React, HTML/CSS, JavaScript, and collaborating closely with others…including the design team. You understand the entire web application development process, including design, development, and deployment. You have no concerns about sole ownership of projects and web properties.
+
+Key Responsibilities
+
+Develop and maintain digital marketing properties such as websites, blogs, landing pages, and marketing pages.
+Translate design mockups and wireframes into functional web pages, components, and reusable templates.
+Utilize a diverse set of coding languages and technologies including HTML, CSS, Javascript, Git, AWS/Amplify, Gatsby, GraphQL, etc. to create impactful web solutions.
+Optimize website performance and user experiences.
+Uphold and enhance Motivosity's brand integrity across all digital platforms.
+
+Technical Specifications/Requirements
+
+2+ years of experience in web development.
+Proficiency in HTML, CSS, and JavaScript with a strong understanding of best practices.
+Experience with ReactJS and familiarity with tools like Netlify for deployment.
+Ability to execute on responsive designs
+Working knowledge of version control systems, particularly Git.
+Basic understanding of digital marketing practices including SEO, analytics, and Tag Manager.
+Familiarity with SQL databases and ability to perform basic queries.
+Ability to conduct A/B tests.
+A great work ethic (we’re fun too...we promise!)

@@ -1,0 +1,46 @@
+About the job
+A247: Voice/Data Comm Engineer – 741319
+
+Washington, DC
+
+Duties & Responsibilities
+
+As part of the OCFO ITAM team, this position is responsible for providing support to internal and remote users by installing, configuring, and upgrading OCFO mobile assets.
+Serve as the first point of contact for customers seeking mobile asset related technical assistance over the phone or email
+Monitoring and maintaining of OCFO mobile assets and reporting issues to Telecom ISP/Cloud Hosting Vendor (OCTO)using Service Now Portal ticketing system.
+Managing Helpdesk Tickets of mobile asset related issues using Zendesk.
+Perform technology refreshes, mobile devices iOS update in accordance with OCTO Intune policy
+Ability to document work activities into meaningful incidents or tasks in the Zendesk system.
+Performs all duties in accordance with OCFO policies and procedures
+Maintain inventories of all OCFO mobile assets using the FCMS inventory and Verizon Portal to secure assets
+Participate in the development of the documentation of mobile asset infrastructure and practices by providing written and/or verbal communications to effectively maintain a resource of standard practices.
+Participate in meetings as required and directed to insure clear communication within IT Operations.
+Install and move assets as required according to OCFO IT Operation processes.
+Demonstrated experience delivering Intune Device Enrollment development and support
+Understanding of Enterprise Mobility Security and Windows Server design, configuration and administration
+System (hardware) and application(software) installation and configuration
+System security and monitoring using installed tools as well as external tools
+Provides technical direction and engineering knowledge for communications activities including planning, designing, developing, testing, installing and maintaining large communications networks.
+Ensures that adequate and appropriate planning is provided to direct building architects and planners in building communications spaces and media pathways meet industry standards.
+Develops, operates, and maintains voice, wireless, video, and data communications systems.
+Provides complex engineering or analytical tasks and activities associated with one or more technical areas within the communications function.
+
+Qualifications
+
+1-5 years of experience developing, operating and Required maintaining voice, wireless video, and data comm systems
+1-5 years of experience providing direction for communications activities related to large comm. networks
+Troubleshoot daily telecom related issues in the areas of desk phones, call center applications, mobile devices, and data \\ voice ports
+Proven experience with telecom system PBX\\ACD\\UIP
+Proven experience in asset management in the areas of hardware and software
+Good technical understanding of network, telecommunications, and mobile devices
+Proven experience with Call Center Environment
+
+Regards
+
+Kanchan Illa
+
+CSZNet, Inc.
+
+Direct: 202-903-0969
+
+Email: kanchan.illa@csznet.com

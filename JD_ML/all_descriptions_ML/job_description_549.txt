@@ -1,0 +1,5 @@
+About the job
+Minimum 1 year of experience in NLP technologies-scikit learn
+Minimum 1 year of experience in NLTK
+Minimum 1 year of experience in Tensorflow
+Minimum 1 year of experience in Panda

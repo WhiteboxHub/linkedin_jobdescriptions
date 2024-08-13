@@ -1,0 +1,54 @@
+About the job
+DMI is a leading global provider of digital services working at the intersection of public and private sectors. With broad capabilities across IT managed services, cybersecurity, cloud migration and application development, DMI provides on-site and remote support to clients within governments, healthcare, financial services, transportation, manufacturing, and other critical infrastructure sectors. DMI has grown to over 2,100+ employees globally and has been continually recognized as a Top Workplace in both regional and national categories.
+
+About The Opportunity
+
+DMI, LLC is seeking an experienced  Full-Stack Ruby on Rails Developer  , to contribute to developing our SaaS Telecom Expense Management platform. The ideal candidate should have a deep understanding of Ruby programming language and frameworks and experience in Agile development methodologies, AWS, GitHub, GraphQL, and REST APIs. As a RoR Developer, you will work on bugs and new features for expense management and device management applications.
+
+Duties And Responsibilities
+
+ Act as a full-stack developer for our SaaS Telecom Expense Management platform.
+ Fix bugs and contribute to the development of a mission-critical software (85% of your day-to-day).
+ Collaborate with a diverse group of stakeholders, such as Product, Tech Services, and our customers (5% of your day-to-day).
+ Utilize a tech stack that includes Ruby (on Rails), Vue, PostgreSQL, Sidekiq, GraphQL, Terraform, and Redis.
+ Leverage your high throughput and self-driven initiative to deliver high-quality code to the SaaS Telecom Expense Management industry.
+ Provide constructive feedback, and mentor junior developers. 
+
+Qualifications
+
+ Education and Years of Experience: 
+
+ Bachelor’s degree in computer science or related field. 
+ 5+ years of current experience in software development, with at least 4+ years focused Ruby on Rails development. 
+ 2+ years experience with PostgreSQL. 
+
+Required And Desired Skills/Certifications
+
+ Demonstrable proficiency with Ruby, Vuejs, and Ruby on Rails. 
+ Excellent problem-solving and communication skills. 
+ Ability to work collaboratively in a fast-paced, agile development environment. 
+ Ideally, previous experience in Billing, Reports, Telecom, or Expense Management Systems. 
+
+ Min Citizenship Status Required:  Must be a  U.S. Citizen 
+
+ Location:  Remote, USA
+
+Working At DMI
+
+DMI is a diverse, prosperous, and rewarding place to work. Being part of the DMI family means we care about your wellbeing. We offer a variety of perks and benefits that help meet various interests and needs, while still having the opportunity to work directly with several of our award-winning, Fortune 1000 clients. The following categories make up your DMI wellbeing:
+
+ Convenience/Concierge - Virtual visits through health insurance, pet insurance, commuter benefits, discount tickets for movies, travel, and many other items to provide convenience. 
+ Development – Annual performance management, continuing education, and tuition assistance, internal job opportunities along with career enrichment and advancement to help each employee with their professional and personal development. 
+ Financial – Generous 401k matches both pre-tax and post-tax (ROTH) contributions along with financial wellness education, EAP, Life Insurance and Disability help provide financial stability for each DMI employee. 
+ Recognition – Great achievements do not go unnoticed by DMI through Annual Awards ceremony, service anniversaries, peer-to-peer acknowledgment, employee referral bonuses. 
+ Wellness – Healthcare benefits, Wellness programs, Flu Shots, Biometric screenings, and several other wellness options. 
+
+Employees are valued for their talents and contributions. We all take pride in helping our customers achieve their goals, which in turn contributes to the overall success of the company. The company does and will take affirmative action to employ and advance in employment individuals with disabilities and protected veterans, and to treat qualified individuals without discrimination based on their physical or mental disability or veteran status. DMI is an Equal Opportunity Employer Minority/Female/Veterans/Disability. DMI maintains a drug-free workplace.
+
+***************** No Agencies Please *****************
+
+Applicants selected may be subject to a government security investigation and must meet eligibility requirements for access to classified information. US citizenship may be required for some positions.
+
+LI-EK1
+
+Job ID:  2024-27094

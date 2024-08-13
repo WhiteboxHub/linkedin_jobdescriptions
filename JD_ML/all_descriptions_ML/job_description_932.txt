@@ -1,0 +1,34 @@
+About the job
+Work options: Remote
+
+Remote, US
+
+Title: Machine Learning 3
+
+Location: Remote, US
+
+Duration: 11 months contract
+
+NIKE, Inc. does more than outfit the world's best athletes. It is a place to explore potential, obliterate boundaries and push out the edges of what can be. The company looks for people who can grow, think, dream and create. Its culture thrives by embracing diversity and rewarding imagination. The brand seeks achievers, leaders and visionaries. At Nike, it’s about each person bringing skills and passion to a challenging and constantly evolving game.
+
+What You Will Work On
+
+Develop and program integrated software algorithms to structure, analyze and leverage data for product and system applications
+Create descriptive, diagnostic, predictive and prescriptive insights/algorithms for products and systems
+Use machine learning and statistical modeling techniques like decision trees, logistic regression, and Bayesian analysis to develop and evaluate algorithms to improve product performance, quality, data management and accuracy
+Translate algorithms and technical specifications into code using current programming languages and technologies
+Complete programming and implement efficiencies, perform testing and debugging
+Document installation and maintenance procedures
+Apply deep learning technologies to create interactive experiences in areas like virtual reality, augmented reality, artificial intelligence, and robotics
+Work with large-scale computing frameworks, data analysis systems and modeling environments
+
+What You Bring
+
+Bachelor's degree required; PhD, Master's degree, Associate's degree or High School diploma with minimum 5-7 years relevant experience accepted
+Experience with machine learning and statistical modeling techniques
+Programming skills and ability to translate algorithms into code
+Testing, debugging and documentation skills
+Knowledge of deep learning technologies
+Ability to work with large-scale computing frameworks and data analysis systems
+Analytical mindset and critical thinking skills
+Creativity and problem-solving skills

@@ -1,0 +1,19 @@
+About the job
+About Birlasoft
+
+Birlasoft combines the power of domain, enterprise, and digital technologies to reimagine business processes for customers and their ecosystem. Its consultative and design thinking approach makes societies more productive by helping customers run businesses. As part of the multibillion-dollar diversified CK Birla Group, Birlasoft with its 12,500+ professionals, is committed to continuing the Group’s 162-year heritage of building sustainable communities.
+
+Basic Qualifications for Consideration: 
+Bachelor’s degree or equivalent with 5+ years of technical experience in front-end development
+5+ Years of experience in React technologies including typescript, graphql and MUI
+Relevant experience with associated web technologies like Angular and Google Design Framework
+Involved in consuming and publishing SOAP and RESTFUL web services
+Domain expertise of cloud infrastructure solutions (Azure preferred)
+Should be able to work independently as well as in a team environment.
+Should have strong verbal and written communication skills.
+Preferred Qualifications for Consideration: 
+Experience in CI/CD Pipeline using Azure DevOps 
+Knowledge in Agile SDLC 
+Experience in source control like Azure DevOps and GitHub
+
+Join our team at Birlasoft and be part of a dynamic and innovative organization at the forefront of digital transformation in the automotive industry. Apply now to take the next step in your career!!

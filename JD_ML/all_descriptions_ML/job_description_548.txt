@@ -1,0 +1,64 @@
+About the job
+The Chan Zuckerberg Initiative was founded by Priscilla Chan and Mark Zuckerberg in 2015 to help solve some of society’s toughest challenges — from eradicating disease and improving education to addressing the needs of our local communities. Our mission is to build a more inclusive, just, and healthy future for everyone.
+
+The Team
+
+Across our work in Science, Education, and within our communities, we pair technology with grantmaking, impact investing, and collaboration to help accelerate the pace of progress toward our mission. Our Central team provides the support needed to push this work forward.
+
+The Central team at CZI consists of our Finance, People & DEI, Real Estate, Events, Workplace, Facilities, Security, Brand & Communications, Business Systems, Central Operations, Strategic Initiatives, and Ventures teams. These teams provide strategic support and operational excellence across the board at CZI.
+
+The AI/ML Infrastructure team works on building shared tools and platforms to be used across the Chan Zuckerberg Initiative, partnering and supporting the work of an extensive group of Research Scientists, Data Scientists, AI Research Scientists, as well as a broad range of Engineers focusing on Education and Science domain problems. Members of the shared infrastructure engineering team have an impact on all of CZI's initiatives by enabling the technology solutions used by other engineering teams at CZI to scale.
+
+The Opportunity
+
+By pairing engineers with leaders in our science and education teams, we can bring AI/ML technology to the table in new ways to help drive AI powered solutions that accelerate Biomedical research. We are uniquely positioned to design, build, and scale software systems to help educators, scientists, and policy experts better address the myriad challenges they face. We are supporting researchers and scientists around the world by developing the capacity to apply state-of-the-art methods in artificial intelligence and machine learning to solve important problems in the biomedical sciences.
+
+As a member of the AI Infrastructure and MLOps Engineering team, you will be responsible for a variety of MLOps and AI development projects that empower users across the AI lifecycle. You will take an active role in building and operating our AI Systems Infrastructure and MLOps efforts focused on our GPU Cloud Cluster operations, ensuring our systems are highly utilized and stable across the AI lifecycle of usage.
+
+What You'll Do
+
+As a member of the MLOps team responsible for the operations of our large scale GPU Research cluster, you will be intimately involved in the end to end AI lifecycle working directly with our AI Research and AI Engineers, pre-training through training through fine tuning and through inference for the models we deploy and host.
+Take an active role in building out our model deployment automation, alerting, and monitoring systems, allowing us to automate and operate our GPU Cluster in a proactive way that reduces reactive on-call efforts to a minimum. 
+Work on the integration and usability of our MLFlow based model versioning and experiment tracking as part of the platform and integral across the AI lifecycle. 
+As part of the on-call responsibilities, you will be working with our vendor partners in troubleshooting and resolving issues in as short of a time frame as is possible on our Kubernetes based GPU Cluster. 
+Actively collaborate in the technical design and build of our AI/ML and Data infrastructure engineering solutions, such as deep MLFlow integration.
+Be an active part of optimizing our GPU platform and model training processes, from the hardware level on up through our Deep Learning code and libraries.
+Collaborate with team members in the design and build of our Cloud based AI/ML data platform solutions, which includes Databricks Spark, Weaviate Vector Databases, and supporting our hosted Cloud GPU Compute services running containerized PyTorch on large scale Kubernetes.
+Collaborate with our AI Researchers on data management solutions for our heterogeneous collection of complex very large scale training datasets.
+As a team take part in defining and implementing our SRE style service level indicator instrumentation and metrics gathering, alongside defining SLOs and SLAs for our model platform end to end.
+
+What You'll Bring
+
+BS, MS, or PhD degree in Computer Science or a related technical discipline or equivalent experience.
+MLOps experience working with medium to large scale GPU clusters, in Kubernetes (preferred) or HPC environments, or large scale Cloud based ML deployments.
+Experience using DevOps tooling with data and machine learning use cases. Experience with scaling containerized applications on Kubernetes or Mesos, including expertise with creating custom containers using secure AMIs and continuous deployment systems that integrate with Kubernetes (preferred) or Mesos.
+5+ years of relevant coding experience with a scripting language such as Python, PHP, or Ruby.
+Experience coding with a systems language such as Rust,C/ C++, C#, Go, Java, or Scala.
+Data platform operations experience in an environment with challenging data and systems platform challenges - such as Kafka, Spark, and Airflow. 
+Experience with Amazon Web Services (AWS), Google Cloud Platform (GCP), or Microsoft Azure - experience with On-Prem and Colocation Service hosting environments a plus.
+Knowledge of Linux systems optimization and administration.
+Understanding of Data Engineering, Data Governance, Data Infrastructure, and AI/ML execution platforms.
+
+Compensation
+
+The Redwood City, CA base pay range for this role is $190,000 - $238,000. New hires are typically hired into the lower portion of the range, enabling employee growth in the range over time. Actual placement in range is based on job-related skills and experience, as evaluated throughout the interview process. Pay ranges outside Redwood City are adjusted based on cost of labor in each respective geographical market. Your recruiter can share more about the specific pay range for your location during the hiring process.
+
+Benefits For The Whole You
+
+We’re thankful to have an incredible team behind our work. To honor their commitment, we offer a wide range of benefits to support the people who make all we do possible.
+
+CZI provides a generous employer match on employee 401(k) contributions to support planning for the future.
+Annual benefit for employees that can be used most meaningfully for them and their families, such as housing, student loan repayment, childcare, commuter costs, or other life needs.
+CZI Life of Service Gifts are awarded to employees to “live the mission” and support the causes closest to them.
+Paid time off to volunteer at an organization of your choice. 
+Funding for select family-forming benefits. 
+Relocation support for employees who need assistance moving to the Bay Area
+And more!
+
+Commitment to Diversity
+
+We believe that the strongest teams and best thinking are defined by the diversity of voices at the table. We are committed to fair treatment and equal access to opportunity for all CZI team members and to maintaining a workplace where everyone feels welcomed, respected, supported, and valued. Learn about our diversity, equity, and inclusion efforts.
+
+If you’re interested in a role but your previous experience doesn’t perfectly align with each qualification in the job description, we still encourage you to apply as you may be the perfect fit for this or another role.
+
+Explore our work modes, benefits, and interview process at www.chanzuckerberg.com/careers.

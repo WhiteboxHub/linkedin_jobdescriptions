@@ -1,0 +1,31 @@
+About the job
+Technical/Functional Skills -
+
+Python - Strong
+
+Azure ML Studio - Should be able to create Model, create N points, etc
+Generative AI Models
+Front-End development UI- Optional
+
+Roles & Responsibilities
+
+Design and implement AI/ML solutions within the Azure Machine Learning workspace.
+Should be able to create Model, create N points, etc Generative AI Models
+Strong python development knowledge
+Develop, train, and validate machine learning models using Azure ML pipelines.
+Utilize Azure Cognitive Services to integrate vision, language, and decision-making capabilities into applications.
+Manage and optimize Azure resources for machine learning workloads, ensuring cost-effectiveness and performance.
+Collaborate with cross-functional teams to integrate AI/ML models into broader systems and applications.
+Maintain a continuous integration and delivery pipeline for AI/ML models using Azure DevOps.
+Monitor and evaluate the performance of deployed models, making adjustments as necessary.
+Stay current with Azure AI/ML features and best practices, applying them to ongoing projects.
+
+Document technical processes, model architectures, and deployment strategies for internal and external stakeholders.
+
+Generic Managerial Skills
+
+Customer Management
+Team Management
+
+Desired Skills and Experience
+Azure , Artificial Intelligence

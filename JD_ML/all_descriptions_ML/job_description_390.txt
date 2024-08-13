@@ -1,0 +1,51 @@
+About the job
+Summary
+
+The Data Analyst II will work as a member of Stifel's Analyst team within the Information Technology group. The Data Analyst II is responsible for servicing ad-hoc data extraction and reporting requests originating from various areas of the business as well as support discovery or solutions for firm data driven initiatives and developments. This position is expected to work with business users as well as product management and development teams to further define requirements, analyze pertinent underlying data to ensure proper use and then translate those requirements into queries that will provide the objective data sets. The Data Analyst II will also act as a subject matter expert for assigned raw data sets as well as maintain documentation surrounding them.
+
+Essential Duties & Responsibilities
+
+Develop an understanding of the Stifel business & data models, and use that knowledge to optimize the relationship between the company and the customer. 
+Field inbound requests from business users and product management and refine requirements until a full understanding is reached on the data being requested. 
+Build and leverage T-SQL queries to fulfill ad-hoc data requests or support data analysis needs related to firm initiatives and developments. 
+Perform due diligence on data produced to ensure quality and accuracy. 
+Provide peer review of ad-hoc data requests fulfilled by associate members of the Data Analysts team and provide assistance to fellow members as needed in larger project efforts. 
+Proactively identify and recommend process and practice improvement within the team. 
+Maintain strong communication with stakeholders, following up as needed to ensure all requests are being actively addressed and/or status is being communicated. 
+Triage requests to focus first on more time-sensitive items while maintaining awareness of overall team bandwidth and workload. 
+Gain and utilize a strong understanding of company applications and business practices in the context of how they affect the firm's data. 
+Perform in-depth analysis and act as subject matter expert for assigned raw data sets. 
+
+
+Qualifications
+
+Solid understanding of financial industry terminology and concepts. 
+Knowledge of financial services, specifically wealth management. 
+Solid understanding of basic concepts of Microsoft T-SQL and database design. 
+Ability to leverage SQL to create queries which model and/or aggregate large complex datasets. 
+Leverage these skills to grow abilities in developing normalized data sets for enterprise wide business intelligence purposes. 
+Strong analytical skills focused on using logic and reasoning to identify complex relationships within a data structure as well as to research and discuss recommended uses. 
+
+
+Education & Experience
+
+Minimum Required: Bachelor's degree in Information Technology, Computer Science or Business Administration or equivalent work experience. 
+Minimum Required: 3+ years of investment, financial or technical experience. 
+
+
+Systems & Technology 
+
+Expert in SQL, Scripting and PowerBI. 
+Proficient in Microsoft Excel, Word, PowerPoint, and Outlook. 
+Knowledge of Tableau, AWS, Python, and R is preferred. 
+
+
+About Stifel
+
+Stifel is a more than 130 years old and still thinking like a start-up. We are a global wealth management and investment banking firm serious about innovation and fresh ideas. Built on a simple premise of safeguarding our clients’ money as if it were our own, coined by our namesake, Herman Stifel, our success is intimately tied to our commitment to helping families, companies, and municipalities find their own success.
+
+While our headquarters is in St. Louis, we have offices in New York, San Francisco, Baltimore, London, Frankfurt, Toronto, and more than 400 other locations. Stifel is home to approximately 9,000 individuals who are currently building their careers as financial advisors, research analysts, project managers, marketing specialists, developers, bankers, operations associates, among hundreds more. Let’s talk about how you can find your place here at Stifel, where success meets success.
+
+At Stifel we offer an entrepreneurial environment, comprehensive benefits package to include health, dental and vision care, 401k, wellness initiatives, life insurance, and paid time off.
+
+Stifel is an Equal Opportunity Employer.

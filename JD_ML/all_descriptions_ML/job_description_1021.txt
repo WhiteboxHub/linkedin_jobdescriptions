@@ -1,0 +1,30 @@
+About the job
+Description
+
+The ideal candidate would have extensive experience with Azure. The role is 100% remote and is a contract-to-hire engagement. Please note that only W2 candidates can be considered for this position
+
+POSITION SUMMARY: CCS transforms chronic care management by combining equipment and products with comprehensive education, monitoring, and coaching to improve care outcomes and reduce acute episodes. With this collaborative care approach, we are redefining patient care. We are seeking a passionate Azure ML Ops engineer to create data platform and pipeline to enable advanced analytics. ML OPS Engineers are the crafters of automation, turning data-driven models into practical applications. They take the prototypes developed by Data Scientists and fine-tune them for scalability, efficiency, and real world deployment. Their expertise in machine learning frameworks and software engineering ensures that the predictive power of models seamlessly integrates into everyday operations.
+
+Need linkedin and VIsa/DL copy
+
+Essential Duties
+
+ Utilize Azure technologies like Azure Cognitive Technologies, Azure Machine Learning, and Azure Bot Services to design, create, and deploy AI/ML based applications.
+ Include AI components into data workflows, engage with data scientists and data engineers.
+ Utilize Azure AI services to implement natural language processing (NLP) create and implement machine learning models and algorithms.
+ Automate the deployment and monitoring of AI models, collaborate with DevOps teams.
+ Use AI to automate processes such as sentiment analysis, image identification, recommendation systems, and chatbots.
+ Implementing machine learning pipelines and workflows
+ Deploying and scaling ML models in production environments
+ Automating CI/CD pipelines to account for data, code, and model changes
+ Monitoring model performance and applying updates as needed
+ Ensuring the security and compliance of machine learning systems
+ Collaborating with data scientists to optimize models and improve performance POSITION REQUIREMENTS & COMPETENCIES:
+ Bachelor’s Degree, (BA/BS) in Information Systems from a four-year college or university and 5 or more years of development experience required or equivalent combination or education and experience
+ Travel up to 25%
+ Total of 3-6 years of experience in managing machine learning projects end-to-end, with the last 18 months focused on ML Ops
+ Strong programming skills, preferably in languages like Python, Java, or Scala
+ Proficiency in machine learning libraries and frameworks, such as TensorFlow, PyTorch, or scikit-learn
+ Experience with containerization technologies, like Docker and Kubernetes
+ Familiarity with ML model deployment tools, such as MLflow or Kubeflow
+ Working experience in Azure cloud platform

@@ -1,0 +1,54 @@
+About the job
+Department: Engineering
+
+Employment Type: Full Time
+
+Location: Remote (USA)
+
+Compensation: $120,000 - $150,000 / year
+
+Description
+
+Reporting to the Team Lead, you will be responsible for working on a team of four to five Engineers to tackle the platform needs of large organizations. Every week, you'll have the opportunity to expand your technical skills and will be presented with opportunities for continuous learning. Working in multiple environments and continually switching context from client to client, we are looking for people who thrive in an innovative and fast-paced environment. This is a standout opportunity to collaborate with an elite group of engineers, build up your skillset and, in turn, become a distinguished expert in the industry.
+
+Key Responsibilities
+
+Integrate front-end components with back-end data sources using APIs and web services
+Develop responsive and user-friendly web interfaces
+Fetch, process, and display real-time or static data from databases or other data storage systems
+Optimize the performance of data-heavy applications to ensure smooth and efficient user experiences
+Write and maintain unit tests and integration tests for front-end components.
+Debug and resolve issues related to data presentation and interactivity.
+Implement data visualization best practices to ensure clarity and effectiveness.
+Support team members
+
+Required Qualifications
+
+Skills Knowledge and Expertise
+
+4+ years of front end development experience
+3+ years of AWS experience
+2+ years of data infrastructure experience
+Python experience
+Angular/Vue experience
+Kubernetes experience
+Terraform experience
+Cloud certifications
+Excellent communication skills
+Strong multi-tasker
+Self starter
+Team player
+
+Preferred Qualifications
+
+React experience
+Azure, AWS and GCP Professional level certifications
+Kubernetes certifications (CKA, CKAD, CKS)
+
+Benefits + Perks
+
+Benefits of full-time remote work but with a close team environment. BSC was built from the beginning to be remote. That means we work extra hard to support a culture of engagement with regular opportunities for in-person interaction.
+Flexible work schedule and time off
+Home office support
+401k with up to 4% company match
+Medical, Dental, Vision and Life Insurance

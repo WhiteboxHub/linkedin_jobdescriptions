@@ -1,0 +1,36 @@
+About the job
+Responsibilities
+
+Kforce has a client in Juno Beach, FL that is seeking a UI Developer. Responsibilities:
+
+ The UI Developer will collaborate with cross-functional teams to define, design, and implement user-friendly interfaces for web applications
+ Develop and maintain responsive web applications using React and Angular frameworks
+ Ensure the technical feasibility of UI/UX designs and optimize applications for maximum speed and scalability
+ Write clean, maintainable, and efficient code
+ Participate in code reviews, debugging, and troubleshooting to ensure the quality and performance of applications
+ The UI Developer will stay updated with the latest industry trends and technologies to continuously improve user experience
+
+Requirements
+
+ Bachelor's degree in Computer Science, Information Technology, or a related field
+ Minimum of 3 years of professional experience as a UI Developer
+ Strong proficiency in both React and Angular frameworks
+ Experience with RESTful APIs and integrating front-end interfaces with back-end services
+ Familiarity with version control systems, preferably Git
+ Excellent problem-solving skills and attention to detail
+ Strong communication and collaboration skills
+
+Preferred Qualifications
+
+ Experience in the utility industry or with energy-related applications
+ Knowledge of UI/UX design principles and best practices
+
+The pay range is the lowest to highest compensation we reasonably in good faith believe we would pay at posting for this role. We may ultimately pay more or less than this range. Employee pay is based on factors like relevant education, qualifications, certifications, experience, skills, seniority, location, performance, union contract and business needs. This range may be modified in the future.
+
+We offer comprehensive benefits including medical/dental/vision insurance, HSA, FSA, 401(k), and life, disability & ADD insurance to eligible employees. Salaried personnel receive paid time off. Hourly employees are not eligible for paid time off unless required by law. Hourly employees on a Service Contract Act project are eligible for paid sick leave.
+
+Note: Pay is not considered compensation until it is earned, vested and determinable. The amount and availability of any compensation remains in Kforce's sole discretion unless and until paid and may be modified in its discretion consistent with the law.
+
+This job is not eligible for bonuses, incentives or commissions.
+
+Kforce is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.

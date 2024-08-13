@@ -1,0 +1,36 @@
+About the job
+This position is a remote, direct hire position. Our Client will be doing a 6 month contract, full time will be considered after. 
+
+
+Our client is a high-growth SaaS company already making waves in the financial industry. They are continuously innovating their platform & leveraging machine learning to revolutionize how businesses operate. We’re looking for bright minds to join the team and help scale the company to new heights.
+
+
+Summary:
+As a Machine Learning Engineer, you’ll be a crucial part of the team, working alongside seasoned experts in machine learning, product managers, software engineering and business stakeholders. You’ll be developing and deploying machine learning models that drive the core products. This is your chance to make an impact on a company that’s shaping the future of financial technology.
+
+
+Responsibilities:
+Collect, clean, and preprocess data from diverse sources to create robust datasets for machine learning projects.
+Ensure data integrity and quality by collaborating with data engineers and data scientists.
+Proven ability to effectively collaborate with cross-functional teams, including data scientists, software engineers, product managers, and business stakeholders
+Assist in the design, development, and fine-tuning of models using frameworks like TensorFlow, PyTorch, or scikit-learn.
+Implement state-of-the-art algorithms in collaboration with senior team members.
+Ability to train models on large datasets and optimize their performance.
+Conduct rigorous testing and validation to guarantee model accuracy and robustness.
+Ability to identify issues and improve features to enhance model performance.
+Ensure documentation is to code and standards.
+Ability to understand algorithms, models and evaluation metrics.
+
+
+Qualifications:
+Bachelor’s Computer Science, Data Science, or a related field.
+Will consider related degrees and equivalent work experience
+Experience with at least one modern language such as Python,Java, C++, or C#
+Experience with at least one of the following TensorFlow, PyTorch, scikit-learn
+Problem-solving and analytical skills.
+Ability to work in a fast paced environment
+
+
+Following are a plus, but not required:
+Experience with cloud platforms (AWS, Azure, GCP).
+Contribution to open-source machine learning projects or publications.

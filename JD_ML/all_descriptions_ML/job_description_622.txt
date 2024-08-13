@@ -1,0 +1,25 @@
+About the job
+SUMMARY
+
+We are seeking a SDET (Software Development Engineer in Test) with strong data analysis skills to join our engineering team. The SDET will be responsible for testing and validating the firmware on vendor crypto miners, ensuring it meets the required performance standards. Additionally, this role will involve analyzing test data to identify patterns, anomalies, and areas for improvement. The ideal candidate will work closely with firmware developers, hardware engineers, and other stakeholders to identify and resolve issues efficiently.
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES include the following. Other duties may be assigned.
+
+Test Planning and Design: Develop and document comprehensive test plans, test cases, and test scripts for firmware validation.
+Execution of Tests: Perform manual and automated tests on firmware to verify compliance with functional and performance requirements.
+Defect Identification: Identify, document, and track defects found during testing using appropriate tools.
+Data Analysis: Analyze test data to identify trends, anomalies, and insights that can help improve firmware quality and performance.
+Regression Testing: Conduct regression testing to ensure that previously identified bugs have been fixed and that new changes have not introduced new issues.
+Documentation: Maintain detailed documentation of test procedures, results, issues, and data analysis findings.
+
+QUALIFICATIONS: To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.
+
+Currently enrolled in a Bachelors program in Computer Science, Electrical Engineering, Mechanical Engineering, or other relevant field.
+Strong interest in the blockchain and energy industry.
+Excellent written and verbal communication skills.
+Proficiency in Microsoft Office
+Strong organizational and time management skills.
+
+
+
+MARA is an Equal Opportunity Employer

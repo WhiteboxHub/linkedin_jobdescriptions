@@ -1,0 +1,46 @@
+About the job
+Vision
+
+Cranium delivers security and trust to AI. As the adoption of AI continues to expand, models are increasingly exposed to new classes of threats, and data emerges as the newest attack surface. Without visibility into the AI assets in use, or monitoring of key metrics and threat indicators, organizations will not be able to keep up with this changing landscape. Our enterprise product is built to integrate with existing AI systems and detect AI threats.
+
+About the role
+
+The AI/ML Engineer Intern will work closely with our data scientists and engineers to develop, implement, and optimize machine learning algorithms and AI solutions. This role offers the opportunity to gain hands-on experience in applying machine learning techniques to real-world problems.
+
+As an AI/ML Engineer Intern, you will:
+
+Assist in the development of machine learning models for various applications such as natural language processing, computer vision, or predictive analytics.
+Collaborate with cross-functional teams to understand business needs and develop AI/ML-driven solutions.
+Contribute to the data collection and preprocessing activities for training and testing of models.
+Perform exploratory data analysis to understand the data and build initial models.
+Help in optimizing algorithms for efficiency and scalability.
+Participate in code reviews, and ensure coding standards and best practices are followed.
+Document model development processes, algorithms, and findings.
+Stay current with emerging technologies in AI and ML to ensure state-of-the-art solutions.
+
+Qualifications
+
+Currently pursuing a bachelor’s or master's degree in Computer Science, Data Science, Electrical Engineering, or a related technical field with a focus on AI/ML.
+Basic knowledge of machine learning frameworks such as TensorFlow, PyTorch, or Scikit-learn.
+Experience with programming languages like Python, Java, or C++.
+Strong mathematical foundation in statistics, linear algebra, or optimization techniques.
+Excellent analytical and problem-solving skills.
+Strong written and verbal communication skills.
+Ability to work both independently and as part of a team.
+
+
+What we offer
+
+We offer the opportunity to make a significant contribution to shaping the future of AI. This opportunity is a collaborative effort between impossibly talented individuals who share a passion for this mission. Our biggest asset is inclusion as we believe that building a diverse community is the key to succeeding on our mission. In addition to the goal and environment we offer:
+
+Gain real-world experience in the rapidly growing field of AI and machine learning.
+Work on projects that have a direct impact on the business.
+Opportunity for full-time employment upon successful completion of the internship.
+Networking opportunities within the industry.
+Competitive stipend.
+
+This Internship will take place between June 2025 and August 2025.
+
+The hourly rate for this position will range between $25/hr - $30/hr.
+
+Cranium is an equal opportunity employer. We encourage applications from candidates of all backgrounds.

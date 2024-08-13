@@ -1,0 +1,41 @@
+About the job
+Position Overview: We are seeking a skilled Google Analytics Specialist (Volunteer) to join our team. This role requires 3-5 years of hands-on experience with Google Analytics and a deep understanding of web analytics and data interpretation. The ideal candidate will be responsible for analyzing website data to optimize marketing strategies and improve user experience.
+
+Main Functional Role: The Google Analytics Specialist will be responsible for implementing, managing, and analyzing web analytics solutions to provide actionable insights that drive business growth and improve the customer journey.
+
+Key Interactions:
+
+Collaborate with marketing, product management, and development teams
+Work closely with stakeholders to understand business requirements and translate them into technical specifications for web analytics
+
+Main Responsibilities:
+
+Implement and manage Google Analytics tracking across various digital platforms
+Analyze website traffic and user behavior to identify trends, insights, and opportunities for optimization
+Create custom reports and dashboards to monitor key performance indicators (KPIs)
+Conduct A/B testing and conversion rate optimization (CRO) to improve website performance
+Provide actionable recommendations based on data analysis to inform marketing strategies and product development
+Ensure data accuracy and integrity by performing regular audits and troubleshooting tracking issues
+
+Technical/Experience Requirements:
+
+Bachelor's degree in Marketing, Data Science, Computer Science, or a related field
+3-5 years of experience with Google Analytics, including implementation, management, and analysis
+Proficiency in Google Tag Manager for managing tracking codes and tags
+Experience with data visualization tools such as Looker, Tableau, or similar
+Strong understanding of web analytics concepts, including segmentation, funnel analysis, and attribution modeling
+Working knowledge of SQL and Python is required and familiarity with HTML, and JavaScript is a plus
+Google Analytics certification is preferred
+Excellent analytical and problem-solving skills with a keen attention to detail
+Strong communication skills to present insights and recommendations to non-technical stakeholders
+
+Mindset and Character:
+
+Analytical thinker with a data-driven approach to decision-making
+Proactive and self-motivated with a strong sense of ownership and accountability
+Ability to work collaboratively in a team environment
+Detail-oriented with a commitment to maintaining data integrity and accuracy
+
+Powered by JazzHR
+
+ri5YWvk7lY

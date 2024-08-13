@@ -1,0 +1,49 @@
+About the job
+About the Company:
+At NETSCOUT, we are an elite force of trailblazers, innovators, and problem solvers. We protect the connected world from cyberattacks and performance and availability disruptions through our unique visibility platform and solutions powered by pioneering deep packet inspection at scale technology.
+
+We are Guardians of the Connected World. We are looking for exceptional talent to join our team.
+About NETSCOUT
+
+NETSCOUT has been helping the world’s largest organizations solve their most complex digital challenges for almost 40 years.
+
+NETSCOUT unlocks insight at unequaled scale, from every data packet to the broadest view of global internet traffic, so the world’s essential organizations can solve problems faster, constantly transform their digital ecosystems, secure what matters – and stay unstoppable for a world that relies on them every second.
+
+About the Marketing Team:
+The NETSCOUT corporate marketing team manages digital communications across a variety of channels, including the corporate website, social media, email outreach, and more. We are seeking a front-end web developer to manage the look and feel of our Drupal website. Tasks will include building pages, editing content, developing layouts, managing site-wide CSS and JavaScript, optimizing for SEO and performance, and testing for web accessibility.
+
+Basic Qualifications/Skills:
+Design and develop responsive webpages in Drupal using HTML5, CSS3, and JavaScript
+Implement clear, consistent, and aesthetically pleasing user experiences across the corporate website
+Improve website performance by optimizing assets, including CSS and JS libraries
+Work closely with coworkers to take new page designs from design to implementation
+Provide valuable input on best practices for the corporate marketing website and user experience
+
+Preferred Qualifications/Skills:
+Strong understanding of HTML5, CSS3, and vanilla JavaScript
+Experience with Twig and the Drupal content management system
+Knowledge of web accessibility guidelines (WCAG) and testing for web accessibility
+3+ years of experience as a Front-End Web Developer (Agency experience a plus)
+Experience with front-end build tools such as Sass
+Experience taking designs from Adobe XD or Figma and creating HTML and CSS pages
+Experience with version control systems such as Git
+Familiar with search engine optimization (SEO) best practices
+Excellent problem-solving skills and keen attention to detail
+Strong communication and collaboration skills
+Bachelor's degree in Computer Science, Web Development, or a related field
+
+Working at NETSCOUT:
+At NETSCOUT, our vision is to create a workplace where every individual feels valued, respected, and empowered to contribute their unique perspectives. We strive to build a diverse workforce that reflects the communities we serve. We also know that life at NETSCOUT is not just about what you will contribute, but what we will give back to you. Besides the promise of interesting work in an exciting and ever-growing industry, NETSCOUT is committed to giving you opportunities to continue to learn and grow. Employees are eligible for a variety of professional development opportunities to help them advance their skills and career. We have heavily invested in our individual, management, and leadership training and development programs. We offer a compensation package that includes the following benefits:
+Generous vacation package
+Equity
+Matching 401k plan
+Tuition reimbursement
+Attractive medical and dental coverage options
+Domestic partner benefits
+Health and Dependent Care spending accounts and Health Savings Account options
+Life and Disability Benefits
+Volunteer Time Off, Matching Charitable Gifts
+
+The US base salary range for this full-time position is $85K to $115K. Our salary ranges are determined by role and level. Within the range, individual pay is determined by additional factors, including job-related skills, qualifications, experience, and location. Please note that the compensation details listed in US role postings reflect the base salary only, and do not include equity, or benefits.
+
+Equal Opportunity Statement: NetScout Systems, Inc. is an EEO/Affirmative Action Employer.

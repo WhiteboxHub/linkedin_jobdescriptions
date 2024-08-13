@@ -1,0 +1,40 @@
+About the job
+Description - External
+
+Job Location: Hybrid (Closest Capgemini office)
+Job Description:
+The Communications delivery platform team’s mission is to provide a reliable, timely and efficient platform with tracking and measurement capabilities to connect with customer base for all promotional and transactional needs. The platform is crucial to the success of company as it directly ties into metrics such as bookings, revenue and customer happiness.
+Responsibilities:
+Collaborate with multi-functional partners such as Product, Operations, and Engineers to craft and deliver high-quality products.
+Build efficient and reusable components and architect reliable, performant, and scalable solution.
+Identify areas of improvement and drive standard processes.
+Qualifications:
+5+ years of relevant software development validated experience
+Comfortable working implementing and shipping changes on both the frontend and backend.
+Proficiency in one or more backend languages (Kotlin, Java, Python)
+Proficiency in modern JavaScript/Typescript libraries and tooling, including React and GraphQL
+Excellent communication skills and a passion to participate in team meetings, working sessions, and code reviews.
+Demonstrated ability to collaborate with Product Management as well as other specialists across the stack.
+ life at Capgemini
+Capgemini supports all aspects of your well-being throughout the changing stages of your life and career. For eligible employees, we offer: 
+Flexible work 
+Healthcare including dental, vision, mental health, and well-being programs
+Financial well-being programs such as 401(k) and Employee Share Ownership Plan
+Paid time off and paid holidays 
+Paid parental leave
+Family building benefits like adoption assistance, surrogacy, and cryopreservation
+Social well-being benefits like subsidized back-up child/elder care and tutoring
+Mentoring, coaching and learning programs
+Employee Resource Groups 
+Disaster Relief 
+About Capgemini Engineering
+World leader in engineering and R&D services, Capgemini Engineering combines its broad industry knowledge and cutting-edge technologies in digital and software to support the convergence of the physical and digital worlds. Coupled with the capabilities of the rest of the Group, it helps clients to accelerate their journey towards Intelligent Industry. Capgemini Engineering has more than 55,000 engineer and scientist team members in over 30 countries across sectors including Aeronautics, Space, Defense, Naval, Automotive, Rail, Infrastructure & Transportation, Energy, Utilities & Chemicals, Life Sciences, Communications, Semiconductor & Electronics, Industrial & Consumer, Software & Internet. 
+Capgemini Engineering is an integral part of the Capgemini Group, a global leader in partnering with companies to transform and manage their business by harnessing the power of technology. The Group is guided every day by its purpose of unleashing human energy through technology for an inclusive and sustainable future. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, cloud and data, combined with its deep industry expertise and partner ecosystem. The Group reported 2023 global revenues of €22.5 billion.
+Get the Future You Want | www.capgemini.com
+Disclaimer
+Capgemini is an Equal Opportunity Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, national origin, gender identity/expression, age, religion, disability, sexual orientation, genetics, veteran status, marital status or any other characteristic protected by law.
+This is a general description of the Duties, Responsibilities and Qualifications required for this position. Physical, mental, sensory or environmental demands may be referenced in an attempt to communicate the manner in which this position traditionally is performed. Whenever necessary to provide individuals with disabilities an equal employment opportunity, Capgemini will consider reasonable accommodations that might involve varying job requirements and/or changing the way this job is performed, provided that such accommodations do not pose an undue hardship. 
+Capgemini is committed to providing reasonable accommodations during our recruitment process. If you need assistance or accommodation, please reach out to your recruiting contact.
+Click the following link for more information on your rights as an Applicant http://www.capgemini.com/resources/equal-employment-opportunity-is-the-law
+Please be aware that Capgemini may capture your image (video or screenshot) during the interview process and that image may be used for verification, including during the hiring and onboarding process!
+Applicants for employment in the US must have valid work authorization that does not now and/or will not in the future require sponsorship of a visa for employment authorization in the US by Capgemini.

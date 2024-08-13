@@ -1,0 +1,52 @@
+About the job
+West Creek 4 (12074), United States of America, Richmond, VirginiaSr. Distinguished Data Engineer/Architect
+
+Distinguished Engineers are individual contributors who strive to be diverse in thought so we visualize the problem space. At Capital One, we believe diversity of thought strengthens our ability to influence, collaborate and provide the most innovative solutions across organizational boundaries. Distinguished Engineers will significantly impact our trajectory and devise clear roadmaps to deliver next generation technology solutions.
+
+This role will be leading the development and implementation plan for our Technology Data Excellence tower, working to develop strategies to optimize our application data architecture design and our data governance practices for operations and telemetry data.
+
+As a candidate for this role, you’re able to seamlessly switch from diving deep into technology with engineers to driving high-level, strategic discussions. You are a naturally curious technologist and stay on top of emerging trends, including prototyping of nascent technologies. You are not afraid to question any existing processes and solutions, yet you display a keen sense of business value proposition and focus on the right priorities.
+
+ Deep technical experts and thought leaders that help accelerate adoption of the very best engineering practices, while maintaining knowledge on industry innovations, trends and practices 
+ Visionaries, collaborating on Capital One’s toughest issues, to deliver on business needs that directly impact the lives of our customers and associates 
+ Role models and mentors, helping to coach and strengthen the technical expertise and know-how of our engineering and product community 
+ Evangelists, both internally and externally, helping to elevate the Distinguished Engineering community and establish themselves as a go-to resource on given technologies and technology-enabled capabilities 
+
+Responsibilities:
+
+ Build awareness, increase knowledge and drive adoption of modern technologies, sharing consumer and engineering benefits to gain buy-in 
+ Strike the right balance between lending expertise and providing an inclusive environment where others’ ideas can be heard and championed; leverage expertise to grow skills in the broader Capital One team 
+ Promote a culture of engineering excellence, using opportunities to reuse and innersource solutions where possible 
+ Effectively communicate with and influence key stakeholders across the enterprise, at all levels of the organization 
+ Operate as a trusted advisor for a specific technology, platform or capability domain, helping to shape use cases and implementation in an unified manner 
+ Lead the way in creating next-generation talent for Tech, mentoring internal talent and actively recruiting external talent to bolster Capital One’s Tech talent 
+
+Basic Qualifications:
+
+ Bachelor’s Degree 
+ At least 9 years of experience in data engineering 
+ At least 5 years of experience in data architecture 
+ At least 2 years of experience building applications in AWS 
+
+Preferred Qualifications:
+
+ Masters’ Degree 
+ 3+ years of data modeling experience 
+ 2+ years of experience with ontology standards for defining a domain 
+ 2+ years of experience using Python, SQL or Scala 
+ 1+ year of experience deploying machine learning models 
+ 3+ years of experience implementing data processing solutions on AWS 
+
+Capital One will consider sponsoring a new qualified applicant for employment authorization for this position.
+
+Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website . Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.
+
+This role is expected to accept applications for a minimum of 5 business days.No agencies please. Capital One is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.
+
+If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com . All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+
+For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).

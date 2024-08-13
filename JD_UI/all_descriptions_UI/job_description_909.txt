@@ -1,0 +1,14 @@
+About the job
+Job Description: 
+ The candidate would need to have minimum 6+ years of experience following technologies. 
+ Object Oriented analysis and design using common design patterns. 
+ Good experience in React.js, Redux, REST. 
+ Experience with JQuery, Ajax, JSON, CSS, HTML. 
+ Good Experience in Testing tools, Unit and Automation testing. 
+ Ability to provide and implement technical solutions to a wide range of difficult problems. 
+ Knowledge in Insurance domain. 
+ Should have good experience in Agile methodologies. 
+ Must worked in onsite-offshore projects. 
+ Should have good communication skill. 
+ Awareness in Devops, Open shift, Kubernetes, Docker. 
+ Understanding in ELK and Logging.

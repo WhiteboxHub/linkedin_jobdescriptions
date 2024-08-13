@@ -1,0 +1,58 @@
+About the job
+Description
+
+Amazon Robotics is seeking a talented and motivated Applied Scientist to invent and deploy novel computer vision and depth estimation models across multiple robotics platforms.
+
+In this position, you will own the science of depth estimation and spatial reasoning. You will improve the algorithms that drive the perception systems across a broad range of problem spaces in the robotics fleet.
+
+This role offers the chance to have broad impact on the next wave of robotics. You will have opportunities to collaborate and work with research scientists, applied scientists, data scientists, software engineers, hardware engineers, and cross-functional teams to deliver the next generation of vision sensing to the Amazon portfolio.
+
+Key job responsibilities
+
+Architect, design, and implement vision systems for robotic platforms
+
+Influence the team's strategy and contribute to long-term vision and roadmap.
+
+Work with stakeholders across , science, and operations teams to iterate on design and implementation.
+
+Maintain high standards by participating in reviews, designing for fault tolerance and operational excellence, and creating mechanisms for continuous improvement.
+
+Prototype and test concepts or features, both through simulation and emulators and with live robotic equipment
+
+Work directly with customers and partners to test prototypes and incorporate feedback
+
+Mentor other engineer team members.
+
+A day in the life
+
+Amazon offers a full range of benefits that support you and eligible family members, including domestic partners and their children. Benefits can vary by location, the number of regularly scheduled hours you work, length of employment, and job status such as seasonal or temporary employment. The benefits that generally apply to regular, full-time employees include:
+
+ Medical, Dental, and Vision Coverage
+ Maternity and Parental Leave Options
+ Paid Time Off (PTO)
+ 401(k) Plan
+
+If you are not sure that every qualification on the list above describes you exactly, we'd still love to hear from you! At Amazon, we value people with unique backgrounds, experiences, and skillsets. If you’re passionate about this role and want to make an impact on a global scale, please apply!
+
+Basic Qualifications
+
+ PhD in engineering, technology, computer science, machine learning, robotics, operations research, statistics, mathematics or equivalent quantitative field
+ 1+ years of building machine learning models or developing algorithms for business application experience
+ Experience programming in Java, C++, Python or related language
+ Experience developing and implementing deep learning algorithms, particularly with respect to computer vision algorithms
+
+Preferred Qualifications
+
+ Experience applying theoretical models in an applied environment
+ Experience in professional software development
+ Experience in patents or publications at top-tier peer-reviewed conferences or journals
+ PhD and 2+ years of relevant industry, post-doc or academic applied research experience in Robotics. Machine Learning, Computer Vision or Perception.
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $136,000/year in our lowest geographic market up to $222,200/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.
+
+
+Company - Amazon.com Services LLC
+
+Job ID: A2710182

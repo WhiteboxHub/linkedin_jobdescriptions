@@ -1,0 +1,26 @@
+About the job
+Title: UI/UX DEVELOPER.
+
+Location: Cupertino, CA or Austin, TX (NO REMOTE)
+
+Type: Contract
+
+Job Description
+
+Details of the role / application, as appropriate:
+
+Design and Build Analytics User Interface
+
+Key responsibilities and expected "output":
+
+Architecture, Design and Development
+
+"Required" tech stack and other related details:
+
+Hands-on experience on JS Frameworks like ReactJS, NodeJS, Charting libraries, build tools and task runners. 
+
+Hands-on experience and the ability to troubleshoot/ analyze web applications using HTML, CSS and comparable languages
+Work closely with UX designers, web developers and other team members to deliver an overall seamless user experience
+Test and document new features developed
+Monitor trends in UI development and advocate technology standards and best-practices
+Basic experience with databases - SingleStore, Vertica or similar.

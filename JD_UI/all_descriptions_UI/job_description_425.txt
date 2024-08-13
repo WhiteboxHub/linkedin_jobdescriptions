@@ -1,0 +1,20 @@
+About the job
+Must pass a drug test and background check once offered position*
+
+
+Join our dynamic team as a Front End Developer with a focus on Journey Orchestration. In this crucial role, you will leverage your expertise to drive campaign execution across our MarTech stack, ensuring seamless customer experiences. We are looking for a candidate who can not only develop and manage sophisticated campaigns but also communicate effectively and adhere to industry regulations. If you have a passion for technology and a commitment to excellence, apply to become a part of our forward-thinking team.
+
+Top Skills:
+
+Eloqua: Expertise in managing and deploying targeted email campaigns.
+Front-End Development: Advanced skills in HTML & CSS for crafting engaging user interfaces.
+Communication: Strong ability to articulate complex concepts to stakeholders and team members.
+Adobe Experience Platform: Proficiency in utilizing Adobe services, including Adobe Journey Optimizer, to build and deploy journeys.
+
+
+Additional Skills:
+
+Proficient in writing SQL queries for data analysis.
+Experience with JSON files (Adobe XDM files).
+Familiarity with web tagging and campaign tracking tools.
+Background in working within highly regulated industries is beneficial.

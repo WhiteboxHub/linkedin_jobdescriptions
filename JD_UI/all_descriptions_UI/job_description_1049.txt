@@ -1,0 +1,83 @@
+About the job
+Job Description
+
+At Boeing, we innovate and collaborate to make the world a better place. From the seabed to outer space, you can contribute to work that matters with a company where diversity, equity and inclusion are shared values. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us.
+
+Software Engineer/Front End Developer
+
+Why This is an Exciting Role:
+
+Join Boeing Intelligence & Analytics as a Software Engineer, where you'll play a pivotal role in developing secure cloud-based applications. You'll have the opportunity to collaborate closely with cross-functional teams, gather user insights, and lead efforts to redesign and optimize applications for improved user experience and workflow efficiency.
+
+What Makes BI&A Different:
+
+As a fully owned subsidiary of The Boeing Company, BI&A offers an optimal mix of a small company environment with exceptional opportunities supported by a large corporation.
+
+Every day, Boeing Intelligence & Analytics supports global missions by building and delivering intelligence, analytics, and cyber solutions that enable users to advance national security. From hardware and software engineering solutions to analytics that keep this nation safe, we create value that meets users’ needs. With vibrant partnerships and innovative approaches, we serve the Intelligence Community through innovation and vision. We have provided our customers with the tools needed to counter evolve global and cyber threats, and to improve wartime decision-making.
+
+
+Our talented employees bring software development, systems engineering, and advanced analytics expertise.
+We offer numerous prime contract opportunities with customers headquartered in Maryland, Virginia, and the District of Columbia, as well as subcontract opportunities that align with our areas of focus and additional opportunities nationwide through our parent company.
+We have current open positions on awarded programs across diverse customer sets and are anticipating upcoming contract awards with a 5-year life cycle and an additional 5 option years.
+Our diverse portfolio allows our employees to move to other projects and teams as they gain further proficiency in their current skill set and learn new skill sets along the way. 
+We offer hands-on access to cutting-edge technologies and a culture of technical excellence. 
+
+
+Experience and Qualifications:
+
+To be eligible for this demanding position, the ideal candidate should demonstrate the following experience and qualifications:
+
+Required Education and Years of Experience:
+
+9+ years of professional experience with a Bachelor's degree or equivalent
+
+7+ years of professional experience with a Master's degree or equivalent
+
+5+ years of professional experience with a PhD or equivalent
+
+Additional experience will be considered in lieu of a degree
+
+Required Qualifications: 
+
+
+Proficiency in Linux/Unix environments
+Strong background in object-oriented programming languages
+Excellent communication skills, both verbal and written
+Exceptional problem-solving abilities in ambiguous scenarios
+Self-starter with a passion for learning and adapting to new technologies
+
+
+Desired Qualifications: 
+
+
+Experience with programming languages such as Ruby, Java, or Python
+Experience with deploying secure web applications on a Linux infrastructure
+Experience with container technologies such as Docker, Kubernetes, Rancher, and OpenShift
+Experience developing micro-services and APIs 
+Implement APIs based on architectural framework and guidelines
+Knowledge of code development, deployment practices, and version control
+Exposure to cloud architectures (e.g., AWS EC2, RDS, S3, VPC, Elastic Search)
+Experience working in an Agile environment (Scrum) using continuous integration and delivery tools
+Ability to capture user issues and feedback
+Ability to create sustainable processes
+
+
+Telework/Remote Availability: Telework available
+
+Work Location: National Capitol Region
+
+Summary Pay Range:
+
+Please note that the information shown below is a general guideline only. Pay is based upon candidate experience and qualifications, as well as market and business considerations.
+
+$139,000 - $160,000
+
+BI&A is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race,color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.
+
+Equal Employment Opportunity is the Law (PDF)
+
+Equal Opportunity Employer:
+
+We are an equal opportunity employer. We do not accept unlawful discrimination in our recruitment or employment practices on any grounds including but not limited to; race, color, ethnicity, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military and veteran status, or other characteristics covered by applicable law.
+
+We have teams in more than 65 countries, and each person plays a role in helping us become one of the world’s most innovative, diverse and inclusive companies. We are proud members of the Valuable 500  and welcome applications from candidates with disabilities. Applicants are encouraged to share with our recruitment team any accommodations required during the recruitment process. Accommodations may include but are not limited to: conducting interviews in accessible locations that accommodate mobility needs, encouraging candidates to bring and use any existing assistive technology such as screen readers and offering flexible interview formats such as virtual or phone interviews.

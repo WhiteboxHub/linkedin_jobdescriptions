@@ -1,0 +1,25 @@
+About the job
+Overview:
+Seeking an AWS Certified Developer to join our client focusing on building scalable, cost-effective data pipelines, data lakes, and analytics systems.
+
+Key Responsibilities:
+Data Ingestion: Implement processes for collecting data from various sources.
+Data Transformation: Develop ETL processes to cleanse and structure raw data.
+Data Storage: Manage and optimize AWS storage solutions (Amazon S3, Redshift).
+Data Processing: Utilize AWS services (AWS Glue, Amazon EMR, AWS Lambda) for large dataset processing.
+Data Monitoring & Optimization: Ensure performance, cost-efficiency, and scalability.
+Integration: Collaborate with stakeholders for AWS-based data analytics solutions.
+Documentation: Maintain thorough documentation of processes and configurations.
+Scalability: Design solutions to handle growing data volumes and business needs.
+Cost Management: Optimize resource usage and recommend cost-saving measures.
+Troubleshooting: Resolve AWS-related issues promptly.
+Must-Have Qualifications:
+Strong experience with AWS big data services.
+Proficiency in Python, Spark, shell scripting, and Linux.
+Nice to Have:
+Investment/Finance industry experience.
+Machine Learning skills.
+
+Skills:
+Strong problem-solving and analytical abilities.
+Effective communication and collaboration skills.

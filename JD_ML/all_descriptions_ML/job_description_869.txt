@@ -1,0 +1,35 @@
+About the job
+Description
+
+The Private Brands team is looking for an Applied Scientist to join the team in building science solutions at scale. Our team applies Optimization, Machine Learning, Statistics, Causal Inference, and Econometrics/Economics to derive actionable insights. We are an interdisciplinary team of Scientists, Engineers, and Economists and primary focus on building optimization and machine learning solutions in supply chain domain with specific focus on Amazon private brand products.
+
+Key job responsibilities
+
+You will work with business leaders, scientists, and economists to translate business and functional requirements into concrete deliverables, including the design, development, testing, and deployment of highly scalable optimization solutions and ML models.
+
+This is a unique, high visibility opportunity for someone who wants to have business impact, dive deep into large-scale problems, enable measurable actions on the consumer economy, and work closely with scientists and economists. As a scientist, you bring business and industry context to science and technology decisions. You set the standard for scientific excellence and make decisions that affect the way we build and integrate algorithms. Your solutions are exemplary in terms of algorithm design, clarity, model structure, efficiency, and extensibility. You tackle intrinsically hard problems, acquiring expertise as needed. You decompose complex problems into straightforward solutions.
+
+We are particularly interested in candidates with experience in predictive and machine learning models and working with distributed systems. Academic and/or practical background in Machine Learning are particularly relevant for this position. Familiarity and experience in applying Operations Research techniques to supply chain problems is a plus.
+
+Basic Qualifications
+
+ PhD, or Master's degree and 4+ years of CS, CE, ML or related field experience
+ 2+ years of building models for business application experience
+ Experience in building machine learning models for business application
+ Experience programming in Java, C++, Python or related language
+ Experience implementing algorithms using both toolkits and self-developed code
+ Experience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing
+
+Preferred Qualifications
+
+ Experience using Unix/Linux
+ Experience in professional software development
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $136,000/year in our lowest geographic market up to $222,200/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.
+
+
+Company - Amazon.com Services LLC
+
+Job ID: A2673714

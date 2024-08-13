@@ -1,0 +1,39 @@
+About the job
+Job Overview:
+We are looking for an experienced and skilled EBS HRMS Technical Consultant to join our team. The ideal candidate will play a key role in the technical implementation, customization, and support of Oracle E-Business Suite HRMS modules, ensuring effective utilization of HR technology to meet the organization's human resources needs.
+
+Responsibilities:
+System Customization and Configuration:
+Customize and configure Oracle EBS HRMS modules to align with organizational HR processes and policies.
+Implement and maintain HRMS setups, including position structures, organization hierarchies, and other relevant configurations.
+Integration Management:
+Design and implement integrations between Oracle HRMS and other enterprise systems, ensuring data accuracy and consistency.
+Collaborate with cross-functional teams to integrate HRMS with related modules and third-party applications.
+Technical Development:
+Develop and implement custom solutions, reports, and interfaces to address specific HRMS requirements.
+Utilize Oracle development tools such as Oracle Forms, Reports, PL/SQL, and Oracle Workflow.
+Data Migration:
+Plan and execute data migration activities related to HR data, ensuring a smooth transition and data integrity.
+Validate and cleanse data during migration processes.
+HR Analytics and Reporting:
+Design and develop custom reports and analytics using Oracle BI Publisher or other reporting tools.
+Implement solutions for HR data extraction, transformation, and loading (ETL) processes.
+Performance Optimization:
+Analyze and optimize the performance of HRMS applications by identifying and addressing performance bottlenecks.
+Monitor system performance and implement improvements as needed.
+User Training and Support:
+Provide technical support to HRMS end-users, troubleshooting and resolving technical issues.
+Conduct training sessions for HR and IT teams on new features, functionalities, and system updates.
+Documentation:
+Create and maintain technical documentation for HRMS customizations, configurations, and development work.
+Keep documentation up to date with changes and enhancements.
+
+Qualifications:
+Bachelor’s degree in computer science, Information Technology, or a related field.
+Proven experience as an EBS HRMS Technical Consultant or in a similar role.
+In-depth knowledge of Oracle E-Business Suite HRMS modules and their technical architecture.
+Proficiency in Oracle development tools, including PL/SQL, Oracle Forms, Reports, and Workflow.
+Strong understanding of HR business processes and HR data structures.
+
+Preferred Qualifications:
+Oracle E-Business Suite HRMS Certification.

@@ -1,0 +1,128 @@
+About the job
+City/State
+
+Virginia Beach, VA
+
+Overview
+
+Work Shift
+
+First (Days) (United States of America)
+
+Sentara Health is seeking a Master Data Management (MDM) Engineer to join our team !
+
+This is a Full-time & 100% Remote position
+
+Candidates must have a current residence in one of the following states: Alabama, Delaware, Florida, Georgia, Idaho, Indiana, Kansas, Louisiana, Maine Maryland, Minnesota, Nebraska, Nevada, North Carolina, New Hampshire, North Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah, Virginia, Washington (state), West Virginia, Wisconsin, Wyoming !
+
+
+Job description :
+
+Responsibilities
+
+Participate in JAD, workshops, and/or business requirements sessions to understand, identify, and detail MDM requirements and key criteria.
+
+Work with stakeholders in gathering the Match & Merge rules, developing & configuring trust matrix, match path, match columns, match rules (Exact and Fuzzy), and data stewardship workflows
+Find gaps and data anomalies and review the same with stakeholders for approval and identify next steps.
+Develop and execute data profiling, data quality analysis and capture results for requirement/user story sessions recommendations and plan, Data Model, Data Dictionary, and Current to Future State Data Map
+Design, develop, and implement architecture for MDM as an enterprise solution.
+Propose and institutionalize principles of MDM data model lifecycle management that will ensure the best standards for data quality management
+Engineer efforts of data quality completeness initiative
+Provide design expertise in developing the data deliverables, including the Data Stewardship Framework, Data Cleansing recommendations including standardization and plan, Data Model, Data Dictionary and Current to Future State Data Map.
+Participate in roadmap planning, recommending technologies and solutions.
+Participate and drive requirements and architecture discussions with cross-functional stakeholders.
+Assist in system analysis, design, development, and testing of patch releases and system upgrades.
+Participate in daily scrum meetings and actively participate in the Jira Teams Plan, issue reporting and assignment, Track, Report, and manage work for the MDM development.
+Ensure the program’s alignment to Enterprise data standards Quality, Metadata, Linkage, Reference data, Provisioning strategy, etc.
+
+
+Required Qualification
+
+Experience in lieu of Bachelor’s Degree
+
+3+ years of relevant experience with a degree
+
+5+ years of relevant experience without a degree
+
+Qualifications
+
+Should have 10+ years of IT experience and 6+ years of experience in MDM architecture, design, development, and support with leading MDM tools.
+Extensive MDM experience in Profisee MDM Tool 
+Should have 5+ years of experience in ETL development, support, and operations with an emphasis on Data Quality
+Should have in-depth data warehouses and data lake concepts.
+Should have an in-depth understanding of Data Warehousing, Data Analysis, Data Profiling, Data Cataloging, Master Data Management (MDM), Data Quality, Data Lineage, Data Dictionary, Data Mapping, Data Policy, and Data Governance 
+Should have a thorough understanding of Master Data hierarchy and implemented multi-domain MDM. 
+Comprehensive knowledge and experience in process improvement, normalization/de-normalization,data extraction, data cleansing and data manipulation
+Should have participated in MDM workshops with business and technology stakeholders.
+Should have written complex SQL queries for data analysis and profiling.
+Should have cross-global location experience and been part of a team of at least 8+ members in a global delivery model.
+Should have experience in gathering business requirements by collaborating with business users, stakeholders, and SMEs.
+Must have experience working with product managers, project managers, business users, applications development teams, DBA teams, and Data Governance teams daily to analyze requirements, design, development, and deployment of technical solutions.
+Should have excellent communication and leadership skills.
+Able to articulate ideas to both technical and non-technical stakeholders.
+Purview, Databricks, and Data Fabrics skills are preferred but not mandatory.
+
+
+Sentara Overview :
+
+For more than a decade, Modern Healthcare magazine has ranked Sentara Healthcare as one of the nation's top integrated healthcare systems. That's because we are dedicated to growth, innovation, and patient safety at more than 300 sites of care in Virginia and northeastern North Carolina, including 12 acute care hospitals.
+
+Sentara Benefits
+
+As the third-largest employer in Virginia, Sentara Health was named by Forbes Magazine as one of America's best large employers. We offer a variety of amenities to our employees, including, but not limited to:
+
+Medical, Dental, and Vision Insurance
+Paid Annual Leave, Sick Leave
+Flexible Spending Accounts
+Retirement funds with matching contribution
+Supplemental insurance policies, including legal, Life Insurance and AD&D among others
+Work Perks program including discounted movie and theme park tickets among other great deals
+Opportunities for further advancement within our organization
+
+
+Sentara employees strive to make our communities healthier places to live. We're setting the standard for medical excellence within a vibrant, creative, and highly productive workplace. For information about our employee benefits, please visit: Benefits – Sentara (sentaracareers.com)
+
+Join our team! We are committed to quality healthcare, improving health every day, and provide the opportunity for training, development, and growth!
+
+Note: Sentara Healthcare offers employees comprehensive health care and retirement benefits designed with you and your family's well-being in mind. Our benefits packages are designed to change with you by meeting your needs now and anticipating what comes next. You have a variety of options for medical, dental and vision insurance, life insurance, disability, and voluntary benefits as well as Paid Time Off in the form of sick time, vacation time and paid parental leave. Team Members have the opportunity to earn an annual flat amount Bonus payment if established system and employee eligibility criteria is met.
+
+For applicants within Washington State, the following hiring range will be applied: $80,787.20 to $134,659Annually
+
+Keywords: #Dice, #indeed, LinkedIn, Talroo-IT ,MDM, Master Data Management, Profisee
+
+Job Summary
+
+Software product development focuses on developing multiple types/categories of software including end-user applications, enterprise data architecture, and operating systems/utility software and tools, which provides a platform for running end-user applications for external customers. The work includes:
+
+Understanding the domain of the software problem and/or functionality, the interfaces between hardware and software, and the overall software characteristics
+Using programming, scripting, and/or database languages to write the software code
+Supporting software test engineering, DevOps, deployment, maintenance, and evolution activities by correcting programming errors, responding to scope changes, and coding software enhancements
+Applying knowledge of software development best practices, including technical design specifications, coding standards, code reviews, source control management, build processes, testing, and operations. 
+
+
+Possesses key certification(s) or another credential (s) determined central to the systems or applications supported.
+
+An Experienced Professional applies practical knowledge of job areas typically obtained through advanced education and work experience. Responsibilities typically include:
+
+ Works independently with general supervision.
+ Problems faced are difficult but typically not complex.
+ May influence others within the job area through explanation of facts, policies, and practices. 
+
+
+Experience in lieu of Bachelor’s Degree
+
+3+ years of relevant experience with a degree
+
+5+ years of relevant experience without a degree
+
+Qualifications:
+
+BLD - Bachelor's Level Degree
+
+Skills
+
+Sentara Healthcare prides itself on the diversity and inclusiveness of its close to an almost 30,000-member workforce. Diversity, inclusion, and belonging is a guiding principle of the organization to ensure its workforce reflects the communities it serves.
+
+Per Clinical Laboratory Improvement Amendments (CLIA), some clinical environments require proof of education; these regulations are posted at ecfr.gov for further information. In an effort to expedite this verification requirement, we encourage you to upload your diploma or transcript at time of application.
+
+In support of our mission “to improve health every day,” this is a tobacco-free environment.

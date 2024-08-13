@@ -1,0 +1,44 @@
+About the job
+Description
+
+Have you ever thought about what it takes to deliver high quality customer service at optimal cost? What would you do to take one of the best customer service organizations in the world to the next level? Do you enjoy working in an entrepreneurial, fast paced environment, solving complex problems and delivering innovative solutions? Do you like to innovate and simplify?
+
+The Worldwide Capacity Planning (WWCP) organization owns the end-to-end workforce planning and execution of Amazon's customer service network. Our forecasting, labor planning, scheduling, and real-time management solutions are responsible for the millions of daily decisions needed to provide efficient and frustration-free support to our customers around the world. We are looking for an experienced professional with excellent analytical skills and strong business acumen to join our Forecasting team.
+
+As a Data Engineer of Forecasting, you will be responsible to design, implement, and support key datasets that provides structured and timely access to actionable business information with the needs of stakeholders always in view. You will collaborate with analysts, research scientists, data engineers, business intelligence engineers, and software development engineers across Amazon to produce complete data solutions. You will help drive the architecture and technology choices that enable a world-class user experience. You will develop a broad range of new big data technologies to solve business problems and know when, how, and which to use and which not to use. You will encourage the organization to adopt next-generation data architecture strategies, proposing both data flows and storage solutions. You will continually improve ongoing reporting and analysis processes, automating or simplifying self-service support for customers. You will participate in developing technical strategy for turning data into actionable information and develop complex queries for ad hoc requests and projects, as well as ongoing reporting. You will optimize the performance of business-critical queries and dealing with ETL job-related issues. This is a high impact role with goals that directly impacts the bottom line of the business. Accurate forecasts drive improvements in cost and quality of our customer service on a global scale.
+
+The ideal candidate has excellent understanding of efficient and scalable data mining and an ability to use the data in financial and statistical modeling. They are comfortable creating strategic recommendations in a thoughtful yet concise manner, and obtaining organizational "buy-in" at senior levels. They are well-organized, can manage multiple analyses/projects simultaneously, and are intellectually curious.
+
+A day in the life
+
+You will work closely with senior leaders across cross-functional stakeholder teams within Amazon to drive collaboration and influence them to prioritize projects, meet objects and adhere to business plans towards shared objectives.
+
+If you are not sure that every qualification on the list above describes you exactly, we'd still love to hear from you! At Amazon, we value people with unique backgrounds, experiences, and skillsets. If you’re passionate about this role and want to make an impact on a global scale, please apply!
+
+Benefits Summary
+
+Amazon offers a full range of benefits that support you and eligible family members, including domestic partners and their children. Benefits can vary by location, the number of regularly scheduled hours you work, length of employment, and job status such as seasonal or temporary employment. The benefits that generally apply to regular, full-time employees include:
+
+ Medical, Dental, and Vision Coverage
+ Maternity and Parental Leave Options
+ Paid Time Off (PTO)
+ 401(k) Plan
+
+Basic Qualifications
+
+ 3+ years of data engineering experience
+ Experience with data modeling, warehousing and building ETL pipelines
+
+Preferred Qualifications
+
+ Experience with AWS technologies like Redshift, S3, AWS Glue, EMR, Kinesis, FireHose, Lambda, and IAM roles and permissions
+ Experience with non-relational databases / data stores (object storage, document or key-value stores, graph databases, column-family databases)
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $118,900/year in our lowest geographic market up to $205,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.
+
+
+Company - Amazon.com Services LLC
+
+Job ID: A2729021

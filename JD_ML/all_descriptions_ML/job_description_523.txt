@@ -1,0 +1,48 @@
+About the job
+2097227-1
+
+Job Description
+
+Senior Machine Learning / Ops Engineer
+
+The Role
+
+The Workplace Investing AI (Artificial Intelligence) Delivery Engineering Chapter team is seeking a Senior Machine Learning / MLOps (Machine Learning Operations) Engineer to design, implement and improve technical solutions for AI model deployment, data pipelines, hosting and API (Application Programming Interface) access tiers in support of the Intelligent Automation AI Product Area. We are looking for an outspoken technologist with a deep passion for data and application design to help build AWS (Amazon Web Services) based AI solutions to help extract data from both databases and unstructured data sources and harness AI algorithms to help automate difficult business problems facing our Workplace operations team. This role will be a great mix of peer mentorship, application, API and data pipeline design, and lots of hands-on work along with partnering with our data scientists and business.
+
+The Expertise And Skills You Bring
+
+Solid Experience (5+ years) as a Machine Learning engineer building feature engineering pipelines, deploying AI models, and optimizing model inference.
+Strong programming skills in Python and Java.
+Solid experience with developing python-based APIs needed (FastAPI / Flask).
+Experience working with security, data, and AI pipeline technologies (RDS/Postgres, Snowflake, Airflow) and infrastructure as Code (Terraform, Python, Ansible, CFT).
+Design and develop machine learning and deep learning systems using ML (Machine Learning) algorithms / frameworks.
+Demonstrated work experience using AWS services: Deploy the models in Sagemaker, cloud-based data platforms like Snowflake or RDS for analytics data hosting. EC2/EKS compute set-up.
+Experience with working on Gen AI solutions with Large Language Models, LangChain, Llama Index, Prompt Engineering and Fine tuning would be a plus
+Superior SQL skills and experience performing deep data analysis on multiple database platforms.
+Bachelor’s Degree or equivalent experience.
+
+
+
+The Team
+
+The team is an agile squad in the Intelligent Automation AI Product Area in Workplace Services. The squad intends to use cloud technologies and deploy solutions using all current software engineering principles. It’s a great chance to work on an agile team to help build innovative and high business value AI powered solutions to improve tough manual operations activities.
+
+Certifications
+
+Company Overview
+
+Fidelity Investments is a privately held company with a mission to strengthen the financial well-being of our clients. We help people invest and plan for their future. We assist companies and non-profit organizations in delivering benefits to their employees. And we provide institutions and independent advisors with investment and technology solutions to help invest their own clients’ money.
+
+Join Us
+
+At Fidelity, you’ll find endless opportunities to build a meaningful career that positively impacts peoples’ lives, including yours. You can take advantage of flexible benefits that support you through every stage of your career, empowering you to thrive at work and at home. Honored with a Glassdoor Employees’ Choice Award, we have been recognized by our employees as a top 10 Best Place to Work in 2024. And you don’t need a finance background to succeed at Fidelity—we offer a range of opportunities for learning so you can build the career you’ve always imagined.
+
+Fidelity's working model blends the best of working offsite with maximizing time together in person to meet associate and business needs. Currently, most hybrid roles require associates to work onsite all business days of one assigned week per four-week period (beginning in September 2024, the requirement will be two full assigned weeks).
+
+At Fidelity, we value honesty, integrity, and the safety of our associates and customers within a heavily regulated industry. Certain roles may require candidates to go through a preliminary credit check during the screening process. Candidates who are presented with a Fidelity offer will need to go through a background investigation, detailed in this document, and may be asked to provide additional documentation as requested. This investigation includes but is not limited to a criminal, civil litigations and regulatory review, employment, education, and credit review (role dependent). These investigations will account for 7 years or more of history, depending on the role. Where permitted by federal or state law, Fidelity will also conduct a pre-employment drug screen, which will review for the following substances: Amphetamines, THC (marijuana), cocaine, opiates, phencyclidine.
+
+We invite you to Find Your Fidelity at fidelitycareers.com.
+
+Fidelity Investments is an equal opportunity employer. We believe that the most effective way to attract, develop and retain a diverse workforce is to build an enduring culture of inclusion and belonging.
+
+Fidelity will reasonably accommodate applicants with disabilities who need adjustments to participate in the application or interview process. To initiate a request for an accommodation, contact the HR Accommodation Team by sending an email to accommodations@fmr.com.

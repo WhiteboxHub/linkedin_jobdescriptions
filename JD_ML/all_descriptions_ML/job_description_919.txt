@@ -1,0 +1,69 @@
+About the job
+Reddit is a community of communities. It’s built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 82M+ daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit redditinc.com.
+
+Location
+
+Reddit is continuing to grow our teams with the best talent. This role is completely remote friendly.
+
+Team Description
+
+The Reddit Ads team is poised to rapidly innovate and grow like no other time in its history. This is a unique opportunity to join a high-performing team that will shape how we monetize the Reddit platform and to help connect redditors with brands they love. We are seeking a product manager who can drive the product vision, development, and execution of our ad products at Reddit.
+
+Role Description
+
+In this role, you will work with our core Ads Delivery team and solve foundational problems relating to ad selection, matching, and ranking. Reddit operates an in house ad stack built from the ground up by our teams. You will collaborate closely with our Engineering, Data Sciences, and Sales team to identify opportunities, and build cutting edge ML tech that improves performance of our ad systems.
+
+Dynamic Product Ads (Shopping Ads) is a strategic area of investment for us, and this role will play a pivotal role in building out this line of business. You will build out key capabilities required for our online retail advertisers, and bring innovative solutions to market.
+
+As a member of a growing product team, you will have significant ownership and responsibility in shaping Reddit’s overall monetization strategy.
+
+Responsibilities
+
+Drive product vision and backlog for key components of Reddit Advertising selection pipeline
+Bring new advertising offerings to market collaborating with our sales, ops, and platform teams
+Collaborate closely with Engineers, PMs, Data Scientists and Product Marketers to ideate, prioritize, and drive projects through the full product cycle, from proposal, experimentation to eventual launch 
+Draw deep insight from competitive research and emerging industry trends to inform strategy and product decisions
+Define and own a set of KPIs that tracks advertiser outcomes, ads marketplace efficiency metrics, adoption, and revenue growth
+
+
+Required Qualifications
+
+4+ years of Product Management experience with at least two years of experience shipping impactful B2B or B2C products, with AdTech experience.
+Experience with areas such as Ads and content personalization, auctions, ranking, search, shopping and retail media networks, content understanding, information retrieval etc.
+Experience working on ML Based AdTech product 
+Experience managing full product lifecycle, integrating customer feedback into product requirements, driving prioritization, navigating trade-offs, and pre/post-launch execution.
+Track record of driving measurable business results
+Engineering or Sciences degree. Excellent analytical sense and experience driving products & business decisions that involve data analysis and experimentation.
+Strong collaborative, communication and interpersonal skills. 
+
+
+Preferred Qualifications
+
+Experience with Shopping Ads
+
+
+Benefits
+
+Annual Personal & Professional development funds
+Comprehensive Health benefits
+Workspace benefits for your home office
+401k Matching
+Family Planning Support
+Flexible Vacation (please use them!) & Monthly Global Wellness Days
+4+ months paid Parental Leave 
+Paid Volunteer time off 
+
+
+Pay Transparency
+
+This job posting may span more than one career level.
+
+In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+
+To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+
+The Base Pay Range For This Position Is
+
+$190,800—$267,100 USD
+
+Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve. Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com.

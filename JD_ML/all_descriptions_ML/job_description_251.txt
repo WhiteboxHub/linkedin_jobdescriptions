@@ -1,0 +1,36 @@
+About the job
+We are a$40 billion diversified Fortune 100 leader with more than 131,000 employees in100 countries worldwide. We invent, build and manufacture technologies thataddress some of the world's toughest challenges. Honeywell Intelligrated iscommitted to helping retailers, manufacturers and logistics providers buildsmarter distribution and fulfillment operations. By employing the ideal mix ofautomation, software and labor, our reliable, high-performance solutionsoptimize productivity and deliver fast, accurate fulfillment to match the speedof modern commerce. Backed by innovative design, industry-leading automationequipment and intelligent warehouse execution software, we're helping customersmake the most of their existing facilities while helping them along theirjourneys of digital transformation.
+
+AtHoneywell Intelligrated, the Simulation Developer is part of the Concept SimulationTeam and plays a key role in the development and design of innovative materialhandling solutions.
+
+Essentialfunctions
+
+The purposeof this technical position at Honeywell Intelligrated is to provide developmentsupport for 3D simulation models of advanced automated system designs. Thisposition works alongside a growing team that designs, develops, and integratessimulation tools and models to support conceptual designs, process to processflows, and proofs-of-concept. The simulations will help drive decisions formaterials handling and advanced automation solutions in small and large models.
+
+YOU MUST HAVE
+
+ Pursuing a Bachelor's degree inComputer Science, Engineering, Related Field of Study, OR equivalent workhistory with a minimum one-year functional coding experience
+ Classroom exposure to Controls Engineeringand/or Object-Oriented Programming using C#/Java
+ Strong Communication Skills
+
+
+WE VALUE
+
+ Advanced Simulation Developmentexperience (ideally with Emulate3D/Demo3D) OR similar simulation tools
+ Familiarity with automatedmaterial handling technologies (conveyor/sortation, AS/RS, robotics)
+ Ability to quickly analyze,incorporate and apply new information and concepts
+ Understanding of various softwaredevelopment lifecycles
+ Knowledge of softwareconfiguration management and change management practices
+ Agile/scrum experience is a plus
+ Ability to convey subtle orcomplex messages clearly, as appropriate for the topic and audience
+
+
+Additional Information
+
+JOB ID: HRD237833
+Category: Engineering
+Location: 7901 Innovation Way,Mason,Ohio,45040,United States
+Nonexempt
+
+
+Honeywell is an equal opportunity employer. Qualified applicants will be considered without regard to age, race, creed, color, national origin, ancestry, marital status, affectional or sexual orientation, gender identity or expression, disability, nationality, sex, religion, or veteran status.

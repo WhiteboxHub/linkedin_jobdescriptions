@@ -1,0 +1,32 @@
+About the job
+Build Anything.
+
+We're the engineering team trusted by the world's largest eCommerce and DTC brands. Our mission is to transform our clients’ businesses, drive growth, and build the highest-scaling and most complex experiences online today.
+
+Our team is composed of vibrant, resourceful, and entrepreneurial people in front-end, full-stack and technical operations roles. At SDG we focus on building a culture that allows everyone to create meaningful and impactful work for our team and our clients’ businesses. Our people are the most valuable assets to this culture. As such, we offer a flexible time off schedule, excellent benefits, a collaborative work environment (as well as permanent remote options), and plenty of opportunity for career growth.
+
+We believe in hiring people, not outsourcing and are committed to growing the best team in this space. We're a close knit crew that highly values strong teamwork, initiative, and quality.
+
+Background.
+
+We are looking for smart, organized, and motivated Front-End and Full-Stack Engineers interested in working on headless (Next.js, Shopify Hydrogen) and non-headless (Liquid) eCommerce sites as well as Node.js based APIs and application development.
+
+Requirements.
+
+Minimum 2-3 years professional web development experience.
+Experience using CSS preprocessors like SASS, with responsive (mobile-first) and cross-browser development and testing.
+Documented experience writing modern (ES6+) clean, readable, well-documented JS.
+Experience with JS frameworks such as, but not limited to, React, Next.js, or Vue.
+Pixel perfect design-to-code implementation.
+Works well with a team and adhering to code guidelines.
+
+
+Details.
+
+Fully Paid Medical, Dental & Vision.
+401k Retirement Plan.
+Work From Home/Anywhere.
+Salary is competitive and commensurate with experience.
+This is a full-time position.
+We are a fully remote team and deeply respect and value work-life balance.
+This position is open to candidates in the United States and Canada only.

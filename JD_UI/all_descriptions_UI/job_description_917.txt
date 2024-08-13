@@ -1,0 +1,21 @@
+About the job
+Role :UI Developer
+Job type :Fulltime 
+Location : Raleigh, NC
+
+Roles and responsibilities: 
+Rich experience in open banking 
+• Building and implementing single page applications using JavaScript and the Angular v16 framework.
+• Good amount of experience in NodeJS using as server and API layer.
+• Writing efficient JavaScript code while also using HTML and CSS
+• Building interface for deferent devices using responsive design.
+• Experience in performance improvements in UI applications using best practices.
+• Experience in accessibility by making website as ADA compliant.
+• Identifying and troubleshooting issues with front end code.
+
+
+Thanks & Regards,
+Sweety Singh
+Tata Consultancy Services
+Mail: singh.sweety2@tcs.com
+Website: http://www.tcs.com

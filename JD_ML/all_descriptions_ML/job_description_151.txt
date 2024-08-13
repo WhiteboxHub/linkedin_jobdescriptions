@@ -1,0 +1,101 @@
+About the job
+Applicants must reside in one of the following states to be eligible for remote work: AL, AZ, CT, FL, GA, ID, IN, KS, KY, LA, MD, MO, NV, NC, OH, OK, OR, PA, TX, WA, WI
+
+Who We're Looking For
+
+We're seeking out an enthusiastic and motivated Data Science Engineer to join our Analytics and Data Science team.
+You are a self-motivated teammate with a curiosity for all things data-related and love to solve problems.
+You have worked with large structured and unstructured datasets to help reveal patterns and solve business problems.
+You have contributed to models, algorithms, and orchestration to solve business problems, drive growth, and increase marketing effectiveness.
+You are excited by the challenge of building something from the ground up.
+You ask lots of questions and are continually learning.
+You take pride in your hard work and are committed to advancing your knowledge and expertise.
+You thrive on collaboration and drive to advance team-based projects and processes.
+
+
+What We'll Expect From You
+
+As a Data Science Engineer, you'll work with a team of Data Scientists on subjects like Customer Lifetime Value, churn, customer experience, and call center activity.
+Enrich data assets to extract valuable business insights and improve the predictive power of ML models.
+Focus on feature engineering, analytics, and the presentation of findings that help drive business results.
+Identify and understand valuable data assets and automate ingestion/ETL processes.
+Clean, prep and verify the integrity of data for use in ML or reporting.
+Develop sophisticated and automated pipelines for ML and Data processing.
+Demonstrate a high degree of critical thinking and problem-solving skills.
+Undertake processing of structured and unstructured data. Advanced skills in Spark is preferred.
+Analyze large amounts of information to discover trends and patterns.
+Present information using data visualization techniques.
+Propose solutions and strategies to business challenges.
+Analytical with a knack for data manipulation, problem-solving, and storytelling.
+You have a passion for creating end-to-end data pipelines along with a solid interest and understanding of ML and AI.
+
+
+What You'll Bring To Us
+
+5+ years of relevant professional experience.
+Experience in data mining, processing, and modeling.
+Ability to solve complex analytical problems.
+Experience in Microsoft tools including Azure Data Factory, Azure Synapse, Data Bricks, and Spark.
+Some experience in data engineering, data science, or operations research/analysis is preferred.
+Demonstrable knowledge of common coding languages (Python, SQL, R) with the ability to learn new skills and apply skills in new environments.
+Experience using business intelligence tools (e.g. Power BI) and data frameworks (e.g. relational models).
+Ability to collaborate with colleagues (IT, Business, and Data Science) and work well with vendors/partners.
+Earned at least a Bachelor’s Degree in Computer Science, Mathematics, Statistics, Applied Mathematics, Data Science, or quantitative field.
+Excellent communication and presentation skills.
+Analytical mind and business acumen, specific experience in Marketing and customer analytics is preferred.
+
+
+About Consumer Cellular
+
+Consumer Cellular is the top-rated wireless provider that provides cellphones and no-contract service plans primarily to those 50+. Founded over 25 years ago on the belief that everyone should have affordable access to the safety and convenience of cellular service, they have become well known for their 100% U.S. based, award-winning customer support. Consumer Cellular has been honored by J.D. Power as #1 in Customer Service among Value MVNOs, 15 Times in a Row, making it the Most Awarded Brand for Wireless Customer Support among Value MVNOs. Additionally, the company has been ranked on the Inc. 5000 list 12 times. The company has been an approved AARP Provider for over 14 years and offers AARP members exclusive discounts on service. The Scottsdale, AZ. based company is privately held with 2300 employees and utilizes the nation's largest voice and data networks, which cover 99 percent of the U.S. population. Consumer Cellular's wireless phones and plans are sold nationwide at leading retailers such as Target and Walmart, as well as directly to consumers at ConsumerCellular.com or (888) 345-5509. For J.D. Power 2022 Wireless Customer Care Mobile Virtual Network Operator Study award information, visit jdpower.com/awards. For cellphone tutorials, features, applications, and company news, connect with Consumer Cellular on Facebook and Youtube.
+
+Pay & Benefits Data (in accordance with the Equal Pay and Opportunities Act)
+
+ Minimum Salary: $100,000
+ Maximum Salary: $140,000
+
+
+This information reflects the anticipated base salary range for this position based on current national data. Minimums and maximums may vary based on location. Individual pay is based on skills, experience and other relevant factors. Our Talent Acquisition team are able to answer any additional questions you may have as you move through the selection process. As part of our Total Rewards package, Consumer Cellular, Inc. offers a broad range of Health, Life, Voluntary Lifestyle and other benefits and perks that enhance your physical, mental, and emotional wellbeing.
+
+Competitive base pay with potential for shift differential, overtime and bonus pay
+Medical insurance (98% company-paid for full-time employee only coverage)
+Dental and Vision insurance (100% company-paid for full-time employee only coverage)
+401(k) company match of 100% up to 6% of your pay
+Discounted Consumer Cellular wireless phone plan for employees
+Paid Time Off (PTO) available following a 30-day waiting period*
+6 company-paid holidays plus 16 hours of floating holiday accrual per year
+Flexible Spending Accounts (FSA) for health care and dependent care expenses
+Life and AD&D insurance equal to 1x your annual earnings (100% company-paid)
+Long-Term Disability insurance (100% company-paid)
+Short-Term Disability insurance (100% company-paid)
+Employee Assistance Program (100% company-paid)
+Education reimbursement
+Employee rewards program
+Accrue up to 40 hours in 1st year for hourly positions and up to 120 hours for salaried positions.
+
+
+Pre-employment Background Check And Drug Screen Is Required.
+
+Primary Location
+
+United States-Work from Home (Remote)
+
+Job
+
+Information Technology
+
+Schedule
+
+Full-time
+
+Travel
+
+Yes, 5 % of the Time
+
+Job Posting
+
+Aug 12, 2024
+
+Unposting Date
+
+Aug 14, 2024

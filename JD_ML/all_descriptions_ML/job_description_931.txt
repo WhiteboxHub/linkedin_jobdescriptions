@@ -1,0 +1,29 @@
+About the job
+Job Description & Program Overview
+
+Summer associates in our Cross-Asset Quantitative Research program will have the opportunity for up to three rotations during the program within groups including credit strategy, rates and rate derivatives strategy, US equity strategy, equity derivatives research and the quantitative systematic investment strategies team.
+
+During the program summer associates will conduct primary research in areas that can include:
+
+Applying machine learning techniques to develop strategies for harvesting risk-premia and asset allocation
+Using data science tools for modelling rates curves and positioning, portfolio construction and forecasting market anomalies
+Identify leading indicators of distress in credit markets and model inflection points in earnings with real-time and big data sets
+Model financial derivatives to identify systematically mispriced assets in order to build alpha generating trading strategies
+Developing smart dynamic hedging solutions for more efficient risk management of client assets
+
+
+Qualifications
+
+Candidates are required to be pursuing a graduate degree (Masters or Ph.D.) from an accredited college or university with a graduation timeframe between December 2025 and June 2026 in a field of Quantitative Finance, Financial Engineering, or a related technical field that blends advanced quantitative methods with finance and economics
+Experience in managing and analyzing large data sets with modern data-science tools is required, strong knowledge and experience in advanced machine learning techniques is critical for select rotations
+Knowledge of financial derivatives including futures and options and their underlying pricing models is key for derivative-team rotations
+Knowledge of Python and Excel, as well as machine learning packages for certain rotations
+Distinguished written and verbal communications skills and an ability to communicate complex ideas clearly and concisely to non-technical individuals
+Ability to work independently and drive toward a completed end product
+Strong attention to detail; exercise strong quality control over own work
+A passion and curiosity appropriate for research combined with an ability to rapidly drive results under uncertainty
+
+
+Bank of America does not complete third party forms from colleges, universities, or other parties.
+
+Bank of America and its affiliates consider for employment and hire qualified candidates without regard to race, religious creed, religion, color, sex, sexual orientation, genetic information, gender, gender identity, gender expression, age, national origin, ancestry, citizenship, protected veteran or disability status or any factor prohibited by law, and as such affirms in policy and practice to support and promote the concept of equal employment opportunity and affirmative action, in accordance with all applicable federal, state, provincial and municipal laws. The company also prohibits discrimination on other bases such as medical condition, marital status or any other factor that is irrelevant to the performance of our teammates.

@@ -1,0 +1,54 @@
+About the job
+Hi
+
+This is Kishore from Futran Solutions Inc. I was reviewing your resume in the Job portal and would like to talk to you regarding an exciting opportunity we have with one of Futran's Fortune clients. Your experience looks like a good fit for the position, and I wanted to know if you would be interested in exploring this opportunity.
+
+I'd appreciate a prompt response on this.
+
+Job Title: Data Solutions Engineer
+
+Job Location: Redwood City, CA, 94063, San Diego, California, 92121 and Seattle, Washington,98109
+
+Project Duration: 12+ Months
+
+Data Engineer
+
+Preferred Locations-
+
+San Diego, CA
+
+Redwood City, CA
+
+Seattle, WA
+
+Job Description
+
+We are inspired by a single vision transforming patients' lives through science. In oncology, hematology, immunology, and cardiovascular disease, each of our passionate colleagues contribute to innovations that drive meaningful change. We bring a human touch to every treatment we pioneer. Join us and make a difference.
+
+The Research Engineering group of Bristol Myers Squibb seeks a resilient, results-oriented Data Engineer to join our motivated and diverse team focusing on informatics and data enablement initiatives in Research and Early Development (R/ED). The individual will play a core role in developing data ingestion pipelines, modeling data and designing storage solutions, and building API's that allow fast, flexible access to ingested data. This hands-on role interfaces closely with data and computational scientists in Informatics and Predictive Sciences and business partners in IT and supports programs spanning both discovery and translational sciences. We are seeking an individual with extensive experience integrating data and building data solutions to make data accessible and meaningful for the R/ED community.
+
+Responsibilities
+
+Explore and evaluate the latest technologies and standard methodologies in Data Engineering and be able to identify software solutions that can address hurdles in data enablement
+Design, implement and manage ETL data ingestion pipelines that ingest vast amounts of genomic, phenotypic, and screening data from public, internal, and partner sources
+Evaluate database and data storage solutions to find the most optimal manner in which to model, store and retrieve data
+Design and build REST API's that allow flexible and easy access to ingested data
+Collaborate with data scientist leads to determine best-suited data enablement methods to optimize the enablement and interpretation of the data for downstream scientists
+Proactively communicate data ecosystem and pipeline value propositions to partnering scientific collaborators
+Collaborate with colleagues across Informatics and Predictive Sciences to make data, including raw/interim data, available to R/ED department personnel as the need arises
+Help ensure good engineering practices and code readability across data engineering
+
+Education And Experience
+
+Bachelor's degree and 4 years of experience or a Master's degree and 2 years of experience in an engineering field
+Excellent skills and deep knowledge in Python and object-oriented programming is a must, including common Python libraries such as pandas, boto3, flask, sqlalchemy, psycopg2
+Excellent skills and knowledge of databases such as Postgres, Elasticsearch, Redshift, and Athena, including distributed database design, SQL vs. NoSQL, database optimizations, and database administration
+Experience with Apache Airflow a plus
+Solid understanding of AWS cloud computing services such as S3, EC2, ECS, Batch, Lambda, EMR, RDS, CloudWatch
+Understanding of the principles of HTTP and basic networking concepts
+Prior experience using REST API's to fetch data is required, experience designing and building REST API's a plus
+Understanding of and experience with containers using Docker, ECS, and ECR
+Proficiency with modern software development methodologies such as Agile, source control, CI/CD, project management and issue tracking with JIRA
+Proficiency with Linux
+Working understanding of and experience with various filesystems and object storage, including Linux filesystems, S3, SFTP, and FTP
+Experience in a life sciences research environment a plus

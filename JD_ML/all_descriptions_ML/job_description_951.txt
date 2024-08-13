@@ -1,0 +1,87 @@
+About the job
+What You Will Do
+
+The Physics and Chemistry of Materials group (T-1) in the Theoretical Division of Los Alamos National Laboratory has an immediate opening for a postdoctoral position in computational chemistry for materials discovery. We seek a talented and motivated researcher with demonstrated expertise in at least one of the following areas:
+
+(i) density functional theory calculations and data science analysis for materials discovery,
+
+(ii) molecular dynamics simulations for reactive chemistry,
+
+(iii) developing python-based workflows for high-throughput calculations.
+
+The successful candidate will have the opportunity to engage with a dynamic, multidisciplinary experimental and theoretical research team that bridges fundamental science with applications to machine learning for materials development, characterization, and testing.
+
+What You Need
+
+Minimum Job Requirements:
+
+Education/Experience: Ph.D. in either theoretical/computational Chemistry, Physics, Physical Chemistry or related area completed within the last 5 years or to be completed soon.
+
+Clearance: Q Clearence
+
+The selected candidate will be required to access Export Controlled Information, which is limited to U.S. permanent residents and citizens.
+
+The successful candidate must have:
+
+Strong knowledge and experience, with an excellent scientific record of publications, in electronic structure calculations and/or molecular dynamics simulations. Preference will be given to candidates that also have experience in performing high-throughput calculations and/or applying data science for materials discovery. 
+Experience with programming using high-level languages such as Python. 
+The ability to work creatively and independently as well as learn and collaborate with experts as a part of a diverse multi-disciplinary team. 
+Strong communication and writing skills, as evidenced by publications, cover letter, and interview. 
+
+Desired Qualifications:
+
+In addition to the minimum requirements, the following qualifications are desired, and preference will be given to candidates satisfying (at least one) of them:
+
+Experience in running electronic structure calculations using Gaussian 16 code and/or molecular dynamics calculations using LAMMPS code. 
+Experience in performing high-throughput calculations using high-throughput frameworks (e.g., pyiron, aflow, or pymatgen, etc) and/or using cheminformatics tools (e.g., RDKit). 
+Experience in machine learning and data science analysis approaches for materials discovery. 
+Experience with high-performance computing, GPU programming, parallel programming, and related paradigms. 
+Willingness to work productively on multiple projects. 
+
+Work Location: The work location for this position is onsite and located in Los Alamos, NM. All work locations are at the discretion of management.
+
+Salary: Competitive salaries are based on the date the PhD degree requirements were completed or the degree was awarded. Starting salary for a new graduate is currently $94,500. For more information go to Postdoc Program website at https://www.lanl.gov/careers/career-options/postdoctoral-research/index.php .
+
+Note to Applicants:
+
+Contact one of the project members with questions about this position: Ivana (née Matanovic) Gonzales (ivana@lanl.gov), Marc Cawkwell (cawkwell@lanl.gov), or Wilton Kort-Kamp (kortkamp@lanl.gov)
+
+To start your application, please upload
+
+CV with the publication list
+a brief statement of research interests and future plans (maximum of one page) with
+the names of at least three references 
+
+Review of applications will begin immediately and will continue until the position is filled. The position has an initial appointment of 2 years, with a possible extension for the 3rd year depending on performance and availability of funds.
+
+Candidates may be considered for a fellowship supported by the Center for Nonlinear Studies (CNLS). Outstanding candidates may be considered for a Director's Postdoc Fellowship or for the prestigious Richard P. Feynman, Darleane Christian Hoffman, J. Robert Oppenheimer, or Frederick Reines Distinguished Postdoc Fellowships.
+
+Additional information on salary ranges and other benefits can be found online at https://www.lanl.gov/careers/career-options/postdoctoral-research/index.php?source=globalheadernav .
+
+For more information about the Postdoc Program, go to https://www.lanl.gov/careers/career-options/postdoctoral-research/index.php 
+
+Where You Will Work
+
+Located in beautiful northern New Mexico, Los Alamos National Laboratory (LANL) is a multidisciplinary research institution engaged in strategic science on behalf of national security. Our generous benefits package includes:
+
+PPO or High Deductible medical insurance with the same large nationwide network
+Dental and vision insurance
+Free basic life and disability insurance
+Paid childbirth and parental leave
+Award-winning 401(k) (6% matching plus 3.5% annually)
+Learning opportunities and tuition assistance
+Flexible schedules and time off (PTO and holidays)
+Onsite gyms and wellness programs
+Extensive relocation packages (outside a 50 mile radius)
+
+Additional Details
+
+Directive 206.2 - Employment with Triad requires a favorable decision by NNSA indicating employee is suitable under NNSA Supplemental Directive 206.2. Please note that this requirement applies only to citizens of the United States. Foreign nationals are subject to a similar requirement under DOE Order 142.3A.
+
+Q Clearance: Selected applicants will be subject to a background investigation conducted by or on behalf of the Federal Government, and must meet eligibility requirements* for access to classified matter. This position requires a Q clearance. and obtaining such clearance requires US Citizenship except in extremely rare circumstances. Dependent upon the position, additional authorization to access classified information may be required, which may or may not be available to dual citizens. Receipt of a Q clearance and additional access authorization ultimately is a decision of the Federal Government and not of Triad.
+
+Eligibility requirements: To obtain a clearance, an individual must be at least 18 years of age; U.S. citizenship is required except in very limited circumstances. See DOE Order 472.2 for additional information. 
+
+New-Employment Drug Test: The Laboratory requires successful applicants to complete a new-employment drug test and maintains a substance abuse policy that includes random drug testing. Although New Mexico and other states have legalized the use of marijuana, use and possession of marijuana remain illegal under federal law. A positive drug test for marijuana will result in termination of employment, even if the use was pre-offer.
+
+Equal Opportunity: Los Alamos National Laboratory is an equal opportunity employer and supports a diverse and inclusive workforce. All employment practices are based on qualification and merit, without regard to race, color, national origin, ancestry, religion, age, sex, gender identity, sexual orientation, marital status or spousal affiliation, physical or mental disability, medical conditions, pregnancy, status as a protected veteran, genetic information, or citizenship within the limits imposed by federal laws and regulations. The Laboratory is also committed to making our workplace accessible to individuals with disabilities and will provide reasonable accommodations, upon request, for individuals to participate in the application and hiring process. To request such an accommodation, please send an email to applyhelp@lanl.gov or call 1-505-664-6947 option 2 and then option 3.

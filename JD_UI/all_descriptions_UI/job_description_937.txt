@@ -1,0 +1,72 @@
+About the job
+Reference #: ODID 69778_LOC_Frontend Developer
+
+Request Type
+
+Temp To Perm
+
+(Temporary resources to be converted to permanent AFS/ASM W2 after 6 months of service with no placement fee; include annual salary expectations)
+
+Subcontractor / MSA terms
+
+Role Title Frontend Developer Start Date for assignment 09/03/2024 End Date for assignment 08/29/2025 # of Resources Needed 1 Hours per Week 40 Job Description This work is Sold Unsold
+
+Specialization : NA
+
+Technical Skills : Skill Years/Level of Experience Microsoft Power Platform Infrastructure P3 Advanced Microsoft Azure Cloud Services P3 Advanced .NET Core P3 Advanced
+
+P1 Beginner (0-2 yrs experience)
+
+P2 Intermediate (3-5 yrs experience)
+
+P3 Advanced (7-10 yrs experience
+
+P4 Expert (10+ yrs experience)
+
+Role Description
+
+M365, Power Platform (PowerApps, PowerAutomate, etc.), SharePoint Online (SPO), Azure Cloud, Azure DevOps and Git, RESTful services and WCF, C#, ASP.NET MVC/Web API and .NET Core, JavaScript/ jQuery/ Power Shell Script, Angular v6 or higher. Toad (or Oracle SQL Developer); or equivalent.
+
+Use modern techniques and frameworks (e.g., HTML5, CSS3, CSS frameworks like LESS and SASS, Responsive Design, Bourbon, Twitter Bootstrap). JavaScript development using modern standards, including strict mode compliance, modularization techniques and tools, and frameworks and libraries (e.g., jQuery, MV* framework such as Backbone.js and Ember.js, D3). Consume RESTful APIs. Use and work in team environments that use agile methodologies (e.g., Scrum, Lean). Use of version control systems, specifically Git and GitHub. Ensure Section 508 Compliance. Use and work with open-source solutions and community. Create web layouts from static images. Create views and templates in full-stack frameworks like Raiols, Express, or Django.
+
+Education Level BA Work Location On-site (Government / AFS Site): San Antonio
+
+On-site %: 0%
+
+Off-site (Contractor Site): Remote Special Requirements Work Authorization :
+
+US Citizens
+
+Dual Citizens
+
+US Persons (Green Card)
+
+Foreign Nationals (H1B etc.)
+
+Required
+
+Clearance Required :
+
+Public Trust
+
+Secret
+
+Top Secret
+
+TS/SCI
+
+None (Background check validation per MSA)
+
+Other______________
+
+Dpas
+
+Not Rated
+
+Rated (Rating #____________)
+
+TBD
+
+NAICS Code and Size Standard for the Subcontract or Purchase Order is: 541512 Computer Systems Design Services ($34M)
+
+Marathon TS is committed to the development of a creative, diverse and inclusive work environment. In order to provide equal employment and advancement opportunities to all individuals, employment decisions at Marathon TS will be based on merit, qualifications, and abilities. Marathon TS does not discriminate against any person because of race, color, creed, religion, sex, national origin, disability, age or any other characteristic protected by law (referred to as "protected status ").

@@ -1,0 +1,52 @@
+About the job
+Kaseya® is the leading provider of complete IT infrastructure and security management solutions for Managed Service Providers (MSPs) and internal IT organizations worldwide powered by AI. Kaseya’s best-in-breed technologies allow organizations to efficiently manage and secure IT to drive sustained business success. Kaseya has achieved sustained, strong double-digit growth over the past several years and is backed by Insight Venture Partners www.insightpartners.com), a leading global private equity firm investing in high-growth technology and software companies that drive transformative change in the industries they serve.
+
+Founded in 2000, Kaseya currently serves customers in over 20 countries across a wide variety of industries and manages over 15 million endpoints worldwide. To learn more about our company and our award-winning solutions, go to www.Kaseya.com and for more information on Kaseya’s culture, please click here: Kaseya Culture.
+
+Kaseya is not your typical company. We are not afraid to tell you exactly who we are and our expectations. We have achieved record levels of success being BOLD, being GRITTY, being ACCOUNTABLE. The thousands of people that succeed at Kaseya are prepared to go above and beyond for the betterment of our customers, and the betterment of their careers and long-term financial wealth.
+
+Front End Developer
+
+Miami, FL (Onsite)
+
+WHAT YOU’LL DO:
+
+The Front End Developer is responsible for designing, implementing, and optimizing Front End solutions to enhance user engagement and adoption of Kaseya’s software products. This role involves close collaboration with various stakeholders to ensure effective digital adoption strategies that drive internal and external engagement.
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES:
+
+Develop and implement WalkMe solutions to enhance user engagement and adoption of Kaseya’s software products.
+Create and customize adoption features to assist users in navigating complex processes.
+Integrate WalkMe with systems and applications.
+Analyze user behavior data to identify pain points and optimize WalkMe implementations.
+Troubleshoot and resolve issues related to WalkMe deployments.
+Collaborate with cross-functional teams, including product management, UX/UI design, and customer support, to understand and meet client needs.
+Ensure timely delivery of WalkMe solutions.
+Conduct thorough testing and quality assurance checks to ensure all WalkMe implementations meet the highest standards of functionality and usability.
+
+WHAT YOU’LL BRING:
+
+Experience working in a deadline-driven software development environment.
+Proven experience as a builder or in a similar role with digital adoption platforms.
+Strong proficiency in JavaScript, HTML, and CSS.
+Experience with front-end development frameworks and libraries (e.g., jQuery, React).
+Knowledge of RESTful APIs and integration techniques.
+Ability to conduct thorough testing of implementations to ensure functionality, usability, and performance.
+Commitment to maintaining high-quality standards in all solutions.
+Excellent debugging and troubleshooting skills, documenting test cases, results, and any issues encountered during the QA process.
+Ability to analyze data and translate insights into actionable improvements.
+Familiarity with Agile or Scrum methodologies.
+Exceptional communication and collaboration skills.
+Attention to detail and a client-focused mindset.
+WalkMe certification is a plus.
+Team player.
+Attention to detail.
+Ability to manage multiple priorities.
+Ability to adapt to changes quickly.
+Creative problem solver.
+
+Join the Kaseya growth rocket ship and see how we are #ChangingLives !
+
+Additional Information
+
+Kaseya provides equal employment opportunity to all employees and applicants without regard to race, religion, age, ancestry, gender, sex, sexual orientation, national origin, citizenship status, physical or mental disability, veteran status, marital status, or any other characteristic protected by applicable law.

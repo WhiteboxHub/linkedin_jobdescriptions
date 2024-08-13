@@ -1,0 +1,36 @@
+About the job
+About SideRamp
+
+SideRamp allows professionals to engage with part-time opportunities in the gig economy, offering a centralized platform that manages high-quality, flexible side gigs. We focus on connecting our users to various freelance and part-time work—from discovering opportunities to streamlining the application process.
+
+USER INTERFACE DEVELOPER
+
+Seeking an experienced User Interface Developer for a healthcare technology team (startup) specializing in medical devices and health management systems. The User Interface Developer will be responsible for designing and developing intuitive and user-friendly interfaces for web and mobile applications. You will collaborate with the UX designers and software engineers to create seamless user experiences that meet the needs of healthcare professionals and patients. This role requires a strong understanding of front-end development, UI design principles, and experience in healthcare technology.
+
+Hourly Commitment: 10 to 15 hours per week
+
+Responsibilities
+
+Develop and maintain responsive web and mobile interfaces for healthcare applications. 
+Collaborate with UX designers to translate wireframes and mockups into high-quality code. 
+Ensure the technical feasibility of UI/UX designs and optimize applications for maximum speed and scalability. 
+Implement and maintain design systems, ensuring consistency across all platforms. 
+Conduct usability testing and gather user feedback to refine and improve interfaces. 
+Stay updated with the latest trends and best practices in front-end development and UI design. 
+Debug and troubleshoot issues, providing timely resolutions to ensure a seamless user experience. 
+Document development processes, coding standards, and best practices. 
+
+Requirements
+
+Bachelor’s degree in Computer Science, Web Development, or a related field. 
+Experience with responsive design and cross-browser compatibility. 
+Strong understanding of UI design principles, including accessibility and usability. 
+Familiarity with version control systems, such as Git. 
+Excellent problem-solving skills and attention to detail. 
+Strong communication skills and the ability to work collaboratively with cross-functional teams. 
+
+Preferred Qualifications
+
+Experience in the healthcare technology industry. 
+
+Note: Job descriptions may have been edited from their original format to ensure fair hiring standards along with consistent formats across all postings. Salary information is not guaranteed and many estimates are based on a yearly, full-time salary. This system can make mistakes.

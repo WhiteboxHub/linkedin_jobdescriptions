@@ -1,0 +1,33 @@
+About the job
+Description
+
+Within Amazon’s Corporate Financial Planning & Analysis team (FP&A), we enjoy a unique vantage point into everything happening within Amazon. As part of that, this role would be part of a team that is responsible for Company’s enterprise-wide financial planning & analytics environment.
+
+ Are you excited about working directly to empower users?
+ Love to get your hands dirty and solve challenging technical issues?
+
+This opportunity is a great fit for someone with data & software development skills who is eager for an opportunity to gain skills in other aspects of building & maintaining an enterprise-scale data & analytics software system.
+
+The data flowing through our platform directly contributes to decision-making by our CFO and all levels of finance leadership. If you’re passionate about building tools that enhance productivity, improve financial accuracy, reduce waste, and improve work-life harmony for a large and rapidly growing finance user base, come join us!
+
+Basic Qualifications
+
+ 5+ years of data engineering experience
+ Experience with data modeling, warehousing and building ETL pipelines
+ Experience with SQL
+ Experience in at least one modern scripting or programming language, such as Python, Java, Scala, or NodeJS
+ Experience mentoring team members on best practices
+
+Preferred Qualifications
+
+ Experience with big data technologies such as: Hadoop, Hive, Spark, EMR
+ Experience operating large data warehouses
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $139,100/year in our lowest geographic market up to $240,500/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.
+
+
+Company - Amazon.com Services LLC
+
+Job ID: A2665785

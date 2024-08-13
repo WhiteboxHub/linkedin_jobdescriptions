@@ -1,0 +1,10 @@
+About the job
+Qualifications Summary
+
+Ideal candidates should hold a Master's or Ph.D. in Computer Science, Statistics, Data Science, or a related field, demonstrating a deep understanding of software engineering best practices. This includes proficiency with Git for version control, conducting thorough code reviews, and implementing robust testing methodologies. They must possess strong backend server and SDK development skills, with expertise in languages like Go (GRPC), Java, and Python.
+
+Experience with Google Cloud Platform (GCP) Vertex AI components and SDK is essential, as is proficiency in developing UI components using React. The role requires a strong ability to integrate these technologies seamlessly to build scalable and efficient solutions.
+
+Mandatory Skills: GoLang, Python or GRPC or Java, GCP Vertex AI, React, SDK
+
+Skills: gcp,grpc,python,java,react,sdk,vertex

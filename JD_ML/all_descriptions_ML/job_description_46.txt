@@ -1,0 +1,47 @@
+About the job
+Join us at Cleric
+
+Cleric is an AI-powered agent designed to manage and resolve issues in production environments autonomously. It uses an LLM-based reasoning engine to react to, interpret, and implement solutions to production issues, even those it's encountering for the first time.
+
+We are building a future where engineers can concentrate on software development while Cleric takes care of the production environment. Our mission is to develop autonomous software that can manage, repair, and optimize itself—the holy grail.
+
+Now is a divine time to join. We're a small group of veterans in AI, software, and infrastructure, backed by a leading AI venture capital firm and Silicon Valley angels.
+
+About The Role
+
+We’re hiring an AI Engineering Intern to help agentify our team and to improve the performance of our AI agent, Cleric.
+
+In this role you will help to augment our team with agent-based frameworks to increase our ability to faster and to make better decisions. Additionally, you will help us build a product that is robust, reliable, and always improving.
+
+You will integrate the latest AI techniques to build a product that can respond quickly to incidents, reason with high reliability, provide accurate resolutions, and learn from its experiences.
+
+Ideally, these qualities describe you
+
+You have a solid foundation in software engineering and are comfortable with Python, TypeScript, and Go. 
+You love building with generative AI and have a track record of shipping projects. You may have a background in ML, or maybe you’re self taught. 
+You understand how to build an evaluation system for agent based systems. Everything from modeling the problem, collecting evaluation data, and optimizing the agent. 
+You know how to leverage the latest tools in building generative AI products, including evaluation, retrieval, vector search, knowledge graphs, and evaluations. 
+You have a strong grasp of prompt engineering. You can effectively interact with language models to elicit desired responses or behaviors. 
+You have experience in integrating, tuning, or training foundation models. 
+
+Examples of what you’ll do
+
+As an AI Engineer Intern, you will work closely with the product team to enhance the performance and accuracy of our LLM-based reasoning engine, memory module, evaluation stack, and simulation environment. 
+You will apply the latest AI developments to both our team and our product, ensuring that Cleric remains a best-in-class SRE teammate. 
+You will help us iterate towards product-market fit in an early-stage, open-ended environment. 
+Embody our end users (engineers with operational responsibilities), immersing yourself in their needs, pains, and aspirations. 
+
+How we work
+
+Small teams, big impact: We believe that small teams can deliver great products. 
+Culture matters: We value a positive and inclusive work environment. 
+In-person collaboration: We believe in working closely to deliver the best results. 
+AI-first approach: We don't simply build AI products; we augment ourselves with it. 
+
+Interview process
+
+First contact: A quick chat with one of the founders. 
+Take-home assignment: You’ll work on a small take home project that leverages generative AI. 
+System design session: We will work through a system design problem with you. This will be related to the work you do daily. 
+Culture fit discussion: We'll talk about your background, your motivations, and our team culture. 
+Food: Grab lunch or dinner with us!

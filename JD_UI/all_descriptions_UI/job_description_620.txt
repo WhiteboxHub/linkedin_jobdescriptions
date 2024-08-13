@@ -1,0 +1,15 @@
+About the job
+Job Description:
+ 
+ Requirement:- 
+ Should have a good understanding of AEM components and editable templates. 
+ Have experience implementing analytics on Adobe AEM components. 
+ Understand data layer, analytics concepts for data layer enablement and data tracking in AEM components. 
+ Experience in building customer components , using Core Components, Sightly Good experience with AEM 6.5 -Editable Templates, Sling Models, Experience and Content Fragments. 
+ Should have good knowledge of HTML, CSS, JavaScript, Ajax, JSON and XML. Should have knowledge of OSGI framework and knowledge of creating and consuming OSGI bundles(R6) Should have knowledge of CRX/JCR repository Should have knowledge of creating and using custom workflows Should have knowledge Adobe AEM DAM Participation in development/enhancement activities based on design proposed by architect/tech lead Provide defect fixes and support during warranty period. 
+ Coordination with On-Site Engineers and attending customer calls. 
+ Raising risks, issues and escalation to senior management and customers. 
+ To create all quality documents, collect metrics data and conduct Audits. 
+ To perform Value creation and KM activities. 
+ To create project plans and keep track of schedule for on time delivery as per the defined quality standards . 
+ To ensure process improvement and compliance, and participate in technical design discussion and to review technical documents.

@@ -1,0 +1,42 @@
+About the job
+We are seeking a highly motivated and creative Generative AI Image Creation Intern to support several of our teams by utilizing generative AI tools to create images for a number of different purposes. This role offers an excellent opportunity to gain hands-on experience with state-of-the-art AI techniques and contribute to real-world projects.
+
+Image Creation: Work with multiple stakeholders, both technical and non-technical, to gather imagery requirements and use generative AI tools to create images for the business. Images could be used for design visualization, training, marketing, or other purposes.
+Experimentation: Conduct experiments with various AI architectures and algorithms to optimize image generation results.
+Evaluation: Evaluate GenAI tool performance and suggest workflows that streamline image creation for our business.
+Documentation: Document findings, processes, prompt suggestions, and other information with the goal of creating standard work. 
+Collaboration: Work closely with cross-functional teams including marketing, engineers, and product managers to integrate AI-generated images into company projects.
+Stay Updated: Keep abreast of the latest advancements in generative AI and propose new techniques that can be applied to our projects.
+Currently pursuing or recently completed a degree in Graphic Design, Computer Science, Artificial Intelligence, Data Science, or a related field.
+Proficeincey in prompt engineering and exposure to several image creation GenAI platforms like DALL-E, Midjourney, Stable Diffusion, Adobe Firefly, or Generative AI by Getty.
+Knowledge and understanding of pricing models for various GenAI tools. 
+Experience with image editing software.
+Ability to work independently as well as collaboratively in a team environment.
+Excellent communication and documentation skills.
+Prior experience with generative AI projects or internships.
+Knowledge of industrial process, energy-generation, or similar equipment and systems.
+Exposure to CAD software and its benefits and limitations.
+Familiarity with of machine learning principles and generative models such as GANs, VAEs, etc.
+Knowledge of deep learning techniques and neural network architectures.
+Proficiency in programming languages such as Python and familiarity with AI frameworks like TensorFlow or PyTorch.
+Passion for AI and a strong desire to learn and grow in the field.
+
+Primary Location
+
+US-OH-Akron
+
+Job
+
+Intern / Co-op
+
+Organization
+
+B&W
+
+Job Posting
+
+Jul 2, 2024
+
+Remote Status
+
+Hybrid

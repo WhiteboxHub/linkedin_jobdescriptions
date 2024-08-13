@@ -1,0 +1,46 @@
+About the job
+Job Title: AI/Client Engineer
+
+Location: Irving, TX (Onsite)
+
+Job type:  H1B Accepted Fulltime only no C2C
+
+Job Description
+
+Good understanding and hands on with LLM (Llama, Mistral, Open AI APIs) Lang chain, Haystack, LlamaIndex.
+
+Good experience in using Vector Database like Pinecone, Milvus, PGVector.
+
+Good experience in building Python MS by invoking Open AI APIs/LLMs and facilitate the end-to-end conversation.
+
+Handson experience and understanding on Python, FastAPIs, Pydantic etc.
+
+Handson experience with Transformer Models (GPT) and fine-tuning models.
+
+Handson exp with Knowledge Graph and using Graph Database like Neo4j.
+
+Experience with Speech to Text Libraries will be added advantage.
+
+Expertise In Core Python.
+
+Road to Data Science.
+
+Machine Learning and AI.
+
+Deep Learning.
+
+Responsibilities
+
+Leads the management, execution, and delivery of large-scale programs (multi-year, large cost and scope, etc.) and/or the oversight and governance of programs to ensure alignment to the line of business strategic imperatives and to monitor program health.
+
+Works to achieve multi-year program deadlines, scope, and overall program benefits. Defines multiple program strategies based on business demand and return on investment expectations.
+
+Partner with customer leadership on establishing effective change & communication plan, information distribution, and cross-CoSA collaboration.
+
+Enforces the agile process workflow and holds individual team members accountable for responsibilities and commitments.
+
+Anticipates challenges, identifies risks, and recommends mitigations and solutions. Owns and drives those solutions. Encourages and coach teams to be self-accountable and self-empowered.
+
+Leads key Agile meetings such as Scrum workshops to shape discussions and share best-in-class practices. Impeccable communication and time management skills, and expertise in project management and collaboration tools such as JIRA, Confluence etc.
+Desired Skills and Experience
+GENAI, GEN AI, GENERATIVE AI, LLM, LLAMA, MISTRAL, OPEN AI, OPENAI

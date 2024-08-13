@@ -1,0 +1,76 @@
+About the job
+We engage the most inspired minds to do their best work wherever they work best—powering the freedom to create worldwide.
+
+WP Engine is the most trusted WordPress technology company, powering over 1.5M digital experiences in 150+ countries for businesses of all sizes. WP Engine’s all-in-one platform enables customers to design, build, power, and manage extraordinary WordPress, eCommerce, and headless sites—all thanks to a nonstop commitment to innovation, award-winning WordPress expertise, and a set of core values that guides us every day. 
+
+The Role in a Nutshell
+
+We need a capable web developer skilled in modern WordPress development, particularly native block development using React, to join the team reshaping the public face of WP Engine. This developer will work with other developers, designers, and partners across our Marketing department to build the high-traffic, high-performance, high-visibility sites we are responsible for, running on both headless and traditional WordPress. If that kind of responsibility and technology is appealing, read on!
+
+What's Cool About This Job
+
+Web Developers in WP Engine's Marketing department work remotely for a well-known, growing WordPress company. They use some of the very latest technologies in a friendly and supportive team of expert developers. The development team works alongside our internal partners to build our company's public presence. We also support our company internally by sharing our expertise and knowledge with other parts of the business. We are working to improve our sites and technology because we believe "Design Matters" and that we should be "Built for Growth" (check out the “Core Values” section of wpengine.com/careers!).
+
+We are constantly improving our web experience, from our primary website (a headless WordPress application built on top of the WP Engine Atlas platform) to our other sister sites using traditional WordPress. To succeed, we need a skilled developer who can start contributing quickly. A strong understanding of WordPress is essential; experience with React—particularly within the WordPress context—is needed. Familiarity with Next.js and GraphQL will be helpful. Bonus points for strengths in some of the following: testing, automation, CI/CD, continuous improvement, accessibility, other headless frameworks, API development, and SEO.
+
+The day to day
+
+Most Days, You’ll Work With Your Team On All Aspects Of Building Sites On Atlas. That Might Involve Creating New Components, Modifying Existing Components, Migrating Content From Old WordPress Sites To Our Atlas Site, Improving Tooling, Working With An Engineering Team On Ways To Improve The Platform, Or Identifying Gaps In Our Processes. That Said, We Work In a Fast-paced Environment With a Variety Of Different Marketing Projects And Business Needs, So Some Days Or Weeks You Might End Up Working On One Of The Other, Non-headless WordPress Sites Your Team Maintains. Some Of The Things You’ll Do Often
+
+Collaborate with your team to build elegant and compelling user experiences on the web, or build the behind-the-scenes systems that get the data we need—often pair or mob programming
+Work with your team to ensure our architecture, plugins, and internal developer experience are well-crafted
+Collaborate with our Marketing team (or Product & Engineering partners) to understand and create our next project
+Address security vulnerabilities to improve security of our sites
+Learn something new, or teach something new to a colleague
+Embrace the challenges that come with our fast-paced environment and high visibility sites
+
+Minimum Qualifications
+
+Your skills and expertise
+
+Demonstrated understanding of modern WordPress development
+Demonstrated expertise in native block development using React
+Familiarity with the WordPress Block Editor and theme.json
+Competence in React, JavaScript, and PHP
+Proven experience in modern front-end web development, including writing HTML that is semantic and accessible, styled by modern CSS
+Ability to approach obstacles as challenges to be overcome
+Able to communicate effectively with others, teach others, learn from others, and build working relationships with colleagues and collaborators, both technical and non-technical
+The desire to work in a team that values elegance and constructive collaboration
+
+Preferred Skills
+
+WordPress headless experience; specific experience with Atlas or Faust.js is a big plus, but definitely not required
+Familiarity with Next.js and GraphQL
+Build and automation tools, such as Composer, Yarn, Webpack, Docker, CI/CD tools, shell scripting
+Solid understanding of automated testing and monitoring
+Server administration experience (e.g., nginx configuration, Cloudflare, log analysis, etc.)
+Marketing and analytics experience
+Systems thinking and ability to think at multiple levels of abstraction
+Lean, DevOps, and/or experience implementing Agile principles
+
+The Perks And Benefits
+
+Company Stock Options (Every employee is an owner in the company)
+Great Health Benefits (Medical, Dental, Vision, Life Insurance, Accident & Critical Illness)
+Fertility Benefits (IVF/Fertility drug coverage)
+HSA Company contribution $750 for employee / $1500 for family
+401(k) with a 4% match
+Disability Insurance 
+Paid Family and Caregiver’s Leave
+Employee Assistance Program
+Generous Vacation Time (Who doesn’t like time off)
+One-time $500 payment to set up your home office
+4 Company Wellness Days a year
+1 floating holiday
+$100 monthly wellness allowance to spend on what you want
+Free subscription to Calm
+Pet Insurance
+On-going education through LinkedIn Learning, Workday Learning and our Career Growth Portal
+
+At WP Engine, we strive to have the broadest possible view of diversity, going beyond visible differences to include the background, experiences, skills, and perspectives that make each person unique. WP Engine is proud to be an equal opportunity workplace and is committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, Veteran status, or any other basis protected by federal, state, or local law.
+
+Base Salary Range
+
+$100,000.00 - $150,000.00
+
+We believe that compensation should be reflective of the impact you have within the organization relative to the market value of your role. The estimated base salary range for this position is as listed above. Some roles may also be eligible for overtime pay. Our salary ranges are determined by job role and responsibilities and level. The range displayed on each job posting reflects the minimum and maximum target for salaries for the position nationwide. The actual base pay will vary based on various factors including job-related skills and individual qualifications objectively assessed during the interview process. Your talent acquisition partner can share more about the total rewards package at WP Engine including any additional total rewards components such as equity, variable pay plans (if applicable), and benefits during the hiring process.

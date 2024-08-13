@@ -1,0 +1,32 @@
+About the job
+Responsibilities
+
+Kforce has a client that is seeking a Junior Data Engineer in Juno Beach, FL. Responsibilities:
+
+ Junior Data Engineer will engage in the creation and maintenance of data pipelines, ETL workflows, and visualization suites
+ Leverage Python for data extraction, transformation, and loading tasks
+ Utilize Salesforce for CRM-related data needs and operations
+ As a Junior Data Engineer, you will ensure the accuracy and integrity of data across various systems
+ Collaborate cross-functionally with data analysts, data scientists, and business units to fulfill data needs as well as understanding the business impacts
+ Participate in data modeling and architecture design
+ Graph, chart, and present statistical findings for stakeholders
+
+Requirements
+
+ Bachelor's degree in Computer Science, Engineering, Statistics, or a related field
+ 1-2 years of relevant professional experience
+ Knowledge of Salesforce CRM, including customizing objects, profiles, roles, permissions, and workflows
+ Familiarity with data visualization tools (Tableau, Power BI, etc.) is a plus
+ Proficiency in Python, SQL, and other programming or scripting languages
+ Excellent problem-solving skills and attention to detail
+ Strong written and verbal communication skills in English
+
+The pay range is the lowest to highest compensation we reasonably in good faith believe we would pay at posting for this role. We may ultimately pay more or less than this range. Employee pay is based on factors like relevant education, qualifications, certifications, experience, skills, seniority, location, performance, union contract and business needs. This range may be modified in the future.
+
+We offer comprehensive benefits including medical/dental/vision insurance, HSA, FSA, 401(k), and life, disability & ADD insurance to eligible employees. Salaried personnel receive paid time off. Hourly employees are not eligible for paid time off unless required by law. Hourly employees on a Service Contract Act project are eligible for paid sick leave.
+
+Note: Pay is not considered compensation until it is earned, vested and determinable. The amount and availability of any compensation remains in Kforce's sole discretion unless and until paid and may be modified in its discretion consistent with the law.
+
+This job is not eligible for bonuses, incentives or commissions.
+
+Kforce is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.

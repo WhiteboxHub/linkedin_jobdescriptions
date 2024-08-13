@@ -1,0 +1,27 @@
+About the job
+Showcase your software engineering talents using ML-powered profiles. Loved by 11k+ engineers! Backed by Antler.
+
+The Role
+
+You Will Be Responsible For
+
+Developing scripts to process structured and unstructured data.
+Recommending, developing and implementing ways to improve data reliability, efficiency and quality.
+Supporting translation of data business needs into technical system requirements.
+Working with stakeholders to understand needs in order with respect to data structure, availability, scalability and accessibility.
+Developing high-quality code to build and deploy machine learning models.
+
+Ideal Profile
+
+You possess a degree in Computer Science, Applied Mathematics, Engineering or related field.
+You have at least 1 year experience, ideally within a Data Engineer role.
+Demonstrated experience working with large and complex data sets as well as experience analyzing volumes of data.
+You are a strong networker & relationship builder
+You pay strong attention to detail and deliver work that is of a high standard
+You are a self-starter and demonstrate a high level of resilience
+
+What's on Offer?
+
+Great work environment
+Excellent career development opportunities
+Leadership Role

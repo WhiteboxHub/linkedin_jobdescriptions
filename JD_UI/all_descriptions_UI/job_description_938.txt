@@ -1,0 +1,71 @@
+About the job
+Make your mark at Comcast -- a Fortune 30 global media and technology company. From the connectivity and platforms we provide, to the content and experiences we create, we reach hundreds of millions of customers, viewers, and guests worldwide. Become part of our award-winning technology team that turns big ideas into cutting-edge products, platforms, and solutions that our customers love. We create space to innovate, and we recognize, reward, and invest in your ideas, while ensuring you can proudly bring your authentic self to the workplace. Join us. You’ll do the best work of your career right here at Comcast. (In most cases, Comcast prefers to have employees on-site collaborating unless the team has been designated as virtual due to the nature of their work. If a position is listed with both office locations and virtual offerings, Comcast may be willing to consider candidates who live greater than 100 miles from the office for the remote option.)
+
+Job Summary
+
+Make your mark at Comcast -- a Fortune 30 global media and technology company. From the connectivity and platforms we provide, to the content and experiences we create, we reach hundreds of millions of customers, viewers, and guests worldwide. Become part of our award-winning technology team that turns big ideas into cutting-edge products, platforms, and solutions that our customers love. We create space to innovate, and we recognize, reward, and invest in your ideas, while ensuring you can proudly bring your authentic self to the workplace. Join us. You’ll do the best work of your career right here at Comcast. Responsible for planning, designing, building, monitoring, and supporting new and existing software and lightning applications in a team of Software Development Engineers within our On-Device Commerce engineering organization. This includes the prioritization, planning, designing, development, testing, deployment and support of software, middleware, and lightning applications in a 24x7x365 environment. This position requires strong engineering, operations, and quality disciplines while working in an agile environment. The best candidate is someone who excels in ‘big picture’ thinking while also being able to work in the details. They understand what’s required to solve a problem in a variety of dimensions. Collaborates closely with business partners, product teams, program management, and other engineering teams to understand the project requests, discussing scope and budget, while working towards agreements on timelines.
+
+Job Description
+
+This person will provide guidance, mentoring, and support to other Engineers and team members to drive the team to continuous improvement. It is imperative to integrate knowledge of business and functional priorities with technology strategies. Acts as a key contributor in a complex and crucial environment. Expected to lead teams or projects and share expertise.
+
+Core Responsibilities
+
+Collaborates with project stakeholders to identify product and technical requirements. Conducts analysis to determine integration needs.
+Designs new software and web applications, supports applications under development and customizes current applications. Develops software update process for existing applications. Assists in the roll-out of software releases.
+Trains junior Software Development Engineers on internally developed software applications.
+Oversees the researching, writing and editing of documentation and technical requirements, including evaluation plans, test results, technical manuals and formal recommendations and reports.
+Keeps current with technological developments within the industry. Monitors and evaluates competitive applications and products. Reviews literature, patents and current practices relevant to the solution of assigned projects.
+Provides technical leadership throughout the design process and guidance with regards to practices, procedures and techniques. Serves as a guide and mentor for junior level Software Development Engineers.
+Assists in tracking and evaluating performance metrics. Ensures team delivers software on time, to specification and within budget.
+Works with Quality Assurance team to determine if applications fit specification and technical requirements.
+Displays expertise in knowledge of engineering methodologies, concepts and skills and their application in the area of specified engineering specialty.
+Displays expertise in process design and redesign skills. Presents and defends architectural, design and technical choices to internal audiences.
+Consistent exercise of independent judgment and discretion in matters of significance.
+Regular, consistent and punctual attendance. Must be able to work nights and weekends, variable schedule(s) and overtime as necessary.
+Other duties and responsibilities as assigned.
+
+Key Technical Skills Required Are
+
+Strong knowledge of Lightning Application development and JavaScript/NodeJS.
+Experience working in GitHub for version control and collaboration.
+Possess expertise in integrating with various back-end service architectures, including RESTful APIs and GraphQL.
+Knowledge of web performance optimization techniques.
+Strong problem-solving and debugging skills.
+Knowledge of Linux.
+
+Additional Preferred Skills Are
+
+ELK - Elasticsearch, Logstash, and Kibana.
+Amazon Web Services.
+Concourse
+Scrum/Agile and working in tools like JIRA and Confluence
+
+Employees At All Levels Are Expected To
+
+Understand our Operating Principles; make them the guidelines for how you do your job.
+Own the customer experience - think and act in ways that put our customers first, give them seamless digital options at every touchpoint, and make them promoters of our products and services.
+Know your stuff - be enthusiastic learners, users and advocates of our game-changing technology, products and services, especially our digital tools and experiences.
+Win as a team - make big things happen by working together and being open to new ideas.
+Be an active part of the Net Promoter System - a way of working that brings more employee and customer feedback into the company - by joining huddles, making call backs and helping us elevate opportunities to do better for our customers.
+Drive results and growth.
+Respect and promote inclusion & diversity.
+Do what's right for each other, our customers, investors and our communities.
+
+Disclaimer
+
+This information has been designed to indicate the general nature and level of work performed by employees in this role. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities and qualifications.
+
+Comcast is proud to be an equal opportunity workplace. We will consider all qualified applicants for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability, veteran status, genetic information, or any other basis protected by applicable law.
+
+Additionally, Comcast provides best-in-class Benefits to eligible employees. We believe that benefits should connect you to the support you need when it matters most, and should help you care for those who matter most. That’s why we provide an array of options, expert guidance and always-on tools, that are personalized to meet the needs of your reality – to help support you physically, financially and emotionally through the big milestones and in your everyday life. Please visit the compensation and benefits summary  on our careers site for more details.
+
+Education
+
+Bachelor's Degree
+
+While possessing the stated degree is preferred, Comcast also may consider applicants who hold some combination of coursework and experience, or who have extensive related professional experience.
+
+Relevant Work Experience
+
+7-10 Years

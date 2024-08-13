@@ -1,0 +1,58 @@
+About the job
+If you are a dedicated and detail-oriented Senior AEM Developer with a strong background in Adobe Experience Manager and related tools, and you thrive in a collaborative and fast-paced environment, we encourage you to join our team in building innovative web applications with AEM, where your expertise will be crucial in delivering high-quality, secure, and integrated solutions.
+
+Responsibilities
+
+
+Design and develop web applications using the AEM including components, workflows, dialogs, Sling model, Sling exporter, OSGI bundles, Schedulers, Event listeners, Maven, Git and Jenkins
+Familiarity of all AEM building blocks including editable templates,Core components,Touch UI dialogs,CUG,Sling API etc., including the build and deployment processes
+Develop components using the front-end technologies that includes HTL (Sightly), HTML, JavaScript, CSS.
+Ability to develop component based on user story specifications
+Follow best practices for secure web programming and deployment. Adhere to internal best practices with respect to coding standards, unit test coverage,
+Participate actively as part of an Agile Scrum team.
+
+
+Requirements
+
+
+Minimum 5 to 8 years of relevant experience is required.
+Strong development experience in AEM 6.x/CQ5.
+Proficiency in AEM building blocks and front-end technologies.
+Experience with AEM integration with 3rd party services.
+Knowledge of secure web programming and deployment best practices.
+Technical skills in JSP, Angular, REST-based web services, and session management.
+
+
+Nice to have
+
+
+Good to have certification as AEM developer.
+Exposure to Headless content services via content fragments/experience fragments will be added advantage.
+
+
+Technologies
+
+
+REST-based web services
+Session management
+
+
+We offer
+
+
+Insurance coverage 
+Paid leaves – including maternity, bereavement, paternity, and special COVID-19 leaves. 
+Financial assistance for medical crisis 
+Retiral Benefits – VPF and NPS 
+Customized Mindfulness and Wellness programs 
+EPAM Hobby Clubs
+Flexible and hybrid work opportunities 
+Soft loans to set up workspace at home 
+Relocation and mobility programs
+Access to soft skills training in general communication, presenting and public speaking, diversity, equity and inclusion (DEI), cultural Intelligence, self-productivity, well-being and more. 
+Unlimited access to the LinkedIn Learning Library, including 22,000+ courses 
+Access to internal learning platforms, EPAM University and a wide range of professional communities and competency centers 
+Community networking and idea creation platforms 
+Mentorship programs 
+Self-driven career progression tool
+Upskilling, reskilling and certification courses

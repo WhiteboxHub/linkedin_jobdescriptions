@@ -1,0 +1,11 @@
+About the job
+Experience working with Scrum Agile.
+Bachelor s degree in Computer Science or equivalent area
+Must have working experience of 2 years in developing web applications using Angular
+Must have working experience in developing web applications using state management framework like Redux Flux
+Strong analytical and problem solving skills paired with the ability to develop creative and efficient solutions, provide necessary thought leadership to the team members
+Ensure the technical feasibility of UI or UX designs
+Expert knowledge of front and end development technologies HTML5 CSS3 and SASS Code Quality Tools like LINT SonarQube etc
+TDD Implementation using Jasmine Karma Jest etc
+Build Tools like Grunt Gulp Webpack minimum one
+Conceptual knowledge of server side JS like NodeJS and database system like Mongo Web Services integration using AJAX knowledge of concepts like REST

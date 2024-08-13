@@ -1,0 +1,30 @@
+About the job
+Front End Developer
+
+Duration: 4+ months
+
+Location: Remote
+
+Rate: $45/hr W2
+
+Are you a passionate developer with a strong background in building dynamic, high-volume, and scalable systems? Do you thrive in an Agile development environment and have advanced experience with React.js and other JavaScript frameworks? If so, we want you on our team!
+
+What You’ll Do:
+
+Collaborate with server-side engineers to
+Develop cutting-edge applications daily, focusing on React.js, Redux, and other JavaScript frameworks. 
+Work in a fast-paced, Agile environment, writing code in a test-driven development and pair programming setting. 
+Build and integrate RESTful APIs, ensuring seamless data integration and optimized database performance. 
+define and design APIs that meet organizational needs. 
+Analyze software requirements, provide accurate estimates of the level of effort (LOE), and design solutions that drive our business forward. 
+Stay current with the latest development, testing, and deployment best practices, and share your knowledge with the team and broader community. 
+Engage with stakeholders to identify challenges, test innovative ideas, and refine workflows. 
+Be bold in making calculated technical decisions, articulating the benefits and potential costs. 
+
+What You'll Bring:
+
+Advanced full-stack development experience with React.js and other JavaScript frameworks. 
+Extensive software development experience across various programming languages. 
+Proficiency in RESTful APIs, database management, and caching techniques. 
+A keen eye for design, with the ability to develop applications that are both functional and aesthetically pleasing. 
+Comfort working in a collaborative, Agile environment with a commitment to continuous improvement.

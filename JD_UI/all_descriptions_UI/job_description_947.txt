@@ -1,0 +1,21 @@
+About the job
+Optomi, in partnership with a leading company within the oil and gas field, is seeking an experienced Front End Developer to join their team for a hybrid role in Dallas, TX!
+ What the right Candidate will enjoy:
+  Hybrid work schedule!
+The opportunity to work on cutting-edge technology!
+The opportunity to work in a fostering and collaborative environment!
+  Experience of the right candidate:
+Bachelor's degree in Computer Science or equivalent field, or 5 years of experience developing front-end applications
+Proficient in JavaScript and TypeScript
+Prior experience with React
+HTML/CSS skills for creating and styling components
+Understanding of how to work with RESTful APIs
+Proficiency in using React Hooks
+Familiarity with organizing enterprise applications at scale
+Experience working on a development team using tools such as Git, MS Teams, Azure DevOps, or similar
+ Responsibilities of the right candidate: 
+Designing and building intuitive front-end components that incorporate user input and feedback.
+Collaborating with development team members to ensure consistency across various application layers and components.
+Maintaining a quality code base that adheres to the team’s standards and best practices.
+Optimizing the performance of the front-end application.
+Quickly troubleshooting and resolving front-end bugs that may arise.

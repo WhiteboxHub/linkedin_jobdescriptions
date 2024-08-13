@@ -1,0 +1,93 @@
+About the job
+Who We Are Looking For
+
+The successful candidate will be responsible for defining, planning and implementing technology solutions to achieve Bilateral Business Services. The individual will be responsible for working with Business and Technology counterparts across global sites as a Sr. Technical Analyst / UX Design Analyst and use their knowledge of the business systems, industry, and system development lifecycle methodology to direct the execution of complex projects throughout their life cycle.
+
+Objectives
+
+Implement a comprehensive collateral management platform that services client needs, drives simplification, and reduces redundant collateral capabilities bank wide
+Develop client facing technology solutions from inception to production working with the business team and the development team to deliver a seamless user experience.
+Implement standard, simplified data management and systems integration to ensuring flexible, robust overall offering
+
+
+What You Will Be Responsible For
+
+As a data architect, you will play a crucial role in our data infrastructure and analytics initiatives. You will contribute to the design, development, enhancement & maintenance of data pipelines, ensuring data integrity, scalability and security. This is an opportunity to work within a very strong development team and help to develop new challenging features in the Collateral management using cutting edge technologies.
+
+Hiring for a skilled data architect with 10+ years of experience with deep understanding of data processing frameworks and solid experience with ETL development using distributed computing frameworks as Apache Spark, Hadoop, Hive. Additionally, cloud experience particularly with Azure platform is highly desirable.
+
+Collaborate with stakeholders to design and build and maintain robust and scalable data pipelines to efficiently collect, transform and load high volume of data from various sources using data ingestion tools
+Develop and optimize data models & schema for analytical and operational use cases
+Establish data quality standards & best practices, implement data governance process and ensure data integrity, security and compliance
+Create visual representations of data to help business and organization understand complex information
+Work closely with infrastructure and DevOps teams to ensure the reliability, performance and scalability of our data infrastructure
+Build data integrations between on-prem/cloud-based systems
+Monitor and troubleshoot issues in production environment
+Drive continuous improvement initiatives to optimize performance, reliability and scalability of applications
+Mentor and coach team member on design, architecture, best practices and development methodologies
+Evaluate new technologies, frameworks and tools in the data engineering space to drive innovation and improve data processing capabilities
+
+
+Core/Must Have Skills
+
+Good hands-on experience in Scala/Python with strong experience in Spark scala/PySpark and Spark SQL for data processing
+Hands-on experience in SQL, PL/SQL, Unix Shell Scripting, Autosys/Airflow
+Experience with relational databases such as Oracle, PostgreSQL as well as NoSQL databases
+Data integration techniques and tools including APIs and data streaming
+Strong analytical and problem solving skills, with the ability to identify and resolve issues in data piplelines and systems
+Experience with Agile software development methodology and version control systems like GitHub
+Expertise in Data Modeling and DB design with the skills in performance tuning
+Support existing data platforms and products in production for any critical issues and provide resolution fixes
+Have good communication skill, and collaborate well with different teams/stakeholders and vendors
+Knowledge of Azure based data storage & processing services, devops would be a Plus
+Knowledge in Spark based data engineering solutions using Databricks and Unity Catalog
+Experience with containerization and orchestration technologies such as Docker and Kubernetes is a Plus
+Excellent work ethics with ability to work independently
+Experience in Banking Domain preferred
+
+
+What We Value
+
+These skills will help you succeed in this role
+
+Experienced, fully competent in own area and working global team
+Shares own expertise with others; will co-ordinate activities of others/the team
+Completes own role independently or with minimal supervision/guidance
+Strong written & verbal communication skills. Experience writing, reviewing technology documents including user guides.
+
+
+Education & Preferred Qualifications
+
+Bachelor’s degree in technology or equivalent
+At least 5+ years of related professional experience
+
+
+Are you the right candidate? Yes!
+
+We truly believe in the power that comes from the diverse backgrounds and experiences our employees bring with them. Although each vacancy details what we are looking for, we don’t necessarily need you to fulfil all of them when applying. If you like change and innovation, seek to see the bigger picture, make data driven decisions and are a good team player, you could be a great fit.
+
+Why this role is important to us
+
+Our technology function, Global Technology Services (GTS), is vital to State Street and is the key enabler for our business to deliver data and insights to our clients. We’re driving the company’s digital transformation and expanding business capabilities using industry best practices and advanced technologies such as cloud, artificial intelligence and robotics process automation.
+
+We offer a collaborative environment where technology skills and innovation are valued in a global organization. We’re looking for top technical talent to join our team and deliver creative technology solutions that help us become an end-to-end, next-generation financial services company.
+
+Join us if you want to grow your technical skills, solve real problems and make your mark on our industry.
+
+About State Street
+
+What we do. State Street is one of the largest custodian banks, asset managers and asset intelligence companies in the world. From technology to product innovation, we’re making our mark on the financial services industry. For more than two centuries, we’ve been helping our clients safeguard and steward the investments of millions of people. We provide investment servicing, data & analytics, investment research & trading and investment management to institutional clients.
+
+Work, Live and Grow. We make all efforts to create a great work environment. Our benefits packages are competitive and comprehensive. Details vary by location, but you may expect generous medical care, insurance and savings plans, among other perks. You’ll have access to flexible Work Programs to help you match your needs. And our wealth of development programs and educational support will help you reach your full potential.
+
+Inclusion, Diversity and Social Responsibility. We truly believe our employees’ diverse backgrounds, experiences and perspectives are a powerful contributor to creating an inclusive environment where everyone can thrive and reach their maximum potential while adding value to both our organization and our clients. We warmly welcome candidates of diverse origin, background, ability, age, sexual orientation, gender identity and personality. Another fundamental value at State Street is active engagement with our communities around the world, both as a partner and a leader. You will have tools to help balance your professional and personal life, paid volunteer days, matching gift programs and access to employee networks that help you stay connected to what matters to you.
+
+State Street is an equal opportunity and affirmative action employer.
+
+Salary Range
+
+$110,000 - $185,000 Annual
+
+The range quoted above applies to the role in the primary location specified. If the candidate would ultimately work outside of the primary location above, the applicable range could differ.
+
+Job ID: R-751772

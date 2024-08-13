@@ -1,0 +1,34 @@
+About the job
+Work options: Remote
+
+Remote, US
+
+Title: Machine Learning 3
+
+Location: Remote, US
+
+Duration: 6 months contract
+
+NIKE, Inc. does more than outfit the world's best athletes. It is a place to explore potential, obliterate boundaries and push out the edges of what can be. The company looks for people who can grow, think, dream and create. Its culture thrives by embracing diversity and rewarding imagination. The brand seeks achievers, leaders and visionaries. At Nike, it’s about each person bringing skills and passion to a challenging and constantly evolving game.
+
+What You Will Work On
+
+Develop and program integrated software algorithms to structure, analyze and leverage data for product and system applications
+Create descriptive, diagnostic, predictive and prescriptive insights/algorithms using machine learning and statistical modeling techniques
+Improve product and system performance, quality, data management and accuracy through the development and evaluation of algorithms
+Translate algorithms and technical specifications into code using current programming languages and technologies
+Perform testing, debugging, documentation and maintenance procedures
+Apply deep learning technologies to interactive products and experiences including virtual reality, augmented reality, artificial intelligence, and robotics
+Work with large-scale computing frameworks, data analysis systems and modeling environments
+
+What You Bring
+
+Bachelor's degree in a technical field like Computer Science, plus 5+ years relevant work experience
+Expertise in machine learning and deep learning techniques
+Experience with programming languages like Python, R, Java, C++, etc.
+Understanding of statistical analysis and modeling methods
+Knowledge of data pipelines, data infrastructure, and computing frameworks
+Ability to translate algorithms and models into production-ready code
+Strong debugging and troubleshooting skills
+Experience deploying machine learning solutions and models
+Passion for translating data into actionable insights and experiences

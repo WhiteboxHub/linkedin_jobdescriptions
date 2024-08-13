@@ -1,0 +1,47 @@
+About the job
+The Opportunity
+
+Vianai is looking for an experienced Frontend Developer who will define and deliver the strategy and roadmap for a human-centered AI experience throughout a growing collection of ML products. Our ideal Frontend Developer is hands-on, collaborative, self-motivated, and innovative. She or he should be as excited as we are to create human-centered AI products poised for rapid growth and continued success.
+
+Expectations
+
+The candidate will be part of the ML data science and engineering team to build complex interfaces from the ground up for enterprise scale.
+Collaborate with a diverse team of Designers, Developers, Engineers, and Data Scientists.
+Translate designs and wireframes into high quality user interfaces.
+Demonstrates up-to-date expertise in Software Engineering and applies this to the development, execution, and improvement of action plans.
+Strong analytical and quantitative problem solving ability.
+Communicate and present their work in a clear and simple manner with relationship skills and a strong team player.
+
+Qualifications
+
+BS in Computer Science, Human Machine Interface Design, Human-Computer Interaction, or equivalent.
+3-5 years experience with web application development using HTML, CSS, JavaScript, and other industry standard frameworks.
+1-3 years experience with data visualization frameworks such as D3.
+Passion for simplicity and an ability to clearly present complex data in a consumable manner across multiple chart/graph types.
+In-depth hands-on experience with industry standard frameworks like React or similar.
+Confident hands-on from initial wireframes, prototyping, converging to final application.
+Good understanding of asynchronous request handling (AJAX).
+Experience with RESTful APIs and unit testing.
+Meticulous attention to technical and visual details.
+Curious about new technology, able to change quickly.
+
+Preferred Qualifications
+
+MS, or PhD in Computer Science, Human Machine Interface Design, Human-Computer Interaction, or equivalent.
+Hands on experience in full stack web application development.
+Familiar with data stack applications like SQL Database, Data warehouse, Kafka etc.
+Knowledge in Business Intelligence, Machine Learning.
+
+Who We Are
+
+We are a team of engineers, designers, doers, makers, and thought leaders. We are also sisters and brothers, fathers and mothers, partners and friends. We are curious and creative, confident and humble and we have a passion for what’s next. We believe that when used to amplify our humanity, our technology has the power to do good in the world.
+
+While Vianai is a part of each one of us, it isn’t all of us.
+
+Our company is founded on a culture of trust, empowerment, and respect. We bring our whole self to work — the non-perfect, messy, sometimes imposter, sometimes expert, sometimes vulnerable, and sometimes superhuman self that contributes to what we believe in. We are committed to advancing inclusion, equity, and diversity because we believe that to design more transparent and beneficial AI systems, we need architects of all types. And to us, the more perspectives the better.
+
+Vianai has deep expertise in enterprise technologies and landscapes, business application development, engineering services, design thinking, and cutting-edge AI research. We are a startup, and we are founded, funded, and led by veterans of the industry. We think and work like entrepreneurs, but we’ve brought a wealth of experience and expertise that is deeply relevant to our mission and the market opportunity.
+
+About Vianai
+
+Vianai is a Human-Centered AI platform and products company amplifying the power of human understanding and collaboration together with advanced AI techniques, to drive transformation. Vianai’s unique human-centered approach empowers data professionals and domain experts to leverage causal data science, drive deeper intelligence into decision making and improve business outcomes. Vianai customers include many of the world’s largest and most respected companies in manufacturing, financial services, retail, and aerospace and defense, among many others. The company is headquartered in Palo Alto, California, and has an R&D center in Israel.

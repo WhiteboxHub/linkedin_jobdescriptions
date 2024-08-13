@@ -1,0 +1,43 @@
+About the job
+Description
+
+Conversational AI ModEling and Learning (CAMEL) team is part of Amazon Artificial General Intelligence (AGI) organization where our mission is to create a best-in-class Conversational AI that is intuitive, intelligent, and responsive, by developing superior Large Language Models (LLM) solutions and services which increase the capabilities built into the model and which enable utilizing thousands of APIs and external knowledge sources to provide the best experience for each request across millions of customers and endpoints.
+
+We are looking for a passionate, talented, and resourceful science leader in the field of LLM, Artificial Intelligence (AI), Natural Language Processing (NLP), Recommender Systems and/or Information Retrieval, to invent and build scalable solutions for a state-of-the-art context-aware conversational AI. A successful candidate will have solid technical background and extensive experience in leading projects and technical teams. The ideal candidate would also have experiences in developing natural language processing systems (particularly LLM based systems) for industry applications, enjoy operating in highly dynamic and ambiguous environments, be self-motivated to take on challenging problems to deliver customer impact.
+
+In this role, you will lead a team of scientists to fine tune and evaluate the LLM to improve instruction following capabilities, align human preferences with RLHF, enhance conversation responses with RAG techniques, and various other. You will use your management, research and production experience to develop the team, communicate direction and achieve the results in a fast-paced environment. You will have significant influence on our overall LLM strategy by helping define product features, drive the system architecture, and spearhead the best practices that enable a quality product.
+
+Key job responsibilities
+
+Build a strong and coherent team with particular focus on sciences and innovations in LLM technologies for conversation AI applications
+
+Own the strategic planning and project management for technical initiatives in your team with the help of technical leads. Provide technical and scientific guidance to your team members.
+
+Collaborate effectively with multiple cross-organizational teams. Communicate effectively with senior management as well as with colleagues from science, engineering and business backgrounds.
+
+Support the career development of your team members.
+
+Basic Qualifications
+
+ Master's degree in engineering, technology, computer science, machine learning, robotics, operations research, statistics, mathematics or equivalent quantitative field
+ 5+ years of building machine learning models or developing algorithms for business application experience
+ 2+ years of scientists or machine learning engineers management experience
+ Solid technical background and familiar with natural language processing and particularly latest LLM techniques.
+ Excellent written and verbal communication skills with the ability to present complex technical information in a clear and concise manner to a variety of audiences.
+
+Preferred Qualifications
+
+ PhD in Computer Sciences, Electrical Engineering, or Mathematics with specialization in machine learning, deep learning, or natural language processing
+ 3+ years of experience in building conversational AI and/or natural language processing systems. Experiences working with LLMs for large-scale business applications is a strong plus.
+ Project management experience working on cross-functional projects.
+ Ability to work well with people, helping to achieve stretch goals in a highly ambiguous and fast paced environment
+ Publications at peer-reviewed NLP/ML conferences (e.g. ACL, EMNLP, NAACL, NeurIPS, ICLR, ICML, AAAI, etc.)
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $165,500/year in our lowest geographic market up to $286,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.
+
+
+Company - Amazon.com Services LLC
+
+Job ID: A2681623

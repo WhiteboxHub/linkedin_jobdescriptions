@@ -1,0 +1,40 @@
+About the job
+Description
+
+Brand Advertising is a new space for Amazon and one that is ripe for disruption. The Brand Advertising team helps Merchants, Retail Vendors, and Brand owners acquire new customers that may not be aware of their products or services. While our other Ads teams’ products focus on leverage existing market demand for products on Amazon, our team is filling a major gap for Advertisers who are either tapped out of customers who are aware of their product, or have a product that doesn’t really have adequate traffic on Amazon.
+
+We are building a turn-key solution this year that will enable Advertisers to figure out what product to build, whether their product concept will resonate with customers and help launch the right product — all on Amazon. It also requires building many new systems (front-end, back-end and analytics) from scratch that will scale to millions of Advertisers and enable discovery of new products to millions of Amazon’s retail customers.
+
+This is a unique opportunity to work with some of the best Engineers at Amazon (and probably in the world) and one of the best teams at Amazon (rated very highly in a company-wide yearly assessment), lead a new initiative from scratch that is going to become a huge area of growth for Amazon's Advertising business and pioneer the usage of new technology at Amazon scale.
+
+Join today and you will transform how customers discover and shop at Amazon!
+
+Basic Qualifications
+
+ 2+ years of non-internship professional front end, web or mobile software development using JavaScript, HTML and CSS experience
+ 1+ years of computer science fundamentals (object-oriented design, data structures, algorithm design, problem solving and complexity analysis) experience
+ Experience using JavaScript frameworks such as angular and react
+ Comprehensive understanding of web development, including but not limited to HTML5, CSS3, and JavaScript
+
+Preferred Qualifications
+
+ Intense customer focus (we really can’t stress this enough)
+ 3+ years industry experience in software development and full product life-cycles
+ 3+ years of hands on coding skills with front end, web or mobile development
+ Strong knowledge of data structures, algorithms, and designing for performance, scalability, and availability
+ Strong sense of ownership, urgency, and drive
+ Experience with object oriented design and development
+ Experience in building solutions of sizable scope and complexity
+ Sharp analytical abilities, tech design skills, excellent communication skills
+ Passion for building new products in a fast paced, team-oriented environment
+ Entrepreneurial spirit: not afraid to invent and try new things, take calculated risks
+ Enjoy proactively coaching, mentoring, and teaching colleagues within and outside their team
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.
+
+
+Company - Amazon.com Services LLC
+
+Job ID: A2675628

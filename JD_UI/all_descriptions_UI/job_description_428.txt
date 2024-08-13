@@ -1,0 +1,83 @@
+About the job
+So you've probably been looking through lots of job postings, and I bet they all sound something like this:
+
+"We're looking for a mid-level WordPress developer who has 15 years of experience and is an expert in PHP, Javascript, HTML/CSS, React, AWS, Python, Ruby, Cold Fusion, Basic (not visual basic... basic...), culinary arts, and carpentry."
+
+Luckily, you've come across this one... and if you don't think it's at least funny, you can get a kick out of how crazy we must be.
+
+Some jokes aside, we're a digital marketing agency founded waaaaay back in 2005 with a heavy focus on web development. We started building websites in WordPress in 2006 and haven't looked back. 
+
+We're looking for a mid-level WordPress developer to join our small and mighty team to take namespaces and kick blocks. 
+
+Why join us and not another agency? We've got a lot of reasons.
+
+We're not your typical agency. At 3.7, we're all about culture and the work environment. Here's what you need to know:
+
+We're not a website factory, spitting out cookie-cutter websites and developing like it was 2018
+We're building custom blocks, iterating on a robust base theme, and creating custom-designed websites with compelling digital experiences.
+
+Nonexistant work/life balance? Not here
+Work to live, not live to work. We all have families and lives outside of work. We expect everyone to work only a short time or handle loads of stress.
+
+If you need to shuttle kids, attend an appointment, or take a walk, please do!
+
+When someone goes on vacation we assign them a buddy to move things along in their absence to minimize post-vacation overwhelm.
+
+You're not a cog in the machine
+We trust our team and everyone has lots of autonomy. Have good ideas and feedback? Share them; every team member influences the direction of this company.
+
+Toxic clients? No thanks
+We've fired more than a few, and will continue to do so to protect our team.
+
+Frankly, given the average person spends 90,000 hours at work over their lifetime, no one should have a job they dred. We don't want that for us or you.
+
+So now onto the nitty-gritty details
+
+This fully remote full-time position includes flexible work time and focuses on balancing excellent work and personal life.
+
+The ideal candidate would share our core values and have the following characteristics:
+Integrity
+Attention to detail
+Excellent digital, written, and verbal communication
+Self-motivation and top-notch time management skills
+A love for learning, improvement, and mentoring
+Proactive
+Efficient
+Easy going
+Ability to manage multiple projects and meet deadlines
+Ability to figure out complex problems and come up with an ideal approach to building new features
+Ability to creatively and efficiently solve code and propose solutions for business problems
+Loves clean, beautiful code
+
+Responsibilities include (but are not limited to):
+Converting design concepts into responsive WordPress websites
+Building custom, full-featured WordPress themes and functionality from scratch and using actions, filters, ajax, custom queries, custom post types, taxonomies, etc…
+Configuring, customizing, and building WordPress plugins
+Building and extending native custom blocks
+Supporting best practices for hosting WordPress sites
+Deploying websites
+Communicating with clients and internal team members
+Updating and modifying legacy, adopted, and third-party software to support clients
+
+Required Skills:
+Expert knowledge of JavaScript, PHP, WordPress, responsive design, and HTML/CSS/SCSS
+Hand-coding custom themes based on design mockups
+Knowledge of writing custom PHP to support advanced WordPress functionality and integrations
+Ability to set up and work in local and remote development environments
+Ability to work on multiple projects at the same time and complete tasks in a timely manner
+Excellent written and verbal communication skills
+A positive, proactive attitude toward problem-solving
+3+ years of building custom WordPress themes and/or plugins
+
+Perks:
+Competitive compensation
+Flexible hours and schedule
+100% remote work
+Emphasis on work/life balance
+10 days paid vacation
+13 paid holidays
+Healthcare stipend
+Education stipend
+Family atmosphere
+Focused on personal development
+A team you want to wake up and work with every day

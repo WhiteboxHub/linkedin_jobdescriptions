@@ -1,0 +1,36 @@
+About the job
+Job Description
+
+Payments are at the center of the global economy, connecting businesses and consumers around the world. Our team is responsible for pushing innovations in Payments space, which is a cornerstone of JPMorgan Chase business. Working in payments ML means being at the forefront of these changes and a potential for a meaningful and lasting impact on global finance.
+
+As an Applied AI ML Associate within our innovative AI team, you will be tasked with the development, testing, containerization, and deployment of machine learning applications and models to cloud infrastructure. We are in search of a team member with a strong understanding of source control, robust testing, deployment processes, containerization, cloud, and ML techniques and frameworks. You will collaborate closely with other team members to create modular and scalable code using object-oriented programming concepts in Python, and work together using version control systems.
+
+Job Responsibilities
+
+Find automation opportunities gathering business knowledge from stakeholders, exploring large volumes of complex data, and testing hypothesis using traditional and cutting-edge machine learning models.
+Partner with different parts of the business, understanding key challenges and metrics of success, communicating results, and gathering feedback to improve model performance and expectations.
+Build machine learning models and deploy these models following all relevant processes and governance.
+
+Required Qualifications, Capabilities And Skills
+
+Recent PhD degree or MS degree with experience in the application of AI/ML to a relevant field
+Solid programming skills with Python, R, or other equivalent languages, and experience using frameworks as Scikit-Learn.
+Strong mathematical and statistical skills, including knowledge of exploratory data analysis, statistical models, GLM, decision trees, clustering, bootstrapping. 
+Ability to identify model and data issues, then propose, prototype, and evaluate alternatives, prioritizing the business benefits rather than the trendiness of the solution. 
+Curiosity exploring large and complex datasets, extracting big picture insights as well as identifying critical low-level details. 
+Great communication and presentation skills that enable collaboration and transparency with non-technical senior leaders as well as technical counterparts.
+Self-motivation and comfortable working with a geographically distributed team. 
+
+ABOUT US
+
+JPMorgan Chase & Co., one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.
+
+We offer a competitive total rewards package including base salary determined based on the role, experience, skill set, and location. For those in eligible roles, we offer discretionary incentive compensation which may be awarded in recognition of firm performance and individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process.
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. We also make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as mental health or physical disability needs. Visit our FAQs for more information about requesting an accommodation.
+
+JPMorgan Chase is an Equal Opportunity Employer, including Disability/Veterans
+
+About The Team
+
+The Corporate & Investment Bank is a global leader across investment banking, wholesale payments, markets and securities services. The world’s most important corporations, governments and institutions entrust us with their business in more than 100 countries. We provide strategic advice, raise capital, manage risk and extend liquidity in markets around the world.

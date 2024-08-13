@@ -1,0 +1,44 @@
+About the job
+TITLE: Front End Software Developer
+
+Develops, documents and maintains architectures, requirements, algorithms, interfaces and designs for software systems. Develops and maintains code and integrates software components into a fully functional software system. Develops software verification plans, test procedures and test environments, executing the test procedures and documenting test results to ensure software system requirements are met. Performs software project management and software supplier management functions. Develops, selects, tailors and deploys software processes, tools and metrics. Executes and documents software research and development projects. Serves as a subject matter expert for software domains, system-specific issues, processes and regulations. Tracks and evaluates software team and supplier performance to ensure product and process conformance to project plans and industry standards. Works under general direction.
+
+Must be a US CITIZEN and have ACTIVE TOP SECRET SCI CLEARANCE
+
+(NO VISAS OR GREENCARDS)
+
+Education: Bachelor's Degree in a STEM classification.
+
+Can work out of El Segundo, CA or Seal Beach, CA Boeing locations.
+
+Required Skills
+
+Previous professional experience with Javascript- React, Angular, Next, Node.
+
+Understanding of HTML, CSS, and CSS styling frameworks (Bootstrap, Tailwind, etc…)
+
+Understanding of how to test front-end applications
+
+Understanding of how to coordinate API calls with back end team to ensure efficient rendering.
+
+ System is REST based, but understanding of GraphQL could be beneficial
+
+
+Understanding of creating react fragments, SPAs, dynamic webpages, and developing creating reusable models
+
+Understanding of Javascript build tools
+
+Understanding of authentication strategies
+
+Understanding of server side rendering, client side rendering, and cost/benefit of decisions
+
+Ability to generate UML documentation for traceability from design to implementation as part of the normal development process.
+
+Ability to communicate effectively for cross team coordination’s
+
+Understanding and experience developing front end architectures
+
+This is the pay range that the employer reasonably expects to pay for this position $72.84 - $80.93/hour
+
+Optional Benefits: Medical, Dental, Vision, 401K
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.

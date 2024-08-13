@@ -1,0 +1,34 @@
+About the job
+Must have: Microsoft's DiT, OCR, Python
+Good to have: Java, Spring boot, Micro Services
+Employment Authorization: USC/GC/ GC-EAD/H1B (NO OPT/CT)
+Candidate must be on our W2.
+
+Requirements:
+Bachelor's or higher degree in Computer Science, Machine Learning, or a related field.
+Proven experience in maintaining and enhancing machine learning systems, preferably in document processing.
+Stronq proficiency in Python and relevant machine learning libraries/ frameworks like TensorFlow, PyTorch
+Proven expertise in working with Image Transformer models, particularly those designed for document image understanding like Microsoft's DiT
+Demonstrated experience in implementing and working with self-supervised learning techniques, especially in the context of pre-training models on large-scale unlabeled text images. Familiarity with approaches like Microsoft's DiT for Document Al tasks.
+Hands-on experience in applying Transformer models to various Document Al tasks, including document image classification, document layout analysis.
+Proven ability to leverage self-supervised pre-trained models, like DiT, as backbone networks to achieve state-of-the-art results in downstream tasks.
+Proficient in designing experiments, analyzing results, and fine-tuning models to achieve optimal performance on Document Al tasks. Ability to interpret and communicate experiment results effectively.
+Familiarity with integrating Transformer models into OCR pipelines and collaborating with OCR technologies for enhanced text detection and extraction capabilities.
+Solid understanding of image processing techniques with a focus on leveraging OpenCV for tasks such as resizing, feature extraction, and other pre-processing steps essential for document image analysis and understanding.
+Familiarity with cloud platforms (e.g., AWS, Azure) and containerization (e.g., Docker).
+Excellent problem-solving skills and ability to work independently.
+Strong communication skills and ability to collaborate with cross-functional teams.
+
+Responsibilities:
+Maintain and optimize the existing document code prediction system.
+Collaborate with cross-functional teams to understand business requirements and implement enhancements.
+Monitor system performance and troubleshoot issues as they arise.
+Stay updated on the latest advancements in machine learning and implement improvements to the prediction model.
+Explore and identify new machine learning opportunities within the document processing domain.
+
+
+
+Must Have's:
+Work Authorization: GC/USC/H1B
+Candidate must be on our Payroll.
+Candidate must need 2 years of stay in USA.

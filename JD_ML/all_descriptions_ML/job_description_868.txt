@@ -1,0 +1,48 @@
+About the job
+Description
+
+Amazon is investing heavily in building a world class advertising business and we are responsible for defining and delivering a collection of self-service performance advertising products that drive discovery and sales. Our products are strategically important to our Retail and Marketplace businesses driving long term growth. We deliver billions of ad impressions and millions of clicks daily and are breaking fresh ground to create world-class products. We are highly motivated, collaborative and fun-loving with an entrepreneurial spirit and bias for action. With a broad mandate to experiment and innovate, we are growing at an unprecedented rate with a seemingly endless range of new opportunities.
+
+The Sponsored Brands Advertiser Control team is a versatile environment, with a wide variety of challenges. We guide advertisers to make informed decisions by sharing insights and forecasts. We help advertisers deliver effective campaigns automatically by optimizing bids and targets on behalf of them. We enable advertisers to achieve brand advertising goals with maximum efficiency. We look at mega size data from both retail and advertising space, and coming up with ML and DL based science solutions through multiple products.
+
+In This Role You Will
+
+ Research and build innovative machine learning and deep learning models utilizing the latest technologies such as LLM to provide personalized targeting, real-time forecasting and simplify campaign creation and management
+ Develop optimization solutions to automate bidding , targeting and budgeting on behalf of advertisers
+ Perform hands-on big data analysis and modeling to develop insights that increase advertiser monetization and merchandise sales without compromising shopper experience.
+ Design and run A/B experiments that affect hundreds of millions of customers, evaluate the impact of your optimizations and communicate your results to various business stakeholders.
+ Establish scalable, efficient, automated processes for large-scale data analysis, machine-learning model development, model validation and serving.
+ Write production code to bring models into production.
+ Work closely with software engineers on detailed requirements, technical designs and implementation of end-to-end solutions in production.
+ Work with scientists and economists to model the interaction between organic sales and sponsored content and to further evolve Amazon's marketplace.
+
+Why you love this opportunity
+
+Amazon is investing heavily in building a world-class advertising business. This team is responsible for defining and delivering a collection of self-service performance advertising products that drive discovery and sales. Our solutions generate billions in revenue and drive long-term growth for Amazon’s Retail and Marketplace businesses. We deliver billions of ad impressions, millions of clicks daily, and break fresh ground to create world-class products. We are highly motivated, collaborative, and fun-loving team with an entrepreneurial spirit - with a broad mandate to experiment and innovate.
+
+Impact and Career Growth
+
+You will invent new experiences and influence customer-facing shopping experiences to help suppliers grow their retail business and the auction dynamics that leverage native advertising; this is your opportunity to work within the fastest-growing businesses across all of Amazon! Define a long-term science vision for our advertising business, driven fundamentally from our customers' needs, translating that direction into specific plans for research and applied scientists, as well as engineering and product teams. This role combines science leadership, organizational ability, technical strength, product focus, and business understanding.
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us
+
+Basic Qualifications
+
+ 3+ years of building models for business application experience
+ PhD, or Master's degree and 4+ years of CS, CE, ML or related field experience
+ Experience programming in Java, C++, Python or related language
+ Experience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing
+
+Preferred Qualifications
+
+ Experience using Unix/Linux
+ Experience in professional software development
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $136,000/year in our lowest geographic market up to $222,200/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.
+
+
+Company - Amazon.com Services LLC
+
+Job ID: A2715147

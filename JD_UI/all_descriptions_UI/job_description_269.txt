@@ -1,0 +1,38 @@
+About the job
+Job Description
+
+ Dewberry  is currently seeking  Computational-Data Science/Web Developer Interns  to join our  Fairfax, VA  office for Summer 2025. Candidates should have proficiency in JavaScript, Go, or Python . Tasks include improving UI/UX of existing websites and the creation of new websites , developing REST API endpoints, and conducting ad hoc data analyses . This position will work closely with full-stack , cloud, and geospatial developers to create tools used by USACE, FEMA, NOAA, State/Local clients, and engineers and scientists at Dewberry. This opportunity will provide experience with cloud native software development on AWS/Azure, containers, dev-ops, API/Database development, open source software, and geospatial/mapping tools.
+
+Dewberry is a leading, market-facing professional services firm with more than 50 locations and 2,000 professionals nationwide. What sets us apart from our competitors are our people. At Dewberry, we seek out exceptional talent and strive to deliver the highest quality of services to our clients. Whether you’re an experienced professional or a new graduate, you’ll have the chance to collaborate with the best and brightest and work on innovative and complex projects at the forefront of the industry. Our commitment to excellence stems from our personal integrity and from other defining attributes, which we call “Dewberry at Work,” that have inspired our employees to be successful for more than a half-century.
+
+Responsibilities
+
+ Work independently and as a member of a multi-functional, dynamic, multi-disciplinary team to create front end web pages, REST APIs, and database schemas. 
+ Write well-designed, testable code in a fast-paced environment. 
+ Maintain software functionality, troubleshoot, debug and upgrade existing systems. 
+ Execute the full software development life cycle, ensuring that software is continuously updated with the latest features. 
+ Develop solutions to complex problems in creative and effective ways by analyzing existing programs and new systems. 
+ Devise logic and coding for complex issues where analysis of situation or data require in-depth evaluation of variable factors. 
+
+Required Skills & Required Experience
+
+ A background in Computational or Data Science 
+ Proficiency with at least one of the following languages: JavaScript, Go, or Python 
+ Experience using HTML and CSS in web development 
+ Solid understanding of backend architecture with proficiency in SQL (preferably PostgreSQL) 
+ Experience using Git version control and Unix/Linux environments 
+ Experience with RESTful APIs 
+ Possession of excellent oral and written communication skills 
+
+Desired Skills
+
+ A background in Earth Sciences applications (B.S./M.S. or relevant professional experience) 
+ Experience with one or more of the following languages: JavaScript, Python, Go, Bash/Shell 
+ Experience/familiarity with web map software/protocols (OpenLayers, MapBox, Leaflet, etc.) 
+ Experience/familiarity developing microservices, containers, and container orchestration 
+ Experience/familiarity with cloud services, and messaging/queuing 
+ Experience/familiarity with geospatial programming (GDAL, PostGIS, etc.) 
+ Experience/familiarity with DevOps/CICD (GitHub Actions, Argo) 
+At this time, Dewberry will not sponsor a new applicant for work authorization.
+Dewberry is an Equal Opportunity/ Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, gender identity or sexual orientation.
+Only recipients of an offer of employment from Dewberry, will be required to submit to a background screening which may include, but is not limited to, employment verification, educational and other credential verification, driving record check, criminal background check, and an investigative consumer report. These screenings will be conducted by Dewberry’s background vendor of choice and will be conducted in compliance with all applicable federal, state, and local law.

@@ -1,0 +1,63 @@
+About the job
+HP is the original Silicon Valley garage company, where two engineers started a global revolution in technology and innovation. Today, HP is going back to its roots with 367 Garage, a new incubation group leveraging GenAI to create new product categories and the future of compute.
+
+367 Garage operates as a startup incubator within HP, giving its teams the autonomy, resources, and support to explore, experiment, and execute on their ideas, while leveraging HP’s scale of execution and distribution. 367 Garage creates products and businesses across consumer and enterprise markets, with a focus on the intersection of hardware and AI.
+
+The name 367 Garage reflects HP's history and vision. 367 Addison Avenue is the address of the famous garage where Bill Hewlett and Dave Packard founded HP in 1939. The garage is now a historic landmark and a symbol of HP's culture of innovation and entrepreneurship. By naming its incubation group 367 Garage, HP honors its past and looks forward to its future, where GenAI will enable new possibilities and experiences for people and businesses around the world.
+
+We are building an impactful full stack team of talented engineers to design, train and integrate machine learning capabilities that can be deployed across multiple platforms.
+
+Ideal Candidates Should Have Demonstrated Excellence E.g. Successful Shipped New Products/features At Scale, Published In Top-tier Technical Conferences And Journals, Significant Contributions To Important Open-source Projects - In Two Or More Of The Following Areas
+
+LLM (Large Language Models), LVM (Large Vision Models)
+Multimodal Generative AI (text-to-image, text-to-video, etc.)
+3D human and object pose/shape estimation and tracking
+Spatial computing: AR/VR
+Autonomous vehicles and agents
+Human computer intelligent interactions
+Deep neural networks
+Model size reduction
+Computer vision
+Synthetic photorealistic image data generation
+Robotics
+Embedded systems
+Cloud computing
+Other relevant technologies (do tell us about them!)
+
+The ideal candidate will be responsible for researching, designing, training, and implementing machine learning capabilities across various platforms to address real-world problems faced by millions of HP customers everyday.
+
+Key Responsibilities
+
+Develop end-to-end machine learning models from data collection and preprocessing to model training, evaluation, and deployment.
+Collaborate with cross-functional teams to understand business requirements and translate them into technical solutions.
+Design and implement scalable and efficient algorithms for real-time processing of large datasets.
+Integrate machine learning models with cloud-based platforms and/or embedded systems for deployment in production environments.
+Optimize and fine-tune machine learning models for performance and accuracy.
+Stay updated with the latest advancements in machine learning, computer vision, robotics, and related fields to drive innovation within the organization.
+Mentor junior team members and actively participate in knowledge sharing activities.
+
+Qualifications
+
+Degree (Ph.D./M.S. preferred) in Computer Science, Engineering, Mathematics, or other quantitative field.
+10+ years of Machine Learning experience
+Proven experience as a Full Stack Machine Learning Engineer or similar role.
+Strong programming skills in Python/C++/ C#, Swift, Objective-C, and proficiency in one or more of the following frameworks: PyTorch [mobile], TensorFlow [Lite], Flutter.
+Experience with machine learning techniques such as deep learning, reinforcement learning, and transfer learning.
+Solid understanding of computer vision algorithms and techniques.
+Familiarity with robotics principles and frameworks is a plus.
+Experience with cloud platforms such as AWS, Azure, or Google Cloud Platform.
+Knowledge of mobile development for Android and/or iOS platforms is desirable.
+Excellent problem-solving skills and ability to work in a fast-paced environment.
+Strong communication and collaboration skills.
+
+HP Offers a Comprehensive Benefits Package, Including
+
+Dental insurance
+Disability insurance
+Employee assistance program
+Flexible schedule
+Flexible spending account
+Health insurance
+Life insurance
+
+Our compensation reflects the cost of labor across several U.S. geographic markets, and we pay differently based on those defined markets. The typical base pay range for this role across the U.S. is $100,000.00 -- $205,00.00 annually with additional opportunities for pay in the form of bonus and/or equity. Pay within this range varies by work location and may also depend on job-related knowledge, skills, and experience. Your recruiter can share more about the specific salary range for the job location during the hiring process.

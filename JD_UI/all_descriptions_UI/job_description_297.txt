@@ -1,0 +1,27 @@
+About the job
+Role Overview
+We are seeking a passionate and skilled Frontend Engineer to join our team. This position offers equity only, providing a unique opportunity to gain ownership and be an integral part of our journey to success. As a Frontend Engineer, you will be responsible for developing, implementing, and maintaining our web applications using ReactJS, ensuring a seamless and engaging user experience.
+Key Responsibilities
+Develop and Maintain: Build, maintain, and enhance responsive web applications using ReactJS and other modern frontend technologies.
+Collaborate: Work closely with cross-functional teams, including designers, backend engineers, and product managers, to deliver high-quality products.
+Optimize: Ensure optimal performance of web applications, focusing on efficiency, scalability, and user experience.
+Innovate: Continuously explore and implement new technologies and best practices to improve our development process and product offerings.
+Troubleshoot: Identify and resolve frontend-related issues, bugs, and performance bottlenecks.
+Code Quality: Write clean, maintainable, and well-documented code, following industry standards and best practices.
+Requirements
+Experience: Proven experience as a Frontend Engineer, with a strong portfolio of web applications developed using ReactJS.
+Skills: Proficient in JavaScript, HTML, CSS, and modern frontend development frameworks and tools.
+Knowledge: Solid understanding of responsive design, cross-browser compatibility, and web performance optimization.
+Tools: Experience with version control systems (e.g., Git), build tools (e.g., Webpack), and state management libraries (e.g., Redux).
+Collaboration: Strong teamwork and communication skills, with the ability to work effectively in a collaborative environment.
+Problem-Solving: Excellent analytical and problem-solving abilities, with a keen attention to detail.
+Nice to Have
+UI/UX: Experience with UI/UX design principles and tools (e.g., Figma, Sketch).
+Testing: Familiarity with frontend testing frameworks and tools (e.g., Jest, Cypress).
+Backend: Basic knowledge of backend technologies and API integration.
+Agile: Experience working in Agile/Scrum development environments.
+What We Offer
+Equity: Ownership in a high-potential startup, allowing you to share in our success.
+Flexibility: Remote work options with a flexible schedule.
+Growth: Opportunities for professional growth and development in a fast-paced, innovative environment.
+Impact: The chance to make a significant impact on the direction and success of our company.

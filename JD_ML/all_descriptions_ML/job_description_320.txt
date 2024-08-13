@@ -1,0 +1,93 @@
+About the job
+Company
+
+Federal Reserve Bank of San Francisco
+
+We are the Federal Reserve Bank of San Francisco—public servants with a mission to advance the nation’s monetary, financial, and payment systems to build a stronger economy for all Americans. We are a community-engaged bank, and are committed to understanding and serving the vibrant, expansive communities of the Twelfth District.
+
+We respect people for what they do and for who they are. We build opportunities to learn and grow. We empower our people to balance their life and work responsibilities. That’s why we offer a flexible hybrid work model that allows you to collaborate with office colleagues on some days, and work from home on others.
+
+We are looking for a Cloud Data Engineer to join the Data and Analytics Service (DAS) Team. Our team delivers a centralized data and analytics platform that provides advanced data migration and analytics solutions for our customers for data storage, data processing, data integration, data lakes, data warehousing, and data analytics. You will work cross-functionally with Data Architects, Product Owners, Design Engineers, Developers and Business Analysts in a rapidly evolving environment, identifying solutions, building, and implementing Infrastructure as Code using our CI/CD pipeline. You will have an opportunity to showcase your critical thinking and technical skills across many disciplines. This role will be instrumental in shaping the development and support of our product roadmaps and will advance our cloud data analytics platforms.
+
+Essential Responsibilities
+
+Understand technology vision and strategic direction of business needs
+Develop integrated solution in alignment with design patterns, blueprints, guidelines, and standard methodologies for products including building integrations between cloud native and 3rd party vendor products
+Develop and deploy Infrastructure-as-Code solutions related to data platform scalability, isolation, latency, throughput, and efficiency
+Identify and respond effectively to service failures and incidents to preserve the service's conformance to its Service-Level Agreement and regularly update the runbook to reduce the time necessary to mitigate an incident
+Work with developers to establish Service-Level Objectives and key Service-Level Indicators
+Establish/follow postmortem procedures and lead postmortem exercises
+Conduct Production Readiness Reviews to ensure services meets accepted standards of operational readiness before going live
+Rehydrate infrastructure on schedule
+Perform Incident response, on call activities, standing up ad-hoc environments and manage system activities to an error budget
+Automate various workflows and pipelines on data and analytics platform to empower developers with self-service capability using Terraform, Python, and OS shell scripts
+Develop validation and certification process through automation tools
+Develop multi-layered build, installation, configuration, patching, regression testing, and rollback scripts in each environment
+Create scripts to compare different versions of the configuration settings
+Provide technical onboarding support for customers on the enterprise data and analytics platform in a timely manner and within SLAs
+Ensure queries, questions, impediments from customers related to technical onboarding are remediated within a reasonable time and all issues are resolved
+Help identify customer pain points and translate them into documentation like user guides, FAQs, how to do’s, runbooks etc.
+Provide consulting and guidance on business solution development in the data and analytics space and cloud technologies
+
+Qualifications:
+
+Bachelor’s degree in computer science, Management Information Systems, Computer Engineering, or related field or equivalent work experience; advance degree preferred
+Experience in designing and building large-scale data solutions in an enterprise setting in both On-Prem/AWS
+5+ years of experience in implementing, managing, and scaling distributed systems in a public, private, or hybrid cloud environment.
+3+ years of experience with full stack development, including application, API, testing, and automation experience using at least one of the following languages (Terraform, JSON, Python)
+3+ years of experience designing, building, and supporting data analytics solutions hosted either on-prem or in the cloud, and experience with migrating data to the cloud
+Ability to generate Infrastructure-as-Code in an enterprise environment using a mature Continuous Integration/Continuous Delivery pipeline.
+Hands on experience in Terraform, Python, and OS shell scripts including automation tools
+Hands on experience in one or more languages such as Java, JavaScript
+Experience with AWS data related services including various compute and storage offerings
+Hands on experience in providing customer support and fulfilling customer service requests for onboarding on an enterprise data platform.
+Must be a U.S Citizen or a Green Card holder with intent to become a U.S Citizen
+Individuals who need immigration sponsorship now or in the future are not eligible for this position.
+Demonstrates mutual respect, embraces diversity, and acts with authenticity
+Demonstrates analytical and problem-solving skills
+Experience with leveraging CI/CD pipelines and GitLab is a must
+Must be familiar with Agile methodologies and able to work in an Agile manner
+
+Desired Skills:
+
+Advanced proficiency in cloud specific solutions related to gateways, streaming services, or file and database migration services
+Experience in developing product roadmap in alignment with other data products and business roadmaps
+Experience with RDS, NOSQL Databases, RDBMS and in-memory databases.
+Strong background in data structures, networking, performance, and scalability.
+Microservices experience is strongly preferred
+
+Base Salary Range: Min: $113,600 - Mid: $147,600 - Max: $181,600 (Location: San Francisco)
+
+Final salary and offer will be determined by the applicant’s background, experience, skills, internal equity, and alignment with market data.
+
+We offer a wonderful benefits package including Medical, Dental, Vision, Pre-tax Flexible Spending Account, Backup Childcare Program, Pre-Tax Day Care Flexible Spending Account, Paid Family Care Leave, Vacation Days, Sick Days, Paid Holidays, Pet Insurance, Matching 401(k), and Retirement/Pension.
+
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, perform essential job functions, and receive other benefits and privileges of employment.
+
+The SF Fed is an Equal Opportunity Employer.
+
+Full Time / Part Time
+
+Full time
+
+Regular / Temporary
+
+Regular
+
+Job Exempt (Yes / No)
+
+Yes
+
+Job Category
+
+Analytical
+
+Work Shift
+
+First (United States of America)
+
+The Federal Reserve Banks believe that diversity and inclusion among our employees is critical to our success as an organization, and we seek to recruit, develop and retain the most talented people from a diverse candidate pool. The Federal Reserve Banks are committed to equal employment opportunity for employees and job applicants in compliance with applicable law and to an environment where employees are valued for their differences.
+
+Always verify and apply to jobs on Federal Reserve System Careers (https://rb.wd5.myworkdayjobs.com/FRS) or through verified Federal Reserve Bank social media channels.
+
+Privacy Notice

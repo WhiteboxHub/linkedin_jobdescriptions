@@ -1,0 +1,39 @@
+About the job
+RFA Engineering (www.rfamec.com) is seeking several part time students to join our engineering team at our customer's facility in Dubuque, Iowa. All senior standing part-time student engineers will transition to full time after graduation. You will work with our experienced engineering staff and our customer's staff to provide highly engineered, optimized designs of Off-Road equipment using state of the art engineering tools.
+
+Job responsibilities include:
+
+Embedded software development using C++ and MATLAB/Simulink for embedded electronic controls of industrial machine system applications based on technical software requirements
+Design, develop and modify software features and libraries to integrate them into various microcontrollers
+Work with software architects and developers to research and investigate project specific applications
+Implement electrical harnesses to program and validate different microcontrollers
+Develop test cases to perform unit testing and regression testing for various aftermarket applications
+Troubleshoot and provide solutions for issues/updates posed by customer on the products released by the aftermarket team
+Requirements
+
+Senior standing engineering student pursuing a BS or MS degree in Software Engineering, Computer Science, Electrical Engineering or relevant degree. 
+Knowledge of off-board information analysis, development, and service tools
+Experience with C++, Matlab, and Python scripting tool is preferred. 
+Strong communication skills, good organizational and time management skills, and the ability to identify needed actions and act to resolve issues with minimal oversight
+Ability to communicate technical information effectively with a culturally diverse, global team
+Must have a valid Drivers License
+Why work for RFA?
+
+About RFA Engineering
+RFA Engineering has provided machine design and engineering services to industry leading customers dating back to 1943. Our primary focus is project based product development of off highway equipment including agricultural, construction, mining, recreational, industrial, and special machines. Our work includes concept development, product design, documentation, problem-solving, simulation, optimization, and testing of components, systems and complete machines. Our engineering staff is located at our Engineering Center in Minneapolis, MN, Satellite office in Dubuque, IA, and at numerous customer sites throughout the U.S.
+
+We Offer Competitive Benefits:
+
+Health and Dental Insurance
+Supplemental Vision Insurance
+Company Paid Life Insurance
+Company Paid Long-Term Disability
+Short-term Disability
+Retirement Savings Account (Traditional 401k & Roth 401k)
+Flexible Spending Plans for Medical Expenses and Dependent Care
+Extra Time Bonuses
+Paid Time Off (PTO)
+Bereavement Leave
+Employee Assistance Programs (EAP)
+Education Assistance
+Equal Opportunity and Veteran Friendly

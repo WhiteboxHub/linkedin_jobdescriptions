@@ -1,0 +1,47 @@
+About the job
+Title: UI Developer
+
+Education Qualification: Bachelor’s degree in computer science, or related field.
+
+Experience: 10-12+Years
+
+Work Location: New York
+
+Work Mode: Hybrid
+
+Roles and Responsibilities:
+
+Design, develop, and implement user interfaces and experiences for web applications using HTML5,
+JavaScript, Java, CSS, and AJAX.
+Collaborate with cross-functional teams to translate design concepts and requirements into
+functional and user-friendly interfaces.
+Create wireframes, working prototypes, and mockups to communicate design ideas and concepts
+effectively.
+Optimize front-end performance and user experience through efficient code, responsive design, and
+browser compatibility.
+Implement interactive features and dynamic content using JavaScript frameworks and libraries (e.g.,
+React, Angular, Vue.js).
+Ensure the technical feasibility of UI/UX designs and implement best practices for accessibility and
+usability.
+Conduct user testing and gather feedback to iterate and improve upon UI/UX designs.
+Stay updated on emerging technologies, industry trends, and best practices in UI/UX design and
+development.
+
+Skills Required:
+
+- Proven experience as a UI/UX Developer or similar role with a strong portfolio showcasing front-
+end development projects.
+- Proficiency in HTML5, JavaScript, Java, CSS, and AJAX with a solid understanding of web
+standards and best practices.
+- Experience with modern JavaScript frameworks and libraries (e.g., React, Angular, Vue.js) is a plus.
+- Strong visual design skills and attention to detail with the ability to create visually appealing and
+user-friendly interfaces.
+- Must be well versed with WCAG2.0/3.0 guidelines.
+- Excellent problem-solving and analytical skills with a passion for user-centered design.
+- Ability to work effectively in a collaborative team environment and communicate ideas and concepts
+clearly.
+- Experience with version control systems (e.g., Git) and Agile development methodologies is
+desirable.
+- Familiarity with UI/UX design tools (e.g., Sketch, Adobe XD, Figma) is a plus.
+- Experience in Localization is a plus.
+- Having previous experience with Health Insurance organizations is a plus.

@@ -1,0 +1,40 @@
+About the job
+JOB NUMBER:  1547 |  LOCATION:  Bethesda, MD |  CLEARANCE/ACCESS LEVEL:  Public Trust
+
+AMDEX.ai The Art of Data Science
+
+We are a seasoned Full-spectrum data solutions firm. We deliver insights, strategies, data analytics, and technical expertise to accelerate data modernization. We specialize in data sciences and cloud solutions, application development and maintenance, program management, and health IT operations leveraging experience and trusted talent to solve the federal government’s most pressing business and technical challenges.  Without you, it’s just data. 
+
+Front End JavaScript React  Developer 
+
+Develop, maintain and organize a library of reusable JS/React components for various applications and systems.
+Use JavaScript, CSS, HTML as well as react tools including React.js, Webpack, Enzyme, Redux and Flux. 
+Translate wireframes or high-fidelity mockups into high quality JS-enabled UI/UX.
+Optimize code components for maximum performance across an array of web-capable devices.
+Use modern JS Design Systems or UI Kits (Next, Material, Chakra, etc.).
+Develop all UI/UX components to be scalable using responsive design that behaves the same across all browsers.
+Flexible, responsive UI/UX components.
+Develop RESTful APIs as well as modern authorization mechanisms such as JSON Web Tokens.
+Design components to meet U.S. 508 Compliance standards and how to modify or alter existing Design System components to meet those standards.
+Communicate clearly and collaborate with teams to iterate on software development concepts and other ideas beneficial to the institute. Discuss and provide analysis of feasibility.
+Troubleshoot complex technical issues using tools to help debug and analyze data.
+
+Requirements
+
+ Bachelor’s degree in related field and 3-5 years of front end web development experience 
+508 Compliance standards experience
+ Experience with JavaScript, CSS, HTML, React.js, JSON Web Tokens, UI Kits/JS Design 
+
+This position is ONSITE at our customer's location in Bethesda, MD. It is not a remote position.
+
+AMDEX Corporation offers a competitive salary package and attractive benefits package.
+
+ Medical | Dental | Vision (Base plan employee premiums 100% company paid) 
+ Supplemental Health Plans 
+ Employer Paid Life and Disability Insurance, STD and LTD 
+ Employee Assistance Plan and Employee Discounts 
+ 11 Federal Holidays | PTO accrual with carryover 
+ 401(k) Plan with company match | Flexible Spending Accounts: Medical, Dependent, Transit 
+ Tuition Reimbursement & Training Assistance 
+
+EOE M/F/D/V

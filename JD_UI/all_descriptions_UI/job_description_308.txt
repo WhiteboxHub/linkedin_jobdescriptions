@@ -1,0 +1,34 @@
+About the job
+This is a remote position.
+
+Junior React Developer - US Only
+
+Experience: 1+ years
+
+Employment Type: Full-time, Remote
+
+Base Salary: $55K-$65K
+
+Phoenix Recruitment offers a variety of recruiting services to assist both employers and employees. They are specialized in marketing open positions, recruiting, and helping employers to find qualified candidates across various industries. Phoenix Recruitment has expertise in streamlining the hiring process. They can help ensure that the process is efficient, well organized, and compliant with relevant regulations.
+
+Responsibilities:
+
+Develop and implement high-quality, scalable, and maintainable React components for our web applications. 
+Collaborate with the development team to translate design mock-ups into functional features. 
+Participate in code reviews and provide constructive feedback to enhance the overall code quality. 
+Debug and resolve software defects and issues. 
+Stay updated with the latest industry trends and best practices in front-end development. 
+
+Requirements:
+
+Proficiency in HTML, CSS, and JavaScript. 
+Strong understanding of React and its ecosystem. 
+Experience working with RESTful APIs and integrating backend services. 
+Familiarity with version control systems (e.g., Git). 
+Good problem-solving and analytical skills. 
+Excellent communication and collaboration abilities. 
+Ability to learn quickly and adapt to new technologies and frameworks. 
+
+Why Phoenix Recruitment LLC?
+
+Phoenix Recruitment often has an extensive network of employers and candidates. This network allows them to tap into a pool of qualified candidates and connect them with suitable job opportunities. They can also leverage their connections to help employers find the right talent efficiently. Outsourcing the recruitment process to a specialized agency can save you time and resources, avoid delays, reduce administrative burdens, and increase the chances of finding the right fit for your organization.

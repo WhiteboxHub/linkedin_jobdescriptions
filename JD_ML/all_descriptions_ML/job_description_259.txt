@@ -1,0 +1,39 @@
+About the job
+Position: Machine Learning Engineer
+
+Job Type: Remote
+
+Duration: 6 months
+
+Location: WA, USA
+
+Description
+
+We are seeking a highly experienced Machine Learning Engineer with a strong IT background to join our team for a 6-month remote contract position. The ideal candidate will have 12 years of IT experience, with extensive knowledge and hands-on experience in machine learning technologies and frameworks.
+
+Key Responsibilities
+
+ Design, develop, and deploy machine learning models and algorithms.
+ Collaborate with cross-functional teams to integrate machine learning solutions into various applications.
+ Analyze large datasets to extract meaningful insights and identify trends.
+ Optimize and improve the performance of machine learning models.
+ Stay updated with the latest advancements in machine learning and AI technologies.
+ Document processes, models, and algorithms for future reference and scalability.
+ Provide expertise and guidance on machine learning best practices.
+
+Required Skills
+
+ Proficiency in programming languages such as Python, R, or Java.
+ Experience with machine learning frameworks like TensorFlow, PyTorch, or scikit-learn.
+ Strong understanding of statistical analysis and data visualization.
+ Ability to preprocess and clean large datasets.
+ Experience with cloud platforms like AWS, Azure, or Google Cloud.
+ Excellent problem-solving and analytical skills.
+ Strong communication and collaboration abilities.
+
+Qualifications
+
+ Bachelor's degree in Computer Science, Information Technology, or a related field.
+ 12 years of IT experience, with a significant portion dedicated to machine learning and AI.
+ Proven track record of successful machine learning projects.
+ Relevant certifications and advanced degrees are a plus.

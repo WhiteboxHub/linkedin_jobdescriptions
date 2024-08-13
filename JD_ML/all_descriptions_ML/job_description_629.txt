@@ -1,0 +1,32 @@
+About the job
+Description
+
+Looking for a green field, high impact new initiative to exercise your imagination and data skills? Amazon Advertising operates at the intersection of eCommerce and advertising, offering a rich array of digital advertising solutions with the goal of helping our customers find and discover anything they want to buy. Come help us define and deliver an exciting confidential new Amazon Ads program!
+
+We are looking for engineers for a confidential new advertising program that will have significant strategic impact to the Amazon Ads business. You will work backwards from customers, collaborate with technical teams across Amazon Ads to design and implement solutions, and deeply analyze the results. You will also evangelize new features and communicate technical priorities to senior leadership. You will deal with some of the toughest and most inspiring challenges of your career as you invent a new value proposition, real time systems and big data paradigms, and scale for extreme growth.
+
+We are looking to hire for this role in NYC
+
+Key job responsibilities
+
+Together with your scrum, you will prototype and develop new components using the latest data technologies leveraging AWS . You will develop both real time and petabyte scale big data systems working directly with different types of technology. You will design, launch, own and evolve software that serves both the interests of customers and advertisers. You'll work closely with our top notch team of scientists and economists to invent, build and try ML-based approaches to iterate on what works best.
+
+Basic Qualifications
+
+ 3+ years of data engineering experience
+ Experience with data modeling, warehousing and building ETL pipelines
+ Experience with SQL
+
+Preferred Qualifications
+
+ Experience with AWS technologies like Redshift, S3, AWS Glue, EMR, Kinesis, FireHose, Lambda, and IAM roles and permissions
+ Experience with non-relational databases / data stores (object storage, document or key-value stores, graph databases, column-family databases)
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $118,900/year in our lowest geographic market up to $205,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.
+
+
+Company - Amazon.com Services LLC
+
+Job ID: A2716820

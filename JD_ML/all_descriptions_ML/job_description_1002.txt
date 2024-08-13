@@ -1,0 +1,29 @@
+About the job
+Job Description
+
+The Company
+
+Gen Nine is developing state-of-the-art, wearable hardware and software solutions for the home care setting. We provide the tools that help families care for the ones they love. Working at Gen Nine means applying your passion and intellect to help solve some very challenging technical problems and thereby create some of the most advanced products in the world. If you’re interested in working with small teams of highly talented and motivated engineers seeking to make a difference in the world, Gen Nine may be the place for you.
+
+Location
+
+This position is based in the vibrant Cincinnati area. Our offices overlook the spectacular Cincinnati skyline and are within walking distance to downtown shopping, shopping malls, restaurants, entertainment, waterfront parks, major league sporting venues and are less than a 20-minute drive to an international airport.
+
+Position
+
+We're seeking results-orientated, neuromorphic AI engineers interested in exploring new concepts in health and safety monitoring using highly advanced edge computing hardware and software systems as part of a full-time, multi-year research and development project funded by the National Institutes of Health. This is a paid position. We have full-time, permanent positions and full-time, summer, internship positions. Internships may also be used to earn college credits.
+
+Skills And Experience
+
+The ideal candidate will have a background in electrical engineering, computer engineering, software development, computational neuroscience and/or mechatronics. This research engineer will investigate ultra-low power systems, devices, and algorithms for neuromorphic computing engines in applications including sensor arrays, activity tracking and voice processing. They will participate in a small-team environment to design, operate and simulate novel modes of computation using existing hardware platforms of hybrid CMOS/memristor circuits and contribute to expanding this platform for novel applications. Enthusiasm and the ability to participate in a team environment in order to solve interesting and complex problems is a must.
+
+Required
+
+PhD. preferred, but will consider a MS/BS degree in Computer Science, Computational Neuroscience, Physics, Mathematics, Electrical/Computer Engineering, or a related field.
+Significant prior experience in AI/ML frameworks, modeling spiking neural networks and/or be currently enrolled in a PhD program with a focus on machine learning or neuro-inspired computational algorithms and applications.
+Expertise in Python and/or C/C++ with the ability to design and write quality code.
+Experience in machine learning frameworks such as TensorFlow or PyTorch.
+Strong grasp of computer science fundamentals and mathematics.
+Proficient in Linux OS environment.
+Ability to think entrepreneurially and innovate in a real-world, problem-solving environment.
+Ability to work both individually and as a small team member, with or without supervision.

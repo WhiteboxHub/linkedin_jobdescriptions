@@ -1,0 +1,78 @@
+About the job
+Looking for a Principal Data and Integration Engineer who will technically lead the replication administration team in performing their jobs, including but not limited to upgrading, patching, licensing and vulnerability remediation of servers and software. They will provide access to the replication software when needed and will control the replication tasks following the production guidelines. The candidate will setup new replication tasks, setup new endpoints and be familiar with various database systems including Redshift, Oracle, SQLserver and DB2/Iseries.
+ The candidate should have working knowledge of Service NOw, JIRA, Linux/WIndows environment, and strong verbal/written communication skills.
+The candidate should have 7+ years' experience and best practice knowledge with Attunity replication software and with AWS administration. The candidate should be familiar with health care application.
+Will have 24-7 On-call responsibilities.
+
+This position will Lead agile software development efforts as a Technical Leader. This role will respond to audits and contribute to the RFP process. Ensure data governance and best practice is embraced. Responsible for understanding business and IT strategy to align with outcomes. Will be a hands-on Data and Integration Engineer who can write quality code, assist with problem solving, root cause analysis, trouble shooting and coaching. Must understand big picture from a business standpoint within the context of the application. Will define improvements to increase system reliability, security and performance. Perform rich data visualizations and presentations to senior management on value adds. May manage a team.
+
+Participate in defining strategic IT objectives and leading subordinates toward that strategic vision for their products.
+Acts as the primary focal point for both internal and external customers for software development tasks. This includes estimates of feasibility, time and effort of tasks. 
+Provide updates to both the user community and the programmers. 
+Monitor projects, determines potential problems and guides them to a successful completion. 
+Ensure that all work is getting accomplished by making assignments and monitoring tasks. This includes balancing work between programmers, analysts, project managers, supervisors, and managers, and ensuring that the proper policies and procedures are being followed.
+Assists with budget preparation and management.
+Mentor and evaluate staff performance. - Continues to work hands-on doing programming and analysis work themselves.
+Tracks all project requests in functional area and updates status of projects on a regular basis.
+Assists in estimating work effort associated with new project requests.
+Assists in planning for the development and support of a functional systems area.
+Reviews and evaluates work of subordinate staff and prepares performance reports.
+Participates in planning and budgeting.
+
+Responsibilities
+
+Other Job Requirements
+
+7+ years related experience including a minimum of 3-4 years of designing, building and maintaining high quality, secure software in IT.
+
+Critical thinker.
+
+Demonstrated problem solving techniques.
+
+Strong verbal and written communication skills.
+
+ServiceNow training.
+
+General Job Information
+
+Title
+
+Principal Data and Integration Engineer (REPLICATION ADMIN) - REMOTE)
+
+Grade
+
+30
+
+Work Experience - Required
+
+IT
+
+Work Experience - Preferred
+
+Education - Required
+
+Education - Preferred
+
+Bachelor's - Computer and Information Science
+
+License And Certifications - Required
+
+License and Certifications - Preferred
+
+Salary Range
+
+Salary Minimum
+
+$105,230
+
+Salary Maximum
+
+$178,890
+
+This information reflects the anticipated base salary range for this position based on current national data. Minimums and maximums may vary based on location. Actual pay will be adjusted based on an individual's skills, experience, education, and other job-related factors permitted by law.
+
+This position may be eligible for short-term incentives as well as a comprehensive benefits package. Magellan offers a broad range of health, life, voluntary and other benefits and perks that enhance your physical, mental, emotional and financial wellbeing.
+
+Magellan Health, Inc. is proud to be an Equal Opportunity Employer and a Tobacco-free workplace. EOE/M/F/Vet/Disabled.
+
+Every employee must understand, comply with and attest to the security responsibilities and security controls unique to their position; and comply with all applicable legal, regulatory, and contractual requirements and internal policies and procedures.

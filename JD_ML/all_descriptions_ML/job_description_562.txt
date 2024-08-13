@@ -1,0 +1,18 @@
+About the job
+San Jose,CA(Remote)
+
+Job Description
+
+Senior Profiles with 10 Yrs and A Master's or Ph.D. degree in Computer Science, Statistics, Data Science, or a related field.
+
+Solid knowledge of software engineering best practices, including version control systems (e.g., Git), code reviews, and testing methodologies.
+
+Backend Server & SDK development - programming languages (GO/GRPC, Java, Python)
+
+GCP Vertex AI Components and SDK Experience
+
+Experience with React UI is needed
+
+Mandatory Skills: GoLang /GRPC
+
+Optional : GCP Vertex AI, React, SDK ,Java

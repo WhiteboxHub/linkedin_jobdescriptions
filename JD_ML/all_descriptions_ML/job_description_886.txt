@@ -1,0 +1,31 @@
+About the job
+Position Description: Empirico, a biotechnology company that combines unmatched expertise in human genetics-driven target discovery with world-class capabilities in siRNA drug discovery, is looking for a talented data scientist experienced in human genetics and bioinformatics who is interested in applying these skills towards interpreting large scale human genetics data for the purpose of therapeutic target discovery. This is an excellent opportunity for a highly-motivated, creative data scientist to be a vital member of a team of experts dedicated to identifying new therapeutic targets and translating those insights into drug discovery and development programs. Responsibilities:
+
+Your responsibilities will primarily consist of performing analyses and building robust computational pipelines and tools critical to Empirico’s target discovery efforts. You will be expected to –
+Collaborate closely with a multidisciplinary team consisting of human geneticists, biologists, bioinformatics scientists and software engineers, and use your data analysis skills to gain insights from massive genetic datasets
+Work independently and as part of a team to complete projects related to:
+Deploying robust, scalable data analysis pipelines, software tools, and web applications to support target discovery – including innovative methods to analyze genetic and phenotypic data
+Implementing cutting-edge analytical methods and algorithms (both internally-developed and those described in the literature)
+Integrating, analyzing and visualizing large, complex data sets to extract information useful to our target discovery efforts
+Perform focused genetic analyses to gain insights into novel target biology and clearly communicate these analyses to Empirico colleagues
+Perform analyses to address critical platform/application QC
+
+
+Requirements:
+
+This position requires a MS or PhD in bioinformatics or a related discipline (e.g. computer science)
+Core background MUST be in data science or bioinformatics; this position is NOT for scientists with a primarily wet-lab background
+Strong skills in at least one programming language (preferably Python)
+Familiarity with Linux command-line based tools and bash scripting
+Experience using HPC/cloud computing environments (AWS, Azure, GCP)
+Demonstrated experience processing, analyzing, and visualizing genetic datasets to make scientific insights
+A strong understanding of applied statistical methods and the principles of statistical genetics
+Experience working with RNA-seq (or scRNA-seq), GWAS data, and other omics data types a plus
+Experience working with UK Biobank data or other large-scale biomedical databases a plus
+Full stack development experience a plus, but not expected
+Comfortable with version control systems such as Git
+Demonstrated ability for writing readable, testable, and SOLID code
+Applicants must have authorization to work in the U.S
+
+
+The estimated base salary range for this role is $80,000 to $150,000. Individual compensation decisions will be based on various factors, such as primary work location, complexity and responsibility of role, job duties/requirements, and relevant experience and skills. We offer a wide range of benefits including a retirement savings plan (with company match), paid vacation, holidays, and health benefits to include medical, prescription drug, dental and vision coverage in accordance with the terms and conditions of the applicable plans. About Empirico: Empirico is a biotechnology company that discovers and develops novel medicines designed to mimic naturally-occurring genetic variants that confer beneficial effects on health and disease. Empirico’s two foundational technology platforms – the Precision Insights Platform™ for genetically-validated target discovery, and the siRCH™ platform for the discovery and development of siRNA medicines – are used separately and in tandem to enable Empirico and our collaborators from the discovery and validation of novel targets to clinically-viable therapeutics. Empirico’s exceptional internal capabilities, augmented by those of its partners, are driving the advancement of a growing and differentiated pipeline of wholly-owned and partnered programs. Empirico is headquartered in San Diego, CA with a major second site in Madison, WI. We’re striving to build a strong culture of inclusivity, transparency and collaboration at Empirico, where our diverse and equitable workforce is empowered to contribute to our mission. We always seek the best candidate for the position and encourage you to apply even if your experience or qualifications don’t match up exactly with the job description. Empirico is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability status, protected veteran status, or any other characteristic protected by law. To All Agencies: Please do not contact any employee of Empirico about this position. All resumes submitted by agencies to any employee of Empirico via-email or in any form and by any method will be deemed the sole property of Empirico, unless such agencies were engaged by Empirico for this position and a valid agreement is in place.

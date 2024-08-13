@@ -1,0 +1,66 @@
+About the job
+Genpact (NYSE: G) is a global professional services and solutions firm delivering outcomes that shape the future. Our 125,000+ people across 30+ countries are driven by our innate curiosity, entrepreneurial agility, and desire to create lasting value for clients. Powered by our purpose – the relentless pursuit of a world that works better for people – we serve and transform leading enterprises, including the Fortune Global 500, with our deep business and industry knowledge, digital operations services, and expertise in data, technology, and AI.
+
+Inviting applications for the role of Lead Consultant, Boomi Integration Developer!
+
+Seeking a highly skilled and experienced Boomi Integration Developer with a primary focus on developing API services using the Boomi API management platform. The ideal candidate should possess a minimum of hands-on experience in Boomi integration, with a strong emphasis on API development and management. The candidate should also have a deep understanding of API security, particularly OAuth, and adhere to best design standards for API development.
+
+Responsibilities
+
+ API Development: Develop, design, and maintain high-quality API services using the Dell Boomi platform to enable seamless integration between various systems, applications, and data sources.
+ Boomi API Management: Configure and manage API endpoints, policies, and security settings within the Boomi API management platform to ensure efficient and secure API access.
+ Integration Workflows: Create and manage integration workflows, transformations, and error handling processes to meet business requirements.
+ API Security: Implement and maintain API security measures, including OAuth authentication and authorization, to protect sensitive data and ensure compliance with security standards.
+ Best Practices: Follow industry best practices and design standards for REST API development, ensuring scalability, performance, and maintainability of APIs.
+ Collaboration: Collaborate with cross-functional teams, including architects, developers, and business stakeholders, to gather integration requirements and provide technical expertise .
+ Documentation: Maintain detailed documentation of API services, configurations, and integration workflows to support troubleshooting, monitoring, and future enhancements.
+ Performance Optimization: Identify and resolve performance bottlenecks and optimize integration processes for maximum efficiency.
+ Testing and Validation: Conduct thorough testing, debugging, and validation of API services to ensure they meet functional and quality standards.
+
+Qualifications we seek in you!
+
+Minimum Qualifications
+
+ Hands-on experience with Dell Boomi integration platform.
+ Proficiency in developing and managing API services using Boomi API management.
+ Strong knowledge of API security principles, especially OAuth.
+ Familiarity with integration design patterns and best practices.
+ Excellent problem-solving skills and attention to detail.
+ Effective communication and collaboration skills.
+ Ability to work in a fast-paced, dynamic environment.
+
+Genpact is an Equal Opportunity Employer and considers applicants for all positions without regard to race, color, religion or belief, sex, age, national origin, citizenship status, marital status, military/veteran status, genetic information, sexual orientation, gender identity, physical or mental disability or any other characteristic protected by applicable laws. Genpact is committed to creating a dynamic work environment that values diversity and inclusion, respect and integrity, customer focus, and innovation. Get to know us at genpact.com and on LinkedIn , X , YouTube , and Facebook .
+
+Furthermore, please do note that Genpact does not charge fees to process job applications and applicants are not required to pay to participate in our hiring process in any other way. Examples of such scams include purchasing a 'starter kit,' paying to apply, or purchasing equipment or training .
+
+Job
+
+Lead Consultant
+
+Primary Location
+
+India-Hyderabad
+
+Schedule
+
+Full-time
+
+Education Level
+
+Bachelor's / Graduation / Equivalent
+
+Job Posting
+
+May 28, 2024, 1:03:57 PM
+
+Unposting Date
+
+Nov 24, 2024, 8:33:57 AM
+
+Master Skills List
+
+Digital
+
+Job Category
+
+Full Time

@@ -1,0 +1,69 @@
+About the job
+Global Risk Development Program (QMAP) - 2025
+
+What would you like the power to do?
+
+At Bank of America, we value being a Great Place to Work. We recognize that talented, engaged and satisfied employees are the foundation to help make the financial lives of our customers and clients better.
+
+Bank of America provides a diverse range of banking and nonbanking financial services and products domestically and internationally in more than 35 countries.
+
+Global Quantitative Summer Analyst Program Overview:
+
+The Global Quantitative Summer Analyst Program is a summer internship and precursor for the Global Quantitative Analytics Development Program designed to develop and coach analytical and quantitative talent to be deployed throughout various Bank of America business groups.
+
+As an Intern, you will gain in-depth experience and be provided micro and macro views of risk management for the bank. Interns will complete on-the-desk work with their assigned team and apply quantitative knowledge to specific financial challenges.
+
+Your development is our top priority with on-the-job support, events and mentorship throughout. These opportunities include but are not limited to:
+
+Bank-provided learnings focused on our seven key risk types (Strategic, Credit, Market, Liquidity. Operational, Compliance and Reputational Risk), as well as topics such as Modeling Principles, Software Development Life Cycle, Data Science and Analytics, latest Regulatory developments and more
+Intern Mentorship Program
+Enterprise Executive Speaker Series
+Employee Diversity & Inclusion Networks LEAD for Women, Black Professional Group, LGBT+ Pride, and more
+Continuous Educational Speakers and Events
+Networking Events
+
+
+A Day in the Life
+
+Quantitative Analytics internships last 10 weeks and provide participants the opportunity to work on various tasks leveraging programming, data analysis, modeling, and other technical skillsets to understand how the bank makes key decisions. As a Summer Analyst, you will be placed on one team where your primary responsibilities may include but are not limited to:
+
+Developing emerging riskassessments and analyzing credit risk scenarios
+Quantitative modeling, including building forecast models, pricing models, and stress test models
+Conducting research and analysis to provide a micro view of risk management in a particularbusiness line and a macro view of risk management for the bank as a whole
+Assessing market trendsand providing quantitative data for internal partners and ultimately, clients
+Applying quantitativeknowledge to specific financial challenges and projects specific to yourbusiness alignment
+Implementing solutions applying both qualitative and quantitative methods
+Networking with risk executives and key stakeholders to cultivate meaningful relationships across various lines of business
+
+
+Quantitative Analytics Opportunities
+
+The Global Quantitative Summer Analyst Program assigns interns to teams across the enterprise. Internship opportunities include positions supporting various business groups, such as the below:
+
+Global Risk Analytics
+Corporate Treasury
+Enterprise Credit Risk
+Data, Digital & Global Marketing
+Model Risk Management
+Global Markets & Financial Risk
+Enterprise Independent Testing
+Intern team assignments are developed based on business need and aligned to skillset and therefore cannot be guaranteed.
+
+
+Qualifications
+
+Candidates are required to be pursuing an undergraduate or masters degree from an accredited college or university. Eligible candidates must have a graduation timeframe between November 2025 and August 2026.
+GPA of 3.5 or higher is preferred
+Common areas of study include but are not limited to:
+Economics
+Computer Science
+Data Science
+Engineering
+Financial, Stochastic, and other applied Math
+Operations Research
+Statistics & Econometrics
+Other STEM majors
+Candidates should possess a high level of intellectual curiosity, a drive for excellence, and a commitment to achieving sustainable results. Additionally, students should hold strong academic and technical skills as well as show proficiencies in leadership, teamwork, problem solving & analytical skills, verbal and written communication, and professionalism.
+Candidates must have advanced programming skills, including but not limited to Python, SQL, R, and/or C++.
+Masters candidates should have no more than 2 years of work experience.
+Bank of America does not complete third party forms from colleges, universities, or other parties.

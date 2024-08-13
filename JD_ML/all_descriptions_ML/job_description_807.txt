@@ -1,0 +1,68 @@
+About the job
+Req ID:462118
+
+At Alstom, we understand transport networks and what moves people. From high-speed trains, metros, monorails, and trams, to turnkey systems, services, infrastructure, signalling and digital mobility, we offer our diverse customers the broadest portfolio in the industry. Every day, more than 80 000 colleagues lead the way to greener and smarter mobility worldwide, connecting cities as we reduce carbon and replace cars.
+
+We create smart innovation to meet the mobility challenges of now and the future. We design and manufacture a complete range of transportation systems, from high-speed trains to electric buses, autonomous subways, signalling and digital mobility solutions. Joining us means joining a truly global community of more than 70,000 people dedicated to solving real-world mobility challenges and achieving international projects with sustainable local impact.
+
+Services Engineering is a key function of Services NAM (Americas). The function provides engineering expertise and technical solutions to the various Business Units (BU) of Services. We will be mostly supporting our Aftermarket Customers with with engineering support to all products maintained and designed by Alstom that operate in the North American market (automated people movers, light rail vehicles, commuters, metros, locomotives), as well as several of the infrastructure components (guideways, stations, depots, electrification and power distribution). We are 230 professionals located in 17 different sites across the continent.
+
+The position is posted for our Mississauga (CA) sites or Naperville (US). In Alstom Services, our focus is to provide excellence in customer support and develop innovative mobility solutions.
+
+As a Parts and Components Data Engineer, what are my responsibilities?
+
+As the Parts and Components  Parts and Component Data Engineer  . , you will apply your rail knowledge to manage, prevent for obsolescence through supplier agreements & partnership , design, reverse engineering solutions and OEM Partnership for Aftermarket Customers. In addition the daily activities will involve
+
+ Data Analysis and Data Handling in GSI, SAP, 360, Power Bi , IPC, Manuals 
+ Reporting, Presentation, Planning internally and for Customer's Dire 
+ Procurement / Sales/ Customer Service Understanding 
+ Familiarity with IPC , Maintenance Manuels, etc. needed for tracking and input into Obsolescence Management tools 
+ Hands on Field Experience or Technical Experience 
+ Engineering Support for Solutions ( Supplier Partnership, Circular Economy , Make to Print, etc ) to meet FFF specifications and requirements. You will provide assembly/repair instructions, new designs drawings, develop all the required documentation, create or update engineering change orders, review vendor technical proposals to ensure compliance to specifications and product safety. 
+
+You will actively participate and contribute to the aggressive growth of the Parts & Components business. You will support a customer outreach program to proactively generate business opportunities such as major overhauls and Technical Support and Spares Supply Agreements (TSSSA). You will:
+
+ Customer focus with field support or technical support 
+ Adherence to schedule and customer first attitude required 
+ Coordinate and lead efforts with vendors to confirm compliancy with customer requirements. You will interface with the end customer and vendors to ensure compliancy and validity of design 
+ Maintain your knowledge of rail and electrical-electronic norms and standards such as FRA, AAR, IEEE, ANSI etc. 
+ Provide electrical and mechanical drawings, bills of material, detailed work scope, assembly and testing instructions 
+ Work on bids proposals for obs. management on components and systems used in the rail industry. 
+ Provide customer technical support as needed with field support 
+ Operate in the ALSTOM CCB Change Control Board 
+
+You will work in multi-disciplinary teams with Customers, Rolling Stock Engineering, Project Management, Supply Chain, Sales Team, Operations, Finance, Auditors, Platform (Tenders, Reference Library, REX), Quality, Validation and Testing.
+
+ What do I need to qualify for this job? 
+
+Have experience in rail industry standards and design or with similar industry products such as transportation vehicles, and with components and systems.
+
+Ability to work with many data systems to create and control KPIs, Tracking, Communication tools and database with a focus on Customer needs.
+
+Have experience in preparing procurement specifications and technical requirements from customer specification to drive the design of the parts requested.
+
+Familiar with Obsolescence Management and Reverse Engineer , Repair , New Design, Supplier Partnership, Circular Economy , Make to Print, etc
+
+Candidate must be versatile, customer focused, very autonomous, with hands-on experience, comfortable working in a fast-paced environment in unclear and ill-defined environments, resourceful to find information and a great communicator
+
+Minimum Qualifications
+
+ University or Technical College degree in Railway Engineering, Degree in Engineering or equivalent 
+ 2-3 years of industry related experience 
+ Data Analysis Experience 
+
+Preferred Qualifications
+
+ Knowledge of rolling stock systems and components 
+ Knowledge of safety management systems and safety risk assessment 
+ Proficient in the use of CATIA V5 (or equivalent), MS Office, SAP, GSI, Maximo (other ERP tools) 
+ Knowledge of Alstom Design for Quality processes 
+ PMP, Six Sigma Green Belt or Higher 
+ Data Analysis Experience 
+ Knowledge of rolling stock systems and components. 
+
+You don’t need to be a train enthusiast to thrive with us. We guarantee that when you step onto one of our trains with your friends or family, you’ll be proud. If you’re up for the challenge, we’d love to hear from you!
+
+Important to note
+
+As a global business, we’re an equal-opportunity employer that celebrates diversity across the 63 countries we operate in. We’re committed to creating an inclusive workplace for everyone.

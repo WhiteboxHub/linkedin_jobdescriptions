@@ -1,0 +1,26 @@
+About the job
+Our work on the second-layer of blockchains presents a number of UI/UX challenges as we lift traditional Bitcoin wallets to the next layer, creating a new application platform on top of the Lightning Network. As a result, we're looking for a frontend developer to build out the key applications, libraries, and tools for the masses to interact with Lightning. Our applications are built on React, React Hooks, MobX, and EmotionJS, communicating with a Lightning daemon over a binary RPC protocol. Ideal applicants should have experience building and shipping React applications and maintaining open source projects. This role requires contributing to an open source project with a growing number of active contributors, and involves serving as the primary driver for the design and development of the project.
+
+An ideal candidate would have a strong passion for Bitcoin and a desire to make using Bitcoin cheap, fast, and simple for everyone.
+
+Roles:
+
+ Writing frontend browser-based UIs for our software (React)
+ Integrating and building APIs for the ecosystem
+ Stakeholder interaction with user-facing products, ensuring our UX is compatible and enables individuals and companies to build on Lightning
+
+Skills:
+
+ Strong Javascript (Typescript) expertise and experience building with React
+ Understanding of modern solutions to building web applications targeting varying browsers and platforms
+ Solid engineering practices and processes, such as a solid testing methodology and documentation
+ Prior contributions to open source projects and experience leading software development projects
+ Understanding of Bitcoin, other digital currencies, and cryptography in general is preferred
+ Experience with empathetic, human-centered software design
+ Ability and eagerness to pick things up quickly, take ownership of projects, and develop new skills
+
+Check out our github repos at:
+
+https://github.com/lightninglabs/lightning-terminal
+
+https://github.com/lightningnetwork/lnd

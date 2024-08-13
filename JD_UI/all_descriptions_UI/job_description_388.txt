@@ -1,0 +1,17 @@
+About the job
+Position Purpose: 
+ The Sr. Software Engineer is responsible for independently developing and consistently redesigning/refactoring a product to adapt to our customers and associates needs. As a Sr. Software Engineer, you will be part of a dynamic team with engineers of all experience levels who help each other build and grow technical and leadership skills while creating, deploying, and supporting production applications. In addition, Sr. Software Engineers may be involved in product and tool selection, configuration, security, resilience, performance tuning and production monitoring as well as mentoring less experienced engineers. 
+
+Key Responsibilities: 
+50% Delivery and Execution – Develops, tests, deploys, and maintains software, with a clear understanding of the value the software is to provide; Takes on new opportunities and tough challenges with a sense of urgency, high energy and enthusiasm; Consistently achieves results, even under tough circumstances; Develops test suites (functional, destructive, etc.) to enable success, rapid deployment of code to production; Takes a broad view when approaching issues; using a global lens 
+ 20% Learns and Grows – Learns through successful and failed experiment when tackling new problems; Actively seeks ways to grow and be challenged using both formal and informal development channels 
+ 20% Plans and Aligns – Collaborates with other team members in agile processes; Creates new and better ways for the organization to be successful; Works the Product Team to ensure user stories are valuable, developer ready, easy to understand and testable; Delivers multi-mode communications that convey a clear understanding of the unique needs of different audiences; Adapts approach and demeanor in real time to match the shifting demands of different situations; Relates openly and comfortably with diverse groups of people 
+ 10% Supports and Enables – Helps grow junior engineers by providing guidance on modern software development frameworks, and leading technical discussions 
+ Preferred Qualifications: 
+ 5+ years of relevant work experience 
+ Extensive experience building and deploying user interfaces with React 
+ Experience with front end technology such as HTML, CSS, and Javascript/Typescript frameworks, an object-oriented programming language (preferably Java), Relational or noSQL database technology, CI/CD tools, modern software design patterns 
+ Experience with security frameworks for user and services authorization and authentication 
+ Experience with creating and executing unit, functional, destructive and performance tests 
+ Experience with modern debugging and root cause analysis techniques 
+ Experience with version control system

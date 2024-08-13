@@ -1,0 +1,15 @@
+About the job
+Required Skills:  AI/ GenAI Prompt Engineering activities 
+
+ Experience level 5 to 7 years' experience overall and Prompt engineer skill of 1 year or more
+ Work with cross-functional teams to craft prompts that help language models understand the desired output.
+ Building context used for LLM in-context learning through prompts
+ Test and analyze outputs from the AI for accuracy, relevance by experimenting with different prompts using prompt test harness
+ Have working knowledge of zero shot, few shot , chain of thought prompting
+ Have ability to implement optimization techniques such as prompt compression
+ Analyze user feedback on outputs in order to evaluate prompt performance
+ Monitor the performance post integration of prompts into GenAI apps measuring response time for different prompts
+ Must be able to identify issues related with bias, drift, privacy etc. in order to design responsible prompts.
+
+Desired Skills and Experience
+GENAI, GENERATIVE_AI, GENERATIVEAI, PROMPT, LARGE LANGUAGE MODELS, LLM, LARGE LANGUAGE

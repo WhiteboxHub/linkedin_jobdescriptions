@@ -1,0 +1,46 @@
+About the job
+Company Summary
+
+Flagship Labs 97 Inc. (FL97) is a privately held, early-stage technology company pioneering the application of artificial intelligence to transform every aspect of the scientific method. FL97 is backed by Flagship Pioneering, which brings the courage, long-term vision, and resources needed to realize unreasonable results. Join our mission-driven team and contribute to the future of science.
+
+Our Life Sciences effort is leveraging AI and high-throughput automation for valuable therapeutic discovery and development across biological modalities.
+
+At FL97, we are uniquely cross-functional and collaborative. We are actively reimagining the way teams work together and communicate. Therefore, we seek individuals with an inclusive mindset and a diversity of thought. Our teams thrive in unstructured and creative environments. All voices are heard because we know that experience comes in many forms, skills are transferable, and passion goes a long way.
+
+If this sounds like an environment you’d love to work in, even if you only have some of the experience listed below, please apply.
+
+The Role
+
+FL97 is seeking a dedicated and skilled Machine Learning Operations Engineer (ML Ops) to join our team. This role will focus on building and maintaining private cloud infrastructure used to train large scale machine learning models. You will be part of a dynamic, cross-functional team responsible for developing new artificial intelligence models that push the frontier of science. Working closely with biologists, bioinformaticians, software developers, machine learning scientists and automation engineers, you will contribute to the development of ML models for a range of scientific applications. The ideal candidate has a strong background in machine learning, as well as either experience in biotech industry or a record of scientific achievement, with a focus on MLOps, model training, and deployment.
+
+Responsibilities include:
+
+Developing and managing a large cloud-based cluster with >100 GPUs in support of FL 97 machine learning scientists (help make the GPUs go brr). 
+Implementing MLOps practices to streamline the model development and deployment process. 
+Collaborating with cross-functional teams to integrate ML models into the data pipelines for our labs. 
+Implementing rigorous testing, documentation, and performance benchmarking. 
+
+Qualifications:
+
+Master's degree (or equivalent experience) in computer science, computational biology, physics, or other quantitative disciplines 
+Experience managing Kubernetes clusters with kubectl on cloud-based GPU infrastructure such as Lamda Labs or AWS 
+Experience with MLOps practices and tools including version control, automated testing, and CI/CD 
+Experience with GPU accelerated ML computing in at least pytorch and robust experience in the Python data science ecosystem. 
+Knowledge of additional high-performance libraries like Accelerate, DeepSpeed, etc is a plus 
+Experience with managing large, containerized multi-GPU training runs for large language models on Ray, Dask, Kueue, or Slurm or similar libraries. 
+
+Working at FL97, you would have access to advanced technology in the areas of:
+
+AI experimental design and simulation
+ Automated custom instrumentation
+Generative molecular and material design
+
+More About Flagship Pioneering
+
+Flagship Pioneering is a biotechnology company that invents and builds platform companies, each with the potential for multiple products that transform human health or sustainability. Since its launch in 2000, Flagship has originated and fostered more than 100 scientific ventures, resulting in more than $90 billion in aggregate value. Many of the companies Flagship has founded have addressed humanity’s most urgent challenges: vaccinating billions of people against COVID-19, curing intractable diseases, improving human health, preempting illness, and feeding the world by improving the resiliency and sustainability of agriculture. Flagship has been recognized twice on FORTUNE’s “Change the World” list, an annual ranking of companies that have made a positive social and environmental impact through activities that are part of their core business strategies, and has been twice named to Fast Company’s annual list of the World’s Most Innovative Companies. Learn more about Flagship at www.flagshippioneering.com.
+
+Flagship Pioneering and our ecosystem companies are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+
+At Flagship, we recognize there is no perfect candidate. If you have some of the experience listed above but not all, please apply anyway. Experience comes in many forms, skills are transferable, and passion goes a long way. We are dedicated to building diverse and inclusive teams and look forward to learning more about your unique background.
+
+Recruitment & Staffing Agencies: Flagship Pioneering and its affiliated Flagship Lab companies (collectively, “FSP”) do not accept unsolicited resumes from any source other than candidates. The submission of unsolicited resumes by recruitment or staffing agencies to FSP or its employees is strictly prohibited unless contacted directly by Flagship Pioneering’s internal Talent Acquisition team. Any resume submitted by an agency in the absence of a signed agreement will automatically become the property of FSP, and FSP will not owe any referral or other fees with respect thereto.

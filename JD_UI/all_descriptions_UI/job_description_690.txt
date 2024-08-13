@@ -1,0 +1,60 @@
+About the job
+Summary
+We're thrilled to present a unique opportunity to become part of our expanding U.S. based research and development team, specializing in solar inverter system technology, supported by and leveraging the Austria Headquartered research and development organization. Our collaborative culture emphasizes achievements, constant improvement, and collective success, valuing the unique contributions of each team member.
+This position offers a unique opportunity within a dynamic and innovative team environment. Join us in driving the future of solar inverter technology and elevating development capabilities across our organization.
+The position of Front End Developer is responsible for design, development, maintenance and optimization of the embedded system’s web UI (User Interface) using Angular, creating quality mock ups and prototypes, and transforming mockups into fully functional user interfaces, design and development of web API services. This position reports to the Head of RnD Solar Energy.
+
+
+Tasks and Responsibilities
+Conception and further development of the Fronius Linux based software platform, with user interface
+Design, develop, maintain, and optimize the embedded system’s web UI (User Interface) using Angular
+Creating quality mockups and prototypes
+Implement new features by transforming mockups into fully functional user interfaces integrated with API enabled microservice built on C++ based backend
+Design and develop Web API and RESTful web services using C++
+Collaborate with UX/UI designers to implement and enhance user experiences and ensure the technical feasibility of UI/UX designs
+Collaborate with back-end developers to integrate front-end components
+Collaborate to drive solutions that reduce cost, expenses, and time to market
+Optimize site speed, scalability, and responsiveness
+Cooperation in the agile SCRUM team using Jira
+Utilize GitLab for version control
+Provide mentoring to junior members of the team
+All other duties as assigned by management
+
+Requirements
+Bachelor's or Master's degree in Computer Science, Web Development, or a related field.
+Proven experience as a Front-End Web Developer, with a strong portfolio showcasing your work, 5+ years of experience preferred.
+In-depth knowledge of the Angular framework and state of the art css-framework-tools, as well as experience creating RESTful services/APIs using C++.
+Experience with C++ and familiarity with back-end technologies is a plus.
+Proficiency in TypeScript/JavaScript for web application development.
+Demonstrable understanding of UI/UX design principles and proficiency with design prototyping tools (e.g. Figma, Adobe XD, Sketch, or similar)
+Experience working in an Agile environment, Scrum preferred
+Ability to work independently and as part of a team.
+Experience with version control
+Limited Travel
+Previous industry experience is highly preferred
+English spoken and written
+
+Health and Safety
+Must comply with all safety and health standards established by Fronius USA, LLC and federal, state, or local requirements.
+Ability to bend and reach, with repetitive motion.
+Hearing, naturally or with aids
+Vision 20/20, with or without correction
+Physical demands of the job include standing, use of hands to manipulate objects, talking, hearing, looking, typing, walking, twisting, and bending.
+Employees could be requested to lift, carry, reach above the shoulder, stoop, squat, kneel, and crouch.
+Employees could be required to lift up to 50 pounds.
+Employees will perform duties in an office environment and a field setting.
+Employees will be occasionally exposed to tripping hazards.
+The noise level in the work environment is usually low to medium.
+
+We offer a generous benefit package including
+PTO available immediately plus 11 paid holidays
+Employer matched 401(k)
+Medical, Dental, and Vision covered 100% for employees
+50% company paid Health, Dental, Vision for your family
+Employee Assistance Program & Mental Health Support
+Short-Term and Long-Term Disability
+Flexible Spending Accounts for Health Care and Dependent Care
+
+Fronius USA, LLC is proud to offer Equal Employment Opportunities and committed to an inclusive and diverse workplace. All qualified candidates will receive consideration for employment and will not be discriminated against based on race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, age, pregnancy, genetic information, creed, marital status, or any other consideration prohibited by law or by contract.
+
+Are you ready for Fronius? Apply online now and become part of the Fronius family!

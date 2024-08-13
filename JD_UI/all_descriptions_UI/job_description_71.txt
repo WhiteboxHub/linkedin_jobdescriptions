@@ -1,0 +1,38 @@
+About the job
+Summary
+
+The Software Front End Engineer designs and develops the front-end user interface (Angular 16) utilizing industry best practices for both web and mobile platforms. The position is also responsible for assisting in evaluating and consulting on the acquisition of new software and application services that align with the overall business needs and objectives of Mitsubishi Power.
+
+Essential Duties & Responsibilities
+
+ Collaborate with experienced cross-disciplinary Mitsubishi personnel to conceive, design, and develop innovative products and services 
+ Conceptualize professional, attractive user interface designs for web applications using design tools such as Figma 
+ Use software engineering best practices to code responsive front-end user interface in Angular to meet defined application requirements 
+ Meet project deadlines as indicated in a project plan and assigned tasks 
+ Implement new features on existing products, fix bugs, and improve performance 
+ Commit code with detailed notes working with source control mechanisms 
+ Design unique icons to represent web applications 
+ Perform other such duties as may be required 
+
+Other Duties And Responsibilities
+
+ Comply with all safety policies, practices and procedures, reporting all unsafe activities to Management and/or Human Resources. 
+ Be proficient in the use of Microsoft Office products (Word, Excel, and PowerPoint), Adobe Acrobat, and overall computer navigational skills. 
+ Participate in proactive team efforts to achieve departmental and company goals. 
+ Contribute to building a positive team spirit. 
+ Communicate effectively with all levels of employees. 
+ Protect confidential information by not communicating, disclosing to, or using for benefit of 3rd parties. 
+ Maintain the highest degree of honesty and integrity at all times. 
+
+Knowledge, Skills & Education
+
+To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skills, and/or abilities required:
+
+ Education and/or Experience: . Bachelor’s degree in Computer Science from an accredited college or university or technical institution; or equivalent combination of education and experience. 
+ Language Skills: Ability to read, speak, and write English fluently. 
+ Reasoning Ability: Ability to troubleshoot to define and identify problems. Collect data, establish facts, and draw valid conclusions to take prompt corrective actions. 
+ Technical Skills:
+ 3+ years of professional experience with at least one modern JavaScript framework (Angular, React, Vue) 
+ Experienced in UI/UX design for attractive, intuitive displays (Figma, Adobe XD) 
+ Thorough understanding of both client and web application architectures 
+ Preferred experience with TypeScript – Angular framework, Python – Django framework, Docker, Git, MySQL, MongoDB, and Azure deployment

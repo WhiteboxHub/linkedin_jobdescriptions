@@ -1,0 +1,37 @@
+About the job
+Overview
+
+Emory University is a leading research university that fosters excellence and attracts world-class talent to innovate today and prepare leaders for the future. We welcome candidates who can contribute to the diversity and excellence of our academic community.
+
+Description
+
+About the hiring team – we are an interdisciplinary team of biomedical engineers, computer scientists, software engineers, nursing researchers from the Center for Data Science at the Nell Hodgson Woodruff School of Nursing Emory and clinician scientists from the pediatric intensive care program at CHOA. Our team has diverse technical expertise in machine learning, deep learning, signal processing, software development, as well as clinical knowledge in pediatric critical care, neurology, nursing, cardiology, and clinical medicine in general.
+
+About the project – Rich information exists in electronic health records (EHR) and high-resolution data from bedside patient monitoring and therapeutic devices, but advance AI/ML approaches are needed to integrate and make sense of these heterogenous data. This project will leverage one of its kind large multimodality pediatric critical care dataset to develop advance AI solutions to address various unmet needs in critical care of pediatric patients including prediction of in-hospital cardiac arrest, prediction of subacute critical illnesses, optimization of the utilization of life-supporting interventions etc.
+
+Key Responsibilities
+
+Developing and testing time-series predictive AI/ML models w/ interpretability, uncertainty-quantification, multitask generalizability
+EHR and bedside sensory data management, harmonization, and statistical analysis 
+Assist implementation of ML Ops for real-time operation of algorithms
+
+Job Qualifications
+
+BS/MS/PhD, degree in related fields (BME, Biostats, BMI, EE, CS, CE)
+Fluent programing skills in Python.
+Adequate background knowledge and skills in machine learning (LR, Bagging&Boosting, ARIMA, etc) and deep learning (CNN, RNN, Transformer, time-series FMs, etc)
+Genuinely interested in developing data science-based solutions to challenges in healthcare
+
+Job Benefits
+
+Paid position starting summer 2024
+Opportunities to be first author or co-author in future publications
+Long-term opportunity to continue as a PhD student
+
+NOTE: Position tasks are generally required to be performed in-person at an Emory University location. Remote work from home day options may be granted at department discretion. Emory reserves the right to change remote work status with notice to employee.
+
+Additional Details
+
+Emory University is dedicated to providing equal opportunities and equal access to all individuals regardless of race, color, religion, ethnic or national origin, gender, genetic information, age, disability, sexual orientation, gender identity, gender expression, and veteran's status. Emory University does not discriminate in admissions, educational programs, or employment on the basis of any factor stated above or prohibited under applicable law. Students, faculty, and staff are assured of participation in University programs and in the use of facilities without such discrimination. Emory University complies with Executive Order 11246, as amended, Section 503 of the Rehabilitation Act of 1973, the Vietnam Era Veteran's Readjustment Assistance Act, and applicable executive orders, federal and state regulations regarding nondiscrimination, equal opportunity and affirmative action. Emory University is committed to achieving a diverse workforce through application of its affirmative action, equal opportunity and nondiscrimination policy in all aspects of employment including recruitment, hiring, promotions, transfers, discipline, terminations, wage and salary administration, benefits, and training. Inquiries regarding this policy should be directed to the Emory University Department of Equity and Inclusion, 201 Dowman Drive, Administration Building, Atlanta, GA 30322.
+
+Emory University is committed to providing reasonable accommodations to qualified individuals with disabilities upon request. To request this document in an alternate format or to request a reasonable accommodation, please contact the Department of Accessibility Services at 404-727-9877 (V) | 404-712-2049 (TDD). Please note that one week advance notice is preferred.

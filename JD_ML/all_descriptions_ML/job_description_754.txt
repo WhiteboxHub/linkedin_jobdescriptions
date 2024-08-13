@@ -1,0 +1,135 @@
+About the job
+Department
+
+Booth Marketing and Communications: Institutional Research and Strategic Insights: Data Analysts 2
+
+About The Department
+
+The University of Chicago Booth School of Business is the second-oldest business school in the U.S. and second to none when it comes to influencing business education and business practices. Since 1898, the school has produced ideas and leaders that shape the world of business. Their rigorous, discipline-based approach to business education transforms students into confident, effective, respected business leaders prepared to face the toughest challenges.
+
+Chicago Booth has the finest set of facilities of any business school in the world. Each of the four campuses (two in Chicago, one in London, and one in Hong Kong) reflects the architectural traditions of its environs while offering a state-of-the-art learning environment.
+
+Chicago Booth Is Proud To Claim
+
+an unmatched faculty.
+degree and open enrollment programs offered on three continents.
+a global body of nearly 56,000 accomplished alumni.
+strong and growing corporate relationships that provide a wealth of lifelong career opportunities.
+
+As part of the world-renowned University of Chicago, Chicago Booth shares the University's core values that shape the distinctive intellectual culture. At Booth, they constantly question and test ideas, and seek proof. This extraordinarily effective approach to business leads to new ideas and innovative solutions. Seven of the Booth faculty members have won Nobel Prizes for these ideas - the first business school to achieve this accomplishment.
+
+For more information about the University of Chicago Booth School of Business, please visit: http://www.chicagobooth.edu/.
+
+Job Information
+
+Job Summary
+
+The Data analytics and Institutional Research (IRSI) teams in Chicago Booth School of Business are seeking a part-time temp/intern to support analysis, research and data engineering functions.
+
+Responsibilities
+
+Assist the Senior Data Scientist with data engineering tasks related to digital analytics and marketing research.
+Assist in digital analytics functions including the creation of analytics dashboards in Adobe Analytics and analyzing data to help deliver insightful and valuable reporting, analysis and recommendations.
+Aid in the documentation of analytics dashboards, processes, and best practices.
+Collaborate with the analytics team to derive relevant metrics, targets, and data collection strategies, including but not limited to SEO, SEM, display advertising, email marketing, social media marketing in order to understand Key Performance Indicators (KPIs) of campaigns and marketing activities.
+Collaborate with the IRSI team to collect, organize, and analyze data from various internal data systems as well as from external sources.
+Help execute various research and analytics studies.
+Work with the digital team to ensure the integrity of our data through ongoing maintenance and governance.
+
+Competencies
+
+Strong proficiency with data organization, manipulation, and analysis.
+Strong attention to detail and prioritize and execute tasks on time.
+Proven ability to successfully complete projects with stringent deadlines.
+Work independently and demonstrated ability to collaborate.
+Work discreetly with sensitive and confidential data.
+Work independently with little supervision; possess a self-motivated disposition; troubleshoot/identify opportunities for improvement and recommend effective changes.
+
+Additional Requirements
+
+Education, Experience, or Certifications: 
+
+Education
+
+High school diploma/GED required.
+Bachelor’s degree preferred. 
+
+Experience
+
+Relevant experience required.
+
+Technical Knowledge Or Skills
+
+Strong proficiency in survey building and coding through Qualtrics.
+Proficiency in SQL and data processing libraries such as pandas. 
+
+Working Conditions And Physical Requirements
+
+This is a hybrid position.
+This is a temporary, part-time position of approximately 15 hours per week.
+
+Required Documents
+
+Resume/CV
+
+When applying, the document(s) MUST be uploaded via the My Experience page, in the section titled Application Documents of the application.
+
+Benefit Eligibility
+
+No
+
+Requires Compliance with University Covid-19 Vaccination Requirement
+
+No
+
+Pay Frequency
+
+Hourly
+
+Pay Range
+
+Depends On Qualifications
+
+Scheduled Weekly Hours
+
+15
+
+Union
+
+Non-Union
+
+Job is Exempt
+
+No
+
+Drug Test Required
+
+No
+
+Motor Vehicle Record Inquiry Required
+
+No
+
+Health Screen Required
+
+No
+
+Posting Date
+
+2024-07-25
+
+Remove from Posting On or Before
+
+2025-01-25
+
+Posting Statement
+
+The University of Chicago is an Affirmative Action/Equal Opportunity/Disabled/Veterans and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender, gender identity, national or ethnic origin, age, status as an individual with a disability, military or veteran status, genetic information, or other protected classes under the law. For additional information please see the University's Notice of Nondiscrimination.
+
+Staff Job seekers in need of a reasonable accommodation to complete the application process should call 773-702-5800 or submit a request via Applicant Inquiry Form.
+
+We seek a diverse pool of applicants who wish to join an academic community that places the highest value on rigorous inquiry and encourages a diversity of perspectives, experiences, groups of individuals, and ideas to inform and stimulate intellectual challenge, engagement, and exchange.
+
+All offers of employment are contingent upon a background check that includes a review of conviction history. A conviction does not automatically preclude University employment. Rather, the University considers conviction information on a case-by-case basis and assesses the nature of the offense, the circumstances surrounding it, the proximity in time of the conviction, and its relevance to the position.
+
+The University of Chicago's Annual Security & Fire Safety Report (Report) provides information about University offices and programs that provide safety support, crime and fire statistics, emergency response and communications plans, and other policies and information. The Report can be accessed online at: http://securityreport.uchicago.edu. Paper copies of the Report are available, upon request, from the University of Chicago Police Department, 850 E. 61st Street, Chicago, IL 60637.

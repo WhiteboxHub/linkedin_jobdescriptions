@@ -1,0 +1,54 @@
+About the job
+Description
+
+The vision of the Product Knowledge Ontology Team is to provide a standardized, semantically rich, easily discoverable, extensible, and universally applicable body of product knowledge that can be consistently utilized across customer shopping experiences, selling partner listing experiences and internal enrichment of product data. We aim to make product knowledge compelling, easy to use, and feature rich. Our work to build comprehensive product knowledge allows us to semantically understand a customer’s intent – whether that is a shopping mission or a seller offering products. We strive to make these experiences more intuitive for all customers.
+
+As an Ontologist, you work on a global team of knowledge builders to deliver world-class, intuitive, and comprehensive taxonomy and ontology models to optimize product discovery for Amazon web and mobile experiences. You collaborate with business partners, data science and engineering teams to deliver knowledge-based solutions to enable product discoverability for customers. In this role, you will directly impact the customer experience as well as the company’s product knowledge foundation.
+
+Key job responsibilities
+
+ Develop logical, semantically rich, and extensible data models for Amazon's expansive product catalog
+ Ensure our ontologies provide comprehensive sub-domain coverage that are available for machine ingestion and inference
+ Research worldwide understanding of Amazon products to develop scalable data models that solve customer problems and enhance product discoverability
+ Create new schema using Generative Artificial Intelligence (generative AI) models
+ Expand existing data retrieval techniques by utilizing our extensive product catalog and query languages
+ Analyze website metrics and product discovery behaviors to make data-driven decisions on optimizing our knowledge graph data models globally
+ Contribute to the development of new tool features and processes for the Ontology team
+ Drive alignment to ontology modeling and technology best practices and principles within our organization and across Amazon
+ Coordinate cross-functional projects with a broad range of technical and non-technical teams
+
+About The Team
+
+Our team has a global presence: we celebrate diverse cultures and backgrounds within our team and our customer base. We are committed to furthering our culture of inclusion, offering continuous access to internal affinity groups as well as highlighting diversity programs. We care about your career growth, from your initial company introduction and training sessions, to continuous support throughout your entire career at Amazon. We recognize each team member as an individual, and we will build on your skills to help you grow. We have a broad mix of experience levels and tenures, and we are building an environment that celebrates knowledge sharing.
+
+Basic Qualifications
+
+ Degree in Library Science, Information Systems, Linguistics or equivalent professional experience
+ 3+ years of relevant work experience working in ontology and/or taxonomy roles
+ Proven skills in data retrieval and data research techniques
+ Ability to quickly understand complex processes and communicate them in simple language
+ Ability to communicate knowledge-based requirements and needs to engineering and retail teams
+ Familiarity with Semantic Web technologies (RDF/s, OWL), query languages (SPARQL) and validation/reasoning standards (SHACL, SPIN)
+ Knowledge of open-source and commercial ontology engineering editors (e.g. Protege, TopQuadrant products, PoolParty)
+ Detail-oriented problem-solving, ability to work in fast-changing environment and manage ambiguity
+ Proven track record of strong communication and interpersonal skills
+ Proficient English language skills
+
+Preferred Qualifications
+
+ Master’s degree in Library Science, Information Systems, Linguistics or other relevant fields
+ Experience building ontologies in the e-commerce and semantic search spaces
+ Experience working with schema-level constructs (e.g. higher-order classes, punning, property inheritance)
+ Proficiency in SQL, SPARQL
+ Familiarity with software engineering life cycle
+ Familiarity with ontology manipulation programming libraries
+ Exposure to data science and/or machine learning, including graph embeddings
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $74,400/year in our lowest geographic market up to $166,500/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.
+
+
+Company - Amazon.com Services LLC
+
+Job ID: A2694750

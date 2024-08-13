@@ -1,0 +1,30 @@
+About the job
+Responsibilities
+
+Kforce has a client that is seeking an Angular Developer in Draper, UT. Summary: We are looking for an experienced Angular developer who will be responsible for designing, developing, and maintaining Plaid integration and web application using Angular frameworks. This includes building new features and enhancing existing ones while ensuring the application is smooth, performant, and robust. Duties and Responsibilities:
+
+ The role involves working on an application that performs heavy queries, requiring efficient handling of data to maintain responsiveness and stability
+ The Angular Developer will collaborate with cross-functional teams, troubleshoot and resolve issues, and adhere to best practices in software development
+
+Requirements
+
+ A Bachelor's degree in Computer Science or a related field, or equivalent practical experience, is necessary
+ At least 3+ years of experience working with Angular and related technologies
+ Experience with front-end tools like Webpack, npm, redux and version control systems like Git is required
+ Knowledge of back-end technologies and cloud services is required
+ A strong understanding of JavaScript, HTML, CSS, and RESTful APIs is essential
+ A solid understanding of responsive design principles and web development best practices including reactive programming
+ Familiarity with reactive programming tools for Angular, such as RxJS, is a plus
+ Familiarity with modern front-end development frameworks, Agile methodologies, and unit testing is expected
+ Strong problem-solving skills, attention to detail, and the ability to work independently as well as part of a team are crucial
+ The ability to hit the ground running, quickly adapting to the existing codebase and delivering efficient, high-quality code
+
+The pay range is the lowest to highest compensation we reasonably in good faith believe we would pay at posting for this role. We may ultimately pay more or less than this range. Employee pay is based on factors like relevant education, qualifications, certifications, experience, skills, seniority, location, performance, union contract and business needs. This range may be modified in the future.
+
+We offer comprehensive benefits including medical/dental/vision insurance, HSA, FSA, 401(k), and life, disability & ADD insurance to eligible employees. Salaried personnel receive paid time off. Hourly employees are not eligible for paid time off unless required by law. Hourly employees on a Service Contract Act project are eligible for paid sick leave.
+
+Note: Pay is not considered compensation until it is earned, vested and determinable. The amount and availability of any compensation remains in Kforce's sole discretion unless and until paid and may be modified in its discretion consistent with the law.
+
+This job is not eligible for bonuses, incentives or commissions.
+
+Kforce is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.

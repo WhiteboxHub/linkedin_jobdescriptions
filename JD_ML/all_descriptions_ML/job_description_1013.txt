@@ -1,0 +1,63 @@
+About the job
+Ally and Your Career 
+
+Ally Financial only succeeds when its people do - and that’s more than some cliché people put on job postings. We live this stuff! We see our people as, well, people - with interests, families, friends, dreams, and causes that are all important to them. Our focus is on the health and safety of our teammates as well as work-life balance and diversity and inclusion. From generous benefits to a variety of employee resource groups, we strive to build paths that encourage employees to stretch themselves professionally. We want to help you grow, develop, and learn new things. You’re constantly evolving, so shouldn’t your opportunities be, too?
+
+Work Schedule: Ally designates roles as (1) fully on-site, (2) hybrid, or (3) fully remote. Hybrid roles are generally expected to be in the office a certain number of days per week as indicated by your manager. Your hiring manager will discuss this role's specific work requirements with you during the hiring process. All work requirements are subject to change at any time based on leader discretion and/or business need.
+
+ The Opportunity 
+
+Provides technical expertise in the development and implementation of technology solutions focused on GenAI platforms, cloud services, and tools to assist all business units across the enterprise. Responsible for designing and implementing scalable cloud native solutions with Python. This is not a Data Engineering role. We develop and implement our own cloud infrastructure with infrastructure as code and maintain our own CI/CD pipelines. The right candidate also serves as a technical expert to junior level engineers. Partners with engineering teams to provide the business with the best possible solutions. Keeps up to date on technology trends, especially those that relate to GenAI. This is a mid-level to senior-level position that will report to the Director of AI and Advanced Analytics.
+
+ The Work Itself 
+
+ Implements cloud native AI solutions in partnership with the business units. 
+ Engineers technology solutions supporting application environments. 
+ Documents and publish standards for platform users. 
+ Establishes patterns and new design standards for engineering teams. 
+ Reviews metrics for quality control. 
+ Provides technical expertise and advice to engineers across the enterprise 
+ Creates and manages scripts for CI/CD pipeline and deployed infrastructure. 
+ Champion a collaborative development approach which encourages contributions and emphasizes transparency 
+
+Skills
+
+ The Skills You Bring 
+
+ 5+ years of industry experience 
+ 3+ years of experience in Python programming 
+ 2+ years of experience with Terraform for infrastructure as code 
+ Several years of AWS experience with a variety of services like Lambda, ECS, S3, DynamoDB, API Gateway, SQS, IAM, Security Groups 
+ Ability to design and build serverless and stateful systems on AWS that are scalable and highly available. 
+ Strong knowledge of DevOps, Process Architecture and Source Code tools. 
+ Experience working in an agile environment. 
+ Experience with microservice development patterns preferred. 
+ Experience working with stakeholders and customers in a service delivery capacity preferred. 
+ Bachelor's degree in Computer Science, Information System, or other relevant field of study preferred. 
+ AI/ML experience or certifications is preferred. 
+
+How We'll Have Your Back
+
+Ally's compensation program offers market-competitive base pay and pay-for-performance incentives (bonuses) based on achieving personal and company goals. Our Total Rewards program includes industry-leading compensation and benefits plus additional incentives that are designed to meet your needs and those of your family so you can get the most out of your career and your life, including:
+
+Time Away: 11 paid holidays, 20 paid time off days, and 8 hours of volunteer time off, yearly (paid time off is prorated based on start date) 
+Planning for the Future: plan for the near and long term with an industry-leading 401K retirement savings plan with matching and company contributions, student loan pay downs and 529 educational save up assistance programs, tuition reimbursement, employee stock purchase plan, and financial learning center and financial coach access.
+Supporting your Health & Well-being: flexible health and insurance options including medical, dental and vision, employee, spouse and child life insurance, short- and long-term disability, pre-tax Health Savings Account with employer contributions, Healthcare FSA, critical illness, accident & hospital indemnity insurance, and a total well-being program that helps you and your family stay on track physically, socially, emotionally, and financially.
+Building a Family: adoption, surrogacy and fertility assistance as well as paid parental and caregiver leave, Dependent Day Care FSA back-up child and adult/elder care days and childcare discounts.
+Work-Life Integration: other benefits including Mentally Fit Employee Assistance Program, subsidized and discounted Weight Watchers® program and other employee discount programs.
+Other compensations: depending on the role for which you are considered, you may be eligible for travel allowances, relocation assistance, a signing bonus and/or equity.
+To view more detailed information about Ally’s Total Rewards, please visit this link: https://www.ally.com/content/dam/pdf/corporate/ally-total-rewards-snapshot.pdf
+
+Who We Are:
+
+Ally Financial is a customer-centric, leading digital financial services company with passionate customer service and innovative financial solutions. We are relentlessly focused on "Doing it Right" and being a trusted financial-services provider to our consumer, commercial, and corporate customers. For more information, visit www.ally.com.
+
+Ally is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to age, race, color, sex, religion, national origin, disability, sexual orientation, gender identity or expression, pregnancy status, marital status, military or veteran status, genetic disposition or any other reason protected by law.
+
+We are committed to working with and providing reasonable accommodation to applicants with physical or mental disabilities. For accommodation requests, email us at work@ally.com. Ally will not discriminate against any qualified individual who is capable of performing the essential functions of the job with or without reasonable accommodation.
+
+Base Pay Range: $85000 - $150000 USD
+
+An individual's position in the range is determined by the specific role, the scope and responsibilities of the role, work experience, education, certification(s), training, and additional qualifications. We review internal pay, the competitive market, and business environment prior to extending an offer.
+
+Incentive Compensation: This position is eligible to participate in our annual incentive plan.

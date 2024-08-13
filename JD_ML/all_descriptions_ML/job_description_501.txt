@@ -1,0 +1,60 @@
+About the job
+Join Our Team: Do Meaningful Work and Improve People’s Lives 
+
+Our purpose, to improve customers’ lives by making healthcare work better, is far from ordinary. And so are our employees. Working at Premera means you have the opportunity to drive real change by transforming healthcare.
+
+To better serve our customers, we’re creating a culture that promotes employee growth, collaborative innovation, and inspired leadership. We are committed to creating an environment where employees can do their best work and where best-in-class talent comes, stays, and thrives! As a result of these efforts we are proud to share that Forbes ranked Premera among America’s 2023 Best Midsize Employers and America's 2023 Best Employers By State.
+
+Learn how Premera supports our members, customers and the communities that we serve through our Healthsource blog: https://healthsource.premera.com.
+
+As a Data Engineer I, you will create, modify, and test the code, forms, and scripts that construct the data sets that drive our Data Engineering and Business Intelligence capabilities. You will develop and write solutions to store, locate, and retrieve specific documents, data, and information and distribute through multiple methods and will perform basic ETL (extract, transform, load) processes.
+
+This will be a virtual/telecommuter position, working from home. However, you will be expected to align with Pacific standard working hours. 
+
+What you’ll do:
+
+Develop, implement, and maintain data sets and extract, transform, load (ETL) scripts and processes. Use scripting skills to create data models and pipelines.
+Work closely with other data professionals and business stakeholders to develop understanding of the needs, pace, and direction for our business partners. Translate these needs into requirements and specifications for data processes and tools.
+Troubleshoot issues as they arise and solve problems independently and collaboratively.
+Collaborate with data scientists and other analysts to further understand business problems.
+Develop code to complete effective solutions using applicable technology.
+
+What you’ll bring: 
+
+Bachelor’s Degree in Computer Science, Computer Engineering, or similar area. (Required)
+Knowledge of the software development lifecycle, relational database theory, and skills to utilize one or more programming languages. (Required) 
+Familiarity with healthcare specific regulatory requirements for data management.
+Experience providing data integration services within healthcare organizations.
+Knowledge of Tableau, SAS, R, and other analytic tools.
+Functional understanding and ability to apply programming and scripting concepts skills across SQL-based and Python scripting technologies.
+Ability to use Extract Transform Load (ETL) tools (SSIS, Data Stage).
+
+What We Offer
+
+Medical, vision and dental coverage
+Life and disability insurance
+Retirement programs (401K employer match and pension plan)
+Wellness incentives, onsite services, a discount program and more
+Tuition assistance for undergraduate and graduate degrees
+Generous Paid Time Off to reenergize
+Free parking
+
+Equal employment opportunity/affirmative action:
+
+Premera is an equal opportunity/affirmative action employer. Premera seeks to attract and retain the most qualified individuals without regard to race, color, religion, sex, national origin, age, disability, marital status, veteran status, gender or gender identity, sexual orientation, genetic information or any other protected characteristic under applicable law.
+
+If you need an accommodation to apply online for positions at Premera, please contact Premera Human Resources via email at careers@premera.com or via phone at 425-918-4785.
+
+Premera is hiring in the following states, with some limitations based on role or city: Alaska, Arizona, Arkansas, California, Colorado, Florida, Georgia, Idaho, Iowa, Kansas, Kentucky, Maine, Michigan, Minnesota, Missouri, Montana, Nevada, New Hampshire, New Mexico, North Carolina, Oklahoma, Oregon, South Carolina, South Dakota, Tennessee, Texas, Utah, Washington, Wisconsin.
+
+The pay for this role will vary based on a range of factors including, but not limited to, a candidate’s geographic location, market conditions, and specific skills and experience.
+
+National Salary Range:
+
+$67,800.00 - $98,400.00
+
+National Plus Salary Range:
+
+$67,800.00 - $112,200.00
+
+National Plus salary range is used in higher cost of labor markets including Western Washington and Alaska.

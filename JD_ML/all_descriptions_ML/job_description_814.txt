@@ -1,0 +1,41 @@
+About the job
+Company Description
+
+The Bosch Research and Technology Center North America with offices in Sunnyvale, California, Pittsburgh, Pennsylvania and Cambridge, Massachusetts is a part of the global Bosch Group (www.bosch.com), a company with over 70 billion euro revenue, 400,000 employees worldwide, a very diverse product portfolio, and a history spanning over 125 years. The Research and Technology Center North America (RTC-NA) provides technologies and system solutions for various Bosch business fields, primarily in the field of artificial intelligence (for example, human-assisted AI, natural language processing, robotics, 3D perception, and AI platform), energy technologies, internet technologies, circuit design, semiconductors and wireless, as well as advanced MEMS design.
+
+Job Description
+
+The Robot Learning Lab at the Bosch Research office in Pittsburgh invites an enthusiastic and knowledgeable research intern for investigations at the intersection of Robotics, Embodied AI, Multimodal Machine Learning, and Natural Language Processing. Aligned with impactful business use-cases and important academic collaborations, we develop algorithms towards several simulated and real-world robotics tasks, e.g., interactive object perception in tabletop manipulation settings, open-vocabulary mobile manipulation, and instruction-following for semantics-aware robot navigation. Ultimately, we wish to deploy these algorithms in real-world industrial scenarios while providing significant contribution to the scientific community. Together with various internal industrial colleagues and several academic collaborators, particularly from the Robotics Institute and Language Technologies Institute at Carnegie Mellon University, we have made several key developments that we expect the intern to leverage and extend.
+
+We expect the intern to display independence and maturity as a researcher. The intern is expected to design, implement, and evaluate our methodology, according to the best practices of the field and inspired by, e.g., their previous research experience, new insights they glean from related literature, collaborative team discussions, and in-depth discussions with the supervisor(s). To be successful, the intern must understand and have experience in dealing with relevant challenges in representation learning and robotics research, such as: (i) leveraging foundation models for robot decision-making and control, (ii) determining regularization strategies and self-supervisory tasks for efficiently learning effective multimodal representations, (iii) pursuing model robustness and generalizability to distribution shifts (e.g., unseen task-execution settings, simulation-to-real gap, policy transfer across different robot morphologies), (iv) dealing with the practicalities related to implementing neural policies (e.g., optimisation tricks, multi-machine/multi-GPU training), (v) conducting model performance characterization + error analysis (determining informative ablations and baselines, visualizing and interpreting trajectories, visualizing and inspecting learned representations, identifying dataset biases), etc.
+
+Finally, the intern will be expected to contribute to the preparation of industrial patents and to work with teammates to publish a high-quality research paper in a major conference venue.
+
+Qualifications
+
+ Strong background in machine learning, with particular emphasis on multimodality and/or representation learning
+ Strong background in Robotics or Embodied Artificial Intelligence
+ Extensive experience in from-scratch neural model implementation, e.g., using PyTorch
+ Extensive experience with data analytics toolkits, such as numpy, pandas, and scikit-learn
+ Extensive experience in implementing, training/fine-tuning, and evaluating the performance of CV models, NLP models, policies, etc.
+ Extensive experience in software development in Python on Linux-based systems
+ Extensive experience in training neural models on multi-machine or multi-GPU setups
+ Extensive publication history in top conference venues; is a mature researcher
+ (Preferred) Experience in leveraging Large Language Models, Vision-Language Models, and/or foundation models that are grounded with other modalities (e.g., audio, haptics, etc.)
+ (Preferred) Strong theoretical background in AI/ML/Robotics topics, e.g., representation learning, transfer learning, reinforcement learning, learning from demonstrations, safe learning, etc.
+
+Other Requirements
+
+ Your degree level: pursuing doctoral degree, or current post-doctoral researcher
+ Your major: Computer Science, Electrical & Computer Engineering, Statistics, or related
+
+Additional Information
+
+The U.S. base salary range for this intern position is $30.00-$58.00 hourly. Within the range, individual pay is determined based on several factors, including, but not limited to, type of degree, work experience and job knowledge, complexity of the role, type of position, job location, etc. Your Hiring Manager can share more details about the specific salary range for this position during the interview process.
+
+By choice, we are committed to a diverse workforce - EOE/Protected Veteran/Disabled.
+
+BOSCH is a proud supporter of STEM (Science, Technology, Engineering & Mathematics)
+
+FIRST Robotics (For Inspiration and Recognition of Science and Technology)
+AWIM (A World in Motion)

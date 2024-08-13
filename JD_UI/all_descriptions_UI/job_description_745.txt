@@ -1,0 +1,76 @@
+About the job
+Thank you for your interest in working for our Company. Recruiting the right talent is crucial to our goals. On April 1, 2024, 3M Healthcare underwent a corporate spin-off leading to the creation of a new company named Solventum. We are still in the process of updating our Careers Page and applicant documents, which currently have 3M branding. Please bear with us. In the interim, our Privacy Policy here: https://www.solventum.com/en-us/home/legal/website-privacy-statement/applicant-privacy/ continues to apply to any personal information you submit, and the 3M-branded positions listed on our Careers Page are for Solventum positions. As it was with 3M, at Solventum all qualified applicants will receive consideration for employment without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+Job Description
+
+Software Engineer (Solventum)
+
+3M Health Care is now Solventum
+
+At Solventum, we enable better, smarter, safer healthcare to improve lives. As a new company with a long legacy of creating breakthrough solutions for our customers’ toughest challenges, we pioneer game-changing innovations at the intersection of health, material and data science that change patients' lives for the better while enabling healthcare professionals to perform at their best. Because people, and their wellbeing, are at the heart of every scientific advancement we pursue. 
+
+We partner closely with the brightest minds in healthcare to ensure that every solution we create melds the latest technology with compassion and empathy. Because at Solventum, we never stop solving for you.
+
+The Impact You’ll Make in this Role
+
+As a Software Engineer You Will Have The Opportunity To Tap Into Your Curiosity And Collaborate With Some Of The Most Innovative And Diverse People Around The World. Here, You Will Make An Impact By
+
+Developing front-end and mobile software applications, in collaboration with back-end developers and hardware engineers, to create a scalable, optimized, reusable, and secure data streaming platform for medical devices.
+Implementing industry-standard best practices to design, develop, code, test, and debug software.
+Building new technology that enables the company to grow efficiently and quickly with an intense focus on customer needs.
+Working in all stages of technology development – from early R&D through commercialization. Platform development, application development, and applied research are all in scope.
+Collaborating effectively within the Corporate Research Labs, across business groups and functions, and with external partners to create solutions that positively impact patient and clinician experiences.
+
+Your Skills And Expertise
+
+To set you up for success in this role from day one, Solventum requires (at a minimum) the following qualifications:
+
+Bachelor’s Degree or higher AND 1 years of combined experience in front-end or mobile software development OR High School Diploma/GED from AND 5 years of experience in front-end or mobile software development 
+Expertise in Javascript and TypeScript
+Expertise in React and its ecosystem
+Experience working with REST APIs
+An understanding of the Document Object Model
+
+Additional qualifications that could help you succeed even further in this role include:
+
+Master's degree in Electrical Engineering, Computer Engineering, Computer Science, Software Engineering from an accredited institution
+And understanding of what factors govern the performance of a network-connected UI
+Experience working with GraphQL and/or RPC-style APIs
+Hands-on experience working directly with users to develop and adapt a UI to their needs
+Strong communication and writing skills, for both technical and non-technical audiences
+Curiosity about the healthcare business, and how we can innovate to serve our users, particularly clinicians and patients
+Experience in Healthcare industry or other regulated industry
+
+Work location: 
+
+Hybrid Eligible: Job Duties allow for some remote work but require travel to Maplewood, MN OR Pittsburgh, PA at least 3 days per week.
+
+Travel: May include up to 10% domestic/international
+
+Relocation Assistance: May be authorized
+
+Must be legally authorized to work in country of employment without sponsorship for employment visa status (e.g., H1B status).
+
+Supporting Your Well-being
+
+Solventum offers many programs to help you live your best life – both physically and financially. To ensure competitive pay and benefits, Solventum regularly benchmarks with other companies that are comparable in size and scope.
+
+Applicable to US Applicants Only:The expected compensation range for this position is $95,825 - $117,120, which includes base pay plus variable incentive pay, if eligible. This range represents a good faith estimate for this position. The specific compensation offered to a candidate may vary based on factors including, but not limited to, the candidate’s relevant knowledge, training, skills, work location, and/or experience. In addition, this position may be eligible for a range of benefits (e.g., Medical, Dental & Vision, Health Savings Accounts, Health Care & Dependent Care Flexible Spending Accounts, Disability Benefits, Life Insurance, Voluntary Benefits, Paid Absences and Retirement Benefits, etc.). Additional information is available at: https://www.solventum.com/en-us/home/our-company/careers/#Total-Rewards
+
+Responsibilities of this position include that corporate policies, procedures and security standards are complied with while performing assigned duties.
+
+Solventum is committed to maintaining the highest standards of integrity and professionalism in our recruitment process. Applicants must remain alert to fraudulent job postings and recruitment schemes that falsely claim to represent Solventum and seek to exploit job seekers.
+
+Please note that all email communications from Solventum regarding job opportunities with the company will be from an email with a domain of @solventum.com. Be wary of unsolicited emails or messages regarding Solventum job opportunities from emails with other email domains.
+
+Solventum is an equal opportunity employer. Solventum will not discriminate against any applicant for employment on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, or veteran status.
+
+Please note: your application may not be considered if you do not provide your education and work history, either by: 1) uploading a resume, or 2) entering the information into the application fields directly.
+
+Solventum Global Terms of Use and Privacy Statement
+
+Carefully read these Terms of Use before using this website. Your access to and use of this website and application for a job at Solventum are conditioned on your acceptance and compliance with these terms.
+
+Please access the linked document by clicking here, select the country where you are applying for employment, and review. Before submitting your application you will be asked to confirm your agreement with the
+
+terms.

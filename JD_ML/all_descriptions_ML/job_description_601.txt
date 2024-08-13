@@ -1,0 +1,83 @@
+About the job
+Job Description
+
+2 positions open: One would be Monday-Friday 3-11 2 nd shift , One would be Monday-Friday 11-7 3 rd shift
+
+Your role
+
+The Data Center Facilites Engineer II position is a contributing member to the site level Data Center Operations team assigned to one or more of our data center properties reporting directly to the Manager Engineering Operations. The Site Engineer II will have experience in mission critical infrastructure, including Generators, UPS Systems, HVAC Systems, Fire/Life Safety Systems, BMS Systems, and CMMS systems. It is expected that the Site Engineer I candidate has expertise in either electrical work or mechanical work and it would be expected that he/she would be competent in the area of non expertise. The responsibilities of the Site Engineer II are: to contribute to the daily site operation, including creation and modification of site operating procedures, contribute to creation of change management tickets, creation of timely incident reporting, site maintenance and repairs/inspections to help ensure Digital Realty’s data center operations achieve the highest level of availability.
+
+What You’ll Do
+
+Gain a complete understanding of the following DLR and site related items:
+Facility layout and operation of MEP systems and the ability to illustrate site specific system one-lines with good accuracy.
+Equipment nomenclature standards and equipment locations
+Facility drawings and equipment specifications
+Equipment sequence of operations (SOO’s), standard operating procedures (SOP’s), and emergency operating procedures (EOP’s).
+Customer SLA’s and engineering specific lease obligations critical to data center operations.
+Facility top 20 EOP’s.
+BMS alarm functionality, alarm escalation/acknowledgement, and ability to extract data and trends
+DLR event management, event escalation, and incident reporting procedures
+Computerized Maintenance Management System (CMMS), including the ability to create, edit, implement, and close change management work orders.
+Create/edit/resolve/close incident reports following a site incident
+Maintenance and Operations Standards
+Digital Realty’s Environmental and Occupational Health and Safety standards
+Gain a complete understanding of all aspects of data center operations including the operation, maintenance and repair of all mission critical equipment and systems supporting a 24x7 data center operation to achieve 100% uptime and 100% compliance with all customer SLAs.
+Supervision of construction activity and installations as required.
+Ability to be the executor in the site specific change management processes including the creation of Method of Procedures (MOPs) for low risk preventative maintenance and repairs as well as the oversight of those maintenances as they are carried out.
+Ability to effectively troubleshoot site mechanical and electrical systems.
+Ability to respond to unplanned events without immediate supervision.
+Ability to efficiently complete rounds/inspections and to detect anomalies during those rounds.
+Develop or improve SOPs for site specific equipment.
+Gain a good understanding and knowledge of the local customers business and datacenter operation.
+Support various accreditation initiatives, including, but not limited to, SSAE16, SOC2, ISO 27001, etc. as may be required by Digital Realty.
+Complete DLR Critical Awareness Training
+What You’ll Need
+
+At least 3 year of experience in mission critical facilities operating / engineering or equivalent equipment experience including assets associated with mission critical engineering relevant to the specific site. (UPS, HVAC, generators, fire/life safety systems).
+Hands-on electrical or mechanical skill and competence in the area of non-expertise (for example, electrical expertise with mechanical competence, or vice-versa).
+Strong knowledge of various UPS Systems and architectures.
+Strong knowledge of various cooling systems and architectures.
+Strong understanding of infrastructure redundancy configurations and equipment and their risks (N+1, 2N, ATS/ STS, Failover Scenarios)
+Strong knowledge of energy efficiency principals.
+Strong interpersonal, presentation and communication skills. Ability to respond effectively, verbally in writing to sensitive issues, complex inquiries or complaints.
+Detail Oriented with strong organizational skills
+Proficiency in Microsoft Word, Excel and Outlook and familiarity with Microsoft Project, Adobe Acrobat, Visio or AutoCad
+Basic understanding of emergency situations and escalation processes.
+Strong understanding of Computerized Maintenance Management Systems (CMMS), Data Center Infrastructure Management (DCIM), and power metering systems
+Lift and handle up to 50 pounds
+Bend, stoop, and stretch as required for placement and retrieval of network devices, materials, or equipment
+Work under a raised data center floor
+Climb ladders (up to 16 feet) to reach plenum spaces
+
+A Bit About Us
+
+Digital Realty brings companies and data together by delivering the full spectrum of data center, colocation and interconnection solutions. PlatformDIGITAL®, the company’s global data center platform, provides customers with a secure data meeting place and a proven Pervasive Datacenter Architecture (PDx®) solution methodology for powering innovation and efficiently managing Data Gravity challenges. Digital Realty gives its customers access to the connected data communities that matter to them with a global data center footprint of 300+ facilities in 50+ metros across 25+ countries on six continents.
+
+To learn more about Digital Realty, please visit digitalrealty.com or follow us on LinkedIn and Twitter .
+
+A Bit About Our Digital Team
+
+Our Operations team keeps our customers’ infrastructure running safely and securely. We get plenty of opportunities to take on a variety of tasks and develop our technical skills. From overseeing electrical power to cooling and fire suppression systems, our team plays a vital role in making sure everything in our data centers operates as it should.
+
+What We Can Offer You
+
+Our rapidly evolving business sector offers the opportunity to be part of a courageous and passionate team who work together to understand and meet the changing needs of our global customers.
+
+Join us and you’ll be part of a supportive and inclusive environment where you can bring your whole self to work. As part of our team, you’ll get to work with people from different business areas, challenge the way we do things and put your ideas into action. We’ll also give you plenty of development opportunities so you can build a rewarding and successful career with us.
+
+Our Compensation Philosophy
+
+Digital Realty offers its employees a highly competitive compensation package, excellent benefits, and an environment that recognizes and rewards your contributions. Central to our compensation philosophy is rewarding our employees for achieving the values and objectives aligned to the company's overall goals and values.
+
+This is an exciting time to join our business so apply now and make your mark on our future.
+
+Notes
+
+The above statements are intended to describe the general nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all responsibilities, duties, and skills required of personnel so classified.
+
+Digital Realty is an equal opportunity employer, EOE/AA/M/F/Vets/Disabled. All applicants will receive consideration for employment and will not be discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, age, national origin, disability or protected veteran status, or other status protected by law or Company policy.
+
+Digital Realty is a publicly traded company (NYSE: DLR) with investment grade ratings from all three major ratings agencies.
+
+Please do not forward unsolicited resumes to any employee of Digital Realty and its subsidiaries. Digital Realty is not responsible for any fees related to unsolicited referrals.

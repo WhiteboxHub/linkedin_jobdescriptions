@@ -1,0 +1,42 @@
+About the job
+Do you want your voice heard and your actions to count? 
+
+Discover your opportunity with Mitsubishi UFJ Financial Group (MUFG), the 7th largest financial group in the world. Across the globe, we’re 120,000 colleagues, striving to make a difference for every client, organization, and community we serve. We stand for our values, building long-term relationships, serving society, and fostering shared and sustainable growth for a better world.
+
+With a vision to be the world’s most trusted financial group, it’s part of our culture to put people first, listen to new and diverse ideas and collaborate toward greater innovation, speed and agility. This means investing in talent, technologies, and tools that empower you to own your career.
+
+Join MUFG, where being inspired is expected and making a meaningful impact is rewarded.
+
+The selected colleague will work at an MUFG office or client sites four days per week and work remotely one day. A member of our recruitment team will provide more details.
+
+Job Summary:
+
+Senior Security Engineer will ultimately be responsible for the design, innovation, operation, architecture, and thought leadership for the firm’s user data loss prevention and data classification systems. This position will collaborate with the rest of the engineers and act as the senior authority on all aspects of the firm’s DLP systems. The expectation is that this person will have an advanced understanding of the DLP, data classification, and process automation, but will also have understanding of data security strategy, capability, and use cases. This role is for a SME not just with great technical acumen, but also with great vision of where to take our program.
+
+Major Responsibilities:
+
+Define, lead, and execute Data Loss Prevention strategy and processes.
+Analyze, design, develop, and operate programs, shell scripts, tests, and infrastructure automation capabilities necessary for daily operations and custom processes.
+Management of the technology and processes including monitoring, investigation, reporting, and rule maintenance. 
+Coordinate with internal Data Loss Prevention (DLP) and Insider Threat teams to develop and integrate events with the UEBA and SOAR technology.
+Support security operations and other security partners in remediation or mitigation of security vulnerabilities and assist associated technical teams.
+Advise Insider Threat responders as they develop and coordinate response, containment, and remediation capabilities as appropriate.
+Provide guidance and training on the technology to additional team members. Be a willing and approachable teacher.
+Assist in review of Information Security policies and Program documents and provide updates for continued program maturity and evolution.
+
+Qualifications
+
+6-8 years' overall technical experience in either reverse engineering/malware analysis, threat intelligence, incident response, security operations, or related information security field
+6-8 years' experience in application design/engineering, including but not limited to programming/scripting, Windows/Linux system administration, relational database management system (RDBMS)/NoSQL database administration, etc.
+B.S. Computer Science or equivalent experience
+Subject matter expert in all facets of data loss prevention (DLP) technology
+Subject matter expert in all facets of the Symantec suite of DLP products (legacy Vontu) and Zscaler DLP
+Masterful understanding of DLP capabilities, strategies, and principles
+
+The typical base pay range for this role is between $145K - $176K depending on job-related knowledge, skills, experience and location. This role may also be eligible for certain discretionary performance-based bonus and/or incentive compensation. Additionally, our Total Rewards program provides colleagues with a competitive benefits package (in accordance with the eligibility requirements and respective terms of each) that includes comprehensive health and wellness benefits, retirement plans, educational assistance and training programs, income replacement for qualified employees with disabilities, paid maternity and parental bonding leave, and paid vacation, sick days, and holidays. For more information on our Total Rewards package, please click the link below.
+
+MUFG Benefits Summary
+
+The above statements are intended to describe the general nature and level of work being performed. They are not intended to be construed as an exhaustive list of all responsibilities duties and skills required of personnel so classified.
+
+We are proud to be an Equal Opportunity Employer and committed to leveraging the diverse backgrounds, perspectives and experience of our workforce to create opportunities for our colleagues and our business. We do not discriminate on the basis of race, color, national origin, religion, gender expression, gender identity, sex, age, ancestry, marital status, protected veteran and military status, disability, medical condition, sexual orientation, genetic information, or any other status of an individual or that individual’s associates or relatives that is protected under applicable federal, state, or local law.

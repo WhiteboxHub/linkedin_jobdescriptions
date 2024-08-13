@@ -1,0 +1,36 @@
+About the job
+About The Company
+
+Gradient is on a mission to automate the modern enterprise, a huge space with over $100B in TAM. Our core product, the Gradient Automation Foundry, makes it easy for enterprises to automate information processing workloads that were historically impossible to automate with RPA or internal tools. We’ve built our own LLMs and technology from the ground up to power privacy sensitive enterprise workloads.
+
+About The Role
+
+We’re looking for a passionate Applied AI Engineer who is interested in working directly with customers to help leverage our AI platform to solve enterprise automation problems.
+
+Responsibilities
+
+Drive projects end-to-end, from scoping and design to implementation and rollout
+Work hands-on with prospects and customers to demonstrate and communicate the value of Gradient technology throughout the sales cycle, from demo to proof of concept to design and implementation
+Immerse yourself in the ever-evolving industry, maintaining a deep understanding of competitive and complementary technologies and vendors and how to position Gradient in relation to them.
+Collaborate with Product Management, Engineering, and Marketing to continuously improve Gradient's products and marketing
+
+Qualifications
+
+6+ years of experience working on AI or sales engineering on a highly technical product
+Fluent with React, Typescript, Python. Can easily write prototypes and demos using AI technology
+You are excited about working at an early stage startup and building products from 0 to 1, and have experience doing so
+You are interested in exploring ways to harness AI to disrupt industries and working directly with customers to identify new product innovations
+
+About Us
+
+We’re an ambitious team tackling a huge industry with over $100B in TAM
+Our founding and exec team consists of former leaders who have helped scale hypergrowth startups and led teams at Netflix, Google, and Meta
+We typically work in-person 2-3 days a week at our dynamic HQ in Burlingame, CA
+
+Pay Range And Compensation Package
+
+In consideration of market analysis and relevant factors, the salary range for this position is set between $180,000 and $280,000. However, adjustments outside of this range may be considered for candidates whose qualifications significantly differ from those outlined in the job description. Additionally, this role is eligible to participate in our equity plan and benefits program.
+
+Equal Opportunity Statement
+
+Gradient is an equal opportunity employer and does not discriminate on the basis of race, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition, or any other basis protected by law.

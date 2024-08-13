@@ -1,0 +1,24 @@
+About the job
+Postdoctoral Position in Mathematical Optimization, AI/ML, Medical Physics
+
+Location: Upper East Side, Manhattan, New York
+
+We are excited to announce an opening for a Postdoctoral Researcher to join our team in advancing the field of medical physics and radiotherapy for cancer treatment through applications in large-scale optimization and AI/ML. Our team has a proven track record of developing and clinically implementing cutting-edge optimization and AI algorithms, which are now an integral part of our routine patient care and used to treat more than 10,000 patients to date (see our review paper). To gain more insights into how optimization is revolutionizing radiotherapy for cancer treatment, you are invited to watch our video, a finalist for the prestigious Edelman Award (YouTube video). We strongly advocate for open-sourcing and support this through our initiative, PortPy, which enables researchers to share their algorithms with the broader community.
+
+Employment Highlights:
+
+- Typical research term of two years with an ideal start date within the next 2-5 months
+- Availability of subsidized housing options in Manhattan
+- Competitive salary and benefits package (see MSK Website)
+
+Qualifications:
+
+- A PhD obtained withing the last 4 years in Mathematics, Computer Science, Electrical/Industrial Engineering, Physics, or a related field 
+- Strong publication record
+- Demonstrable proficiency in Python programming and a passionate advocate for open-source practices
+- Previous experience in one of the following fields and a keen interest for learning the others:
+
+Large-scale optimization (e.g., convex and non-convex unconstrained/constraint optimization algorithms)
+AI and Medical Imaging (deep learning and/or reinforcement learning)
+
+If you have any questions about this job opportunity, please contact Dr. Masoud Zarepisheh at zarepism@mskcc.org.

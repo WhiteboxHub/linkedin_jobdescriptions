@@ -1,0 +1,16 @@
+About the job
+At Dynamo AI, we believe that LLMs must be developed with safety, privacy, and real-world responsibility in mind. Our ML team comes from a culture of academic research driven to democratize AI advancements responsibly. By operating at the intersection of ML research and industry applications, our team empowers Fortune 500 companies’ adoption of frontier research for their next generation of LLM products. Join us if you:QualificationsDynamo AI is committed to maintaining compliance with all applicable local and state laws regarding job listings and salary transparency. This includes adhering to specific regulations that mandate the disclosure of salary ranges in job postings or upon request during the hiring process. We strive to ensure our practices promote fairness, equity, and transparency for all candidates. Salary for this position may vary based on several factors, including the candidate's experience, expertise, and the geographic location of the role. Compensation is determined to ensure competitiveness and equity, reflecting the cost of living in different regions and the specific skills and qualifications of the candidate.
+
+ Wish to work on the premier platform for private and personalized LLMs. We provide the fastest end to end solution to deploy research in the real world with our fast-paced team of ML Ph.D.’s and builders, free of Big Tech / academic bureaucracy and constraints
+ Are excited at the idea of democratizing state-of-the-art research on safe and responsible AI
+ Are motivated to work at a 2023 CB Insights Top 100 AI Startup and see your impact on end customers in the timeframe of weeks not years
+ Care about building a platform to empower fair, unbiased, and responsible development of LLMs and don’t accept the status quo of sacrificing user privacy for the sake of ML advancement. Responsibilities
+Own LLM evaluation processes and methods with a focus on generating benchmarks representative of real-world usage and safety vulnerabilities
+Generate high quality synthetic data, curate labels, and conduct rigorous benchmarking
+Deliver robust, scalable, and reproducible production code
+Push the envelope by developing methods for benchmarking that revamps how we assess the best LLMs for harmlessness and helpfulness. Your research will directly empower our customers to more feasibly deploy safe and responsible LLMs
+Co-author papers, patents, and presentations with our research team by integrating other members’ work with your vertical
+Domain knowledge in LLM evaluation and data curation techniques
+Extensive experience in designing and implementing LLM benchmarking, extending previous methods. Comfortability with leading end-to-end projects
+Adaptability and flexibility. In both the academic and startup world, a new finding in the community may necessitate an abrupt shift in focus. You must be able to learn, implement, and extend state-of-the-art research
+Preferred: past research or projects in benchmarking LLMs

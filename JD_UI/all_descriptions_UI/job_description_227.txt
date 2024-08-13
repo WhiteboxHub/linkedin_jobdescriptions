@@ -1,0 +1,55 @@
+About the job
+At Two Six Technologies, we build, deploy, and implement innovative products that solve the world’s most complex challenges today. Through unrivaled collaboration and unwavering trust, we push the boundaries of what’s possible to empower our team and support our customers in building a safer global future.
+
+Two Six Technologies is seeking a motivated and enthusiastic Junior Web Developer to join our team. This is an exciting opportunity for someone who is passionate about web development and eager to grow their skills in a collaborative and supportive environment. As a Junior Web Developer, you will work closely with our development team to create and maintain high-quality web applications and contribute to the success of our projects.
+
+Responsibilities
+
+Assist in the design and development of web applications and websites.
+Collaborate with senior developers to implement new features and functionalities.
+Write clean, efficient, and maintainable code following best practices and coding standards.
+Perform testing and debugging to ensure the quality and reliability of web applications.
+Participate in code reviews to provide and receive constructive feedback.
+Keep up-to-date with the latest web technologies and trends, and share knowledge with the team.
+Support the maintenance and optimization of existing web applications.
+Work closely with designers and other team members to ensure a seamless user experience.
+
+Requirements
+
+2 plus years of experience 
+Strong understanding of web development fundamentals, including HTML, CSS, and JavaScript.
+Experience with at least one web development framework or library such as React, Angular, or Vue.js.
+Familiarity with version control systems such as Git.
+Basic understanding of responsive design principles and cross-browser compatibility.
+Excellent problem-solving and analytical skills.
+Strong communication and collaboration skills.
+Ability to learn quickly and adapt to new technologies and frameworks.
+
+Preferred Qualifications
+
+Experience with server-side programming languages such as Node.js, Python, or PHP.
+Knowledge of database systems such as MySQL, PostgreSQL, or MongoDB.
+Understanding of web accessibility standards and best practices.
+Familiarity with front-end build tools and preprocessors such as Webpack, Babel, or Sass.
+Experience with testing frameworks and methodologies such as Jest, Mocha, or Selenium.
+Participation in personal or open-source projects showcasing web development skills.
+Relevant internships or work experience in web development or related fields
+Experience with Agile methodologies and tools such as Jira and Confluence.
+
+Clearance Requirement
+
+Active TS/SCI with Polygraph
+
+Looking for other great opportunities? Check out Two Six Technologies Opportunities for all our Company’s current openings!
+
+Ready to make the first move towards growing your career? If so, check out the Two Six Technologies Candidate Journey! This will give you step-by-step directions on applying, what to expect during the application process, information about our rich benefits and perks along with our most frequently asked questions. If you are undecided and would like to learn more about us and how we are contributing to essential missions, check out our Two Six Technologies News  page! We share information about the tech world around us and how we are making an impact! Still have questions, no worries! You can reach us at Contact Two Six Technologies. We are happy to connect and cover the information needed to assist you in reaching your next career milestone.
+
+Two Six Technologies is an Equal Opportunity Employer and does not discriminate in employment opportunities or practices based on race (including traits historically associated with race, such as hair texture, hair type and protective hair styles (e.g., braids, twists, locs and twists)), color, religion, national origin, sex (including pregnancy, childbirth or related medical conditions and lactation), sexual orientation, gender identity or expression, age (40 and over), marital status, disability, genetic information, and protected veteran status or any other characteristic protected by applicable federal, state, or local law.
+
+If you are an individual with a disability and would like to request reasonable workplace accommodation for any part of our employment process, please send an email to accomodations@twosixtech.com. Information provided will be kept confidential and used only to the extent required to provide needed reasonable accommodations.
+
+Additionally, please be advised that this business uses E-Verify in its hiring practices.
+
+EOE, including disability/vets.
+
+By submitting the following application, I hereby certify that to the best of my knowledge, the information provided is true and accurate.

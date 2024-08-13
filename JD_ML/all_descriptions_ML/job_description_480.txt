@@ -1,0 +1,60 @@
+About the job
+If you’re looking for a purpose and not just a job, join the Smoothie King team and turn your purpose into a fulfilling passion!
+
+Since pioneering the first nutritional Smoothie franchise in 1973, our mission has always been to inspire people to live a healthy and active lifestyle. Now, with over 1300 stores and counting, we have been ranked as the #1 Fastest-Growing concept in its category and #15 on Entrepreneur Magazine’s “Franchise 500” list in 2024! We’ve grown to become the largest nutritional Smoothie bar in the nation, with a simple recipe for success: Hire the best people, use the best ingredients and blend with a purpose!
+
+Overview
+
+We are seeking an experienced Data Engineer with a strong background in the Microsoft BI stack, including both on-premises and cloud technologies, to join our team. The ideal candidate will have a deep understanding of data engineering concepts including master data and data governance, as well as excellent written and verbal communication skills. The ability to explain CI/CD concepts, especially version control and git concepts, is essential. Experience with Microsoft Fabric is a plus.
+
+Please note, we are looking for a candidate to work in office at our Dallas HQ
+
+Design, develop, and maintain ETL processes and business intelligence solutions using Microsoft BI technologies such as SQL Server Database Engine, SSIS, SSRS, SSAS (Multidimensional and Tabular), Azure SQL Database, Azure Synapse Analytics, Azure Data Factory, and Microsoft Fabric. 
+Collaborate with cross-functional teams to understand data and reporting requirements and ensure timely delivery of high-quality data and reporting solutions. 
+Develop and implement data governance policies and procedures to ensure data accuracy, consistency, and security across on-premises and cloud environments. 
+Implement CI/CD best practices to streamline the development and deployment of data solutions in both on-premises and cloud environments. 
+Collaborate with the enterprise systems and analytics team regarding technical solutions and optimizations. 
+Stay up to date with emerging technologies and industry trends to drive innovation and improve data engineering practices across on-premises and cloud technologies. 
+
+Responsibilities
+
+Strong understanding of master data management, master data services, and data governance concepts and tools. 
+Excellent verbal and written communication skills
+Proficiency in CI/CD concepts, especially version control and git. 
+Strong problem-solving and analytical skills
+Ability to work in a fast-paced, collaborative environment. 
+Ability to work cross-functionally and to coordinate communication across diverse work groups. 
+Promote the culture, values, and mission of Smoothie King. 
+
+Qualifications
+
+Bachelor’s degree in Computer Science, or related field, preferred. 
+Three (3) + years of experience in data engineering with a focus on the Microsoft BI stack, including both on-premises and cloud technologies. 
+Experience with Microsoft Fabric is a plus. 
+Personal passion for health and fitness is a plus. 
+
+What We Offer
+
+Join our team and enjoy an unusually fun work environment with an upbeat atmosphere and great team members. It is our purpose to maintain an environment our team members can brag about, where our focus and belief are built on our core values: We Are Better Together, We Keep Evolving, We Live Our Mission, We Do the Right Thing, and We Focus and Finish. With our core values at the forefront of every decision we make, it allows for collaboration, passion, and a no-limits mindset when it comes to your future! We keep our team happy with our great benefits package, free smoothies, flexible work schedules, office lunches and parties, monthly fitness challenges, free gym access, and more fun activities to make Smoothie King a happy and healthy place to work.
+
+Our Mission
+
+Inspire people to live a healthy and active lifestyle.
+
+Our Vision
+
+To be an integral part of every health and fitness journey.
+
+Our Values
+
+We: Do the Right Thing
+
+We: Are Better Together
+
+We: Live the Mission
+
+We: Keep Evolving
+
+We: Focus and Finish
+
+At Smoothie King, when we say inspire people, we mean everyone. We champion a diverse and inclusive workforce that is representative of the guests we serve. We blend the unique members of our organization, celebrating what is both common and different to grow better together and Rule the Day. The foundation of our diversity efforts is closely tied to our core values, which includes “We Are Better Together” and “We Do the Right Thing”. We are proud to be an equal opportunity employer and consider all qualified candidates, without regard to race, color, religion, sex, national origin, ancestry, age, genetic information, sexual orientation, gender identity, marital or family status, veteran status, or medical condition or disability. If you are a person with a disability and you need assistance in applying for a position with Smoothie King, please call our Human Resources Department at 214-935-8900 and direct assistance will be provided.

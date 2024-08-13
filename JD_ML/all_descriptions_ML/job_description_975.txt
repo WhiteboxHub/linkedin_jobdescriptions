@@ -1,0 +1,49 @@
+About the job
+This job is sourced from a job board. Learn More
+Job Title: Artificial Intelligence (AI) & Machine Learning (ML) Developer
+
+Company: Precision Technologies
+
+Employment Type: W2 contract / Full-Time
+
+Experience Level: Mid-Senior Level
+
+Job Description: We are seeking a talented and experienced AI & ML Developer to join our team. In this role, you will design, develop, and deploy machine learning models that will drive the next generation of intelligent systems at [Precision Technologies]. You will collaborate with cross-functional teams to implement AI-driven solutions that enhance our products and services, and solve complex real-world problems.
+
+Key Responsibilities
+
+Design and develop scalable AI/ML models to solve business challenges, including supervised, unsupervised, and reinforcement learning.
+Implement and optimize deep learning models using frameworks such as TensorFlow, PyTorch, or Keras.
+Collaborate with data engineers to preprocess data and create feature engineering pipelines that ensure high-quality inputs for model training.
+Deploy and integrate AI/ML models into production environments using cloud platforms such as AWS, Google Cloud, or Azure.
+Evaluate and fine-tune models using advanced techniques like cross-validation, hyperparameter tuning, and ensemble methods.
+Continuously monitor and improve model performance post-deployment.
+Work closely with stakeholders to understand requirements and provide AI-driven insights that support decision-making.
+Stay updated on the latest AI/ML trends, research, and best practices, and apply them to ongoing projects.
+Collaborate with software engineers to integrate AI/ML models into end-user applications.
+Ensure ethical use of AI technologies, addressing concerns like bias, fairness, and transparency.
+
+Qualifications
+
+Bachelor's or Master's degree in Computer Science, Data Science, Mathematics, or a related field.
+Proven experience (3+ years) as an AI/ML Developer or Data Scientist, with a strong portfolio of completed projects.
+Proficiency in Python and experience with AI/ML libraries such as TensorFlow, PyTorch, Scikit-learn, and Pandas.
+Solid understanding of machine learning algorithms (e.g., decision trees, SVMs, neural networks) and deep learning techniques (e.g., CNNs, RNNs, transformers).
+Strong mathematical foundation, including knowledge of linear algebra, calculus, probability, and statistics.
+Experience with cloud computing platforms (AWS, Azure, Google Cloud) for deploying and scaling AI/ML models.
+Familiarity with big data technologies like Hadoop and Spark is a plus.
+Excellent problem-solving skills and ability to work in a fast-paced, collaborative environment.
+Strong communication skills, with the ability to explain complex AI concepts to non-technical stakeholders.
+Passion for continuous learning and staying up-to-date with the latest advancements in AI/ML.
+
+We can connect you with the open positions across the state.
+
+Kindly let me know if you are still open to work.
+
+Thank you,
+
+Priya Kinthada
+
+732-792-4531
+
+priya@precisiontechcorp.com

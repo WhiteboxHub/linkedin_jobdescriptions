@@ -1,0 +1,18 @@
+About the job
+Here at Hugging Face, we're on a journey to advance good Machine Learning and make it more accessible. Along the way, we contribute to the development of technology for the better.
+We have built the fastest-growing, open-source library of pre-trained models in the world. With more than 1 million models and 320K stars on GitHub, over 15000 companies, including leading AI organizations such as Google, Elastic, Salesforce, Grammarly, and NASA, are using HF technology in production.
+About the Role
+
+With the rise of LLMs, we're seeing a massive surge in Audio LMs and the community is using the Hugging Face ecosystem to train, evaluate, and share such models, datasets, and demos. In this internship, you'll enable the development of the next generation of these Audio LMs by making open source tools more accessible to the community. This could include integrations with audio data providers (like Common Voice and GigaSpeech) and improved support for audio data types, building demos for state-of-the-art audio/ voice models, or creating new leaderboards for evaluations (TTS Arena, Open ASR Leaderboard) within Spaces and Gradio.
+Note: This is not a marketing position! Developer Advocacy at Hugging Face is deeply technical and having a generalist mindset is essential. Our team contributes to libraries such as Transformers, Diffusers or Datasets, as well as to external libraries.
+You'll get to foster and drive collaborations with groups in the ML for Audio Space, lead communications, adopt the latest Audio-related features, and build tools for the community.
+About you
+
+If you love open-source, are passionate about making Audio LMs more accessible to engineers, researchers, and the broader audio community, and want to contribute to one of the fastest-growing ML ecosystems, we can't wait to see your application!
+More about Hugging Face
+
+We are actively working to build a culture that values diversity, equity, and inclusivity. We are intentionally building a workplace where you feel respected and supported—regardless of who you are or where you come from. We believe this is foundational to building a great company and community, as well as the future of machine learning more broadly. Hugging Face is an equal opportunity employer, and we do not discriminate based on race, ethnicity, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or ability status.
+We value development. You will work with some of the smartest people in our industry. We are an organization that has a bias for impact and is always challenging ourselves to grow continuously. We provide all employees with reimbursement for relevant conferences, training, and education.
+We care about your well-being. We offer flexible working hours and remote options. We offer health, dental, and vision benefits for employees and their dependents. We also offer parental leave and flexible paid time off.
+We support our employees wherever they are. While we have office spaces in NYC and Paris, we're very distributed, and all remote employees have the opportunity to visit our offices. If needed, we'll also outfit your workstation to ensure you succeed.
+We want our teammates to be shareholders. All employees have company equity as part of their compensation package. If we succeed in becoming a category-defining platform in machine learning and artificial intelligence, everyone enjoys the upside.

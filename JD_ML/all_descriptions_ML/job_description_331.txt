@@ -1,0 +1,28 @@
+About the job
+Description
+
+JOB DESCRIPTION
+
+Duties: Architect, design, and develop data ingestion processes into AWS Platform. Evaluate new and current technologies using existing data architecture standards and frameworks. Provide technical guidance and direction to support the business and its technical teams, contractors, and vendors. Contribute to the engineering community as an advocate of firmwide data frameworks, tools, and practices in the Software Development Life Cycle. Influence peers and project decision-makers to consider the use and application of leading-edge technologies. Identify, analyze, and interpret trends or patterns in complex data sets. Innovate new ways of managing, transforming, and validating data. Establish and enforce guidelines to ensure consistency, quality, and completeness of data assets. Act as the coach and mentor to team members on their assigned project tasks. Develop a cohesive data engineering team and ensure their continued success. Conduct product work reviews with team members.
+
+Qualifications
+
+Minimum education and experience required: Bachelor’s degree in Electronic Engineering, Computer Engineering, Computer Science or related field of study plus 7 years of experience in the job offered or as Data Engineer, Project Architect, IT Consultant, DataStage Developer, Software Engineer, or related occupation.
+
+Skills Required: Requires experience in the following: Technology, Data and Domain consulting, and designing and implementing high quality business solutions with a focus on data warehousing, technical architecture, and data lake management; cloud enterprise implementations including Azure or AWS; SPARK; handling terabyte size datasets; Implementing complex ETL transformations on a big data platform such as NoSQL databases, Teradata, DB2, Hadoop, or Snowflake; Python; Event-Driven Architecture (EDA); Event Streaming Apache Kafka; ETL Tools including DataStage and Talend for Bigdata; Analyzing, design and conducting proof of concept, solutions, and core architectural changes; using an Agile programming approach.
+
+Job Location: 8181 Communications Parkway, Plano, TX 75024. Telecommuting permitted up to 40% of the week.
+
+About Us
+
+Chase is a leading financial services firm, helping nearly half of America’s households and small businesses achieve their financial goals through a broad range of financial products. Our mission is to create engaged, lifelong relationships and put our customers at the heart of everything we do. We also help small businesses, nonprofits and cities grow, delivering solutions to solve all their financial needs.
+
+We offer a competitive total rewards package including base salary determined based on the role, experience, skill set, and location. For those in eligible roles, discretionary incentive compensation which may be awarded in recognition of individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process.
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. We also make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as mental health or physical disability needs. Visit our FAQs for more information about requesting an accommodation.
+
+Equal Opportunity Employer/Disability/Veterans
+
+About The Team
+
+Our Consumer & Community Banking division serves our Chase customers through a range of financial services, including personal banking, credit cards, mortgages, auto financing, investment advice, small business loans and payment processing. We’re proud to lead the U.S. in credit card sales and deposit growth and have the most-used digital solutions – all while ranking first in customer satisfaction.

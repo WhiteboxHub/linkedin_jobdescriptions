@@ -1,0 +1,51 @@
+About the job
+Description
+
+Amazon Devices Sales and Customer Experience is looking for a talented Applied Scientist to help invent, design, and deliver cutting-edge science solutions to make it easier for millions of customers to find their next Amazon Device they will love. In this role you will:
+
+ Be a part of a growing and vibrant team of scientists, economists, engineers, analysts, and business partners.
+ Use Amazon's large-scale computing and data resources to generate deep understandings of our customers, and products.
+ Build models to generate content and recommendations to customers; run them as large scale A/B tests directly on the retail website.
+ Design, implement, and deliver novel solutions to hard to solve problems.
+
+Key Performance Areas
+
+ Implement statistical or machine learning methods to solve specific business problems.
+ Improve upon existing methodologies by developing new data sources, testing model enhancements, and fine-tuning model parameters.
+ Directly contribute to development of modern automated recommendation systems
+ Build customer-facing reporting tools to provide insights and metrics to track model performance and explain variance
+ Collaborate with researchers, software developers, and business leaders to define product requirements, provide analytical support, and communicate feedback
+
+Key job responsibilities
+
+We are looking for an innovative, hands-on and customer-obsessed Scientist who can be a strategic partner to the product managers and engineers on the team. Our projects span multiple organizations and require coordination of experimentation, economic and causal analysis, and building predictive machine learning models. A successful candidate will be a problem solver who enjoys diving into data, is excited by difficult modeling challenges, is motivated to build something that will eventually become a production software system and possesses strong communication skills to effectively interface between technical and business teams.
+
+In this role, you will be a technical expert with massive impact. You will take the lead on developing advanced solutions that are key to reaching our customers with the right recommendations at the right time. Your work will directly impact the success of Amazon's growing Devices business. You will work across diverse science/engineering/business teams. You will work on critical science problems, building high quality, reliable, accurate, and consistent code sets that are aligned with our business needs.
+
+A day in the life
+
+You will work with other scientists, engineers, product managers, and marketers to develop new products that benefit our customers and help us reach our business goals. You will own solutions from end to end: conceptualization, prioritization, development and delivery.
+
+About The Team
+
+We are a full stack science team that empowers product, marketing, and other business leaders to better understand customers who use Amazon devices, make decisions on product development or optimization, and measure the effectiveness of their efforts against our customer’s expectation. Our focus area is to build analytical frameworks that help the organization either access data, better understand the decisions customers are making and why, or assess customer satisfaction.
+
+Basic Qualifications
+
+ Master's degree in computer science, mathematics, statistics, machine learning or equivalent quantitative field
+ Experience programming in Java, C++, Python or related language
+ Experience with SQL and an RDBMS (e.g., Oracle) or Data Warehouse
+
+Preferred Qualifications
+
+ Experience implementing algorithms using both toolkits and self-developed code
+ Have publications at top-tier peer-reviewed conferences or journals
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,400/year in our lowest geographic market up to $212,800/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.
+
+
+Company - Amazon.com Services LLC
+
+Job ID: A2705774

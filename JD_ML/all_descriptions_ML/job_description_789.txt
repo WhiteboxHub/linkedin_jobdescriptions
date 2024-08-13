@@ -1,0 +1,42 @@
+About the job
+Location:USA
+
+Position Type: Full time
+
+Lenght of the contract: 3 months
+
+Position Summary
+
+Data Meaning is a front-runner in Business Intelligence and Data Analytics consulting, renowned for our high-quality consulting services throughout the US and LATAM. Our expertise lies in delivering tailored solutions in Business Intelligence, Data Warehousing, and Project Management. We are dedicated to bringing premier services to our diverse clientele. We have a global team of 95+ consultants, all working remotely, embodying a collaborative, inclusive, and innovation-driven work culture.
+
+Position Overview
+
+We are seeking an experienced AI Prompt Engineer who is passionate about artificial intelligence and natural language processing. In this role, you will have the opportunity to work on exciting projects, leveraging your expertise in AI prompt engineering to enhance our AI models and drive innovation across the organization.
+
+Responsibilities:
+
+Write clear and specific instructions for NLP models to follow
+Use interactive techniques to refine models and responses
+Employ iterative design methodologies to continually improve model performance and accuracy
+Design and implement efficient embeddings and prompt engineering solutions
+Collaborate with cross-functional teams, including product managers and software engineers, to ensure prompt generation is integrated seamlessly into our software products
+Stay up to date with the latest developments in NLP and machine learning technologies and integrate them into our development process
+
+Qualifications:
+
+BS or MS in Computer Science, Computational Linguistics, or a related field, or equivalent real-world experience
+Knowledge of vector databases such as Pinecone or Milvus with experience in at least one type of database (MSQL/PSQL)
+Experience with LangChain and Auto-GPT is a plus
+Familiarity with big data technologies such as Hadoop, Spark, and Hive
+Proven ability to independently execute projects from concept to implementation and maintain a live product
+At least 2 years of previous software engineering experience
+Mid-Level knowledge of command-line interfaces and Python, extending to libraries (good to have) like TensorFlow, PyTorch, Hugging Face Transformers, and NLTK
+Proven ability to write clear and specific instructions for NLP models
+Experience with interactive problem-solving techniques
+Familiarity with iterative design methodologies
+Strong problem-solving and analytical skills
+Solid knowledge of data structures, data formats, and data modeling
+
+Powered by JazzHR
+
+VMtt745SEp

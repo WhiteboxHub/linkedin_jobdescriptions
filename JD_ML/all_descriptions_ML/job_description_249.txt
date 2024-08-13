@@ -1,0 +1,16 @@
+About the job
+Request-ID: 32815-1
+
+Preferred Banking And Finance Domain (BFS)
+
+Onsite day 1 in Phoenix AZ
+Max rate $65
+
+AI/Client Engineer
+
+ Proficiency in Programming: Strong coding skills in Python or similar languages commonly used in machine learning and data science.
+ Generative AI Expertise: Experience in prompt engineering, familiarity with large language models (LLMs), vision-language models (VLMs), vector databases, and advanced techniques like Tree of Thought for enhancing model capabilities and performance.
+ Experience with Client Frameworks: Hands-on experience with machine learning frameworks and libraries such as TensorFlow, PyTorch, Scikit-learn, or similar.
+ Knowledge of Algorithms: Deep understanding of machine learning algorithms, including supervised, unsupervised, and reinforcement learning techniques.
+ Data Handling Skills: Expertise in data preprocessing, feature engineering, and handling large datasets using tools like Pandas, NumPy, or similar.
+ API Development Experience: Strong API development experience using Fast API, Django etc.

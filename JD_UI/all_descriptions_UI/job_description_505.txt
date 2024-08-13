@@ -1,0 +1,51 @@
+About the job
+Netflix is one of the world’s leading entertainment services with 278 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.
+
+The Role
+
+About The Team
+
+The Data Experience team provides powerful and personalized enterprise software for internal teams doing data discovery, creation, and visualization. Our product packages Netflix’s data services into a cohesive experience for users, and strives to enable data-driven decision making in all aspects of our business. We focus on user-centered product delivery and prioritize features that enhance the productivity of our colleagues; indexing on connectivity, trust, innovation, and reliability. We value progress, avoid unnecessary processes, and require strong decision-making from each member of the team.
+
+We are looking for someone who is deeply technical and has an unwavering passion for building use-centered software products. The ideal candidate should be skilled in developing reusable components and features for browser-based apps and have an incredible attention to detail.
+
+This May Be Your Dream Job If You
+
+Value simplicity and clarity in design.
+Have a background in front-end and back-end problem solving and are comfortable working across the stack.
+Want to build stunning products that deliver measurable value to our users. 
+Enjoy staying up to date with changing ecosystems.
+Want to build a platform that solves interesting data problems across search, discovery, access, and attribution experiences.
+Are self-led but highly aligned with your teammates; we develop fast, and align daily.
+Exhibit exceptional communication & presentation skills.
+Multitask and independently manage your own priorities to work fast and deliver.
+Work closely with stakeholders to understand and diagnose symptoms.
+You are a reliable partner in execution of a technical strategy.
+
+We’re Looking For You To Have Experience With
+
+Modern JavaScript standards and web fundamentals.
+Building responsive, data-intensive, and interactive web applications leveraging HTML5 and CSS.
+Expertise developing reusable features using Web Components or JavaScript frameworks such as React, Vue, Angular, Polymer, etc.
+The intricacies of the DOM and have understanding of web platform APIs and their performance implications.
+Experience working on consumer and enterprise products over multiple release cycles
+
+Nice To Have
+
+Experience working closely with product and design teams
+Experience leading, facilitating, and synthesizing user research
+Experience presenting products and features to audiences large and small
+
+Our team includes people of different gender identities, parents, the self-taught, the university-educated, and people of a wide variety of nationalities, ages, and socio-economic backgrounds. Diverse teams are strong teams, and we encourage those with varied identities, backgrounds, and experiences to apply.
+
+We need you to bring strong development expertise and an appreciation for delivering detailed designs to help us build meaningful solutions. You will need an excellent ability to communicate across our team and the organization. Your experience can come from a variety of places including work experience, formal or informal education. You will have ample opportunities to grow professionally, to contribute both inside and outside of Netflix, and to enable Netflix to bring moments of joy around the world.
+
+Our culture is unique, and we live by our values, so it’s worth learning more about Netflix culture.
+
+Our compensation structure consists solely of an annual salary; we do not have bonuses. You choose each year how much of your compensation you want in salary versus stock options. To determine your personal top of market compensation, we rely on market indicators and consider your specific job family, background, skills, and experience to determine your compensation in the market range. The range for this role is $100,000 - $720,000.
+
+Netflix provides comprehensive benefits including Health Plans, Mental Health support, a 401(k) Retirement Plan with employer match, Stock Option Program, Disability Programs, Health Savings and Flexible Spending Accounts, Family-forming benefits, and Life and Serious Injury Benefits. We also offer paid leave of absence programs. Full-time hourly employees accrue 35 days annually for paid time off to be used for vacation, holidays, and sick paid time off. Full-time salaried employees are immediately entitled to flexible time off. See more detail about our Benefits here.
+
+We are an equal-opportunity employer and celebrate diversity, recognizing that diversity of thought and background builds stronger teams. We approach diversity and inclusion seriously and thoughtfully. We do not discriminate on the basis of race, religion, color, ancestry, national origin, caste, sex, sexual orientation, gender, gender identity or expression, age, disability, medical condition, pregnancy, genetic makeup, marital status, or military service.
+
+Job is open for no less than 20 days and will be removed when the position is filled.

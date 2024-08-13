@@ -1,0 +1,27 @@
+About the job
+Job Title: Front End Developer
+
+Location: Remote
+
+Key Responsibilities
+
+Develop responsive and interactive user interfaces using HTML, CSS, and JavaScript frameworks.
+Collaborate with design and development teams to translate design mockups and wireframes into functional web applications.
+Optimize web applications for maximum speed and scalability.
+Ensure cross-browser compatibility and adherence to web standards.
+Stay current with front end technologies, tools, and best practices.
+Participate in code reviews and provide constructive feedback to team members.
+
+Qualifications
+
+Bachelor's degree in Computer Science, Engineering, or related field.
+ Experience working as a Front End Developer.
+Proficiency in HTML5, CSS3, and JavaScript.
+Experience with front end frameworks/libraries such as React, Angular, or Vue.js.
+Experience in responsive design principles and techniques.
+Strong problem-solving skills and attention to detail.
+Excellent communication and collaboration skills.
+
+if you meet these qualifications, please submit your application via link provided in Linkedin.
+
+Kindly do not call the general line to submit your application

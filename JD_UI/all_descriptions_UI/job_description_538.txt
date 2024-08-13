@@ -1,0 +1,21 @@
+About the job
+Job Title: UI Developer 
+
+Location: Austin,TX
+
+Job Type: FTE
+
+Day 1 onsite ( 3 days a week hybrid)
+
+Job Description
+
+ReactJS
+React Hooks
+GraphQL
+Node.js
+ExpressJS
+REST APIs
+
+All the above skills are must to have.
+
+Accessibility (Keyboard/VoiceOver)-Nice to have

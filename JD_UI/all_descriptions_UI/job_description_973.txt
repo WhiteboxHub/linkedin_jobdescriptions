@@ -1,0 +1,84 @@
+About the job
+Job Description
+
+At Boeing, we innovate and collaborate to make the world a better place. From the seabed to outer space, you can contribute to work that matters with a company where diversity, equity and inclusion are shared values. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us.
+
+Front End/UI Mid-Level Software Engineer
+
+Why This is an Exciting Role:
+
+The position will involve creating software for world class, next generation disruptive systems and technologies. The selected candidate will work with the Disruptive Computing & Networks (DC&N) product team focused on the concept, requirements, architecture, design and development of a future system. We are looking for people who like to try new things and aren’t afraid of a challenge!
+
+As part of Boeing's software capability, our engineers use their expertise to dream up next-generation software capabilities for amazing aerospace, satellite, and autonomous platforms. You will collaborate with other world-class scientists, researchers, and engineers innovating on a range of technologies including: Artificial Intelligence & Machine Learning (AI/ML), Advanced Training & Simulation, Production Analytics, Autonomy, Electro-Optical/Infrared Sensing, Cybersecurity, Disruptive Computing & Networks, and High-Fidelity Digital Twin & Virtualization, and much more.
+
+Position Responsibilities:
+
+
+Development and design of Web based UI solutions to deliver an intuitive user experience
+Collaborate with users, technical, and architecture teams to solve complex user interface problems
+Rapidly prototype UI interfaces to iteratively work with users on UI design
+Advocate for modern designs and best practices that deliver value to our end users while considering ease of implementation and sustainment
+Understand the capabilities, complexity, and limitations of technical architecture throughout the UI Development process
+Provide critical support and independent review of the work of teammates
+
+
+What Makes BI&A Different:
+
+As a fully owned subsidiary of The Boeing Company, BI&A offers an optimal mix of a small company environment with exceptional opportunities supported by a large corporation.
+
+Every day, Boeing Intelligence & Analytics supports global missions by building and delivering intelligence, analytics, and cyber solutions that enable users to advance national security. From hardware and software engineering solutions to analytics that keep this nation safe, we create value that meets users’ needs. With vibrant partnerships and innovative approaches, we serve the Intelligence Community through innovation and vision. We have provided our customers with the tools needed to counter evolve global and cyber threats, and to improve wartime decision-making.
+
+
+Our talented employees bring software development, systems engineering, and advanced analytics expertise.
+We offer numerous prime contract opportunities with customers headquartered in Maryland, Virginia, and the District of Columbia, as well as subcontract opportunities that align with our areas of focus and additional opportunities nationwide through our parent company.
+We have current open positions on awarded programs across diverse customer sets and are anticipating upcoming contract awards with a 5-year life cycle and an additional 5 option years.
+Our diverse portfolio allows our employees to move to other projects and teams as they gain further proficiency in their current skill set and learn new skill sets along the way.
+We offer hands-on access to cutting-edge technologies and a culture of technical excellence. 
+
+
+Experience and Qualifications:
+
+To be eligible for this demanding position, the ideal candidate should demonstrate the following experience and qualifications:
+
+Required Education and Years of Experience:
+
+
+Education/experience typically acquired through advanced technical education from an accredited course of study in engineering, computer science, mathematics, physics or chemistry (e.g. Bachelor) and typically 5 or more years' related work experience or an equivalent combination of technical education and experience (e.g. PhD, Master+3 years' related work experience). 
+Active Top Secret/SCI Security Clearance with Polygraph
+Bachelor, Master or Doctorate of Science degree from an accredited course of study, in Computer Engineering, Software Engineering, Computer Science, Mathematics, Physics or other technical degree
+4+ years of experience developing web-based applications
+3+ years of experience using Agile or SAFe methodology
+Experience with the Software Development Lifecycle including (requirements analysis, design, code, integration, and test)
+Experience with front-end programming languages (JavaScript, CSS, HTML, etc.)
+Experience with a modern Java Script-based application front end framework such as React, Vue, or Angular
+Experience with Web Development, APIs, and REST
+Experience using team collaboration tools including Git, Bitbucket, JIRA, and Confluence
+
+
+Desired Qualifications:
+
+
+5+ years of experience designing and developing web based UI applications
+Experience in design thinking methodology in UI development
+Linux OS experience
+
+
+Telework Availability: This position is expected to be 100% onsite. The selected candidate will be required to work onsite at one of the listed location options.
+
+Work Location:  Annapolis Junction, MD; El Segundo, CA; Fairfax, VA; and Huntington Beach, CA
+
+Summary Pay Range:
+
+Please note that the information shown below is a general guideline only. Pay is based upon candidate experience and qualifications, as well as market and business considerations.
+
+$112,200 – $151,800
+
+BI&A is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race,color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.
+
+Equal Employment Opportunity is the Law (PDF)
+
+Equal Opportunity Employer:
+
+We are an equal opportunity employer. We do not accept unlawful discrimination in our recruitment or employment practices on any grounds including but not limited to; race, color, ethnicity, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military and veteran status, or other characteristics covered by applicable law.
+
+We have teams in more than 65 countries, and each person plays a role in helping us become one of the world’s most innovative, diverse and inclusive companies. We are proud members of the Valuable 500  and welcome applications from candidates with disabilities. Applicants are encouraged to share with our recruitment team any accommodations required during the recruitment process. Accommodations may include but are not limited to: conducting interviews in accessible locations that accommodate mobility needs, encouraging candidates to bring and use any existing assistive technology such as screen readers and offering flexible interview formats such as virtual or phone interviews.

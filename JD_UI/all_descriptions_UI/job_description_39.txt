@@ -1,0 +1,68 @@
+About the job
+About Wipro
+Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading technology services and consulting company focused on building innovative solutions that address clients’ most complex digital transformation needs.
+We leverage our holistic portfolio of capabilities in consulting, design, engineering, operations, and emerging technologies to help clients realize their boldest ambitions and build future-ready, sustainable businesses.
+A company recognized globally for its comprehensive portfolio of services, strong commitment to sustainability and good corporate citizenship, we have over 250,000 dedicated employees serving clients across 66 countries.
+We deliver on the promise of helping our customers, colleagues, and communities thrive in an ever-changing world.
+A PROUD HISTORY OF OVER 75 YEARS
+FY22 REVENUE 10.4 BN USD
+WE’RE PRESENT IN 66 COUNTRIES
+OVER 1,400 ACTIVE GLOBAL CLIENTS
+  UI Path Developer
+Senior Automation Engineers are innovative individuals who use creativity and stakeholder partnerships to deliver business value. Senior Automation Engineers execute on automation efforts with significant interdependencies, size, visibility, and complexity levels and communicate across multiple channels including ITG and Business Operations, to design and document desired solutions, develop automatons according to best practices and guidelines, and test automations to approved plans.. Senior Automation Engineers have ownership of their efforts from conception, through the deployment of their products, including turnover to the appropriate technical and user support organizations.. As a recognized leader, Senior Automation Engineers will be sought after to coach and mentor colleagues.
+ CORE COMPETENCIES
+ - Scripting
+- Object-oriented programming
+- Data serialization languages (YAML/JSON)
+- REST
+- Basic version control (code promotion workflows)
+- Mastery of primary automation domain
+- Mastery of primary infrastructure domain
+ VALUABLE SKILLS
+ - Continuous integration and continuous delivery
+- Testing
+- Polyglot programming
+- Agile and lean methodologies
+- Six-Sigma
+- Multidomain mastery
+- Automation architecture
+ SPECIALIST/EMERGING SKILLS
+ - Policy-based management
+- Event-driven architectures
+- AI/AIOps
+- Machine Learning
+  Major Responsibilities:
+  Serve as technical leaders in the company’s automation community of practice
+Lead development teams in the execution of larger programs
+Executes against enterprise-wide, cross-functional automation initiatives
+Develop automated tools / scripts to specifications
+Works with multiple areas at the company to ensure understanding of assigned task.
+Drives the development / implementation of automation work products.
+Thoroughly tests developed products.
+Adherence to all standards and policies.
+Establishes standards of scripts and work products developed so others can update / utilize.
+Supports development of technical standards.
+Prepares specifications of a highly technical or complex nature.
+Analyzes user specifications and requirements.
+Identifies opportunities for process improvements.
+Works to participate and learn best practices and procedures.
+Adheres to best practices for software design, retention, documentation, and deployment strategies.
+Works directly with service operations, product, and vendor teams to resolve, prevent, and eliminate customer technology issues.
+Gathers and documents business, user, functional and non-functional requirements for in scope products.
+Establishes and maintains solid business relationships.
+Actively owns and participates in lifecycle management of assigned applications and infrastructure.
+May provide afterhours/on-call support for applications.
+Has the ability resolve simple to complex production support issues.
+Performs other duties as assigned.
+Practices and adheres to the “Code of Conduct” philosophy and “Mission and Value Statement.”
+Serves as project management or leadership role in managing work efforts
+Training and mentoring of peers and other staff
+  Licenses, Certifications, & Training:
+•
+UiPath Certified RPA Associate (UiRPA)
+Preferred
+•
+UiPath Certified Advanced RPA Developer (UiARD)
+Preferred
+ Expected annual pay for this role ranges from $60,000 to $158,000. Based on the position, the role is also eligible for Wipro’s standard benefits including a full range of medical and dental benefits options, disability insurance, paid time off (inclusive of sick leave), other paid and unpaid leave options.
+ Wipro is an Equal Employment Opportunity employer and makes all employment and employment-related decisions without regard to a person's race, sex, national origin, ancestry, disability, sexual orientation, or any other status protected by applicable law.

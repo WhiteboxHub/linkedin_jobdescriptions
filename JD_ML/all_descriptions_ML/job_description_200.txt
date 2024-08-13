@@ -1,0 +1,61 @@
+About the job
+Site Name: USA - California - San Francisco
+
+Posted Date: Jul 24 2024
+
+At GSK we see a world in which advanced applications of machine learning and AI will allow us to develop novel therapies to existing diseases and to quickly respond to emerging or changing diseases with personalized drugs, driving better outcomes at reduced cost with fewer side effects. It is an ambitious vision that will require the development of products and solutions at the cutting edge of machine learning and AI. If that excites you, we'd love to chat.
+
+The AI/ML Sequence Learning Team applies machine learning and AI methods to biological sequence (DNA, RNA, protein) data from large-scale human genetic, functional genomic and single cell experiments. Models operating directly on sequence data that can infer how variants alter protein/RNA abundance, structure and function have the potential to be transformative in drug discovery, empowering us to find new life saving medicines.
+
+We're looking for a highly accomplished AI/ML Engineer to help us make this vision a reality. Competitive candidates will have a track record of shipping high performing AI/ML powered products in production environments. They are highly accomplished Machine Learning Engineers, with breadth across Machine Learning Methods, as well as depth in at least one area. Additionally, they are accomplished software engineers with a track record of shipping stable, tested, performant code and services in an agile environment.
+
+Strong candidates will have graduate studies in Computer Science, Applied Mathematics, or the equivalent, and a passion for solving challenging problems in Artificial Intelligence and Machine Learning. Educational or professional background in the biological sciences is a plus; passion to help therapies for new and existing diseases, and a pattern of continuous learning and development is mandatory.
+
+The AI/ML team is built on the principles of ownership, accountability, continuous development, and collaboration. We hire for the long term, and we're motivated to make this a great place to work. Our leaders will be committed to your career and development from day one.
+
+Why You? 
+
+Basic Qualifications:
+
+We are looking for professionals with these required skills to achieve our goals:
+
+
+Graduate studies in Computer Science or Applied Math, undergraduate studies in Computer Science and relevant graduate studies in the life sciences with a focus on AI/ML techniques, or undergraduate studies in Computer Science and equivalent work history.
+Experience in software engineer with Python.
+Experience with PyTorch, Tensorflow, or other deep learning frameworks.
+Experience in ML stack.
+
+
+Preferred Qualifications:
+
+If you have some of the following characteristics, it would be a plus:
+
+
+PhD in computer science.
+Knowledge in disease biology, molecular biology and biochemistry
+Experience with biological data (e.g., genomics, transcriptomics, epigenomics, proteomics)
+Understanding and application of best practices in Machine Learning
+Track record of contributing to open-source projects
+
+
+The annual base salary for new hires in this position ranges from $130,900 to $177,100 taking into account a number of factors including work location, the candidate’s skills, experience, education level and the market rate for the role. In addition, this position offers an annual bonus and eligibility to participate in our share based long term incentive program which is dependent on the level of the role. Available benefits include health care and other insurance benefits (for employee and family), retirement benefits, paid holidays, vacation, and paid caregiver/parental and medical leave.
+
+Please visit  GSK US Benefits Summary to learn more about the comprehensive benefits program GSK offers US employees.
+
+Why GSK? 
+
+Uniting science, technology and talent to get ahead of disease together. 
+
+GSK is a global biopharma company with a special purpose – to unite science, technology and talent to get ahead of disease together – so we can positively impact the health of billions of people and deliver stronger, more sustainable shareholder returns – as an organisation where people can thrive. We prevent and treat disease with vaccines, specialty and general medicines. We focus on the science of the immune system and the use of new platform and data technologies, investing in four core therapeutic areas (infectious diseases, HIV, respiratory/ immunology and oncology).
+
+Our success absolutely depends on our people. While getting ahead of disease together is about our ambition for patients and shareholders, it’s also about making GSK a place where people can thrive. We want GSK to be a place where people feel inspired, encouraged and challenged to be the best they can be. A place where they can be themselves – feeling welcome, valued, and included. Where they can keep growing and look after their wellbeing. So, if you share our ambition, join us at this exciting moment in our journey to get Ahead Together.
+
+If you require an accommodation or other assistance to apply for a job at GSK, please contact the GSK Service Centre at 1-877-694-7547 (US Toll Free) or +1 801 567 5155 (outside US).
+
+GSK is an Equal Opportunity Employer and, in the US, we adhere to Affirmative Action principles. This ensures that all qualified applicants will receive equal consideration for employment without regard to race, color, national origin, religion, sex, pregnancy, marital status, sexual orientation, gender identity/expression, age, disability, genetic information, military service, covered/protected veteran status or any other federal, state or local protected class.
+
+Important notice to Employment businesses/ Agencies
+
+GSK does not accept referrals from employment businesses and/or employment agencies in respect of the vacancies posted on this site. All employment businesses/agencies are required to contact GSK's commercial and general procurement/human resources department to obtain prior written authorization before referring any candidates to GSK. The obtaining of prior written authorization is a condition precedent to any agreement (verbal or written) between the employment business/ agency and GSK. In the absence of such written authorization being obtained any actions undertaken by the employment business/agency shall be deemed to have been performed without the consent or contractual agreement of GSK. GSK shall therefore not be liable for any fees arising from such actions or any fees arising from any referrals by employment businesses/agencies in respect of the vacancies posted on this site.
+
+Please note that if you are a US Licensed Healthcare Professional or Healthcare Professional as defined by the laws of the state issuing your license, GSK may be required to capture and report expenses GSK incurs, on your behalf, in the event you are afforded an interview for employment. This capture of applicable transfers of value is necessary to ensure GSK’s compliance to all federal and state US Transparency requirements. For more information, please visit GSK’s Transparency Reporting For the Record site.

@@ -1,0 +1,64 @@
+About the job
+Figma is growing our team of passionate people on a mission to make design accessible to all. Born on the Web, Figma helps entire product teams brainstorm, design and build better products — from start to finish. Whether it’s consolidating tools, simplifying workflows, or collaborating across teams and time zones, Figma makes the design process faster, more efficient, and fun while keeping everyone on the same page. From great products to long-lasting companies, we believe that nothing great is made alone—come make with us!
+
+Figma is building out our Accessibility and Design System team, to own our core UI components and how Figma uses them. Given that this is still a new team, there’s a huge opportunity to shape this team and function for years to come. We’re particularly looking for folks with strong frontend coding skills to help level up Figma’s frontend development.
+
+In this role, you’ll drive systematic quality improvements across Figma’s web code, making Figma more accessible to use with assistive technologies and making Figma’s UX more consistent. You’ll also help many teams build high quality interfaces, and focus on improving the engineering velocity of others working with UI. You’ll work quite closely with designers focused on our design system, the design team at large, PMs, and other engineering leaders whose team’s work with design systems.
+
+This is a full time role that can be held from one of our US hubs or remotely in the United States.
+
+What you’ll do at Figma:
+
+Help develop our internal design system, which is still very new.
+Help our internal design system become well adopted, well used, and well loved
+Work cross-functionally with design, product management, and engineering peers
+Work with partner teams to determine what tools they need to build and maintain accessible experiences.
+Consistently iterate on the tools and processes supporting web engineers to make the developer experience better
+Advise on our roadmap for design system features in Figma - e.g. our support for components, styles, etc - and play a key part in trialing new features
+Implement accessibility frameworks that are at the core of all Figma UX to bring great UX to ALL users.
+Build and document reusable components to bring a high degree of craft to Figma’s UI
+Building a testing framework teams use to ensure compliance with accessibility guidelines.
+Take part in creating the team’s roadmap, balancing new projects with leveraged improvements (both addressing technical debt and user facing improvements)
+
+We'd love to hear from you if you have:
+
+Have at least 3+ years of professional experience shipping features or products as a frontend/full-stack developer
+Have worked on design systems, or other platform projects with other engineers as your customers.
+Have demonstrated fluency with a mainstream JS framework (React, Vue, Angular, Svelte, etc)
+Deeply care about visual design craft, and are excited to help others level up their visual and interaction execution
+Have proactive communication skills and a desire to work in a collaborative environment
+Have an interest in mentorship, learning from others, and digging into new challenges
+
+While not required, it’s an added plus if you also have:
+
+Have experience building accessible UX
+Have experience maintaining open source frameworks
+Have demonstrated fluency with Typescript/Javascript, and CSS
+2+ years of experience operating in a technical lead capacity
+
+At Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If you’re excited about this role but your past experience doesn’t align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.
+
+Pay Transparency Disclosure
+
+If based in Figma’s San Francisco or New York hub offices, this role has the annual base salary range stated below.
+
+Job level and actual compensation will be decided based on factors including, but not limited to, individual qualifications objectively assessed during the interview process (including skills and prior relevant experience, potential impact, and scope of role), market demands, and specific work location. The listed range is a guideline, and the range for this role may be modified. For roles that are available to be filled remotely, the pay range is localized according to employee work location by a factor of between 80% and 100% of range. Please discuss your specific work location with your recruiter for more information.
+
+Figma offers equity to employees, as well a competitive package of additional benefits, including health, dental & vision, retirement with company contribution, parental leave & reproductive or family planning support, mental health & wellness benefits, generous PTO, company recharge days, a learning & development stipend, a work from home stipend, and cell phone reimbursement. Figma also offers sales incentive pay for most sales roles. Figma’s compensation and benefits are subject to change and may be modified in the future. You may view our Pay Transparency Policy by clicking on the corresponding link.
+
+Annual Base Salary Range (SF/NY Hub):
+
+$149,000—$350,000 USD
+
+At Figma we celebrate and support our differences. We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our product and our community to flourish. Figma is an equal opportunity workplace - we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity/expression, veteran status, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+
+We will work to ensure individuals with disabilities are provided reasonable accommodation to apply for a role, participate in the interview process, perform essential job functions, and receive other benefits and privileges of employment. If you require accommodation, please reach out to accommodations-ext@figma.com. These modifications enable an individual with a disability to have an equal opportunity not only to get a job, but successfully perform their job tasks to the same extent as people without disabilities.
+
+Examples of accommodations include but are not limited to:
+
+Holding interviews in an accessible location
+Enabling closed captioning on video conferencing
+Ensuring all written communication be compatible with screen readers
+Changing the mode or format of interviews 
+
+By applying for this job, the candidate acknowledges and agrees that any personal data contained in their application or supporting materials will be processed in accordance with the applicable candidate section of Figma's Privacy Policy.

@@ -1,0 +1,7 @@
+About the job
+Required Skills
+
+ Data Quality Management : Write Pipelines and help Automate the Quality engineering aspects in there
+ Build new data pipelines and validate the pipelines for data accuracy -- by automating.
+ Strong in QE(SDET) + Programming skills in python, PySpark
+ Snowflake or other data warehouse experience along with AWS

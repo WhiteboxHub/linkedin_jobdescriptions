@@ -1,0 +1,6 @@
+About the job
+Expertise in React JS and a deep understanding of React Architecture, Hooks, Webpack, SASS, LESS, and experience in development RWD and SPA with ReactJS, Redux, Routers, jQuery, Bootstrap, HTML5, CSS3, GraphQL, ES6, Babel, Express, Eslint.
+
+As a developer, you'll be responsible for developing new user-facing features using React.js, Riot, and Redux.
+
+You'll also be building reusable components and front-end libraries, conducting manual and automated unit testing, and working on CI/CD pipelines with the assistance of the team.

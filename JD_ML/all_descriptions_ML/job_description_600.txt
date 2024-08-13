@@ -1,0 +1,45 @@
+About the job
+Job Description:
+
+Sales Data Engineer
+
+Position Overview
+
+We are seeking a talented Sales Data Engineer to join our dynamic team. The ideal candidate will work directly with Sales Operations and Analytics teams to create and optimize data structures, queries, and algorithms used in business applications and reporting platforms. This role requires a clear understanding of sales operations and order-to-cash processes. The Data Engineer will develop and manage all layers of the data stack, including ingestion, transportation/collection, processing, storage, querying, reporting, and monitoring.
+
+Work Location: This role is fully remote and may be based anywhere in the U.S.
+
+Key Responsibilities:
+
+Design and architect data models to enhance business visibility into customer purchases, profitability, transactional leakage, and other high-impact opportunities.
+Collaborate with IT and Salesforce (SFDC) teams to analyze the CRM environment and recommend enhancements or new data structures to bridge gaps between systems.
+Perform ad-hoc analysis to drive maximum productivity and customer impact through forecasting and predictive modeling.
+Manage data-related projects and migrations between multiple platforms and systems.
+Lead the development of BI capabilities through data architecture and cross-data modeling.
+Maintain data integrity and construct reliable master data sources.
+Develop intuitive cross-functional business applications to address gaps where current systems fall short.
+Optimize existing SQL/Python/Spark scripts for speed and efficiency in reporting platforms.
+Compile models or views to support the development of new or existing dashboards or extracts.
+
+
+MUST HAVE:
+
+High School Diploma or GED with Bachelor’s degree preferred.
+5+ years of experience in SQL/Spark.
+5+ years of experience in object-oriented programming (Java/Python/Scala).
+3+ years of experience with Salesforce data and/or SAP data.
+Experience with data pipeline and ETL tools (e.g., Apache Airflow, Azure Data Factory, Informatica).
+Hands-on experience with big data technologies (e.g., Hadoop, Spark) and cloud platforms, preferably Azure.
+Familiarity with version control systems (e.g., Git, Azure DevOps)
+Ability to work effectively in a team environment within a matrixed organization.
+Aptitude for leveraging consumer insights, industry practices, sales, and financial data to provide creative and strategic solutions.
+Strong organizational, project, and time management skills.
+Experience working with both corporate and field-based managers and hourly associates.
+B2B or manufacturing experience is desirable.
+
+
+Our Company:
+
+Axalta has remained at the forefront of the coatings industry by continually investing in innovative solutions. We engineer technologies that protect customers’ products – whether they are battling heat, light, corrosion, abrasion, moisture, or chemicals – and add dimension and beauty with colorful finishes. We have a vast and ever-evolving portfolio of brands primed to play an important part in everything from modernizing infrastructure around the world to enabling the next generation of electric and autonomous vehicles. 
+
+Axalta operates its business in two segments: Performance Coatings and Mobility Coatings, which serve four end markets, including Refinish, Industrial, Light Vehicle and Commercial Vehicle, across North America, EMEA, Latin America and Asia-Pacific. Our diverse global footprint allows us to deliver solutions in over 140+ countries and coat 30 million vehicles per year. We’ve recently set an exciting 2040 carbon neutrality goal, in addition to 10 other sustainability initiatives, and we take pride in working with our customers to optimize their businesses and achieve their goals.

@@ -1,0 +1,17 @@
+About the job
+Title : Front End Developer 
+
+Location - 100% remote - flexible hours 
+
+Duration - 6 months
+
+Interview Process - technical video interview 
+
+JOB DESCRIPTION : 
+
+Must Have :
+
+5 years of experience as a UI developer with a focus on product development
+Front End Technologies: HTML5, CSS3, JavaScript, Typescript, Bootstrap, REST
+Frameworks: Angular, React, Redux
+Good to have experience working in data-products, AI/Client, analytics space

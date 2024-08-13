@@ -1,0 +1,42 @@
+About the job
+Front End Dev Position (Remote)
+
+Welcome to WECO! We cook fresh, chef-crafted dinners and hand-deliver them daily.
+
+We are reimagining the dining-at-home experience. Our unique model combines the excitement and FOMO of a supper club, the convenience of prepared meal delivery and the good vibes of an honor system-based payment model. We also lead with responsible sourcing and purpose-driven business practices. We are a good neighbor to our customers, employees, purveyors, and the Earth (and also our actual neighbors) and are excited to build a valuable company that makes a massive impact for good on those around us.
+
+Our transparent, stakeholder-driven approach to sustainability, our unique business model, and our trust -based, flexible payment system, combined with our delicious dinners, have engendered a tribal level of customer engagement and love and an unprecedented level of growth throughout New England.
+
+We’re backed by top tier VCs and are poised for massive continued growth.
+
+About The Frond End Developer Role: (Remote)
+
+As a front end engineer at WECO, you’ll report to the CTO. You’ll be joining a small, focused team that loves to solve user problems and write code. If you love long, drawn out status meetings and enjoy spending hours doing paperwork, this is not the place for you. If you live to make people's lives better writing cool code, let's talk. If you like delicious food, even better!
+
+Responsibilities
+
+Design, implement and manage website and web apps using Javascript /Typescript and Vue.js or React
+Collaborate with members of a creative team 
+Maintain well-documented, reusable, and transferrable code
+Troubleshoot and resolve website problems for co-workers
+Stay abreast of new developments in software, trends, and practices
+
+Education And Experience
+
+This position requires an associate or bachelor’s degree, preferably in computer programming, computer science, or a related field, or equivalent experience.
+
+Required Skills
+
+Familiarity with Javascript or Typescript
+HTML5 / CSS expertise
+Familiarity with Angular, ReactJS, Vue.js or other frameworks
+Knowledge of functional or object-oriented programming.
+Ability to write well-documented, clean code.
+Experience with Unit test frameworks and automated testing
+
+Nice-to-have
+
+Proficiency in additional programming languages (Java, Kotlin, Objective C, C#, C, C++, etc.)
+Python and Python backend frameworks (Django / Flask / FastAPI.)
+
+WECO is headquartered in the Boston area. But this can be a remote position.

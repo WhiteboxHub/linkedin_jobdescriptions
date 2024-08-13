@@ -1,0 +1,48 @@
+About the job
+Job Description
+
+Industry: Insurance
+
+Job Category: Information Technology - Computer Network Security
+
+Transformation happens here. Come, be a part of our exciting journey!
+
+Are you the one we are looking for?
+
+Inviting applications for the role of ML Ops Engineer.
+
+ML Ops Engineer
+
+Pennsylvania, NYC, Toronto - USA
+
+Need to Travel to any of these locations 2-3 weeks initially to understand the project after 3-4 days in a month.
+
+Summary
+
+We are seeking a highly skilled and experienced MLOps Engineer to join our team in USA. You will play a crucial role in building and maintaining the infrastructure and pipelines for our cutting-edge Generative AI applications, working closely with the Generative AI Full Stack Architect. Your expertise in automating and streamlining the ML lifecycle will be instrumental in ensuring the efficiency, scalability, and reliability of our Generative AI models in production.
+
+Responsibilities
+
+Design, develop, and implement ML Ops pipelines for generative AI models, encompassing data ingestion, pre-processing, training, deployment, and monitoring.
+Automate ML tasks across the model lifecycle, leveraging tools like Git Ops, CI/CD pipelines, and containerization technologies (e.g., Docker, Kubernetes).
+Develop and maintain robust monitoring and alerting systems for generative AI models in production, ensuring proactive identification and resolution of issues.
+Collaborate with the Generative AI Full Stack Architect and other engineers to optimize model performance and resource utilization.
+Manage and maintain cloud infrastructure (e.g., AWS, GCP, Azure) for ML workloads, ensuring cost-efficiency and scalability.
+Stay up to date on the latest advancements in ML Ops and incorporate them into our platform and processes.
+Communicate effectively with technical and non-technical stakeholders about the health and performance of generative AI models.
+
+Qualifications
+
+Bachelor's degree in Computer Science, Data Science, Engineering, or a related field, or equivalent experience.
+8+ years of experience in ML Ops or related areas, such as DevOps, data engineering, or ML infrastructure.
+Proven experience in automating ML pipelines with tools like ML flow, Kubeflow, Airflow, etc.
+Expertise in cloud platforms (e.g., AWS, Azure) for ML workloads.
+Strong understanding of CI/CD principles and containerization technologies like Docker and Kubernetes.
+Familiarity with monitoring and alerting tools for ML systems (e.g., Prometheus, Grafana).
+Excellent communication, collaboration, and problem-solving skills.
+Ability to work independently and as part of a team.
+Passion for Generative AI and its potential to revolutionize various industries.
+Senior individual contributor with significant expertise and leadership experience.
+Manages complex projects and initiatives with independent decision-making authority.
+Provides technical guidance and mentoring to junior team members.
+Has a proven track record of success in delivering impactful results.

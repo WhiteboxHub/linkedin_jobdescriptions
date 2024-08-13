@@ -1,0 +1,32 @@
+About the job
+Job Title: Linguist III 
+Job Type: On-site
+Location: Redmond, WA or Bay Area, CA
+Duration: 6 months contract (possibility of extension)
+
+Skills:
+SQL and Python
+Any form of linguistics background, doesn’t need to be advanced
+Stats is a must
+
+Summary
+We are looking for a skilled Linguistic Engineer to maintain the data in our topline quality evaluation pipelines. In this role, you will be instrumental in assessing the quality of data processed by our voice assistant systems. Using new and existing data quality workflows and pipelines, you will collaborate closely with a cross-functional team of engineers, research scientists, project managers, and data scientists to report on and guide improvements on our voice assistant features, ensuring their accuracy and reliability.
+
+Responsibilities
+Maintained production data grading queues, reported on product and annotation quality, performed data analysis using SQL, Python, and spreadsheets.
+Guide your analyses using linguistic expertise in the areas of phonetics, phonology, dialectology, and NLP.
+Analyze system metrics such as factuality, brevity, and coherence, as well as subcomponent performance, summarize findings, and communicate results.
+This is not an annotator position, though annotation will occasionally be required to accommodate urgent requests.
+
+Skills
+Basic Python, and intermediate SQL with a strong desire to grow required for this position.
+Basic knowledge of linguistics (some of Phonetics, Syntax, Semantics, and Dialectology) is required.
+Ability to analyze numerical rating results and draw conclusions based on data.
+Intermediate stats/math for data analysis.
+Experience with computer vision/input modalities outside of voice is a bonus but not required.
+Written and oral communication skills are necessary for communicating project milestones and for reporting findings.
+
+Education/Experience
+Bachelor’s degree in computational linguistics, speech science, or related field OR graduate degree in linguistics OR industry similar experience required.
+Master’s degree or beyond preferred OR equivalent industry experience.
+Additional learning via Coursera, Udemy, or other online resources great too.

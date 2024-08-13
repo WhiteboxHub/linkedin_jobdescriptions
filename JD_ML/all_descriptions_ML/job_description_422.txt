@@ -1,0 +1,30 @@
+About the job
+Description
+
+JOB DESCRIPTION
+
+Duties: Optimize algorithms for pricing and risk analytics by exploiting vectorization and parallelization. Develop a software library that prices derivatives and calculates risks. Select and tune compilers to obtain optimal performance on current architectures for risk and pricing models. Maintenance of core, cross-asset library frameworks supporting pricing model development. Development and maintenance of scalable continuous integration infrastructure to support the development of a pricing model library. Design efficient library and interface designs to optimize the interaction between the quant library and risk management system. Investigation of potential performance enhancements for risk models using the latest cutting-edge hardware. Support end users of the pricing library and communicate with desk-aligned quant teams and technology groups. Telecommuting permitted up to 20% of the week.
+
+Qualifications
+
+Minimum education and experience required: Master's degree in Financial engineering, Computer science, Mathematics, Computational physics or related field of study plus three [3] years of experience in the job offered or as Quantitative Research Analyst, or related occupation.
+
+Skills Required: Requires experience in the following: C++ programming including STL and boost; C++ code; CUDA programming; experience with libraries for algorithmic differentiation in C++; financial mathematics fundamentals; Python; Linux administration and scripting languages; high-performance computing techniques for optimization; fundamental computer architecture including, cache and memory hierarchies; CPU pipelining; experience with machine learning libraries, including TensorFlow and PyTorch.
+
+Job Location: 383 Madison Avenue, New York, NY 10017. Telecommuting permitted up to 20 % of the week.
+
+Full-Time. Salary: $205,000 - $285,000 per year.
+
+About Us
+
+JPMorgan Chase & Co., one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.
+
+We offer a competitive total rewards package including base salary determined based on the role, experience, skill set, and location. For those in eligible roles, we offer discretionary incentive compensation which may be awarded in recognition of firm performance and individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process.
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. We also make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as mental health or physical disability needs. Visit our FAQs for more information about requesting an accommodation.
+
+JPMorgan Chase is an Equal Opportunity Employer, including Disability/Veterans
+
+About The Team
+
+The Corporate & Investment Bank is a global leader across investment banking, wholesale payments, markets and securities services. The world’s most important corporations, governments and institutions entrust us with their business in more than 100 countries. We provide strategic advice, raise capital, manage risk and extend liquidity in markets around the world.

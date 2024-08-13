@@ -1,0 +1,37 @@
+About the job
+The CGM Data Analytics team within COG Technology is building a leading data and analytics platform. We partner and build batch and real-time analytics solutions for traders, quants, desk analysts and central data teams across the Commodities and Global Markets business.
+
+At Macquarie, our advantage is bringing together diverse people and empowering them to shape all kinds of possibilities. We are a global financial services group operating in 34 markets and with 55 years of unbroken profitability. You’ll be part of a friendly and supportive team where everyone - no matter what role - contributes ideas and drives outcomes.
+
+ What role will you play? 
+
+You will work directly with our business, developing data analytics capabilities and solutions, such as the data catalog, data science workbench, visualisation tools, and real-time analytics. You’ll be working with our public-cloud based data lake, data pipelines for internal operational and external fundamental and alternative market data. You will join us on our journey to continually improve the robustness of our solutions and the speed with which we can respond to our business’s needs.
+
+What You Offer
+
+Interest in Data and Automation 
+Ability to code and debug in Python 
+Knowledge of GIT and CI/CD 
+Awareness of Cloud eg. AWS
+
+We love hearing from anyone inspired to build a better future with us, if you're excited about the role or working at Macquarie we encourage you to apply.
+
+About Technology 
+
+Technology enables every aspect of our business, for our people, our customers and our communities. Bring your unique perspective and join a global team who is passionate about accelerating the digital enterprise, connecting people and data, building platforms and applications and designing tomorrow’s technology solutions.
+
+Benefits
+
+Macquarie employees can access a wide range of benefits which, depending on eligibility criteria, include:
+
+Hybrid and flexible working arrangements 
+One wellbeing leave day per year and minimum 25 days of annual leave
+Primary caregivers are eligible for 20 weeks paid leave along with 12 days of transition leave upon return to work and 6 weeks paid leave for secondary caregivers
+Paid volunteer leave and donation matching
+Range of benefits to support your physical, psychological and financial wellbeing 
+Employee Assistance Program, a robust behavioural health network with counselling and coaching services
+Recognition and service awards
+
+ Our commitment to diversity, equity and inclusion 
+
+We are committed to providing a working environment that embraces diversity, equity and inclusion. As an inclusive employer, Macquarie does not discriminate on the grounds of age, disability, sex, sexual orientation, gender identity or expression, marriage, civil partnership, pregnancy, maternity, race (including color and ethnic or national origins), religion or belief.

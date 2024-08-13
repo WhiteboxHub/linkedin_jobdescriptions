@@ -1,0 +1,40 @@
+About the job
+Responsibilities
+
+A client with Kforce is seeking a Software Engineer, React Native to join their team remotely with some travel required for this position. The React Native Engineer plays a critical role in delivering innovation and growth for the Banking Solutions business by significantly contributing to the technical direction and execution of our mobile retail banking applications. Responsibilities:
+
+ Deliver mobile applications within the Digital domain, ensuring alignment with business goals, security standards, and regulatory requirements
+ Implement scalable, robust, and maintainable mobile application code that supports a wide range of financial services and functionalities
+ Collaborate closely with product managers, UX/UI designers, backend developers, QA and other stakeholders to understand business requirements and translate them into technical solutions
+ Support transition of Angular Ionic codebase to React Native
+ Lead by example: implement large and complex features quickly and with excellent code quality and ensure that critical customer-impacting issues are remediated with urgency
+ Conduct code reviews and provide technical guidance to developers to ensure adherence to architectural principles, coding standards, and best practices
+ Provide feedback, as needed, on proposed third-party tools, frameworks, and APIs, considering factors such as security, performance, and scalability
+ Stay up to date with industry trends, emerging technologies, and regulatory changes in the FinTech sector, and incorporate changes into the mobile application as needed
+
+Requirements
+
+ Bachelor's degree in Computer Engineering; Preferred degree in Engineering, Computer Science, or similar relevant field
+ 8-10 years of experience
+ Extensive experience in developing mobile applications for iOS and Android platforms, particularly within the financial technology (FinTech) domain
+ Strong proficiency in React Native, Angular and Ionic Capacitor
+ Deep understanding of mobile application architecture patterns (e.g., MVC, MVVM, Clean Architecture)
+ Experience in transitioning a codebase from Angular Ionic to React Native would be a huge positive
+ Knowledge of secure coding practices, encryption algorithms, and data protection mechanisms relevant to handling sensitive financial data in mobile applications
+ Scale the application to handle a large user base, considering various devices and network conditions
+ Familiarity with backend technologies, APIs, and microservices architecture, enabling seamless integration between apps and backend systems
+ Experience in performance optimization, scalability, and troubleshooting of mobile applications to ensure optimal user experience, reliability and responsiveness
+ Understanding of financial services industry regulations, compliance requirements (e.g., GDPR, PCI DSS), and security standards related to mobile app development
+ Experience building a white label mobile application that is branded and released for multiple clients
+ Experience collaborating with India-based development teams
+ Deep understanding and commitment to software engineering principles and processes (e.g., Lean, Agile, DevOps) and continuous improvement through measurement
+
+The pay range is the lowest to highest compensation we reasonably in good faith believe we would pay at posting for this role. We may ultimately pay more or less than this range. Employee pay is based on factors like relevant education, qualifications, certifications, experience, skills, seniority, location, performance, union contract and business needs. This range may be modified in the future.
+
+We offer comprehensive benefits including medical/dental/vision insurance, HSA, FSA, 401(k), and life, disability & ADD insurance to eligible employees. Salaried personnel receive paid time off. Hourly employees are not eligible for paid time off unless required by law. Hourly employees on a Service Contract Act project are eligible for paid sick leave.
+
+Note: Pay is not considered compensation until it is earned, vested and determinable. The amount and availability of any compensation remains in Kforce's sole discretion unless and until paid and may be modified in its discretion consistent with the law.
+
+This job is not eligible for bonuses, incentives or commissions.
+
+Kforce is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.

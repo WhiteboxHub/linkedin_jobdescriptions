@@ -1,0 +1,32 @@
+About the job
+BeaconFire is based in Central NJ, specializes in Software Development, Web Development, and Business Intelligence; we are looking for candidates who are passionate about combining technology and design to create user-friendly websites.
+
+Responsibilities:
+Develop websites using HTML, CSS, Node.js, React.js, and Angular2+, among other tools;
+Write scalable, secure, maintainable code that powers our clients’ platforms;
+Create, deploy, and maintain automated system tests;
+Work with Testers to understand defects opened and resolves them in a timely manner;
+Supports continuous improvement by investigating alternatives and technologies and presenting these for architectural review;
+Collaborate effectively with other team members to accomplish shared user story and sprint goals;
+Invest time in constant professional development to stay up to date with new technological development and programming languages;
+Discover and fix programming bugs;
+Other duties as assigned.
+
+Basic Qualifications:
+Proficient understanding of HTML and CSS;
+Experience in programming language JavaScript or similar (e.g. Java, Python, C, C++, C#, etc.) and understanding of the software development life cycle;
+Basic knowledge of code versioning (e.g. Git, SVN);
+A passion for coding pixel perfect web pages;
+Good verbal communication and interpersonal skills.
+
+Preferred Qualifications:
+Bachelor's degree or higher in Computer Science or related fields;
+0-1 year of practical experience in JavaScript coding;
+Familiarity with at least one JavaScript framework (Angular2+, React.js, Express.js);
+Experience with unit and integration testing of code, with an understanding of JavaScript testing frameworks like Jasmine, Cucumber, Mocha, and Karma;
+Experience providing REST/SOAP APIs for user interface consumption;
+Experience working within an Agile development methodology Scrum.
+
+Compensation: $65,000.00 to $80,000.00 /year
+
+BeaconFire is an E-verified company that provides equal employment opportunities (visa sponsorship provided).

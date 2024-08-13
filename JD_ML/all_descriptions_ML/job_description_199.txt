@@ -1,0 +1,28 @@
+About the job
+Senior ML Ops Engineer
+
+Remote
+
+Long Term
+
+Required
+
+Minimum 5+ years of experience in software development, machine learning or a related field.
+
+Minimum 2 years of working experience with the GCP cloud.
+
+Minimum 2+ years of experience in Python programming.
+
+Experience in cloud-managed services like GCP Vertex AI.
+
+Experience in open-source LLM App frameworks like LangChain.
+
+Ability to understand tools used by data scientists and experience with software development and test automation.
+
+Experience in managing Embeddings using Vector databases.
+
+Experience with tools and technologies such as Git, Docker, Kubernetes, OpenShift, Jenkins, CI/CD pipelines, monitoring and logging frameworks.
+
+Develop and maintain automated pipelines for model testing, validation, and deployment.
+
+Excellent analytical and problem-solving skills.

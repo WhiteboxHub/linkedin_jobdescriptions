@@ -1,0 +1,55 @@
+About the job
+At CoreLogic, we are driven by a single mission—to make the property industry faster, smarter, and more people-centric. CoreLogic is the trusted source for property intelligence, with unmatched precision, depth, breadth, and insights across the entire ecosystem. Our talented team of 5,000 employees globally uses our network, scale, connectivity and technology to drive the largest asset class in the world. Join us as we work toward our vision of fueling a thriving global property ecosystem and a more resilient society.
+
+CoreLogic is committed to cultivating a diverse and inclusive work culture that inspires innovation and bold thinking; it's a place where you can collaborate, feel valued, develop skills and directly impact the real estate economy. We know our people are our greatest asset. At CoreLogic, you can be yourself, lift people up and make an impact. By putting clients first and continuously innovating, we're working together to set the pace for unlocking new possibilities that better serve the property industry.
+
+Job Description
+
+Job Duties
+
+Design, code, test and debug moderately complex software while developing new, and enhancing existing functionality in order to satisfy customer requirements, both internal and external. Works from specifications, or comfortable in an iterative and incremental development environment. May develop detailed specifications from which applications will be written, designed, coded, tested and debugged.
+Actively contribute to, participate in, and aim to continuously improve all levels of testing efforts. Defines scope and develop testing methods, collaborating with QA team and other developers. Provides a broad perspective on quality initiatives, offering guidance to team members.
+Support, maintain and document software functionality. Act as a resource for less experienced engineers. Makes recommendations on engineering processes and methods.
+Provide second level operational support to diagnose and resolve incidents in production systems. Has direct interaction and consultative role with operations team. Able to resolve most issues, but will escalate complex issues to more senior team members as necessary.
+Actively participate in general knowledge/technology transfer throughout the team/department. This includes documenting larger scope and moderately complex assignments for knowledge transfer and developing expertise in specific areas. Presents information and mentors other team members on area(s) of expertise. Provide technical assistance on assigned module/project.
+Partner with product owners/business partners to define requirements and software design. Participate in discussions, influence outcomes, and make recommendations on feasibility and processes.
+
+Job Qualifications
+
+Education, Experience, Knowledge and Skills
+
+BS Degree or equivalent work experience in a software engineering discipline
+Typically has 3-6 years of experience in an applicable software development environment.
+Proficient experience in Java, TypeScript/JavaScript
+Proficient experience using Spring Libraries
+Proficient experience in Angular Front-End framework 
+Proficient/competent to work on most phases of development within assigned technical discipline
+Driven to excel in areas of technical expertise.
+Willing to assist team members in manual testing, test automation, and building improvements.
+Customer-oriented: meets individual commitments, works with the team to achieve team commitments, responds to requests promptly, and is willing to help.
+Ability to focus on and solve problems, willing to ask for help when needed.
+
+Nice To Haves/Preferred
+
+NgRx, RxJS, Deck.gl
+Full stack development experience using Single Page Application (Single SPA) framework
+Full stack Micro Frontend development experience 
+Hands-on experience with Cloud Platforms (GCP)
+
+CoreLogic's Diversity Commitment
+
+CoreLogic is fully committed to employing a diverse workforce and creating an inclusive work environment that embraces everyone’s unique contributions, experiences and values. We offer an empowered work environment that encourages creativity, initiative and professional growth and provides a competitive salary and benefits package. We are better together when we support and recognize our differences.
+
+CoreLogic benefits information can be found here: http://www.yourcorebenefits.com/. Qualifications, locations and experience of the individual ultimately selected for the position may impact the final actual offered compensation, which may vary from any posted range.
+
+EOE AA M/F/Veteran/Disability
+
+CoreLogic is an Equal Opportunity/Affirmative Action employer committed to attracting and retaining the best-qualified people available, without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, disability or status as a veteran of the Armed Forces, or any other basis protected by federal, state or local law. CoreLogic maintains a Drug-Free Workplace.
+
+Please apply on our website for consideration.
+
+Privacy Policy - http://www.corelogic.com/privacy.aspx
+
+By providing your telephone number, you agree to receive automated (SMS) text messages at that number from CoreLogic regarding all matters related to your application and, if you are hired, your employment and company business. Message & data rates may apply. You can opt out at any time by responding STOP or UNSUBSCRIBING and will automatically be opted out company-wide.
+
+Connect with us on social media! Click on the quicklinks below to find out more about our company and associates.

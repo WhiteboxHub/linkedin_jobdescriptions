@@ -1,0 +1,44 @@
+About the job
+Company Description
+
+Founded in 1984, MAT Holdings, Inc. is a privately held $2.0 billion multi-national company with manufacturing operations, distribution centers, and sourcing offices worldwide in the automotive, fencing, hardware, and power equipment sectors. Headquartered in Long Grove, Illinois, we have over 40 factories on three continents, including 2.1 million square feet of U.S. distribution and manufacturing space. We provide our customers with various services, including U.S. and overseas engineering, quality assurance, logistic and distribution support, strategic warehousing, bi-lingual sourcing, product development, and marketing. MAT is a family of companies and products providing employment opportunities with more than 14,000 employees in 12 countries.
+
+Job Description
+
+This position is on-site in our Corporate office in Long Grove, IL.
+
+MAT Holdings is seeking a talented, experienced front-end web developer with strong WordPress experience to join our team. The ideal candidate will be passionate about creating engaging digital experiences and understanding the latest web technologies and standards. This role will involve designing, building, and maintaining MAT Holdings’ corporate website and supporting multiple division websites and online business strategies.
+
+Reporting to the Director of Corporate Marketing Shared Services, this hands-on role requires working with division marketing, digital/graphic design, videography, and IT functions to deliver solutions. It also requires effective leadership and expertise in managing complex projects from start to finish.
+
+Responsibilities and Duties
+
+Design, develop, and maintain responsive and SEO-friendly websites using WordPress
+Convert comprehensive layouts and wireframes into working HTML pages
+Experience working with a variety of APIs and integrations
+Manage ongoing web administration, content management, and Google Analytics reporting as required
+Create and maintain technical documentation related to website design and maintenance
+Troubleshoot and resolve issues, problems, and errors encountered across our web properties, internal applications, and systems as reported or experienced
+Test websites across browsers, operating systems, and devices for responsiveness and load times
+Maintain updated knowledge of the development industry and any advancements in technology
+
+Qualifications
+
+Qualifications:
+
+At least 2-3 years of work experience as a Front End Developer with strong WordPress experience
+Must have a Bachelor's degree in Computer Science, Web Development, or a related field
+Proficient understanding of web markup, including HTML5 and CSS
+Proficient understanding of client-side scripting and JavaScript frameworks
+Working knowledge of PHP and server-side environment
+Strong knowledge of UI/UX design
+Good understanding of SEO principles and ensuring the application will adhere to them
+Solid understanding of Google Analytics (GA4) reporting
+Experience with graphic design applications such as Adobe Illustrator
+Experience with responsive and adaptive design
+Strong problem-solving skills and a detail-oriented mindset
+Excellent verbal and written communication skills
+
+Additional Information
+
+All your information will be kept confidential according to EEO guidelines

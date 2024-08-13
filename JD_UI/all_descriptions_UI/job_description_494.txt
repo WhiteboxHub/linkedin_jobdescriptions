@@ -1,0 +1,28 @@
+About the job
+Principal Duties And Responsibilities
+
+ Own the responsibility for the full life cycle of web development design, development, unit testing and implementation. To
+ Collaborate with Quality Assurance team to ensure proper testing and maintenance.
+ Partner with product, design, and other internal teams to build a performant and user centric website.
+ Embrace and Champion the use of web development best practices.
+
+Position Specifications
+
+ Degree or certification in Web Development, Digital Programming, Computer Science, or equivalent experience in a related skillset.
+ 3-4 years of experience with at least 2-3 years of experience in Digital/Web development.
+ Strong proficiency in JavaScript, including DOM manipulation, the JavaScript object model, Object-Oriented concepts, design patterns, coding standards, and performance improvements.
+ Advanced knowledge of HTML5, CSS3, and related technologies.
+ Experience with TypeScript is a bonus.
+ Experience with frontend frameworks and libraries (React/NextJs), to build complex user interfaces efficiently and maintainable.
+ Ability to collaborate with your product team to identify problems and give technical recommendations on requirements.
+ Collaborate with backend developers to integrate frontend components with server-side APIs to ensure smooth data flow and effective communication between frontend and backend systems.
+ Experience with coding for all browsers and devices.
+ Good knowledge of web layout and usability guidelines and W3C.
+ Understanding of security principles related to web development.
+ Ensure that the user interface fulfills accessibility standards, is useable by people with impairments, and adheres to WCAG (Web Content Accessibility Guidelines) 2.1.
+ Familiarity with version controls tools, preferably Azure DevOps.
+ Demonstrated experience in Agile development, application design, software development, and testing.
+ Good interpersonal, written, and verbal communication skills.
+ Knowledge of web integrations with Google Analytics, Google Tag Manager.
+ Experience with financial services.
+ Familiarity with CICD tools, Azure DevOps, container technologies like docker, Kubernetes.

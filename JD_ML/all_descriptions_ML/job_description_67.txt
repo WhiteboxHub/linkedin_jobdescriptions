@@ -1,0 +1,99 @@
+About the job
+We are looking forVoice / Data Comm Engineer (Min 4 years of exp) (Webcam interviews)
+
+POSITION DESCRIPTION
+
+DIRECT CLIENT Position
+
+Number of positions: 1
+
+Length: 14 Months + (annual extensions) (long term)
+
+Location: Washington DC 20024
+
+Immediate interviews Webcam interviews ONLY
+
+Please note that this position is HYBRID (Min 2 days ONSITE).
+
+A147: Voice/Data Comm Engineer
+
+Duties and Responsibilities
+
+Duties:
+
+As part of the technology team, this position is responsible for providing support to internal and remote users by installing, configuring, and upgrading telecommunication products, including call center which uses Alvaria Unified Platform, Mobile devices managed by AirWatch (MDM), Avaya Desk phones, CISCO desk phones, Webex Audio\Video conferencing, VoIP, SIP, analog lines, eFax, and take part in the CCaaS deployment initiative. 
+Serve as the first point of contact for customers seeking Telecom related technical assistance over the phone or email 
+Monitoring and maintaining of Voice Network and reporting issues to Telecom ISP/Cloud Hosting Vendor using remedy Portal ticketing system. 
+Work with Telecommunications Partner (Aspect) on upgrades and patch management of voice products. 
+Managing Helpdesk Tickets of Telecom related issues using Zendesk. 
+Configuring new hires user profiles for Voicemail and Display name change on desk phones in timely manner 
+Update Equipment Inventory documentation of the telephony infrastructure and Voice network infrastructure. 
+Maintain Voice network cabling closets and cable location inventory.
+Perform technology refreshes, mobile devices iOS update in accordance with OCTO AirWatch policy 
+Ability to document work activities into meaningful incidents or tasks in the Zendesk system. 
+Performs all duties in accordance with policies and procedures 
+Maintain inventories of all Telecom assets using the FCMS inventory and Verizon Portal to secure assets 
+Participate in the development of the documentation of Telecom infrastructure and practices by providing written and/or verbal communications to effectively maintain a resource of standard practices. 
+Participate in meetings as required and directed to insure clear communication within IT Operations. 
+Install and move assets as required according to IT Operation processes.
+
+Responsibilities:
+
+Provides technical direction and engineering knowledge for communications activities including planning, designing, developing, testing, installing and maintaining large communications networks. 
+Ensures that adequate and appropriate planning is provided to direct building architects and planners in building communications spaces and media pathways meet industry standards. 
+Develops, operates, and maintains voice, wireless, video, and data communications systems. 
+Provides complex engineering or analytical tasks and activities associated with one or more technical areas within the communications function.
+
+Qualifications:
+
+1-5 years of experience developing, operating and Required maintaining voice, wireless video,and data comm. Systems
+1-5 years of experience providing direction for communications activities related to large comm. Networks.
+Troubleshoot daily telecom related issues in the areas of desk phones, call center applications, mobile devices, and data \ voice ports
+Proven experience with telecom system PBX\ACD\UIP
+Proven experience in asset management in the areas of hardware and software
+Good technical understanding of network, telecommunications, and mobile devices
+Proven experience with Call Center Environment
+
+Education: Bachelor's degree in IT or related field or equivalent experience
+
+Candidates must have ALL the "Required" skills in order to be considered for the position. "Desired" or "Highly Desired" skills are a PLUS but may NOT be required. 
+
+Skill Matrix
+
+Experience with Business workflow processes
+
+Required / Desired
+
+Amount
+
+of Experience
+
+Proven experience with telecom system PBX\ACD\UIP
+
+Required
+
+3
+
+Years
+
+Proven experience in asset management in the areas of hardware and software
+
+Required
+
+3
+
+Years
+
+Troubleshoot daily telecom related issues in the areas of desk phones, call center applications, mobile devices, and data \ voice ports
+
+Required
+
+3
+
+Years
+
+1-5 years of experience developing, operating and maintaining voice, wireless video,
+
+Required
+
+Proven experience with Call Center Environment

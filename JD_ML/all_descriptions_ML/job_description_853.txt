@@ -1,0 +1,55 @@
+About the job
+Description
+
+Amazon is looking for a talented Postdoctoral Scientist to join its AI Research on foundation models, large-scale representation learning, and distributed learning methods and systems for a one-year, full-time research position. At Amazon, you will invent, implement, and deploy state of the art machine learning algorithms and systems. You will build prototypes and innovate on new representation learning solutions. You will interact closely with our customers and with the academic and research communities. You will be at the heart of a growing and exciting focus area and work with other acclaimed engineers and world famous scientists.
+
+Large-scale Foundation Models Have Been The Powerhouse In Many Of The Recent Advancements In Computer Vision, Natural Language Processing, Automatic Speech Recognition, Recommendation Systems, And Time Series Modeling. Developing Such Models Requires Not Only Skillful Modeling In Individual Modalities, But Also Understanding Of How To Synergistically Combine Them, And How To Scale The Modeling Methods To Learn With Huge Models And On Large Datasets. Join Us To Work As An Integral Part Of a Team That Has Diverse Experiences In This Space. We Actively Work On These Areas
+
+ Hardware-informed efficient model architecture, training objective and curriculum design
+ Distributed training, accelerated optimization methods
+ Continual learning, multi-task/meta learning
+ Reasoning, interactive learning, reinforcement learning
+ Robustness, privacy, model watermarking
+ Model compression, distillation, pruning, sparsification, quantization
+
+In This Role, You Will Have The Opportunity To
+
+ Leverage machine learning models and advanced statistical techniques to extract valuable insights from historical data and comparable item information.
+ Tackle data scarcity challenges by developing innovative approaches to maximize the utility of available data sources.
+ Collaborate with cross-functional teams to develop and deploy production-ready solutions.
+ Participate in research activities, including publishing papers, attending conferences, and collaborating with academic institutions to advance the state-of-the-art in relevant fields.
+
+Key job responsibilities
+
+In This Role You Will
+
+ Work closely with a senior science advisor, collaborate with other scientists and engineers, and be part of Amazon’s vibrant and diverse global science community.
+ Publish your innovation in top-tier academic venues and hone your presentation skills.
+ Be inspired by challenges and opportunities to invent cutting-edge techniques in your area(s) of expertise.
+
+Basic Qualifications
+
+ PhD in a relevant field, received within 2 years of starting the program.
+ Proven publication record in Machine Learning, Robotics, Computer Vision, AI, Computer Science, Operations Research, Economics, or other related technical fields.
+ Experience in data science and quantitative research.
+ Proficiency in technologies relevant to the sub-field.
+
+Preferred Qualifications
+
+ Ability to independently deliver results in a fast-paced environment.
+ Publications at top-tier, peer-reviewed conferences and/or journals.
+ Exceptional verbal and written communication skills.
+ Expert knowledge in modeling and performance, operationalization, and scalability of scientific techniques and establishing decision strategies.
+
+Required Application Materials
+
+ CV, which lists all peer-reviewed publications and conferences.
+ Research statement that outlines your research achievements and future research interests.
+ A journal article or book chapter that demonstrates your domain expertise.
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+
+
+Company - Amazon.com Services LLC
+
+Job ID: A2595147

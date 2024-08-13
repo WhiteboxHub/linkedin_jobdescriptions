@@ -1,0 +1,42 @@
+About the job
+Provide data analysis and validation in developing customizations and reports for all district network systems as pertains to emergent bilinguals (EBs) and meeting local, state, and federal compliance requirements as pertains to EBs. 
+Lead the collection, preprocessing, and analysis of large-scale datasets from various sources to compile, analyze, and share district level reports with various stakeholders. 
+Develop and implement system for gathering data related to federal reporting requirements on all emergent bilinguals and teachers of emergent bilinguals including teacher certification for yearly reporting to TEA. 
+Develop and manage Staffing and Leveling processes for teachers of emergent bilinguals including providing and analyzing direct student and personnel data by coordinating directly with departments including, HCM, School Leadership, Demographics, and Budget
+Support efforts to ensure data quality and integrity throughout the department and districtwide through the application of data governance best practices including verifying PEIMS reporting data. 
+Apply advanced statistical methods and machine learning techniques to uncover trends, patterns, and correlations in data for informing accountability reporting and instructional considerations. 
+Design and develop robust dashboards, reports, and visualizations to communicate findings to stakeholders. 
+Lead the corroboration with district database administrators to modify existing software to correct errors, allow it to adapt to new hardware, and/or improve its performance including PreLAS and LAS Links Apps to ensure appropriate language proficiency testing of EB students. 
+Stay abreast of emerging technologies and best practices in data analysis, continuously enhancing analytical capabilities. 
+Perform all other duties as assigned. 
+Bachelor's Degree from an accredit university in Statistics, Mathematics, Computer Science; Master’s Degree preferred. 
+5+ years of experience in data analysis or a similar role, with demonstrated expertise in statistical analysis and data visualization. 
+Proficiency in SQL for complex data manipulation and querying. 
+Strong analytical mindset with the ability to translate complex data into actionable insights. 
+Excellent communication and presentation skills, with the ability to convey technical concepts to non-technical stakeholders. 
+Proven leadership experience, with the ability to collaborate effectively with all district stakeholders. 
+Ability to thrive in a fast-paced, dynamic environment and manage multiple projects simultaneously. 
+
+Work Locations
+
+Dual Language Esl Department
+
+Job
+
+Analyst II-Data
+
+Schedule
+
+Full-time
+
+Minimum Salary
+
+73,495.00
+
+Median Salary
+
+89641.00
+
+Job Posting
+
+Jul 29, 2024

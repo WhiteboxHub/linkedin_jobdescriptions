@@ -1,0 +1,36 @@
+About the job
+Description
+
+Over the past 20 years, Amazon has reinvented on behalf of customers and has become the largest internet retailer in the world. Amazon is now reinventing the global supply chain and international e-commerce and is recruiting a senior data engineer to help make this vision a reality. In this role, you will be responsible for the development and improvement of Workforce Planning Analytics platform used for planning, reporting, and forecasting purposes as well as dataset management. You will get the unique opportunity to work closely with a variety of stakeholders, including Business Analysts, Site Leads, and other Program Management teams. The candidate will also be in charge of driving strategic initiatives to improve reporting efficiency, develop new bridging workflow tools and establish new key performance metrics where appropriate.
+
+The ideal candidate will not only raise the bar on Data engineering skills but demonstrates a strong curiosity to understand the business end-to-end and be comfortable working with ambiguity. The candidate will also have an eye for detail, be proficient/advanced in SQL/DWH/Python and invent for solving data and reporting challenges. The role requires good communication skills with other functional teams.
+
+Key job responsibilities
+
+ Design, implement and support an analytical data infrastructure using AWS technologies
+ Build robust and scalable data integration (ETL) pipelines using SQL, and AWS data storage technologies like Aurora, Red Shift etc.
+ Design and develop Analytics applications using modern scripting languages (Python, R, PHP, etc) supporting critical business functions.
+ Gather business and functional requirements and translate these requirements into robust, scalable, operable solutions with a flexible and adaptable data architecture.
+ Lead architecture design and implementation of next generation BI solution
+ Continually improve ongoing reporting and analysis processes, automating or simplifying self-service modeling and production support for customers.
+
+Basic Qualifications
+
+ 1+ years of data engineering experience
+ Experience with data modeling, warehousing and building ETL pipelines
+ Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)
+ Experience with one or more scripting language (e.g., Python, KornShell)
+
+Preferred Qualifications
+
+ Experience with big data technologies such as: Hadoop, Hive, Spark, EMR
+ Experience with any ETL tool like, Informatica, ODI, SSIS, BODI, Datastage, etc.
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $91,200/year in our lowest geographic market up to $185,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.
+
+
+Company - Amazon.com Services LLC
+
+Job ID: A2721480

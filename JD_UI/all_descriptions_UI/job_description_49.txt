@@ -1,0 +1,19 @@
+About the job
+Job Description
+
+ACTIVE TS/SCI WITH FULL SCOPE POLY REQUIRED*** 
+
+The candidate will work with a multi-faceted team building solutions using and supporting the implementation and rollout of Service Now. Ideal candidate must be; self-motivated organized, analytical, adept at working in a team environment, able to implement on time to a project schedule, and able to handle multiple priorities in and comfortable in a technical organization with a dynamic customer environment. This position requires infrequent travel throughout WMA.
+
+Typical Responsibilities Include
+
+ The candidate will design, configure, develop, implement, integrate and support development of baseline and custom applications and enhancements in the ServiceNow platform. 
+ Senior Web Designer/Developer shall implement custom workflows in Service now and provide integration support with external systems and data sources. 
+ Working with a technical team the candidate will follow an agile software development methodology for planning, implementing, and delivering ServiceNow capabilities. 
+ The candidate shall be responsible for administration and O&M of the ServiceNow front-end. 
+
+Requirements
+
+ Required Qualifications: 
+
+ ServiceNow Developer Certification (Certified Application Developer) is desired

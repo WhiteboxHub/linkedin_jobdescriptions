@@ -1,0 +1,83 @@
+About the job
+Teal Media is seeking an experienced remote front-end developer for a full-time position. Working closely with our visual design team and our technical team, you will create complex, custom front-end code for our high-profile social impact clients, under the direction of our CTO and Technical Director. Depending on the project, responsibilities may include handing off front-end code for integration into a CMS, custom microsites, or ‘design in the browser’ for key client deliverables.
+
+Ideal Location: Remote (US residents only)
+
+Who We Are
+
+Teal Media is a full-service creative and design agency with a conscience. We believe purposeful design can transform organizations, inspire action, and enable progress. Our clients and nonprofit partners commit their lives to creating positive social change. We pour every ounce of our passion and skill into their success, because we, too, want the world to be a better place. We offer a variety of strategic, creative, and technical services, including brand strategy, web design and development, and creative support.
+
+We are a woman-owned and woman-led firm with a diverse staff. At Teal Media, we value our people above all else and choose to work with partners and clients who share those beliefs.
+
+Your Team
+
+This role is under the Development team. You will report to the Technical Director and work closely with the Development, Content, and Creative teams.
+
+What You’ll Do
+
+Create beautiful, performant and accessible front-end website designs using HTML5, CSS, JavaScript, and related libraries
+Communicate and collaborate with internal and external project team members
+Collaborate closely with the design team to enhance the overall design experience
+Think deeply about tools and frameworks to create flexible design systems
+Serve as the front-end developer for web-based projects as well as support retainer development tasks for existing clients
+Build high-quality prototypes for client demonstration
+Ensure the technical feasibility of UI/UX designs
+Regularly consult with team members on code deliverables to ensure work meets project requirements before sharing with the client
+Conduct quality assurance, testing, and proofing on project deliverables
+Assist with technical solutions discovery on projects
+Train/educate clients as needed
+
+Ideal Candidates Will Have
+
+3-7+ years of front-end coding experience
+Agency experience is strongly preferred
+Demonstrable experience developing complex front-end HTML code with examples and a willingness to walk us through code that you have written
+Very comfortable with coding ‘from scratch’ as well as light use of existing frameworks
+Strong understanding of the website design and development process, including working knowledge of git, mobile responsive design, and accessibility standards
+Self-starter, independent thinker, highly responsible
+Excellent communication and problem-solving skills
+Thrives working in a fast-paced environment
+Strict attention to detail and adherence to project deadlines
+
+Salary & Level
+
+Teal Media is committed to equity and transparency when it comes to salary and the growth of our people. This role is open to both level 2T and 3T in our progression framework and is determined by the candidate’s unique background and experience.
+
+Level: 3T
+
+Official Title: Senior Developer
+Department: Development
+Salary Range: $100,000-$125,000
+
+Level: 2T
+
+Official Title: Developer
+Department: Development
+Salary Range: $90,000-$120,000
+
+Benefits
+
+Make a positive impact on mission-driven organizations and nonprofits while working in a fun, collaborative, and flexible environment. We’re a nimble, close-knit group that values teamwork and individual contribution.
+
+All our positions are remote (in the US), but we work to maintain a fun and engaging company culture.
+
+Work from home (or at the beach!)
+Professional Development Coaching
+Yearly Continuing Education Stipend
+Eligibility for bi-annual bonuses
+Flexible Time Off and Unlimited Sick Leave
+Compassionate Leave
+Health, dental, and vision insurance
+Company 401(k) with match
+Flexible working hours
+Flex Fridays - a day dedicated to self-directed work. Spend time working on the things you want - whether it be honing in on your craft or taking off a few hours early for your mental wellness!
+
+Equal Opportunity Employer
+
+If your experience doesn’t exactly match the qualifications listed but you believe you would shine in this role, we want to hear from you! Please apply and tell us why you’re the right person for the job.
+
+Black & Indigenous people of color, immigrants, women, and femmes, LGBTQI+ individuals, people with disabilities, neurodiverse people, and formerly incarcerated or systems-impacted people are highly encouraged to apply.
+
+Teal Media is an equal-opportunity employer that values a diverse workforce and an inclusive culture. Teal Media encourages applications from all qualified individuals without regard to race, color, religion, gender, sexual orientation, age, national origin, marital status, citizenship, disability, and veteran status.
+
+Teal Media does not discriminate on the basis of race, color, religion, creed, age, sexual orientation, gender identity or expression, marital status, country of origin, citizenship, ancestry, genetic information, physical or mental disability, military or veteran status, political affiliation, exercising one’s right to family care and medical leave, medical condition, including pregnancy, childbirth, breastfeeding, and related medical conditions, or any other category protected by local, state, or federal laws. We are not offering US visa sponsorship at this time.

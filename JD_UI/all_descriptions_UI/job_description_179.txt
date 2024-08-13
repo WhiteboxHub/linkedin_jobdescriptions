@@ -1,0 +1,42 @@
+About the job
+Title: UI Developer
+
+Location: Mexico, 100% Remote
+
+Contract
+
+We are seeking a skilled UI Developer to join our team in Mexico. As a UI Developer, you will play a crucial role in creating visually appealing and user-friendly interfaces for our web applications. Your responsibilities will encompass the entire software development life cycle, from designing and coding to testing and implementation. If you are passionate about crafting exceptional user experiences and have a strong background in .NET technologies, we encourage you to apply.
+
+Responsibilities
+
+Write clean and scalable code using .NET programming languages.
+Develop technical interfaces, specifications, and architecture.
+Adapt existing web applications for mobile and other platforms.
+Create and rigorously test software prototypes.
+Design and develop client displays and intuitive user interfaces.
+Collaborate closely with fellow software professionals and developers.
+Leverage extensive experience in .NET languages, specifically C#.
+Apply expertise in Database concepts, including Oracle, PL/SQL scripting, performance tuning, systems infrastructure, systems development, and the software development life cycle (SDLC).
+Develop functional and technical specifications and ensure their successful implementation.
+Perform comprehensive Unit testing, System testing, and End User Testing.
+Provide support for the current implementation and promptly resolve critical issues while actively contributing to system enhancements.
+
+Qualifications
+
+Bachelor's degree in Computer Science, Engineering, or relevant field, or equivalent experience.
+Proficiency in the ASP.NET framework, SQL Server, and design/architectural patterns.
+Minimum of 5 years of hands-on development experience using C# .NET.
+Over 5 years of overall experience across all stages of the software development life cycle (SDLC), including Requirements gathering, Analysis, Design, Development, Testing, and Implementation.
+Familiarity with various architecture styles and APIs, including REST and RPC.
+Understanding of Agile methodologies and practices.
+Exceptional troubleshooting skills and effective communication abilities.
+Knowledge of REST and RPC APIs.
+Strong team player with the ability to collaborate effectively in a team setting.
+
+Please send us a copy of your most recent CV if you are interested and believe you possess the qualifications and experience I am seeking.
+
+I look forward to hearing from you soon.
+
+About Us
+
+InterSources Inc, a Certified Diverse Supplier, was founded in 2007 and offers innovative solutions to help clients with Digital Transformations across various domains and industries. Our history spans over 16 years and today we are an Award-Winning Global Software Consultancy solving complex problems with technology. We recognize that our employees and our clients are our strengths as the diverse talents and opportunities they bring to the table enable us to grow as a global platform and they are causally linked with our success. We provide strategic and technical advice, and we have expertise in areas covering Artificial Intelligence, Cloud Migration, Custom Software Development, Data Analytics Infrastructure & Cloud Solutions, Cyber Security Services, etc. We make reasonable accommodations for clients and employees and we do not discriminate based on any protected attribute including race, religion, color, national origin, gender sexual orientation, gender identity, age, or marital status. We also are a Google Cloud partner company. We align strategy with execution and provide secure service solutions by developing and using the latest technologies that thrive our resources to deliver industry-leading capabilities to our clients and customers, making it convenient for our clients to do business with InterSources Inc. Our teams also drive growth by refining technology-driven client experiences that put the users first, providing an unparalleled experience. This results in strengthening the core technologies of clients, enabling them to scale with flexibility, create seamless digital experiences and build lifelong relationships.

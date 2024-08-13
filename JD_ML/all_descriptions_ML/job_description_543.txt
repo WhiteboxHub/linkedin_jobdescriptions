@@ -1,0 +1,30 @@
+About the job
+Who are we?
+For the past 20 years, we have powered many Digital Experiences for the Fortune 500. Since 1999, we have grown from a few people to more than 4000 team members across the globe that are engaged in various Digital Modernization. For a brief 1 minute video about us, you can check https://youtu.be/uJWBWQZEA6o.
+
+Key Responsibilities:
+Participate in developing Generative AI & Traditional AI Platform Capabilities on enterprise on-prem and cloud platforms.
+Responsible for AI model delivery to on-prem infrastructure and cloud platforms (GCP-Vertex AI, Azure ML)
+Collaborating with Data scientist to optimize the scoring pipeline.
+Building automation capabilities to deploy ML Models and LLM Models on the enterprise on-prem platform and cloud platform.
+Build and Deploy capabilities for automating model scoring/Inferencing of ML models and LLMs.
+Build and Deploy capabilities for data pipeline deployment standardization and model consumption by multiple LOBs.
+Collaborate with product owners, devOps team, data scientists, support teams to define and drive end to end model scoring pipelines.
+Participate in day-to-day standups for platform capability build.
+Provide SME guidance for data science teams on software engineering principles, model deployments, platform capabilities.
+Drive AI use case delivery end to end collaborating with Data scientists, Data Engineers, LOB Technology using standardized platform processes and capabilities.
+Support Production Issues partnering with production support.
+Key Requirements:
+5+ years of Python experience
+5+ years of big data experience needed (Big Query, Hadoop)
+3 years of experience in AIML area (MLOps)
+2+ years of experience in developing APIs using Python/FastAPI.
+1+ year of Document AI, Agent Builder/GCP search/conversation / Dialogflow – Nice to have
+Good to have 1+year of experience in LLM, Generative AI (developing capabilities or dev/ops)
+Good to have Experience in developing of API on GCP/Azure/API Gateways
+Good to have 1+year of experience in Vector Database, Model Development would be added benefit.
+ What will make people successful in the team:  
+Hands on coding with minimal supervision
+On the feet thinking
+Great communication skills
+30 day full ramp up time

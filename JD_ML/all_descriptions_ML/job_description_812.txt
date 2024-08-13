@@ -1,0 +1,41 @@
+About the job
+Company Description
+
+The Bosch Group operates in most countries in the world. With over 400,000 associates, a career at Bosch offers a chance to grow an exceptional career in an environment that values diversity, initiative, and a drive for impact.
+
+Job Description
+
+We are looking for highly motivated students (spring/summer/fall 2024) to join our research team in developing new machine learning/deep learning algorithms for various real-world applications of AI, including but not limited to: foundation models, self-supervised learning, zero/few-shot learning, adversarial robustness, model generalization, domain adaptation, semantic segmentation, network compression, generative modelling, computer vision, deep probabilistic modeling, and physics-based machine learning. This internship role will focus on the following responsibilities:
+
+Design and development of novel deep learning algorithms, implementation and evaluation on public benchmarks and multi-modal Bosch data from application areas such as manufacturing, automated driving, and robotics.
+Technical discussions with the research team towards creation of new ideas and improve upon the existing solutions.
+Clean, efficient, and well-documented implementation of new deep learning methods.
+Code contributions to our deep learning framework.
+Publish at leading AI conferences, and ultimately shape the future of Bosch products and services.
+
+Qualifications
+
+Required Qualification:
+
+Pursuing MS or PhD degree in Computer Science / Engineering, Data Science, Electrical Engineering, or Mathematics.
+Strong foundation and broad knowledge of Machine Learning algorithms and principles.
+Programming experience in Python + PyTorch.
+Excellent communication skills.
+
+Desired Qualification
+
+Experience with working on Machine Learning, or Deep Learning projects.
+Established publication record in Machine Learning or Computer Vision or related fields.
+Good coding practices, ability to write efficient and readable code.
+Good writing and presentation skills.
+
+Additional Information
+
+The U.S. base salary range for this intern position is $36.00-$58.00 per hour. Within the range, individual pay is determined based on several factors, including, but not limited to, type of degree, work experience and job knowledge, complexity of the role, type of position, job location, etc. Your Hiring Manager can share more details about the specific salary range for this position during the interview process.
+
+By choice, we are committed to a diverse workforce - EOE/Protected Veteran/Disabled.
+
+BOSCH is a proud supporter of STEM (Science, Technology, Engineering & Mathematics)
+
+FIRST Robotics (For Inspiration and Recognition of Science and Technology)
+AWIM (A World In Motion)

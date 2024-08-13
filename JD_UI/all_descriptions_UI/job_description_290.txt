@@ -1,0 +1,22 @@
+About the job
+Plano, TX (Hybrid role)
+
+look for nearby candidates 
+
+Required Skills
+
+ Primary Skill – Pega CSSA certification with CLM exp.
+ Secondary Skill – J2EE
+ Tertiary Skill - Agile Methodology
+ Strong experience in Pega application and case design, data model design, process design, decision design, user experience design, security implementation, background processing, integrations, performance and testing and deployment
+ Experience in SDLC (requirements through implementation) and Agile methodology
+ OOPs concepts and implementation
+ Experience in Service oriented architecture with web services
+ Experience in XML & JavaScript, Core Java, RDBMS experience using Oracle PL/SQL or MS SQL
+ Effective communication skills
+ Strong time management and task prioritization skills
+ Bachelor's Degree in Computer Science or relevant field
+ Pega LSA Part1
+ Pega LSA certified developer with 7+ years of experience in building Enterprise grade applications.
+ LSA must be capable of understanding business requirements, working with Business/Technology leaders, Enterprise Architects and End Users to develop a technical solution.
+ This position requires experience in case design, data model design, user experience design, security, background processing, performance, testing and deployment.

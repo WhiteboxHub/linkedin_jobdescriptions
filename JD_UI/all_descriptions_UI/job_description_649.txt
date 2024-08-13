@@ -1,0 +1,72 @@
+About the job
+Crum & Forster Company Overview
+
+Crum & Forster (C&F) with a proud history dating to 1822, provides specialty and standard commercial lines insurance products through our admitted and surplus lines insurance companies. C&F enjoys a financial strength rating of "A" (Excellent) by AM Best and is proud of our superior customer service platform. Our claims and risk engineering services are recognized as among the best in the industry.
+
+Our most valuable asset is our people: more than 2000 employees in locations throughout the United States. The company is increasingly winning recognition as a great place to work, earning several workplace and wellness awards, including the October 2022 Great Place to Work® Award for our employee-first focus and our steadfast commitment to diversity, equity and Inclusion.
+
+C&F is part of Fairfax Financial Holdings, a global, billion dollar organization. For more information about Crum & Forster, please visit our website: www.cfins.com.
+
+Job Description
+
+Travel Insured International (TII), a Crum & Forster company, is hiring a Frontend Developer in our IT Team in Glastonbury, CT.
+
+Travel Insured International is a leading travel insurance provider with more than 25 years in business. As a key component of our Specialty Business Unit, within the Accident & Health division, TII provides travel protection plans to help each individual travel confidently. Travel Insured International is proud to offer products to consumers and to agency partners of all sizes. We're committed to providing dependable coverage, great value, and end-to-end satisfaction for all customers.
+
+Reporting to the Director, Solutions Architecture, the skilled Frontend Developer will create functional and beautiful user experiences. This role should have a thorough understanding of JavaScript, HTML, CSS, and React best practices. The role cares about the customer’s experience, the performance of the application, and the elegance of the implementation.
+
+Preference is for the candidate to be based locally in Glastonbury or CT, but we are open to someone fully remote.
+
+What You Will Do For C&F
+
+Develop, test, and implement new front-end features for web and mobile
+Test, maintain, and recommend improvements to existing systems to ensure they run smoothly and optimally
+Work closely and communicate with all stakeholders in projects
+Make appropriate technical decisions to provide business solutions
+Stay current on new technologies and suggest applicable use cases
+Set and maintain standards for software development and help train fellow team members in these practices
+Balance between creating comprehensive, elegant solutions and getting work done
+Work in an Agile development environment, attend scrum meetings, work closely with developers to review and assess requirements for a full understanding of sprint deliverables
+
+What You Will Bring To C&F
+
+A College degree or equivalent work experience is required
+A minimum of 3 years of experience in a Frontend developer role is required
+Proficiency in React, TypeScript, HTML5,CSS3, JavaScript (ES6+), Understanding of and ability to consume APIs (RESTful and GraphQL) and handling responses are all required. 
+.NET and ASP.NET Core – basic knowledge of how they work and serve data to front-end applications through APIs. Git are all preferred
+Demonstrated experience in designing, developing, implementing, and releasing high quality custom software solutions
+Intermediate to Advanced proficiency in Microsoft Office suite (Excel, Word) is required
+Ability to travel to Glastonbury, CT office for periodic team meetings, employee activities, etc. is required
+Understands client expectations and recognizes when issues/events may affect delivery
+Expertise working with others in a cross-functional multi-team environment
+Strong written and verbal communication skills
+Demonstrated understanding of user experience principles, linking strategies to content; ensuring user experience determines design choice; architecture and design; and developing features to enhance the user experience.
+Intellectual curiosity and willingness to learn the latest technologies
+Analytical and problem-solving skills
+Ability to work independently and in a team environment
+
+What C&F Will Bring To You
+
+Competitive compensation package
+
+Generous 401K employer match
+
+Employee Stock Purchase plan with employer matching
+
+Generous Paid Time Off
+
+Excellent benefits that go beyond health, dental & vision. Our programs are focused on your whole family’s wellness, including your physical, mental and financial wellbeing
+
+A core C&F tenet is owning your career development, so we provide a wealth of ways for you to keep learning, including tuition reimbursement, industry-related certifications and professional training to keep you progressing on your chosen path
+
+A dynamic, ambitious, fun and exciting work environment
+
+We believe you do well by doing good and want to encourage a spirit of social and community responsibility, matching donation program, volunteer opportunities, and an employee-driven corporate giving program that lets you participate and support your community.
+
+At C&F you will BELONG
+
+We value inclusivity and diversity. We are committed to equal employment opportunity and welcome everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status. If you require special accommodation, please let us know.
+
+For California Residents Only: Information collected and processed as part of your career profile and any job applications you choose to submit are subject to our privacy notices and policies, visit https://www.cfins.com/onlineprivacypolicy/ca/noticeatcollection/ for more information.
+
+Crum & Forster is committed to ensuring a workplace free from discriminatory pay disparities and complying with applicable pay equity laws. Salary ranges are available for all positions at this location, taking into account roles with a comparable level of responsibility and impact in the relevant labor market and these salary ranges are regularly reviewed and adjusted in accordance with prevailing market conditions. The annualized base pay for the advertised position, located in the specified area, ranges from a minimum of $61,700.00 to a maximum of $102,900.00. The actual compensation is determined by various factors, including but not limited to the market pay for the jobs at each level, the responsibilities and skills required for each job, and the employee’s contribution (performance) in that role. To be considered within market range, a salary is at or above the minimum of the range. You may also have the opportunity to participate in discretionary equity (stock) based compensation and/or performance-based variable pay programs.

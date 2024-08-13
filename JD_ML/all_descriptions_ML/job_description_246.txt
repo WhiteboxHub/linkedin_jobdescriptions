@@ -1,0 +1,51 @@
+About the job
+Job Title – Machine Learning Engineer
+
+Job Location -Fully Remote – Need from EST
+
+Duration - 6 Months+
+
+Visa -USC,GC Only
+
+Mode Of Interview - Phone/Skype
+
+Note - Need LinkedIn 
+
+Job Description –
+
+Machine Learning Engineer
+
+Our client is seeking a Machine Learning Engineer to join their emerging technology group to be part of their AI and data insight journey. Additionally, this person will help drive our client's AI implementations-related technologies/solutions to address current and future business opportunities.
+
+This role is fully remote. EST hours preferred.
+
+Machine Learning Engineer Responsibilities
+
+Solve complex problems with multilayered data sets and optimize existing machine learning libraries and frameworks.
+Collaborate with data scientists, data engineers, and data architects on production systems and applications.
+Identify differences in data distribution that could potentially affect model performance in real-world applications.
+Ensure algorithms generate accurate responses.
+Assess the effectiveness and accuracy of new data sources and execute data-wrangling techniques.
+Develop processes and tools to monitor and analyze model performance and data accuracy.
+No expectations of supervisory responsibility to begin with; however, this role will have multiple leadership opportunities over time – as such, candidates must be able to mentor and teach.
+
+Machine Learning Engineer Qualifications
+
+This person must have strong experience with prompt engineering, designing, developing/deploying ML systems, implementing appropriate ML algorithms, conducting experiments, and staying updated with the latest developments in the field. Experience working with data to create models, perform statistical analysis, and train and retrain systems to optimize performance. They must have a proven ability to drive business results with their data-based insights and be comfortable working with a wide range of stakeholders and functional teams. The right candidate will have a passion for ML and working with stakeholders to improve business outcomes.
+
+Experience building and operationalizing retrieval augmented generation (RAG) frameworks.
+Experience utilizing LLMs to provide software automation capability integrations.
+Experience configuring vectors databases for semantic search.
+Experience with LangChain and sentence transformer frameworks.
+Experience with ChatGPT4 (or comparable models).
+Experience with MLOps.
+Strong understanding of AI/ML cloud services and infrastructure, including how to leverage them and experience with SaaS infrastructure technologies (AWS/Azure preferred).
+Experience using Python and SQL to manipulate data and draw insights from large data sets.
+Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks.
+A drive to learn and master new technologies and techniques.
+Ability to quickly assimilate, organize, analyze, abstract, and synthesize large amounts of information and to make decisions based on this analysis.
+Excellent written and verbal communication skills.
+Ability to present and explain technical concepts to non-technical audiences.
+Comfortable working in a dynamic and changing environment.
+Comfortable working with loosely defined requirements where you exercise your creativity and analytical skills to deliver best-in-class solutions.
+Self-motivated / Creative / Innovative.

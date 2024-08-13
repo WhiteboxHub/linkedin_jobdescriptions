@@ -1,0 +1,25 @@
+About the job
+Overview
+
+Position Overview: VTG is seeking a talented and experienced Front End Developer to join our dynamic and innovative team in multiple locations across DC. Metro Area. As a Front End Developer, you work closely with cross functional teams, including designers, and back-end developer to bring visually appealing and intuitive user experience to life.
+
+What will you do?
+
+Collaborate with our design and development teams to create user-friendly web interfaces.
+Translate design concepts into responsive and interactive web applications using HTML, CSS, and JavaScript. 
+Ensure cross-browser compatibility and optimize web applications for various devices and screen sizes. 
+Implement and maintain web accessibility standards to ensure inclusivity. 
+Test and debug web applications, identifying and resolving issues promptly.
+Use version control systems to manage codebase and collaborate effectively. 
+Stay updated with the latest web development trends, tools, and best practices. 
+
+Do you have what it takes?
+
+Active TS/SCI with Polygraph required. 
+Bachelor’s degree in computer science, Information Technology, or related field.
+Proficiency in HTML, CSS, and JavaScript.
+Experience with React and/or other modern front-end libraries/frameworks.
+Strong knowledge of responsive web design principles. 
+Familiarity with web development tools and build systems.
+Excellent problem-solving skills and attention to detail.
+Effective communication and teamwork skills.

@@ -1,0 +1,23 @@
+About the job
+DATA AI ANNOTATORS US
+Our client is seeking Data Annotators to perform annotation tasks on a multitude of English datasets. These datasets are primarily text-based, but can also include images, videos and other forms of content. The annotated data is used to build and improve machine learning models in areas of text classification, entity recognition and various other applications. Data Annotators carry out their work in an engineering development environment.
+Responsibilities:
+Annotate English data accurately and consistently, and in accordance with predefined annotation guidelines
+Perform basic research as needed to annotate accurately
+Provide feedback on the annotation tasks and contribute to the continuous improvement of the data annotation process
+Provide insights regarding observed patterns in the annotated data
+Requirements:
+Bachelor's degree or equivalent work experience
+Experience in web research skills and analytical abilities
+Experience in word processing and spreadsheet applications
+Experience with data annotation tasks and content review
+Practical experience with annotation tools and software
+Excellent verbal and written communication skills
+High attention to detail
+Fluent in English
+Able to prioritize and explain decisions
+Able to work independently and collaboratively
+Additional Beneficial Skills:
+Working knowledge of Appen’s ADAP
+Fluency in German, French, Spanish from Spain, or Brazilian Portuguese is a plus
+Broad range of interests, with specific areas of expertise is a plus

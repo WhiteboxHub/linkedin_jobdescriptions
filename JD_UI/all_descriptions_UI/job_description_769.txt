@@ -1,0 +1,23 @@
+About the job
+About HTC Global Services:
+Shaping careers since 1990 - our long tenured employees are a testimony of the work culture. Join our global employee base of 12,000 and help us bring human expertise to tech in order to deliver purposeful solutions that amplify value.
+
+ Job Description:
+We will be looking for a strong React developer with recent Next.js experience and a history of REACT experience. Strong communication skills are required.
+Advanced ReactJs/Redux
+Advanced JavaScript
+Typescript
+CSS3
+HTML
+
+Must have skills:
+Candidate must have clear communication and strong technical skill on development.
+Candidate must have 8 years of experience in React and Redux.
+
+Benefits:
+HTC’s competitive package includes besides compensation Health, Dental, Vision, Disability Cover, both short and long term, Life Insurance, Flexible Spending, 401k, and Paid Vacation.
+-
+Move ahead:
+Our success as a company is built on practicing inclusion and embracing diversity. HTC Global Services is committed to providing a work environment free from discrimination and harassment, where all employees are treated with respect and dignity. Together we work to create and maintain an environment where everyone feels valued, included, and respected. At HTC Global Services, our differences are embraced and celebrated. HTC is an Equal Opportunity Employer. We respect and seek to empower each individual and support the diverse cultures, perspectives, skills, and experiences within our workforce. HTC is proud to be recognized as a National Minority Supplier and an equal-opportunity employer of protected veterans.
+
+EEO/M/F/V/H

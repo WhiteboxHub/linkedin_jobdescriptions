@@ -1,0 +1,31 @@
+About the job
+PowerBI Engineer
+Fortune 50 Healthcare
+Long Term Contract
+Remote - Louisville, KY 
+ Are you passionate about driving operational efficiency and strategic initiatives in a dynamic, agile environment? Join us and collaborate with a Fortune 50 healthcare leader to make a significant impact!
+
+Role Overview:
+Brooksource is looking for a skilled PowerBI Engineer to join our client’s Infrastructure Change Governance team. This role centers on driving capacity initiatives and optimizing processes through advanced data visualization and analytics. You'll harness data from diverse sources within ServiceNow (change data, incident data, etc.). As a pivotal member, you will handle both frontend and backend development within Power BI, crafting impactful dashboards and reports to aid in identifying areas for improvement, and achieving cost savings through advanced analytics and process automation.
+
+Responsibilities:
+Design, develop, and maintain interactive Power BI dashboards and visualizations that provide actionable insights into capacity initiatives and process optimization.
+Collaborate closely with stakeholders to gather requirements and translate them into effective and visually appealing dashboard solutions.
+Implement data modeling, ETL processes, and SQL queries to ensure efficient data extraction, transformation, and loading into Power BI.
+Ensure data accuracy, reliability, and accessibility by working closely with backend teams to integrate and validate data sources.
+Drive process improvement initiatives based on data-driven insights and recommendations.
+Explore opportunities for automation and AI integration to enhance dashboard functionalities and operational efficiencies.
+Communicate findings, recommendations, and project progress to stakeholders and leadership effectively.
+
+Requirements:
+Proven experience as a Power BI developer, with expertise in both frontend (dashboards, visualizations) and backend (data modeling, ETL processes).
+Strong proficiency in SQL for data manipulation and querying.
+Familiarity with Azure services and competencies, including Azure SQL Database, Azure Data Factory, and Azure Analysis Services.
+Ability to work independently as a self-starter while also collaborating effectively in a team environment.
+Excellent communication and organizational skills, with the ability to interact with diverse teams and stakeholders.
+Operational understanding of general database concepts and data management principles.
+Familiarity with Excel for data aggregation, presentation, and summarization is beneficial.
+
+Nice to have
+Knowledge of AI engineering, including practical applications for data staging and cleansing.
+Familiarity with ML algorithms for predictive analytics and trend analysis.

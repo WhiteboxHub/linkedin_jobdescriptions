@@ -1,0 +1,13 @@
+About the job
+This job is sourced from a job board. Learn More
+Required Skills
+
+Prior hands-on experience of data migration at scale
+
+Technical expertise with RDS, MongoDB, ETL
+
+Knowledge, skills, and expertise with AWS
+
+Technical expertise with Python, JAVA
+
+Specialty pharmacy domain experience will be useful

@@ -1,0 +1,74 @@
+About the job
+Who we are: First Street is the industry standard for physical climate risk data. We use transparent and peer-reviewed methodologies to calculate the past, present, and future climate risk for every property in the world. We started eight years ago by working with the world’s leading climate scientists to create groundbreaking, climate-adjusted, property specific models and haven’t stopped.
+
+Our mission: We exist to connect climate change to financial risk
+
+Our data: We create physics-based, deterministic models of flooding, wildfire and hurricanes, and advanced statistical models of extreme heat, air quality, drought, hail, severe convective storms, winter storms, and more. All of this data is used to create property-level financial risk metrics and macroeconomic variables to quantify the impacts of climate change.
+
+Our customers: We empower governments at the highest levels to make smart regulations, businesses to avoid bad investments, and everyday Americans to understand their personal risk from climate change. We are relied on every day by:
+
+Agencies ranging from the U.S. Department of Treasury to Fannie Mae
+The world's biggest banks such as Bank of America and Wells Fargo 
+Institutional investors like Nuveen and Blackstone 
+Millions of users on Redfin, Realtor.com, Homes.com, and more 
+
+We believe: Our work needs to match the pace and scope of the climate problem. This is why we have invested tens of millions of dollars into our science, data, people, and products and have raised tens of millions more to move even faster.
+
+Come join us and use your talents to create solutions to address humanity's biggest problem.
+
+Team & Role Overview: 
+
+We are looking for a Climate Scientist with a specialization in wildfire modeling to join our team.
+
+What you’ll do: 
+
+Develop and operate the First Street Wildfire Model to create fire hazard estimates (burn probabilities, flame lengths) at national scales. 
+Introduce innovative methods to improve the wildfire model performance and assess fire risk at a 30m spatial resolution. 
+Estimate wildfire fuels from a combination of in situ and remotely sensed data. 
+Expertise in the formulation and use of FM40 fuel classification for Rothermel-based wildfire behavior models. 
+Manage fire model production, quality control and ongoing evaluation/validation efforts. 
+Identify and develop new data inputs and methodological improvements for inclusion into the First Street Wildfire Model. 
+Manage model and data processing workflows both on the commercial cloud and on local clusters. 
+
+What you’ll need: 
+
+Ph.D., or M.S. in wildfire science or related subjects, with equivalent experience in wildfire behavior modeling and/or creation of wildfire fuels estimates. 
+Strong foundation in understanding and modeling fire behavior and wildfire processes. 
+Expertise in various fire behavior modeling, especially Rothermel-based models (e.g., ELMFIRE or FSIM) or similar modeling framework. 
+Experience with wildfire behavior and risk modeling in the Wildland Urban Interface (WUI)
+Expertise with big data analysis, large-capacity processing workflows, and cloud computing. 
+Expertise in probability and statistics related to fire ignition analysis. 
+Expertise using both compiled and scripted languages (e.g., Matlab, Python, UNIX shell, C++, Fortran, and/or SQL) and GIS software (e.g., QGIS and ArcGIS) to efficiently analyze outputs. 
+Ability to work in a fast-paced team environment. 
+
+What will make you stand out: 
+
+Postdoctoral research or similar experience is preferred. 
+Skill/Experience calibrating fire behavior models and quantitatively evaluating their performance. 
+Skill/Experience developing a variety of satellite-based wildfire fuel maps for use in Rothermel-based fire behavior models. 
+
+How we work: 
+
+Passion: We are driven by our shared goal to fight climate change 
+Impact: We only focus on things that move the needle 
+Urgency: We move quickly because the world depends on it 
+Positivity: We are optimistic and enthusiastic in all that we do
+
+What we offer: 
+
+Competitive salary commensurate with experience 
+Ownership interest in the company via Employee Stock Option Plan 
+Hybrid Schedule with in-office work days on Monday, Wednesday and Thursday 
+15 vacation days along with 13 company holidays and 10 sick days 
+Health benefits covered at 100% for employee or a significant contribution for family plans 
+Vision and dental benefits with partial employee contribution
+12 weeks of paid parental leave 
+Access to One Medical, Teledoc, HealthAdvocate, Kindbody, and Talkspace
+Company 401k program 
+Commuter benefits 
+Life Insurance
+Tech startup environment 
+Weekly team meals and an office stocked with coffee and snacks 
+Working on the world’s biggest issue with other passionate professionals 
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

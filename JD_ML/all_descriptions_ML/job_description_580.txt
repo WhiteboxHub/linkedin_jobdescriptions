@@ -1,0 +1,45 @@
+About the job
+With Confluent, organizations can harness the full power of continuously flowing data to innovate and win in the modern digital world. We have a purpose that drives us to do better every day – we're creating an entirely new category within data infrastructure - data streaming. This technology will allow every organization to create experiences and use the power of data in ways that profoundly impact the way we all live. This impact is our purpose and drives us to do better every day.
+
+One Confluent. One team. One Data Streaming Platform.
+
+Data Connects Us.
+
+About The Role
+
+Confluent pioneered the Data Streaming category to connect and process data in real-time, wherever companies need it. We’re seeking an experienced and highly skilled Staff Data Architect/Engineer to help design our own central nervous system. The Data Architect/Engineer is a senior technical contributor responsible for the design, technical requirements, and evolution of Confluent’s cloud data strategy. The Data Architect/Engineer will be both responsible for overall functional & technical design but also governance, lineage, and data quality processes.
+
+What You Will Do
+
+Own Confluent’s overall data warehouse architecture
+Design, architect, and maintain the data warehouse infrastructure to support current analytics, ML & AI needs and address future challenges
+Create and maintain data models, architecture patterns, and schemas that consider security, performance, scalability, and business needs
+Implement tools to support data modeling, orchestration and data pipelines such as DBT
+Develop and manage data pipelines, ensuring data quality, reliability, and scalability
+Collaborate with cross-functional teams to understand data requirements and deliver solutions that meet business needs
+Establish and enforce data governance policies, standards, procedures, and best practices to manage data integrity, quality, and lifecycle
+Ensure alignment between Confluent’s batch and real-time architecture teams
+Maintain detailed documentation of data architecture and systems to ensure all team members can understand and implement the systems effectively
+Stay updated with industry trends, technologies, and best practices in data engineering and analytics
+
+What You Will Bring
+
+Bachelor's or Master's degree in Computer Science, Information Systems, or a related field
+10+ years of experience in data engineering, with a focus on designing and implementing data warehouses, data modeling, ETL processes, and data transformation pipelines
+Experience with cloud-based data platforms (BigQuery) and components of the modern data stack
+Strong expertise in SQL, Python, and data engineering tools and frameworks
+Experience with CI/CD principles and tools (e.g., Git, Terraform, Docker)
+Knowledge of data governance principles, data quality management, and regulatory compliance
+Experience with Airflow orchestration for scheduling and managing workflows
+GCP experience, including familiarity with Google Cloud services such as BigQuery, & Dataflow
+Experience with Kafka, Data Build Tool (DBT)
+Excellent communication, leadership, and collaboration skills.
+Ability to work in a fast-paced, dynamic environment and lead a team to deliver high-quality results
+
+Come As You Are
+
+At Confluent, equality is a core tenet of our culture. We are committed to building an inclusive global team that represents a variety of backgrounds, perspectives, beliefs, and experiences. The more diverse we are, the richer our community and the broader our impact. Employment decisions are made on the basis of job-related criteria without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other classification protected by applicable law.
+
+At Confluent, we are committed to providing competitive pay and benefits that are in line with industry standards. We analyze and carefully consider several factors when determining compensation, including work history, education, professional experience, and location. This position has an annual estimated salary of $183,100 - $215,190, an annual bonus, and a competitive equity package. The actual pay may vary depending on your skills, qualifications, experience, and work location. In addition, Confluent offers a wide range of employee benefits. To learn more about our benefits click HERE .
+
+Click HERE to review our Candidate Privacy Notice which describes how and when Confluent, Inc., and its group companies, collects, uses, and shares certain personal information of California job applicants and prospective employees.

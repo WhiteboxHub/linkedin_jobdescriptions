@@ -1,0 +1,36 @@
+About the job
+We are currently looking for a Front End Developer.
+
+We have 1 open position. Please apply and we can discuss!
+
+Location: Onsite in Denver, CO
+
+Benefits: Full benefits
+
+Type: Contract-to-Hire
+
+Sponsorship Available: No
+
+Most Important:
+
+Proficiency in HTML, CSS and JavaScript. 
+Experience with React, JavaScript and Typescript in front-end development. 
+Experience building web apps for data visualization, and proficient in responsive and adaptive web design. 
+Strong understanding of REST API integration, and as working with complex data structures. 
+Good experience with data visualization libraries and state management libraries. 
+
+Responsibilities:
+
+Create and maintain internal web app to visualize data efficiently. 
+Contribute to the development of upcoming tools and apps. 
+Utilize HTML, React, JavaScript and TypeScript for front-end development. 
+Craft interfaces for user-friendly data interaction and display. 
+Ensure designs are responsive across devices. 
+Coordinate closely with backend team for smooth data integration. 
+Apply coding best practices with an emphasis on performance and security. 
+
+If the above seems like a fit, then apply!!
+
+CRB Workforce, LLC provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+
+This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.

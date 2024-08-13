@@ -1,0 +1,45 @@
+About the job
+Company Description
+
+Axiado is an AI-enhanced security processor company redefining the control and management of every digital system. The company was founded in 2017, and currently has 100+ employees. At Axiado, developing great technology takes more than talent: it takes amazing people who understand collaboration, respect each other, and go the extra mile to achieve exceptional results. It takes people who have the passion and desire to disrupt the status quo, deliver innovation, and change the world. If you have this type of passion, we invite you to apply for this job.
+
+, Job Description
+
+We are seeking a highly skilled and innovative UI Developer to join our dynamic team on a contract basis. The ideal candidate will have extensive experience in developing engaging user interfaces using modern frameworks such as React. This role requires a combination of programming, design skills, and a good understanding of backend integrations, specifically with Python. The ability to work independently and drive projects to completion is essential. Experience in cybersecurity product development is a plus.
+
+Key Responsibilities:
+
+ Develop and maintain high-quality user interfaces using React and other modern frameworks. 
+ Work independently to plan, execute, and deliver components and features. 
+ Collaborate with backend developers to design and implement robust backend services using Python. 
+ Create and implement UI designs that are visually appealing and user-friendly. 
+ Ensure the technical feasibility of UI/UX designs and optimize application for maximum speed and scalability. 
+ Produce all required design specifications and ensure that web applications meet accessibility and security standards. 
+ Participate in code reviews, and continuously improve front-end performance. 
+ Collaborate with project stakeholders to understand their requirements and provide technical solutions, managing communication and deliverables autonomously. 
+
+, Qualifications
+
+ Proven experience as a UI Developer or similar role. 
+ Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model. 
+ Extensive experience with React framework and its core principles. 
+ Proficiency in using UI design tools to create engaging and responsive designs. 
+ Experience integrating user-facing elements with server-side logic and backend systems, preferably Python. 
+ Good understanding of asynchronous request handling, partial page updates, and AJAX. 
+ Familiarity with front-end build pipelines and tools. 
+ Strong organizational skills with the ability to manage multiple tasks independently. 
+ Excellent communication skills and the ability to work well autonomously and in a team. 
+
+Desirable:
+
+ Experience developing cybersecurity products. 
+ Familiarity with data protection and security protocols relevant to UI development. 
+ Experience in developing and maintaining cloud-based user interfaces. 
+
+Additional Information
+
+Axiado is committed to attracting, developing, and retaining the highest caliber talent in a diverse and multifaceted environment. We are headquartered in the heart of Silicon Valley, with access to the world's leading research, technology and talent.
+
+We are building an exceptional team to secure every node on the internet. For us, solving real-world problems takes precedence over purely theoretical problems. As a result, we prefer individuals with persistence, intelligence and high curiosity over pedigree alone. Working hard and smart, continuous learning and mutual support are all part of who we are.
+
+Axiado is an Equal Opportunity Employer. Axiado does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, non-disqualifying physical or mental disability, national origin, veteran status or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit, and business need.

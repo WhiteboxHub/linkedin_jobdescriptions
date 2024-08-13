@@ -1,0 +1,45 @@
+About the job
+Request-ID: 33211-1
+
+MLEU
+
+Max rate $60
+Preferably 5 days onsite in Plano TX, but can be open to hybrid
+
+Client ENGINEER
+
+Required Skills : PySpark Client, AWS, Databricks, TensorFlow or Pytorch
+
+Experience : 9 to 12yrs
+
+Job Summary
+
+We are seeking a highly skilled Client Engineer with 9 to 12 years of experience in Machine Learning, AWS, Spark, Data Science, and PySpark Client.
+
+The ideal candidate will drive digital transformation and data engineering initiatives, ensuring robust and scalable solutions that align with our company's strategic goals.
+
+This role offers the opportunity to make a significant impact on our data-driven decision-making processes.
+
+The Ideal Candidate MUST HAVE
+
+ Hands on model building with pyspark Client
+ AWS experience
+ Databricks experience
+ Have built and deployed models in the past
+ Experience with TensorFlow or Pytorch
+ Experienced with Scikitlearn
+
+Good To Have
+
+ GitHub actions experience
+ Airflow
+ Docker
+ AWS Glue
+
+Job Location : Primary Location : USTXPAOA01(ITUSA,Plano - TX USA, COG) Alternate Location : NA,NA
+
+Job Type : Zn Digital & Data Engineer [65CW16]
+
+Demand Requires Travel? : No
+
+Certification(s) Required : NA

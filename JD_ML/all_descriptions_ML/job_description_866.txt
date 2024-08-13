@@ -1,0 +1,72 @@
+About the job
+Description
+
+Join us at the cutting edge of Amazon's sustainability initiatives to work on environmental and social advancements to support Amazon's long term worldwide sustainability strategy. At Amazon, we're working to be the most customer-centric company on earth. To get there, we need exceptionally talented, bright, and driven people.
+
+The Worldwide Sustainability (WWS) organization capitalizes on Amazon’s scale & speed to build a more resilient and sustainable company. We manage our social and environmental impacts globally, driving solutions that enable our customers, businesses, and the world around us to become more sustainable.
+
+Sustainability Science and Innovation (SSI) is a multi-disciplinary team within the WW Sustainability organization that combines science, analytics, economics, statistics, machine learning, product development, and engineering expertise. We use this expertise and skills to identify, develop and evaluate the science and innovations necessary for Amazon, customers and partners to meet their long-term sustainability goals and commitments.
+
+We are seeking a Principal Applied Scientist who is not just adept in the theoretical aspects of Machine Learning (ML), Artificial Intelligence (AI), and Large Language Models (LLMs) but also possesses a pragmatic, hands-on approach to navigating the complexities of innovation.
+
+You will take the lead in conceptualization, building, and launching innovative models and solutions that significantly drive material impacts for our long-term sustainability and climate goals. You'll be guided by problems and customer needs. You'll use strong technical judgment to determine appropriate approaches - custom pre-training models, fine-tuning trusted base models, leveraging retrieval-augmented generation (RAGs), or combining approaches.
+
+You'll collaborate with business leaders, scientists, and engineers to incorporate sustainability domain nuances when creating data foundations, developing AI models/applications, and applying techniques like data indexing, validation metrics, model distillation, and customized loss functions.
+
+You'll work across teams to embed AI/ML solutions and capabilities into existing sustainability data and systems. You'll define key AI sustainability research directions, adopt/invent new ML techniques, conduct rigorous experiments, publish results, and ensure research translates into practice. You'll develop long-term strategies, persuade teams, propose goals and deliver.
+
+If you see yourself as a hands-on technical leader and innovator at the intersection of AI, technology, and sustainability, we'd like to connect. You don't need to be an expert in sustainability and climate domains.
+
+Key job responsibilities
+
+ Creating web-scale sustainability-specific data foundations that align with our impact areas and sustainability goals;
+ Models to measure environmental and economic impacts at scale;
+ Automated solutions simplifying complex, labor-intensive ESG tasks; reasoning mechanisms for multi-view decarbonization plans and multi-objective optimization models;
+ Models to create, monitor, and quality assure high-integrity forest carbon credits.
+
+About The Team
+
+Diverse Experiences:
+
+World Wide Sustainability (WWS) values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.
+
+Inclusive Team Culture
+
+It’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.
+
+Mentorship & Career Growth
+
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.
+
+Work/Life Balance
+
+We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why flexible work hours and arrangements are part of our culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve.
+
+Basic Qualifications
+
+ Master Degree in Computer Science, Sustainability, Environmental Sciences, or a related field.
+ Extensive research experience in generative AI, machine learning.
+ 10+ years of hands-on experience in NLP, machine learning, or a related field.
+ Proven record of building, deploying and operationalizing models, algorithms, application areas (e.g., in sustainability areas).
+ Experience working with diverse and multi-modal data sources (text, time-series, tabular, various forms of bill of materials, web content, images, etc.).
+ Mentor and guide junior scientists and engineers, and contribute to the overall growth and development of the team.
+
+Preferred Qualifications
+
+ PhD in Computer Science, sustainability, environmental sciences, or a related field.
+ 10+ years of experience in building, deploying and operationalizing large scale AI models and applications.
+ Expertise in generative models, LLMs or multi-modal systems, preferably used in application areas such as sustainability or related environmental problems.
+ Strong programming skills in Python and experience with deep learning frameworks such as TensorFlow or PyTorch.
+ Ability to communicate effectively across multiple teams and organizations within the company.
+ Experience with publications at top-tier peer-reviewed conferences or journals.
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $179,000/year in our lowest geographic market up to $309,400/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.
+
+
+Company - Amazon.com Services LLC
+
+Job ID: A2673669

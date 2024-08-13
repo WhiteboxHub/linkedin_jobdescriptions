@@ -1,0 +1,32 @@
+About the job
+Job Details
+
+Description
+
+Location: Remote (US-only) Employment:
+
+Contract/Part-Time - Approximately 20 hours to start.
+
+Who we are: Swap.com was founded in 2012 as an online consignment store. The company now operates with over a million units of inventory and has partnerships with large resellers across the country for decentralized item adding and fulfillment. We are a team of highly motivated individuals that thrive on creating technical solutions for the logistical and e-commerce spaces. Our goal is to develop the Swap.com marketplace by offering tailored and unique solutions for our customers, resellers, and partners.
+
+ What we offer: We offer a great technology platform, experienced team, and the opportunity to help solve an interesting and complicated problem. A flexible working environment with room for autonomy and development within the company. You will be working with a range of talented individuals with broad backgrounds ranging from experienced back-end developers, to experts in the wholesale, retail, marketing, and e-commerce industry. We are a solution oriented business with a flat management structure which provides room to learn outside of your key focus area. What you’ll be doing:
+
+ Working with various team members to create cohesive user experiences across multiple web-based applications.
+ Providing guidance to the team on current UX trends and how they can be applied to our solutions.
+
+What We Really Need
+
+ Experience with JavaScript frameworks such as Vue.js, React, Angular.
+ An understanding of CSS preprocessors such as Sass or Less.
+ Experience consuming RESTful or GraphQL API’s
+ You’ve worked on E-commerce or CMS platforms and have a grasp of what works best
+ Experience using source control tools such as Git (that’s what we use), SVN or TFS.
+ You can navigate project management tools such as Kanban boards to manage your day to day efforts.
+
+It Would Be Extra Cool If
+
+ Some backend experience, such as creating API’s in Node.js or Python, against SQL or NoSQL.
+ Experience with warehousing software such as Warehouse Management, Enterprise Resource Planning or Order Management systems.
+ Experience with CI/CD tools such as GitHub Actions, Azure DevOps and CircleCi.
+
+If you feel like you’re a good fit for this role, please contact us at careers@swap.com. We are an Equal Opportunity Employer and do not discriminate against applicants due to race, ethnicity, gender, status, or on the basis of disability or any other federal, state, or local protected class.

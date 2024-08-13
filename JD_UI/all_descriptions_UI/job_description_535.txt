@@ -1,0 +1,16 @@
+About the job
+Front End Angular
+
+Remote - EST working hours
+
+6-12+ Months Contract
+
+Requirement
+
+Angular developer with version 12 and above
+HTML
+CSS
+Write UI Test cases (Test driven development)
+Should have Knowledge on version control/Git
+Should have Javascript knowledge
+UI Development (Jasmine) - Must have

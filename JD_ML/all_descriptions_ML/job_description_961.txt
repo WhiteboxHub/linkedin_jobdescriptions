@@ -1,0 +1,28 @@
+About the job
+US Citizenship & security clearance are legally required for this position.
+
+We are looking for a detail-oriented and experienced UiPath Business Analyst to join our team. In this role, you will be responsible for analyzing business processes, identifying automation opportunities, and working closely with stakeholders to design and implement UiPath solutions. You will bridge the gap between business needs and technical implementation, ensuring that our automation projects deliver maximum value.
+
+Key Responsibilities:
+Analyze business processes to identify opportunities for automation using UiPath.
+Collaborate with stakeholders to gather and document requirements for automation projects.
+Develop detailed process documentation, including process maps, business requirements, and use cases.
+Work closely with UiPath developers to translate business requirements into technical solutions.
+Conduct feasibility studies and impact analyses for potential automation projects.
+Assist in the design, testing, and deployment of UiPath automation solutions.
+Provide training and support to end-users and stakeholders on UiPath solutions.
+Continuously monitor and evaluate the effectiveness of implemented automation solutions.
+Stay updated with the latest UiPath features, tools, and best practices
+
+Qualifications:
+Bachelor’s degree in Business Administration, Information Technology, or a related field.
+Proven experience as a Business Analyst, with a focus on RPA (Robotic Process Automation) and UiPath.
+UiPath Certification
+Strong understanding of business process analysis and optimization techniques.
+Knowledge of UiPath platform components and RPA best practices.
+Excellent analytical, problem-solving, and critical-thinking skills.
+Strong communication and interpersonal abilities.
+Proficiency in creating process documentation and business requirements.
+US Citizenship & security clearance are legally required for this position.
+
+Join our team and play a crucial role in transforming our business processes through innovative UiPath automation solutions. Apply now to help us achieve operational excellence and drive efficiency!

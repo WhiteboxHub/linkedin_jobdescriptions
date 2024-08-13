@@ -1,0 +1,31 @@
+About the job
+Responsibilities
+
+Kforce has a client that is seeking an UI Developer (90% FE/10% BE)-PI in Westlake, TX. Responsibilities:
+
+ Help us build the web user experience and the underlying platforms needed to support our digital presence
+ Work on building end to end features as part of our autonomous, cross functional teams
+ You'll have the opportunity to contribute to own entire features from concept to deployment working on cross-functional teams
+ You'll have the opportunity to contribute ideas to improve our products as well as develop your skills, learn new technologies and languages, and continue to learn
+
+Requirements
+
+ 5+ years professional experience as a Web/UI developer
+ Experience working with any JavaScript frameworks such as NodeJS, ReactJS, AngularJS, and HTML and CSS
+ CICD using tools such as Jenkins; Experience with REST service and UI integration using JSON and AJAX a must
+ Comfortable with Visual Design & Rapid Prototyping
+ Expert at one IDE of choice (VS Code, WebStorm)
+ Node.js frameworks NPM, Express
+ Automation Tools/Frameworks (Mocha, Jasmine, Selenium, Protractor)
+ Advanced Git skills
+ API Design & Development, Microservices Architecture
+
+The pay range is the lowest to highest compensation we reasonably in good faith believe we would pay at posting for this role. We may ultimately pay more or less than this range. Employee pay is based on factors like relevant education, qualifications, certifications, experience, skills, seniority, location, performance, union contract and business needs. This range may be modified in the future.
+
+We offer comprehensive benefits including medical/dental/vision insurance, HSA, FSA, 401(k), and life, disability & ADD insurance to eligible employees. Salaried personnel receive paid time off. Hourly employees are not eligible for paid time off unless required by law. Hourly employees on a Service Contract Act project are eligible for paid sick leave.
+
+Note: Pay is not considered compensation until it is earned, vested and determinable. The amount and availability of any compensation remains in Kforce's sole discretion unless and until paid and may be modified in its discretion consistent with the law.
+
+This job is not eligible for bonuses, incentives or commissions.
+
+Kforce is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.

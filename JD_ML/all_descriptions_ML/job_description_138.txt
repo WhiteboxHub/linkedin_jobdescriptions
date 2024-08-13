@@ -1,0 +1,42 @@
+About the job
+The Alliance for Securing Democracy at GMF, a nonpartisan, transatlantic initiative, develops comprehensive strategies for government, the private sector, and civil society to defend against, deter, and raise the costs on autocratic efforts to undermine democracy and democratic institutions. ASD works to publicly document and expose these actors’ efforts to subvert democracy in the United States, in Europe, and around the world.
+
+Job Summary
+
+The OSINT analyst will work with ASD’s information manipulation team to contribute to groundbreaking research in the fields of social media manipulation, state-backed propaganda, and online information operations. In consultation with the team lead, the analyst will be given wide latitude to create their own work plan, lead open-source investigations, and develop innovative new products; as such, the analyst must have demonstrable experience leading or substantively contributing to open-source and/or data-driven research. In addition, the analyst will have a strong understanding of the methods and tools—including those developed by ASD—used to collect and analyze social media data and be able to use those tools to produce impactful analytic products on a regular basis. While this position does not require advanced data science or technical skills, ideal candidates will have at least a basic understanding of statistical software (for example, R or Python), database languages (for example, SQL), and/or social media monitoring tools (for example, CrowdTangle) that will allow them to contribute to the creation of new tools and methods to combat information threats. Preference will also be given to those with a specialized skillset, including but not limited to visual forensics, geospatial analysis, financial crime investigations, and/or regional/linguistic expertise.
+
+Essential Duties/Responsibilities
+
+Distill meaning from large, complex data sets to produce impactful analytic reports. 
+Use digital methods to conduct open-source research and investigations. 
+Design and execute innovative new approaches to combat emerging information threats. Create concept notes and other proposals to pitch new ideas to funders and external partners. 
+Assist ASD colleagues, journalists, and other external partners with research requests. 
+Help ASD's data analyst maintain the integrity of ASD's data and the accuracy of ASD's tools. 
+Liaise with external partners and other industry professionals to learn new skills and techniques and to conduct landscape reviews of existing tools, research, and methodologies relevant to online information operations and digital disinformation. 
+Work with the information manipulation team lead and across ASD to identify national security threats in the information domain and to devise legislative and other policy proposals. 
+Represent ASD at conferences, roundtables, and other external events. 
+
+Knowledge And Skills Needed
+
+2+ years of professional experience in data analysis or open-source intelligence.
+Deep knowledge of search services and social media platforms, including alternative platforms and, preferably, non-English language information environments.
+Experience leading or contributing to OSINT research and investigations.
+Foreign language skills strongly preferred, with a preference for Russian, Chinese, or Arabic.
+Strong research, statistical, analytical, and writing skills.
+An investigatory mindset and demonstrable experience using digital methods to solve problems.
+Interest in state-backed propaganda and disinformation.
+Basic understanding of statistical software and database languages.
+Experience working with Power BI and Azure is a plus.
+Excellent interpersonal skills, collaborative, and mission oriented.
+
+Education
+
+Bachelor's degree in related field required; Master's degree preferred 
+Preference for candidates that have completed specialized OSINT trainings or workshops, including those offered by Bellingcat, DFRlab, Mandiant, or other professional or academic certificate courses 
+2+ years of professional experience in data analysis or open-source intelligence 
+
+Salary: $55,412 - $69265
+
+We highly encourage individuals from underrepresented backgrounds to apply. Historically, underrepresented groups include (but are not limited to) Black, Latinx/o/a/e, Indigenous, Asian, Arab, Middle Eastern, Pacific Islander, biracial, multiracial, female-identifying, the disability community, LGBTQIA+, and other marginalized identities.
+
+Don’t meet every single requirement? Studies have shown that women and people of color are less likely to apply to jobs unless they meet every single qualification. At GMF we are dedicated to building a diverse and authentic workplace, so if you are excited about this role, but your experience does not align perfectly, we encourage you to apply. You may just be the right candidate for this or other roles at GMF.

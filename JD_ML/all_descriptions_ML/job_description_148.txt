@@ -1,0 +1,36 @@
+About the job
+Department Profile:
+
+The IM Technology team partners with Investment Management businesses to develop and implement innovative data-driven solutions. The team is responsible for ensuring the integrity, accuracy, and efficiency of investment data across the enterprise.
+
+Position Overview:
+
+We are seeking a Senior Data Analyst to join our growing IM Technology team. In this role, you will leverage your strong analytical skills and expertise in data manipulation and visualization tools to support the development and implementation of data-driven solutions for Investment Management. You will work closely with business partners, data engineers, and software developers to identify data needs, develop data models, and create insightful reports and dashboards using Power BI.
+
+Responsibilities:
+
+ Partner with business stakeholders to understand their data needs and translate them into actionable data models and queries. 
+ Respond to ad-hoc requests from business and technology stakeholders in a timely and accurate manner. 
+ Write complex SQL queries to extract, transform, and load (ETL) data from various sources. 
+ Develop and maintain data pipelines to ensure the timely and accurate delivery of data. 
+ Build interactive dashboards and reports using Power BI to visualize complex data sets and communicate insights to stakeholders. 
+ Perform data analysis to identify trends and patterns, and support investment decision-making. 
+ Stay up-to-date on the latest data analysis tools and technologies, including but not limited to Python and DataIKU (experience with DataIKU a plus). 
+ Document data models, queries, and reports to ensure clarity and maintainability. 
+ Collaborate effectively with team members across different disciplines and time-zones
+
+Qualifications:
+
+ Bachelor's degree in a quantitative field such as Mathematics, Statistics, Computer Science, Engineering or a related field. 
+ 6-10 years of experience as a Data Analyst or similar role. 
+ Strong analytical skills with the ability to identify trends and patterns in data. 
+ Proven experience with SQL for data extraction, transformation, and loading. 
+ Expertise in Power BI for creating interactive dashboards and reports. 
+ Experience with Python and Spark for data analysis
+ Experience with DataIKU (a plus). 
+ Excellent communication and collaboration skills. 
+ Ability to work independently and as part of a team. 
+
+Spruce Technology, Inc. is a mid-size, award-winning (Inc 5000, SmartCEO, Entrepreneur of the Year) technology services firm with a steadily growing portfolio of commercial and government clients. Spruce provides innovative technology solutions, specialized IT staff, and IT strategy consulting nationwide. Spruce maintains partnerships with major technology vendors and continually develops leading-edge offerings in service areas such as digital experience, data services, application development, infrastructure, cyber security, and IT staffing.
+
+Spruce Technology, Inc. is an affirmative action and equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, disability, age, sexual orientation, gender identity, national origin, veteran status, or genetic information. Consistent with the Americans with Disabilities Act, it is the policy of Spruce Technology, Inc. to provide reasonable accommodation when requested by a qualified applicant or employee with a disability, unless such accommodation would cause an undue hardship. The policy regarding requests for reasonable accommodation applies to all aspects of employment, including the application process.

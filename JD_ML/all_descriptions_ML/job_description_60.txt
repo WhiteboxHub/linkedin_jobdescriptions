@@ -1,0 +1,40 @@
+About the job
+Description
+
+Are you interested in building high-performance and globally scalable reporting and analytics infrastructure that support Amazon's Global Real Estate and Facilities (GREF) organization’s current and future growth? Are you seeking an environment where you can drive innovation leveraging the scalability and innovation with Amazon's AWS cloud services? Do you have a passion for ensuring a positive customer experience? This is the opportunity for you.
+
+In Finance Automation, we built technology to simplify and automate the processes Amazon uses to manage its financial relationships with external stakeholders. We are on a journey to create technology that simplifies the processes that Amazon uses to procure, collect and pay. We recently formed a new GREF Technology team which is the software development team for GREF. This team builds products and tools to enable Amazon’s corporate real estate team as they build and operate the company’s facilities worldwide.
+
+The GREF Tech team is looking for a passionate, solution-oriented Data Engineer to lead the implementation of the analytical data infrastructure that will guide the decision making behind initiatives such as space planning, design and construction, corporate security, travel, transportation, lease, facilities, and other key projects within the Global Real Estate and Facilities (GREF) domain.
+
+The team is committed to building the next generation reporting and analytics platform to support Amazon's rapidly growing workforce and improve employee experience. Our projects span multiple organizations and require coordination of data integrity, test design, analysis, validation, and documentation.
+
+ You will act as the business-facing subject matter expert for data storage and feature instrumentation, with the responsibility of managing end-to-end execution and delivery across various work streams.
+ You will help drive data architecture across many large datasets, perform exploratory data analysis, implement new data pipelines that feed into or from critical data systems at Amazon.
+ You will be responsible for designing and implementing scalable ETL processes in the AWS platform to support the rapidly growing and dynamic business demand for data, and use it to deliver the data as service which will have an immediate influence on day-to-day decision making and strategic initiatives.
+ You will hold a highly visible role that requires interaction with leaders across Finance Automation and GREF.
+ You will provide technical leadership on high-impact cross-functional initiatives
+
+Basic Qualifications
+
+ 3+ years of data engineering experience
+ Experience with data modeling, warehousing and building ETL pipelines
+ Experience with SQL
+ Experience in at least one modern scripting or programming language, such as Python, Java, Scala, or NodeJS
+ Experience building/operating highly available, distributed systems of data extraction, ingestion, and processing of large data sets
+
+Preferred Qualifications
+
+ Experience with big data technologies such as: Hadoop, Hive, Spark, EMR
+ Experience as a data engineer or related specialty (e.g., software engineer, business intelligence engineer, data scientist) with a track record of manipulating, processing, and extracting value from large datasets
+ Experience working on and delivering end to end projects independently
+ Experience providing technical leadership and mentoring other engineers for best practices on data engineering
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $118,900/year in our lowest geographic market up to $205,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.
+
+
+Company - Amazon.com Services LLC
+
+Job ID: A2614927

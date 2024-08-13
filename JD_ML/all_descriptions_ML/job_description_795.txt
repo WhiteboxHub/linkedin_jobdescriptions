@@ -1,0 +1,45 @@
+About the job
+This job is sourced from a job board. Learn More
+Databricks Certified Associate Developer for Apache Spark
+
+Python Institute Certified Associate in Python Programming Cloudera CDP Data Analyst
+
+Machine LearningPython LLM
+
+Job Descripton:
+
+Have experience in developing productionlevel Gen AI solutions by utilizing Azure OpenAI Google services Familiar with prompt engineering retrievalaugmented generation and finetuning of opensource LLMs
+
+Collaborate with data scientists and data engineers to build productionlevel models and pipelines including any required preprocessing of input datasets and postprocessing after model inference
+
+Develop and Deploy advanced Generative AI large language models Azure OpenAI Google Machine Learning and Deep Learning Modelsalgorithms to enhance andor automate existing business processes with predictive and intelligent decision making content aggregation and contextualized insights
+
+Processing cleansing and verifying the integrity of structured and unstructured business data used for analysis
+
+Analyze large amount of information to discover underlying trends and patterns that are relevant for solving business problems Select features and perform proper data transformation to optimize datasets for building the models
+
+Evaluate visualize and communicate the AIML model results and correlation with business KPIs
+
+Continuously optimize the existing AIML operations and help build effective model performance monitoring and improvement framework to proactively identify problemsissues before business impact
+
+Benefits/perks listed below may vary depending on the nature of your employment with LTIMindtree (“LTIM”):
+
+Benefits and Perks:
+
+Comprehensive Medical Plan Covering Medical, Dental, Vision
+
+Short Term and Long-Term Disability Coverage
+
+401(k) Plan with Company match
+
+Life Insurance
+
+Vacation Time, Sick Leave, Paid Holidays
+
+Paid Paternity and Maternity Leave
+
+The range displayed on each job posting reflects the minimum and maximum salary target for the position across all US locations. Within the range, individual pay is determined by work location and job level and additional factors including job-related skills, experience, and relevant education or training. Depending on the position offered, other forms of compensation may be provided as part of overall compensation like an annual performance-based bonus, sales incentive pay and other forms of bonus or variable compensation.
+
+Disclaimer: The compensation and benefits information provided herein is accurate as of the date of this posting.
+
+LTIMindtree is an equal opportunity employer that is committed to diversity in the workplace. Our employment decisions are made without regard to race, color, creed, religion, sex (including pregnancy, childbirth or related medical conditions), gender identity or expression, national origin, ancestry, age, family-care status, veteran status, marital status, civil union status, domestic partnership status, military service, handicap or disability or history of handicap or disability, genetic information, atypical hereditary cellular or blood trait, union affiliation, affectional or sexual orientation or preference, or any other characteristic protected by applicable federal, state, or local law, except where such considerations are bona fide occupational qualifications permitted by law.

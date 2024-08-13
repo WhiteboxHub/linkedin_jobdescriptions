@@ -1,0 +1,22 @@
+About the job
+Roles & Responsibilities
+
+Creating new services with the help of your team.
+
+Develop, release, and maintain services developed by the team.
+
+Work on full-stack software projects alongside product owners.
+
+Develop dashboards and monitors to verify services are working correctly.
+
+Debug and test code to make sure it meets its required functionality.
+
+Experience in frontend technologies such as ReactJS, NodeJS, JQuery, Angular, CSS and related frameworks.
+
+DB Knowledge: PostGres, Oracle etc
+
+Experience with Java, SpringBoot
+
+Experience with Unit Tests
+Desired Skills and Experience
+Java , React JS , CSS

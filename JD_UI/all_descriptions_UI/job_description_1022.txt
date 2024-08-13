@@ -1,0 +1,14 @@
+About the job
+Job Description:
+ 
+ Pay Range: $65hr - $70hr
+ 
+ Requirement: 
+ Design, develop, and maintain responsive and interactive web applications using React and Java. 
+ CollaboXX with back-end developers to integXX front-end components with server-side logic. 
+ Create reusable and modular UI components to ensure consistency and efficiency across the application. 
+ Write clean, maintainable code and adhere to best practices in front-end development. 
+ Optimize application performance to ensure fast load times and smooth user experiences. 
+ Participate in code reviews, provide constructive feedback, and contribute to the continuous improvement of the development process. 
+ Bachelor’s degree in Computer Science, Software Engineering, or a related field, or equivalent experience. 
+ Experience in front-end development with a strong focus on React and Java.

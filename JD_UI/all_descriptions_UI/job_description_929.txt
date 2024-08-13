@@ -1,0 +1,38 @@
+About the job
+Position: UI Path Developer
+
+ Location: Charlotte, NC Hybrid 
+
+ Job Type: 6 Mon Contract to Hire
+
+What You'll Do
+
+Client is looking for an Sr. RPA Developer to join our brilliant enterprise application team. As a Sr. RPA Developer, you will play a crucial role in designing, developing, implementing, and maintaining automations using UiPath. You will collaborate closely with stakeholders to analyze business processes, identify automation opportunities, and deliver efficient and effective automation solutions that streamline workflows and enhance productivity. The ideal candidate will have a passion for innovation, strong collaboration skills, and a customer-focused approach.
+
+Major Responsibility
+
+ Design, develop, and implement automation solutions using the UiPath platform, adhering to best practices and coding standards
+ Support existing automations including any enhancements or bug-fixes.
+ Lead the development and deployment of UiPath robots, workflows, and automation processes
+ Conduct thorough testing of automation solutions to ensure accuracy, reliability, and performance
+ Provide technical guidance and support to junior developers and project team members
+ Collaborate with cross-functional teams including business analysts, project managers, and IT support staff to deliver successful automation projects
+ Stay up to date on the latest UiPath features, tools, and technologies, and evaluate their potential for implementation
+ Participate in code reviews, documentation, and knowledge-sharing sessions to ensure high-quality deliverables and maintainable solutions
+
+Who You Are
+
+ Bachelor's Degree in a technical discipline (or equivalent work experience)
+ UiPath Advanced Developer Certified
+ Proven experience as a UiPath Developer, with at least 5 years of experience in designing, developing, and implementing automation solutions using the UiPath platform
+ Proven experience with any of the following UiPath modules:
+ Document Understanding
+ Process Mining / Task Mining
+ Test Suite/Manager
+ GenAI
+ Solid understanding of RPA (Robotic Process Automation) concepts, principles, and best practices
+ Excellent problem-solving skills and attention to detail
+ Strong analytical and communication skills, with the ability to effectively interact with stakeholders at all levels
+ Ability to work independently and as part of a team in a fast-paced environment
+ Experience with Agile development methodologies (Scrum, Kanban)
+ Curious about new technologies and excited to find ways to implement them in the day to day
