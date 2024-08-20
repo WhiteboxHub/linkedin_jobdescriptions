@@ -1,7 +1,0 @@
-About the job
-As a Web Accessibility Specialist, you will be responsible for evaluating websites against WCAG 2.2 standards. You will utilize both automated testing tools and manual testing methods, including screen readers (JAWS, NVDA, VoiceOver) and common browser extensions like Axe, WAVE, and Accessibility Insights. Your role will involve performing thorough manual testing using these assistive technologies to identify accessibility issues. You will document your findings in detailed reports, including steps to reproduce issues, comprehensive descriptions, and severity levels, while providing actionable recommendations for remediation.
-
-In this position, you will collaborate closely with development teams to explain your findings and suggest strategies for fixing accessibility issues. Staying updated on current accessibility standards and best practices is essential. Additionally, you will continuously refine auditing processes and methodologies, and participate in ongoing accessibility training and education to keep your skills current.
-
-Ideal Certifications:
-IAAP or DHS, WAS, CPACC

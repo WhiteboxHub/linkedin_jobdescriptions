@@ -1,6 +1,0 @@
-About the job
-Have you ever wanted to work for a company that is out to make a difference in the world? I mean _really_ make a difference? To literally save lives.
-
-Our client, Skinio (https://skinio.com/), a rapidly expanding AI-based technology firm focused on early detection skin cancer solutions, seeks a talented Machine Learning Engineer to join their close-knit team (this is a remote role). If you have proven experience in machine learning frameworks such as TensorFlow and PyTorch, as well as proficiency in computer vision techniques (developing, training, and deploying) and libraries like OpenCV and Dlib, this might be the position for you. Python programming skills and a strong Visual AI background will definitely get you noticed. Entrepreneurial personalities will fit in nicely here. A competitive compensation package, including equity, is being offered.
-
-Getting in at the ground level of a company with leading-edge technology is one of those unique opportunities that doesn’t come up very often. If your skill set matches what we are looking for and your mindset is one where your passion can help us make skin cancer detection as simple as opening an app, please forward your resume.

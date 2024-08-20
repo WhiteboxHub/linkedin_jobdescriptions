@@ -1,8 +1,0 @@
-About the job
-A tenured and up to date proficiency in JavaScript, preferably with the ReactJS framework.
-Strong understanding of testing (unit, integration, e2e) and type checking tools including Jest/RTL/Typescript
-Familiarity with various styling methodologies including CSS and CSS in JS libraries
-Ability to communicate effectively with non-technical stakeholders
-Understanding of automated testing using Cypress/Cucumber/Gherkin
-Understanding of micro frontend and microservices architecture
-Understanding of modern build tools such as Vite, micro bundler, parcel

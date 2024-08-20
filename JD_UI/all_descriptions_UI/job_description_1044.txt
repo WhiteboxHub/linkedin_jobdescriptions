@@ -1,9 +1,0 @@
-About the job
-Birlasoft combines the power of domain, enterprise, and digital technologies to reimagine business processes for customers and their ecosystem. Its consultative and design thinking approach makes societies more productive by helping customers run businesses. As part of the multibillion-dollar diversified CK Birla Group, Birlasoft with its 12,500+ professionals, is committed to continuing the Group’s 162-year heritage of building sustainable communities.
-
-we are looking for React Frontend Developer with Azure candidates, who can work from Remote. 
-this is fulltime role. 
-5+ Years of experience in React technologies including typescript, graphql and MUI
-Relevant experience with associated web technologies like Angular and Google Design Framework
-Involved in consuming and publishing SOAP and RESTFUL web services
-Domain expertise of cloud infrastructure solutions (Azure preferred)

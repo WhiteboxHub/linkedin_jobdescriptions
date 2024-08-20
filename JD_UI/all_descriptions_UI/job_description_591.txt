@@ -1,2 +1,0 @@
-About the job
-Perform front end development for an exciting Gen AI project, using ReactJS within a NextJS Framework.

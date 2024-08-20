@@ -1,30 +1,28 @@
 [
+    
     {
-        "keyword": "ML OPS",
-        "location": "San Francisco, CA"
-    },
-    {
-        "keyword": "ML engineer",
+        "keyword": "senior machine learning",
         "location": "USA"
     },
     {
-        "keyword": "Data Engineer",
+        "keyword": "AI engineering",
         "location": "USA"
     },
     {
-        "keyword": "Data Analyst",
+        "keyword": "Data Science",
         "location": "USA"
     },
     {
-        "keyword": "Data Science Engineer",
+        "keyword": "ML engineering",
         "location": "USA"
     },
     {
-        "keyword": "Natural language processing",
+        "keyword": "ML ops",
         "location": "USA"
     },
+    
     {
-        "keyword": "Machine learning",
+        "keyword": "computer vision",
         "location": "USA"
     }
 ]

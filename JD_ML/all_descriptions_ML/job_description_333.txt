@@ -1,5 +1,0 @@
-About the job
-Required Skills:-
-Need a Senior Data Engineer with GCP experience
-Experience in Google internal tools – specifically PLX API ETL processes
-Should know how to setup API connections between PLX and an external API
